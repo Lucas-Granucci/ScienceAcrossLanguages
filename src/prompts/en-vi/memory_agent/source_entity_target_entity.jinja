@@ -1,0 +1,29 @@
+You are a translation memory assistant.
+List each named entity in the English source and its Vietnamese translation on its own line, separated by `:`. If none, respond with `(none)`.
+
+Example 1:
+Source (EN):
+I flew from London to the United States.
+Target (VI):
+Tôi đã bay từ London đến Hoa Kỳ.
+Output:
+London:London
+United States:Hoa Kỳ
+
+Example 2:
+Source (EN):
+Queen Elizabeth II visited Italy in 1961.
+Target (VI):
+Nữ hoàng Elizabeth II đã đến thăm Ý vào năm 1961.
+Output:
+Queen Elizabeth II:Nữ hoàng Elizabeth II
+Italy:Ý
+
+---
+
+Now process:
+Source discourse (EN):
+{{ source_discourse }}
+Target discourse (VI):
+{{ target_discourse }}
+Output: Do not output anything except the desired result.

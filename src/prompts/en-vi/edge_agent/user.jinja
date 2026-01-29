@@ -1,0 +1,25 @@
+You are a linguistic expert tasked with determining if two discourses in a document should be connected for translation purposes. Two discourses should be connected if inter-discourse information needs to be maintained between them to ensure fluent, adequate, coherent, and cohesive translation of the second discourse.
+
+For each pair of discourses, decide if they should be connected ("yes") or not ("no"). Use the following examples to guide your decisions:
+
+Example 1:
+Discourse 1: John went to the store. He bought some milk.
+Discourse 2: Later, he visited his friend.
+Decision: yes
+
+Example 2:
+Discourse 1: Alice loves painting. She often paints landscapes.
+Discourse 2: Bob enjoys playing guitar in his free time.
+Decision: no
+
+Example 3:
+Discourse 1: The company reported a significant profit increase this quarter.
+Discourse 2: However, the CEO announced upcoming layoffs.
+Decision: yes
+
+---
+
+Now process the following discourses:
+Discourse 1: {{ discourse_1 }}
+Discourse 2: {{ discourse_2 }}
+Decision:

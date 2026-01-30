@@ -6,10 +6,8 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 from agents import (
-    DiscourseAgent,
-    EdgeAgent,
+    DependencyGraphAgent,
     MemoryAgent,
-    PlannerAgent,
     TranslationAgent,
 )
 from graph.state import GraphState
@@ -37,8 +35,6 @@ def parse_document(document: str) -> Tuple[str, List[str]]:
 
 def main():
     load_dotenv()
-    # client = OpenAI(api_key=os.getenv("OPENAI_APIKEY"))
-    # model_name = "gpt-5-nano-2025-08-07"
 
     processing_client = OpenAI(base_url="http://localhost:11434/v1", api_key="ollama")
     processing_model_name = "qwen2.5:7b-instruct"
@@ -51,21 +47,13 @@ def main():
     language_pair = "en-vi"
 
     # Initialize agents
-    discourse_agent = DiscourseAgent(
+    planner_agent = DependencyGraphAgent(
         processing_client,
         processing_model_name,
         source_lang,
         target_lang,
         language_pair,
     )
-    edge_agent = EdgeAgent(
-        processing_client,
-        processing_model_name,
-        source_lang,
-        target_lang,
-        language_pair,
-    )
-    planner_agent = PlannerAgent(discourse_agent, edge_agent)
     memory_agent = MemoryAgent(processing_client, processing_model_name, language_pair)
 
     translation_agent = TranslationAgent(

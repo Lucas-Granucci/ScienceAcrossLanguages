@@ -1,5 +1,9 @@
-from .discourse import DiscourseAgent
-from .edge import EdgeAgent
+from .dependency_graph import DependencyGraphAgent
 from .memory import MemoryAgent
-from .planner import PlannerAgent
 from .translation import TranslationAgent
+
+__all__ = [
+    "DependencyGraphAgent",
+    "MemoryAgent",
+    "TranslationAgent",
+]

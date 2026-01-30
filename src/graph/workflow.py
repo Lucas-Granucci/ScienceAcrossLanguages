@@ -3,7 +3,7 @@ from typing import List
 
 from langgraph.graph import END, StateGraph
 
-from agents import MemoryAgent, PlannerAgent, TranslationAgent
+from agents import DependencyGraphAgent, MemoryAgent, TranslationAgent
 from graph.state import DiscourseUnit, GraphState
 
 
@@ -14,7 +14,7 @@ def document_to_sentences(document: str) -> List[str]:
 
 
 def create_translation_graph(
-    planner_agent: PlannerAgent,
+    dependency_graph_agent: DependencyGraphAgent,
     memory_agent: MemoryAgent,
     translation_agent: TranslationAgent,
     # terminology_agent: TerminologyAgent,
@@ -24,7 +24,7 @@ def create_translation_graph(
     # --- Node Definitions ---
     def planner_node(state: GraphState):
         sentences = document_to_sentences(state["source_document"])
-        discourses, edges = planner_agent.plan(sentences)
+        discourses, edges = dependency_graph_agent.generate_dependency_graph(sentences)
 
         discourse_units = [
             DiscourseUnit(
@@ -95,7 +95,6 @@ def create_translation_graph(
         return {"final_document": full_doc}
 
     # --- Conditional Logic ---
-
     def check_done(state: GraphState):
         if state["current_index"] < len(state["discourses"]):
             return "process_segment"

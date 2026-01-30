@@ -1,10 +1,10 @@
-import os
 from dataclasses import dataclass
 from typing import Any, Dict, List, Optional, Type
 
-from jinja2 import Environment, FileSystemLoader
 from openai import OpenAI
 from pydantic import BaseModel
+
+from utils import get_prompt_environment
 
 
 @dataclass
@@ -64,12 +64,7 @@ class MemoryAgent:
         self.memory: Dict[str, Any] = {}
 
     def _load_prompts(self, language_pair: str):
-        env = Environment(
-            loader=FileSystemLoader(
-                os.path.join(os.path.dirname(__file__), f"../prompts/{language_pair}")
-            )
-        )
-
+        env = get_prompt_environment(language_pair)
         self.prompts = {
             component.name: env.get_template(f"memory_agent/{component.name}.jinja")
             for component in self.components

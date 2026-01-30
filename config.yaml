@@ -1,0 +1,15 @@
+processing:
+  base_url: "http://localhost:11434/v1"
+  api_key: "ollama"
+  model_name: "qwen2.5:7b-instruct"
+
+translation:
+  model_name: "gpt-5-mini"
+
+languages:
+  source: "English"
+  target: "Vietnamese"
+  pair: "en-vi"
+
+data:
+  input_file: "data/en-vi/0.en"

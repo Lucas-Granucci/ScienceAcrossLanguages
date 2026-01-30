@@ -1,9 +1,9 @@
-import os
 from typing import List
 
-from jinja2 import Environment, FileSystemLoader
 from openai import OpenAI
 from pydantic import BaseModel
+
+from utils import get_prompt_environment
 
 
 class DiscourseDecision(BaseModel):
@@ -26,11 +26,7 @@ class DiscourseAgent:
         self.source_lang = source_lang
         self.target_lang = target_lang
         self.language_pair = language_pair
-        env = Environment(
-            loader=FileSystemLoader(
-                os.path.join(os.path.dirname(__file__), f"../prompts/{language_pair}")
-            )
-        )
+        env = get_prompt_environment(language_pair)
         self.user_prompt_template = env.get_template("discourse_agent/user.jinja")
 
     def __call__(self, document_sentences: List[str]) -> List[str]:
@@ -47,14 +43,12 @@ class DiscourseAgent:
                         discourse=" ".join(discourse),
                         next_sentence=sentences[discourse_end_idx],
                     )
-                    print("Getting discourse response...")
                     response = self.client.beta.chat.completions.parse(
                         model=self.model_name,
                         messages=[{"role": "user", "content": prompt}],
                         response_format=DiscourseDecision,
                     )
                     result = response.choices[0].message.parsed
-                    print("discourse_message: ", result.decision)
                     if result.decision:
                         discourse.append(sentences[discourse_end_idx])
                         discourse_end_idx += 1

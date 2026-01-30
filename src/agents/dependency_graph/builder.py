@@ -25,9 +25,6 @@ class DependencyGraphAgent:
     def generate_dependency_graph(
         self, document_sentences: List[str]
     ) -> Tuple[List[str], List[Tuple[int, int]]]:
-        print("Generating discourses...")
         discourses = self.discourse_agent(document_sentences)
-
-        print("Generating edges...")
         edges = self.edge_agent(discourses)
         return discourses, edges

@@ -1,9 +1,9 @@
 import json
-import os
 from typing import Dict, List, Optional
 
-from jinja2 import Environment, FileSystemLoader
 from openai import OpenAI
+
+from utils import get_prompt_environment
 
 
 class TranslationAgent:
@@ -19,11 +19,7 @@ class TranslationAgent:
         self.model_name = model_name
         self.source_lang = source_lang
         self.target_lang = target_lang
-        env = Environment(
-            loader=FileSystemLoader(
-                os.path.join(os.path.dirname(__file__), f"../prompts/{language_pair}")
-            )
-        )
+        env = get_prompt_environment(language_pair)
         self.user_prompt_template = env.get_template("translation_agent/user.jinja")
 
     def translate(
@@ -33,7 +29,6 @@ class TranslationAgent:
         terminology: Optional[Dict[str, str]] = None,
         rag_snippets: Optional[List[str]] = None,
     ) -> str:
-        print("translating discourse")
         # Prepare context strings for the prompt
         terminology_str = (
             json.dumps(terminology, indent=2, ensure_ascii=False)

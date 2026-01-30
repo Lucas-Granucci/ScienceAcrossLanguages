@@ -1,16 +1,8 @@
-import re
-from typing import List
-
 from langgraph.graph import END, StateGraph
 
 from agents import DependencyGraphAgent, MemoryAgent, TranslationAgent
 from graph.state import DiscourseUnit, GraphState
-
-
-def document_to_sentences(document: str) -> List[str]:
-    sentences = re.split(r"(?<=[.!?])\s+(?=[A-Z])|(?<=[.!?])$", document)
-    sentences = [sentence.strip() for sentence in sentences if sentence.strip()]
-    return sentences
+from utils import document_to_sentences
 
 
 def create_translation_graph(
@@ -88,7 +80,7 @@ def create_translation_graph(
     def increment_node(state: GraphState):
         return {"current_index": state["current_index"] + 1}
 
-    def reviwer_node(state: GraphState):
+    def reviewer_node(state: GraphState):
         translations = [d["target_text"] for d in state["discourses"]]
         translations = list(filter(None, translations))
         full_doc = " ".join(translations)
@@ -110,7 +102,7 @@ def create_translation_graph(
     workflow.add_node("rag", rag_node)
     workflow.add_node("translate", translation_node)
     workflow.add_node("next_segment", increment_node)
-    workflow.add_node("reviwer", reviwer_node)
+    workflow.add_node("reviewer", reviewer_node)
 
     # Entry
     workflow.set_entry_point("planner")
@@ -128,8 +120,8 @@ def create_translation_graph(
     workflow.add_conditional_edges(
         "next_segment",
         check_done,
-        {"process_segment": "prepare_memory", "finalize": "reviwer"},
+        {"process_segment": "prepare_memory", "finalize": "reviewer"},
     )
 
-    workflow.add_edge("reviwer", END)
+    workflow.add_edge("reviewer", END)
     return workflow.compile()

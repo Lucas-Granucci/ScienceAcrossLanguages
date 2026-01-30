@@ -1,9 +1,9 @@
-import os
 from typing import List, Tuple
 
-from jinja2 import Environment, FileSystemLoader
 from openai import OpenAI
 from pydantic import BaseModel
+
+from utils import get_prompt_environment
 
 
 class EdgeDecision(BaseModel):
@@ -26,11 +26,7 @@ class EdgeAgent:
         self.source_lang = source_lang
         self.target_lang = target_lang
         self.language_pair = language_pair
-        env = Environment(
-            loader=FileSystemLoader(
-                os.path.join(os.path.dirname(__file__), f"../prompts/{language_pair}")
-            )
-        )
+        env = get_prompt_environment(language_pair)
         self.user_prompt_template = env.get_template("edge_agent/user.jinja")
 
     def __call__(self, discourses: List[str]) -> List[Tuple[int, int]]:
@@ -55,11 +51,9 @@ class EdgeAgent:
                     )
                     result = response.choices[0].message.parsed
                     if result:
-                        print("edge message: ", result.decision)
                         if result.decision:
                             edges.append((uid, vid))
-                    else:
-                        print("No resposne idk why")
+
                 except Exception as e:
                     print(f"Error during edge generation: {e}")
         return edges

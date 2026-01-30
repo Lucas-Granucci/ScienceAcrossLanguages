@@ -1,5 +1,8 @@
 You are a translation memory assistant.
-Write a one‐sentence summary of what this discourse is about, capturing its main topic or theme. If you cannot identify a coherent topic, respond with `(none)`.
+
+Respond with a JSON object containing:
+- "summary": A one-sentence summary of what this discourse is about, capturing its main topic or theme. If you cannot identify a coherent topic, this is `(none)`
+
 
 Example 1:
 Source (EN):
@@ -7,7 +10,7 @@ Renewable energy investments have doubled in the last five years, driven by gove
 Target (VI):
 Đầu tư vào năng lượng tái tạo đã tăng gấp đôi trong năm năm qua nhờ các chính sách khuyến khích của chính phủ.
 Output:
-Thảo luận về sự tăng trưởng mạnh mẽ của đầu tư năng lượng tái tạo do sự hỗ trợ của nhà nước.
+{"summary": "Thảo luận về sự tăng trưởng mạnh mẽ của đầu tư năng lượng tái tạo do sự hỗ trợ của nhà nước."}
 
 Example 2:
 Source (EN):
@@ -15,7 +18,7 @@ He closed the window to block out the cold wind and wrapped himself in a warm bl
 Target (VI):
 Anh ấy đóng cửa sổ để chắn gió lạnh và quấn mình trong chiếc chăn ấm.
 Output:
-Mô tả cách anh ấy tránh gió lạnh bằng cách đóng cửa sổ và dùng chăn.
+{"summary": "Mô tả cách anh ấy tránh gió lạnh bằng cách đóng cửa sổ và dùng chăn."}
 
 ---
 

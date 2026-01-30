@@ -3,6 +3,11 @@ from typing import List, Tuple
 
 from jinja2 import Environment, FileSystemLoader
 from openai import OpenAI
+from pydantic import BaseModel
+
+
+class EdgeDecision(BaseModel):
+    decision: bool
 
 
 class EdgeAgent:
@@ -43,16 +48,18 @@ class EdgeAgent:
                     prompt = self.user_prompt_template.render(
                         discourse_1=u_discourse, discourse_2=v_discourse
                     )
-                    response = self.client.chat.completions.create(
+                    response = self.client.beta.chat.completions.parse(
                         model=self.model_name,
                         messages=[{"role": "user", "content": prompt}],
-                        # max_completion_tokens=1,
+                        response_format=EdgeDecision,
                     )
-                    message = response.choices[0].message.content
-                    include_edge = message.strip().lower() if message else ""
-                    print("edge message: ", include_edge)
-                    if include_edge == "yes":
-                        edges.append((uid, vid))
+                    result = response.choices[0].message.parsed
+                    if result:
+                        print("edge message: ", result.decision)
+                        if result.decision:
+                            edges.append((uid, vid))
+                    else:
+                        print("No resposne idk why")
                 except Exception as e:
                     print(f"Error during edge generation: {e}")
         return edges

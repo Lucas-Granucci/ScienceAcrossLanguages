@@ -1,17 +1,19 @@
 You are a translation memory assistant.
-Does this Vietnamese discourse end with a connective like “nhưng”, “tuy nhiên”, or “vì vậy”? If yes, output it; otherwise output `(none)`.
+
+Respond with a JSON object containing:
+- "connective": If this Vietnamese discourse end with a connective like “nhưng”, “tuy nhiên”, or “vì vậy”, write here; otherwise `(none)`.
 
 Example 1:
 Target discourse (VI):
 Anh ấy đã mệt. Tuy nhiên, anh ấy vẫn tiếp tục làm việc.
 Output:
-tuy nhiên
+{"connective": "tuy nhiên"}
 
 Example 2:
 Target discourse (VI):
 Cô ấy đi về nhà.
 Output:
-(none)
+{"connective": "(none)"}
 
 ---
 

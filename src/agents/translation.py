@@ -1,6 +1,6 @@
 import json
 import os
-from typing import Dict
+from typing import Dict, List, Optional
 
 from jinja2 import Environment, FileSystemLoader
 from openai import OpenAI
@@ -26,10 +26,27 @@ class TranslationAgent:
         )
         self.user_prompt_template = env.get_template("translation_agent/user.jinja")
 
-    def translate(self, discourse: str, memory: Dict[str, str]) -> str:
+    def translate(
+        self,
+        discourse: str,
+        memory: Dict[str, str],
+        terminology: Optional[Dict[str, str]] = None,
+        rag_snippets: Optional[List[str]] = None,
+    ) -> str:
+        print("translating discourse")
+        # Prepare context strings for the prompt
+        terminology_str = (
+            json.dumps(terminology, indent=2, ensure_ascii=False)
+            if terminology
+            else "{}"
+        )
+        rag_str = "\n".join(rag_snippets) if rag_snippets else ""
+
         prompt = self.user_prompt_template.render(
             incident_memory=json.dumps(memory, indent=2, ensure_ascii=False),
             source_discourse=discourse,
+            terminology=terminology_str,
+            rag_context=rag_str,
         )
 
         try:

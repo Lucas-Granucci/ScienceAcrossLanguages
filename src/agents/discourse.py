@@ -3,6 +3,11 @@ from typing import List
 
 from jinja2 import Environment, FileSystemLoader
 from openai import OpenAI
+from pydantic import BaseModel
+
+
+class DiscourseDecision(BaseModel):
+    decision: bool
 
 
 class DiscourseAgent:
@@ -43,16 +48,14 @@ class DiscourseAgent:
                         next_sentence=sentences[discourse_end_idx],
                     )
                     print("Getting discourse response...")
-                    response = self.client.chat.completions.create(
+                    response = self.client.beta.chat.completions.parse(
                         model=self.model_name,
                         messages=[{"role": "user", "content": prompt}],
-                        # max_completion_tokens=1,
+                        response_format=DiscourseDecision,
                     )
-                    include_sentence = (
-                        response.choices[0].message.content.strip().lower()
-                    )
-                    print("discourse_message: ", include_sentence)
-                    if include_sentence == "yes":
+                    result = response.choices[0].message.parsed
+                    print("discourse_message: ", result.decision)
+                    if result.decision:
                         discourse.append(sentences[discourse_end_idx])
                         discourse_end_idx += 1
                     else:

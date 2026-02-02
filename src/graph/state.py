@@ -15,8 +15,6 @@ class DiscourseUnit(TypedDict):
 
 class GraphState(TypedDict):
     source_document: str
-    source_lang: str
-    target_lang: str
     language_pair: str
 
     # Graph structure

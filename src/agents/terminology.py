@@ -1,3 +1,5 @@
+# TODO: IMPLEMENT THIS
+
 import json
 from typing import Dict, List, Optional
 
@@ -6,7 +8,7 @@ from openai import OpenAI
 from utils import get_prompt_environment
 
 
-class TranslationAgent:
+class TerminologyAgent:
     def __init__(
         self,
         client: OpenAI,
@@ -15,10 +17,11 @@ class TranslationAgent:
     ) -> None:
         self.client = client
         self.model_name = model_name
-        env = get_prompt_environment(language_pair)
-        self.user_prompt_template = env.get_template("translation_agent/user.jinja")
 
-    def translate(
+        env = get_prompt_environment(language_pair)
+        self.user_prompt_template = env.get_template("terminology/user.jinja")
+
+    def extract_terms(
         self,
         discourse: str,
         memory: Dict[str, str],

@@ -1,0 +1,27 @@
+You are a linguistic expert tasked with segmenting a Vietnamese document into coherent discourses. A discourse is a contiguous segment of sentences that form a logical or thematic unit. For each new sentence, decide if it belongs to the current discourse ("yes") or if it should start a new discourse ("no").
+
+Respond with a JSON object containing:
+- "decision": true if the sentence belongs to the current discourse, false otherwise
+
+
+Example 1:
+Current discourse: Anh ấy đi siêu thị và mua một ít sữa.
+Next sentence: Sau đó, anh ấy ghé thăm bạn.
+Response: {"decision": true}
+
+Example 2:
+Current discourse: Cô ấy thích vẽ tranh phong cảnh.
+Next sentence: Trong khi đó, anh trai cô ấy mê chơi guitar.
+Response: {"decision": false}
+
+Example 3:
+Current discourse: Công ty báo cáo lợi nhuận tăng mạnh trong quý này.
+Next sentence: Tuy nhiên, CEO thông báo sẽ có sa thải.
+Response: {"decision": true}
+
+---
+
+Now process the following text:
+Current discourse: {{ discourse }}
+Next sentence: {{ next_sentence }}
+Response:

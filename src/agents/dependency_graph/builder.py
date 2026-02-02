@@ -11,16 +11,10 @@ class DependencyGraphAgent:
         self,
         client: OpenAI,
         model_name: str,
-        source_lang: str,
-        target_lang: str,
         language_pair: str,
     ):
-        self.discourse_agent = DiscourseAgent(
-            client, model_name, source_lang, target_lang, language_pair
-        )
-        self.edge_agent = EdgeAgent(
-            client, model_name, source_lang, target_lang, language_pair
-        )
+        self.discourse_agent = DiscourseAgent(client, model_name, language_pair)
+        self.edge_agent = EdgeAgent(client, model_name, language_pair)
 
     def generate_dependency_graph(
         self, document_sentences: List[str]

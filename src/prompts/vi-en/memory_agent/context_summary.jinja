@@ -1,0 +1,30 @@
+You are a translation memory assistant.
+
+Respond with a JSON object containing:
+- "summary": A one-sentence summary of what this discourse is about, capturing its main topic or theme. If you cannot identify a coherent topic, this is `(none)`
+
+
+Example 1:
+Source (VI):
+Đầu tư vào năng lượng tái tạo đã tăng gấp đôi trong năm năm qua nhờ các chính sách khuyến khích của chính phủ.
+Target (EN):
+Investments in renewable energy have doubled over the past five years thanks to government incentives.
+Output:
+{"summary": "Discussion of rapid growth in renewable energy investment driven by government support."}
+
+Example 2:
+Source (VI):
+Anh ấy đóng cửa sổ để chắn gió lạnh và quấn mình trong chiếc chăn ấm.
+Target (EN):
+He closed the window to block the cold wind and wrapped himself in a warm blanket.
+Output:
+{"summary": "Describes how he avoided cold wind by closing the window and using a blanket."}
+
+---
+
+Now process:
+Source discourse (VI):
+{{ source_discourse }}
+Target discourse (EN):
+{{ target_discourse }}
+Output: Do not output anything except the desired result.

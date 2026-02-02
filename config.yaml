@@ -7,9 +7,24 @@ translation:
   model_name: "gpt-5-mini"
 
 languages:
-  source: "English"
-  target: "Vietnamese"
-  pair: "en-vi"
+  en-vi:
+    source: "English"
+    target: "Vietnamese"
+    source_code: "en"
+    target_code: "vi"
 
 data:
-  input_file: "data/en-vi/0.en"
+  root: "data"
+  unprocessed_dir: "unprocessed"
+  processed_dir: "processed"
+  backtranslated_dir: "backtranslated"
+  translation_dir: "translation"
+  input_file: "en-vi/0.en"
+
+presets:
+  base:
+    modules: []
+  term_only:
+    modules: [terminology]
+  rag_and_term:
+    modules: [terminology, rag]

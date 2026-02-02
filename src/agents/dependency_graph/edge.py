@@ -15,16 +15,12 @@ class EdgeAgent:
         self,
         client: OpenAI,
         model_name: str,
-        source_lang: str,
-        target_lang: str,
         language_pair: str,
         max_discourse_length: int = 2048,
     ) -> None:
         self.client = client
         self.model_name = model_name
         self.max_discourse_length = max_discourse_length
-        self.source_lang = source_lang
-        self.target_lang = target_lang
         self.language_pair = language_pair
         env = get_prompt_environment(language_pair)
         self.user_prompt_template = env.get_template("edge_agent/user.jinja")

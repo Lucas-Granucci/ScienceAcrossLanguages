@@ -1,7 +1,7 @@
 import asyncio
 from tqdm import tqdm
 from googletrans import Translator
-from utils import document_to_sentences, normalize_punctuation
+from utils import document_to_sentences
 
 
 async def translate_and_write_batches(
@@ -33,7 +33,6 @@ def gtranslate_document(
 ):
     with open(source_file_path, "r", encoding="utf-8") as f:
         source_text = f.read()
-    source_text = normalize_punctuation(source_text)
     sentences = document_to_sentences(source_text)
 
     asyncio.run(

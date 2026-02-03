@@ -2,7 +2,7 @@ from typing import List
 
 from openai import OpenAI
 from pydantic import BaseModel
-
+from tqdm import tqdm
 from utils import get_prompt_environment
 
 
@@ -29,30 +29,36 @@ class DiscourseAgent:
         discourses = []
         curr_sent_idx = 0
         sentences = document_sentences
-        while curr_sent_idx < len(sentences):
-            discourse = [sentences[curr_sent_idx]]
-            discourse_end_idx = curr_sent_idx + 1
 
-            while discourse_end_idx < len(sentences):
-                try:
-                    prompt = self.user_prompt_template.render(
-                        discourse=" ".join(discourse),
-                        next_sentence=sentences[discourse_end_idx],
-                    )
-                    response = self.client.beta.chat.completions.parse(
-                        model=self.model_name,
-                        messages=[{"role": "user", "content": prompt}],
-                        response_format=DiscourseDecision,
-                    )
-                    result = response.choices[0].message.parsed
-                    if result.decision:
-                        discourse.append(sentences[discourse_end_idx])
-                        discourse_end_idx += 1
-                    else:
+        with tqdm(
+            total=len(sentences), desc="Segmenting document", unit="sent"
+        ) as pbar:
+            while curr_sent_idx < len(sentences):
+                discourse = [sentences[curr_sent_idx]]
+                discourse_end_idx = curr_sent_idx + 1
+
+                while discourse_end_idx < len(sentences):
+                    try:
+                        prompt = self.user_prompt_template.render(
+                            discourse=" ".join(discourse),
+                            next_sentence=sentences[discourse_end_idx],
+                        )
+                        response = self.client.beta.chat.completions.parse(
+                            model=self.model_name,
+                            messages=[{"role": "user", "content": prompt}],
+                            response_format=DiscourseDecision,
+                        )
+                        result = response.choices[0].message.parsed
+                        if result.decision:
+                            discourse.append(sentences[discourse_end_idx])
+                            discourse_end_idx += 1
+                        else:
+                            break
+                    except Exception as e:
+                        print(f"Error during segmentation: {e}")
                         break
-                except Exception as e:
-                    print(f"Error during segmentation: {e}")
-                    break
-            discourses.append(" ".join(discourse))
-            curr_sent_idx = discourse_end_idx
+                discourses.append(" ".join(discourse))
+                sentences_processed = discourse_end_idx - curr_sent_idx
+                pbar.update(sentences_processed)
+                curr_sent_idx = discourse_end_idx
         return discourses

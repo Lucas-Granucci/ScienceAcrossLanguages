@@ -1,17 +1,13 @@
 import os
 
 from dotenv import load_dotenv
-from utils import load_config, normalize_punctuation
+from utils import load_config, normalize_text
 from graph.pipeline import build_translation_pipeline
 
 
 def main():
     load_dotenv()
     config = load_config()
-
-    # Load data
-    with open(config["data"]["input_file"], "r", encoding="utf-8") as fp:
-        document_source = normalize_punctuation(fp.read())
 
     # app, initial_state = build_translation_pipeline(document_source, config)
 

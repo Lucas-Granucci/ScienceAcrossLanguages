@@ -2,7 +2,7 @@
 
 Install:
 python3.11 -m venv .venv
-uv pip install openai langgraph pandas selenium tqdm lingua-language-detector requests python-dotenv jinja2 pyyaml pymupdf4llm sonar-space googletrans pymupdf-layout
+uv pip install openai langgraph pandas selenium tqdm lingua-language-detector requests python-dotenv jinja2 pyyaml pymupdf4llm sonar-space googletrans pymupdf-layout nltk
 
 ## **Project Summary**
 
@@ -37,7 +37,8 @@ High-level overview:
 
 1. Download scientific/academic articles from OpenAlex database as PDFs
 2. Convert downloaded PDFs to markdown, preserving document format and images
-3. Clean up documents by removing artifacts and select examples (how?)
+3. Clean up documents by removing artifacts and select examples
+4. Backtranslate into English using GRAFT: Graph-based flow-aware agentic framework for document lelve machine translation
 
 ### Baseline comparison
 
@@ -105,14 +106,13 @@ Final reviwer agent (additional module)
 ### Evaluation
 
 Lack of parallel scientific document corpora in low-resource languages necessitates reference-free evaluation methods.
+To remedy this, source documents will be back-translated into English, effectively creating a pseudo-parallel document-level corpus.
+Translation will use a SOTA Graph-Based flow-aware agentic framework with SOTA LLMs. 
 
-Reference-free evaluation:
-
-- Cross-lingual embedding (LASER or LaBSE) similarity between source and target document embeddings
-- Facebook sonar BLASER eval
-- [COMET-QE](https://aclanthology.org/2022.findings-emnlp.348/) can provide an additional data-point for translation accuracy (biased towards fluency over grammar however, limited language coverage)
-- MetricxQE (google version of COMET-QE)
-- [GEMBA](https://github.com/MicrosoftTranslator/GEMBA)
+Metrics
+- COMET
+- chrF++
+- SONAR/LaBSE Cosine Similarity
 
 Gold-standard:
 
@@ -122,6 +122,6 @@ Gold-standard:
 
 Evaluate effectiveness of translation pipeline in different configurations, including but not limited to the following:
 
-- Terminology agent + RAG agent + final reviwer
-- Terminolgy agent + RAG agent
-- Terminology agent + final reviwer
+- Terminology agent + RAG agent
+- Terminology agent
+- Base model

@@ -1,5 +1,3 @@
-import logging
-
 from agents import (
     DependencyGraphAgent,
     MemoryAgent,
@@ -10,7 +8,6 @@ from agents import (
 from langgraph.graph import END, StateGraph
 from graph.state import DiscourseUnit, GraphState
 from utils import document_to_sentences
-from graph.state import DiscourseUnit, GraphState
 
 
 class GraphBuilder:
@@ -24,10 +21,6 @@ class GraphBuilder:
         self.memory_agent = memory_agent
         self.translation_agent = translation_agent
         self.modules: list[dict] = []
-        self.logger = logging.getLogger(__name__)
-
-    def _log(self, message: str) -> None:
-        self.logger.info(message)
 
     def with_terminology(
         self, terminology_agent: TerminologyAgent, position="before:translate"
@@ -66,10 +59,8 @@ class GraphBuilder:
     # ---- Node factories ----
     def _dependency_graph_node(self):
         dep_agent = self.dep_agent
-        log = self._log
 
         def node(state: GraphState):
-            log("dependency_graph: building dependency graph")
             sentences = document_to_sentences(state["source_document"])
             discourses, edges = dep_agent.generate_dependency_graph(sentences)
 
@@ -86,7 +77,7 @@ class GraphBuilder:
                 for i, txt in enumerate(discourses)
             ]
 
-            log(
+            print(
                 f"dependency_graph: created {len(discourse_units)} discourses and {len(edges)} edges"
             )
             return {"discourses": discourse_units, "edges": edges, "current_index": 0}
@@ -95,7 +86,6 @@ class GraphBuilder:
 
     def _prepare_memory_node(self):
         memory_agent = self.memory_agent
-        log = self._log
 
         def node(state: GraphState):
             idx = state["current_index"]
@@ -107,27 +97,27 @@ class GraphBuilder:
 
             # Update discourse
             state["discourses"][idx]["incident_memory"] = incident_memory
-            log(f"prepare_memory: idx={idx}, incident_count={len(incident_indices)}")
             return {"discourses": state["discourses"]}
 
         return node
 
     def _terminology_node(self, terminology_agent: TerminologyAgent):
-        log = self._log
-
         def node(state: GraphState):
-            # TODO: Adjust based on agent
-            log(f"terminology: idx={state['current_index']}")
+            idx = state["current_index"]
+            discourse = state["discourses"][idx]
+
+            terms_and_translations = terminology_agent.extract_terms(
+                discourse, state["language_pair"][:2]
+            )
+            print("Terms: ", terms_and_translations)
+            state["discourses"][idx]["terminology_context"] = terms_and_translations
             return {"discourses": state["discourses"]}
 
         return node
 
     def _rag_node(self, rag_agent: RAGAgent):
-        log = self._log
-
         def node(state: GraphState):
             # TODO: Adjust based on agent
-            log(f"rag: idx={state['current_index']}")
             return {"discourses": state["discourses"]}
 
         return node
@@ -135,7 +125,6 @@ class GraphBuilder:
     def _translate_node(self):
         translation_agent = self.translation_agent
         memory_agent = self.memory_agent
-        log = self._log
 
         def node(state: GraphState):
             idx = state["current_index"]
@@ -156,21 +145,20 @@ class GraphBuilder:
             state["discourses"][idx]["local_memory"] = local_mem
             memory_agent.reset_memory()
 
-            log(
-                f"translate: completed segment {idx + 1}/{len(state['discourses'])}"
-            )
+            if (idx + 1) % 10 == 0:
+                print(
+                    f"translate: completed segment {idx + 1}/{len(state['discourses'])}"
+                )
             return {"discourses": state["discourses"]}
 
         return node
 
     def _finalize_node(self):
-        log = self._log
-
         def node(state: GraphState):
             translations = [d["target_text"] for d in state["discourses"]]
             translations = list(filter(None, translations))
             full_doc = " ".join(translations)
-            log(f"finalize: concatenated {len(translations)} segments")
+            print(f"finalize: concatenated {len(translations)} segments")
             return {"final_document": full_doc}
 
         return node
@@ -218,8 +206,6 @@ class GraphBuilder:
             workflow.add_edge(src, dest)
 
         # Conditional branching
-        loop_start = "prepare_memory"
-
         def check_done(state: GraphState):
             if state["current_index"] < len(state["discourses"]):
                 return "process_segment"

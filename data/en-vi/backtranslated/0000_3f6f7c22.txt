@@ -1,0 +1,445 @@
+HO CHI MINH CITY UNIVERSITY OF EDUCATION JOURNAL OF SCIENCE
+TẠP CHÍ KHOA HỌC TRƯỜNG ĐẠI HỌC SƯ PHẠM TP HỒ CHÍ MINH
+Website: https://journal.hcmue.edu.vn https://doi.org/10.54607/hcmue.js.19.8.3408(2022)
+Research article*
+DEVELOP AND STANDARDIZE A STEM COMPETENCY ASSESSMENT TOOL FOR HIGH SCHOOL STUDENTS IN HO CHI MINH CITY
+Ta Thanh Trung, Tran Thi Xuan Quynh, Nguyen Phuong Uyen, Nguyen Thanh Nga*
+Ho Chi Minh City University of Education, Vietnam
+*Corresponding author: Nguyen Thanh Nga – Email: nganthanh@hcmue.edu.vn
+Received: March 31, 2022; Revised: April 4, 2022; Accepted: April 5, 2022
+ABSTRACT
+Currently, competency assessment is a prevailing trend in global education evaluation.
+Accordingly, the construction and standardization of competency assessment tools are receiving special attention from educators.
+For STEM education, a standardized STEM competency assessment tool that is applicable in practice plays an important role in shaping future development directions.
+This study aims to develop and standardize a STEM competency assessment tool for high school students in Ho Chi Minh City as they engage in STEM-oriented education.
+To ensure the reliability and validity of the tool, the research process was rigorously implemented in three stages: question design, scale development, and scale evaluation.
+Quantitative analysis results indicate that the tool is reliable, valid, and suitable for assessing the STEM competency of local students.
+Thus, this tool serves as a means for students to self-assess their own competencies or can become a competency framework supporting teachers to develop other assessment tools during the STEM-oriented learning process.
+Keywords: CB-SEM; competency assessment; high school students; STEM competency
+1.
+Introduction
+In recent years, along with the transition of educational programs toward a competency-based approach, assessment in education has shown a general trend of shifting from evaluating the reproduction of knowledge to assessing learners' competencies (Shulman, 2008).
+Competency assessment not only provides objective comments and conclusions regarding students' learning and training processes and outcomes, but also focuses on identifying strengths and limitations within their competency structures.
+This offers both qualitative and quantitative feedback on the effectiveness of students’ learning and teachers’ instruction.
+Through this, students can find reasonable adjustment strategies to improve their own learning quality, or teachers can identify measures to help students continually make progress and develop necessary competencies and qualities to prepare for future needs.
+Cite this article as: Ta Thanh Trung, Tran Thi Xuan Quynh, Nguyen Phuong Uyen, & Nguyen Thanh Nga (2022).
+Develop and standardize a STEM competency assessment tool for high school students in Ho Chi Minh City.
+Ho Chi Minh City University of Education Journal of Science, 19(8), 1255-1270.
+Ho Chi Minh City University of Education Journal of Science Ta Thanh Trung and co-authors
+adapt to the fluctuations of the world, contributing to ensuring the set educational objectives.
+The Resolution of the Eighth Plenum of the Central Executive Committee of the Party (11th tenure) states: “Examinations, testing, and assessment of educational outcomes must be carried out step by step according to advanced criteria that are trusted and recognized by society and the global educational community.
+The results of formative assessments during the learning process should be coordinated with those of end-of-term and end-of-year assessments; teachers’ assessments should be combined with students’ self-assessment; and evaluations by schools should be integrated with those by families and society” (General Secretary, 2013).
+Thus, it can be concluded that assessment activities, or competency-based assessment, are not solely the responsibility of the teacher, but also require the integration of self-assessment and self-monitoring of learners' own competency development.
+For STEM education, the role of student competency assessment is increasingly emphasized as tools for evaluating and measuring students’ STEM competencies are considered essential for improving the quality of STEM education by providing feedback on the effectiveness of each learning phase (Arikan, Erktin, & Pesen, 2020).
+However, accurately assessing human competencies in general and students’ competencies in particular is not easy; it requires a rigorous research process to ensure both reliability and validity—key factors reflecting the quality of the measurement scale (Baartman et al., 2006).
+Therefore, educational researchers worldwide are continuously striving to integrate both qualitative and quantitative research methods in the process of developing competency assessment tools.
+In Vietnam, most tools for assessing students' competencies in STEM-oriented education are constructed based on theoretical frameworks inherited from international studies, and have yet to be standardized or adjusted to align with the characteristics and level of STEM education implementation in practice, backed by empirical data.
+This has resulted in difficulties when synchronizing assessments or selecting appropriate tools to evaluate either outcomes or the learning processes of students in STEM-oriented education.
+Thus, the development and standardization of STEM competency assessment tools that ensure reliability, validity, and suitability to the level of STEM education implementation in each locality in Vietnam is necessary.
+For this reason, we undertook the development and standardization of a STEM competency assessment tool for high school students in Ho Chi Minh City.
+Through literature review, in-depth interviews with experts, and statistical analysis of data collected from 544 high school students who participated in local STEM lessons, the research has produced a STEM competency assessment tool that meets the standards of reliability, validity, and suitability for the target population.
+2.
+Subjects and Research Methods
+2.1.
+Assessing Students’ Competencies with a Standardized Assessment Tool
+2.1.1.
+Assessing Students Using a Competency-Based Approach
+Assessing learners’ competencies is a crucial process aimed at guiding the competency development of students.
+Here, competency is understood as a personal attribute formed and developed through inherent qualities as well as through learning and practice.
+It enables individuals to mobilize a synthesis of knowledge, skills, and other personal attributes such as interests, beliefs, willpower, etc., to successfully carry out certain types of activities and achieve desired results under specific conditions (MOET, 2018).
+In terms of structure, competency can be modeled as a system composed of components, including competency elements, sub-competencies, and behavioral indicators manifested throughout the learning process (Binh, 2015).
+Competency components are related to the professional field that constitutes the competency.
+From here, the sub-competencies are extracted from the overall competency and bear distinguishing features from the relevant subject areas.
+Both of these components are latent factors that cannot be directly assessed but must be deduced through the manifestations of a set of corresponding behavioral indicators, over a certain period.
+Behavioral indicators are data providing information about competencies to serve for ongoing evaluation throughout the learning process.
+Behaviors exhibited externally through activities such as writing, speaking, or creating are the basis for measurement to determine the extent to which competencies have been achieved.
+Thus, the essence of assessing students' competencies is the process of testing and measuring the degree to which competencies are attained when students successfully perform tasks or solve problems during their learning process, through collecting and analyzing the observable behavioral manifestations of students (Baartman et al., 2006).
+Figure 1.
+The structural model of a component competency The assessment results help teachers identify the strengths and limitations in students' competencies, thereby providing guidance to support students in learning and fostering their competencies.
+In addition, competency assessment impacts the deeper cognitive levels of students, stimulates learning motivation, forms good habits, nurtures passion, helps them recognize their own value, and thus orients them toward self-training and self-improvement.
+Developing and standardizing a competency framework has become an essential criterion for assessing students' competencies.
+Teachers can use this framework to design checklists, rubrics, and tests for competency assessment, as well as to formulate lesson plans that foster and develop students' competencies.
+Additionally, students can rely on the competency framework to create their own plans for self-monitoring and self-improvement.
+2.1.2.
+Criteria for Reliability and Validity of Standardized Competency Assessment Tools
+According to the positivist school, validity and reliability are two fundamental cognitive tools and serve as the basic criteria for standardizing an assessment tool, such as a STEM competency assessment tool (Winter, 2000).
+Specifically, the validity of a measurement tool refers to its accuracy in measuring the intended object.
+For an assessment tool to be valid, it must satisfy the following criteria: content validity, measurement validity, and construct validity.
+Content validity reflects the accuracy of the tool's content expression.
+Thus, a measurement tool needs to be standardized in terms of content through clear, focused, and concise wording, and to effectively refine its content, the tool should be reviewed for presentation by field experts using the Delphi method.
+Measurement validity is determined by convergent validity and discriminant validity.
+Convergent validity indicates the degree of correlation among measurement variables (behavioral indicators) within the same component.
+Discriminant validity reflects the distinction between each of these components and other components within the competency structure.
+In quantitative research on competency assessment tools, convergent validity is determined by the level of correlation between behavioral indicators, while discriminant validity is tested by assessing whether the components of competency are truly distinct from one another.
+Construct validity relates to how well the tool measures concepts, behaviors, ideas, and qualities defined by the theoretical framework.
+In competency assessment, through validity testing of the construct, researchers can model the theoretical structure, accept, modify, or propose a new structure that aligns with quantitative results.
+On the other hand, to define the concept of reliability, Joppe (2000) stated: “The extent to which results are consistent over time and represent an accurate depiction of the total population under study is referred to as reliability.
+If research results can be reproduced under a similar methodological approach, the measurement tool is considered reliable.” Thus, the reliability of a competency assessment tool is the degree of its stability.
+The reliability of a scale must meet the following criteria: stability, equivalence, and internal consistency.
+The stability of a competency assessment tool is demonstrated by its ability to provide stable results over time across equivalent samples; in other words, if a scale is tested on groups with the same characteristics at appropriate intervals, the results should be similar.
+Specifically, to verify the stability of a competency assessment tool, a preliminary survey with a small sample and a large-scale survey should be conducted to eliminate unsuitable variables.
+The equivalence of a measurement tool is checked with groups of experts; if every member within the expert group shares the same opinion about the tool, it ensures equivalence.
+The tool's equivalence is verified by seeking expert input; variables with high consensus are retained, while those with divergent opinions are considered for refinement.
+Internal consistency requires that the subgroups within the sample measured by the tool yield consistent results.
+The sample is divided into smaller groups encompassing all sample data; after conducting measurements on each subgroup, the results must coincide—if inconsistencies are found, they must be reviewed for adjustment.
+2.2.
+Students' STEM competencies 2.2.1.
+The Concept of STEM Competency
+Journal of Science, Ho Chi Minh City University of Education, Vol.
+19, No.
+8 (2022): 1255-1270
+STEM education is an interdisciplinary approach that enables students to apply knowledge from science, technology, engineering, and mathematics to solve real-world problems in specific contexts (MOET, 2018).
+To evaluate the impact of this educational model on students, Boon Ng (2019) conducted research on students’ STEM competencies within the framework of both STEM-related and non-STEM subjects (such as language, culture, literature, etc.).
+The study found that when learning STEM subjects, students exhibited behavioral manifestations characteristic of science, technology, engineering, and mathematics domains (Boon Ng, 2019).
+During the learning process, students approach tasks in the way scientists, mathematicians, and engineers solve problems and conduct research.
+Students actively explore knowledge through investigative, analytical, and synthesizing activities, applying knowledge to serve learning purposes.
+When participating in STEM lessons, students examine and identify issues related to real-life situations.
+Drawing on the knowledge and skills they have accumulated, students propose and select optimal solutions and carry out technical operations to create products or models.
+Throughout the learning process, students engage in group discussions to present their ideas, contribute to lesson development, and critically defend their group’s viewpoints.
+Students share the process, results, and products of their projects with others.
+Based on the analysis, within the scope of this article, students’ STEM competency is understood as the ability to comprehensively mobilize knowledge and skills in science, technology, engineering, and mathematics to solve practical problems in specific contexts, thereby creating value for both individuals and the community.
+2.2.2.
+Theoretical Model of Students' STEM Competency
+The structure of students' STEM competency is developed based on the analysis and synthesis of recurring competency components found in 13 research studies on STEM competency frameworks worldwide.
+The STEM competency structure consists of five components:
+Component 1.
+Information Collection Competency
+The information collection competency is understood as the ability to identify the information needed, search for information sources, and record information according to the initial needs and objectives.
+Bundy’s (2004) research indicates that the information collection competency enables learners to recognize the need to seek information, determine the required level of information, and access information effectively.
+Based on the SCONUL information competency structure model by Bainton (2001), the information collection competency is manifested through behaviors such as: recognizing the need to collect information, searching for information sources, developing search strategies, locating, and accessing information.
+Information collection competency can be observed through behaviors such as: listening and answering questions, observing, searching for information sources, investigating and exploring, collecting information (planning and recording data), and drawing conclusions/decisions (Boon Ng, 2019).
+Component 2.
+Processing and Using Information
+The group of behaviors related to processing and using information within STEM competencies is expressed through a combination of actions such as synthesizing data, comparing data, classifying data, managing and storing data, evaluating, and analyzing data (Boon Ng, 2019).
+The SCONUL model identifies the competency of processing and using information as being demonstrated by learners through comparing, evaluating information, organizing, and synthesizing information (Bainton, 2001).
+Bundy (2004) identified the behaviors corresponding to the information processing group as including: evaluating information sources, classifying, storing information, and using information to solve problems.
+Component 3.
+Implementing solutions The component competency of implementing solutions is the group of typical behavioral manifestations of problem-solving competency.
+Students implement solutions, design, and create products to address problems (Watkins, Spencer, & Hammer, 2014).
+English (2016) identifies several behavioral indicators related to the competency of implementing solutions, including planning, preparing tools, designing drawings, assessing feasibility, and manufacturing products.
+In addition, the study by Sen et al.
+(2018) indicates that the competency to implement solutions is manifested through behaviors such as identifying causes and shortcomings of the product, carrying out improvements, and orienting development in a new context.
+Component 4.
+Technical Safety
+The technical safety competency component is the ability manifested through students' technical skills in ensuring safety rules are followed during the process of creating products.
+This competency helps students understand the role and proper use of technical tools/equipment and pay attention to technical safety regulations in order to protect themselves and others from unfortunate accidents.
+Based on the research of Boon Ng (2019), the manifestations of the technical practice behavior group include: using equipment (identifying functions and using them correctly), maintaining equipment (preserving and ensuring safety), and calibrating tools and instruments when necessary.
+Component 5.
+Community sharing capacity
+The community sharing capacity component enables students to empathize with individuals facing difficulties, fostering motivation for them to share their learning processes, outcomes, and products with the community.
+In the STEM education framework of the New York Academy of Sciences, it is required to provide students with opportunities to clearly, accurately, and persuasively communicate, as well as to coordinate the use of multiple methods to convey ideas; furthermore, it is necessary to create an environment where students can discuss and debate STEM arguments (GSA, 2016).
+Trilling (2009) proposed several community sharing behaviors: presenting ideas in established formats (such as reports, written texts, posters, videos, etc.
+), listening to feedback and developing ideas, and identifying the purpose of sharing.
+2.3.
+Research Methodology
+The study adopts the procedure of Boateng et al.
+(2018), which consists of three stages: item design, scale development, and scale evaluation.
+2.3.1.
+Item Design Stage
+In the item design stage, based on theoretical research, the student STEM competency assessment tool comprises five components: Information Collection (TT), Processing and Using Information (XS), Implementing Solutions (TH), Technical Safety (SD), and Information Sharing (CS).
+Accordingly, the initial questionnaire consisted of 15 Likert-type behavioral indicators, each including a behavioral description and a response section with five optional levels.
+The behavioral indicators were coded sequentially from A01 to A15.
+The Delphi technique was conducted with 21 STEM education experts, including 4 university lecturers from education faculties and 17 experienced STEM teachers with at least two years of STEM teaching at high schools, to refine the content validity of each behavioral description for learners.
+Descriptions deemed not to meet content validity were deleted or replaced, and unclear items were revised.
+The language was formulated to ensure appropriateness for high school students.
+The results of the scale, after qualitative research, were used to design the survey questionnaire.
+2.3.2.
+Scale Development Stage
+Next, quantitative studies on a small sample size will be conducted to preliminarily assess the scales of the research concepts.
+The evaluation criteria for the scale at this stage include reliability and validity.
+Reliability is assessed by the criteria of Cronbach’s Alpha coefficient above 0.7 and item-total correlation greater than 0.3 (Nunnally & Bernstein, 1994).
+Convergent validity of the scale is assessed through the factor loading (FL) in exploratory factor analysis (EFA), with the minimum acceptable factor loading of 0.5; if the cumulative variance percentage exceeds 50%, the scale achieves convergent validity (Gerbing & Anderson, 1988).
+In addition, for each observed variable, the difference between the maximum factor loading and other factor loadings (in absolute values) must be at least 0.3 to ensure discriminant validity (Bryant & Yarnold, 1995).
+Preliminary analyses at this stage will help reduce the number of behavioral indicators in the competency assessment tool as well as extract the number of components in the structure of students’ STEM competency.
+2.3.3.
+Scale evaluation stage
+Finally, the main study was conducted with a large-scale sample.
+The results were subjected to further evaluations of the remaining aspects of reliability and validity, as well as an assessment of the structural model's fit to the population using AMOS 24 software.
+ Assessment of Reliability, Convergent Validity, and Discriminant Validity
+Internal consistency reliability of the scale is determined based on two indices: Cronbach’s alpha and composite reliability (CR) (Devellis & Thorpe, 2021).
+The higher the Cronbach’s alpha, the greater the internal consistency reliability.
+Composite reliability ranges from 0 to 1 and is considered satisfactory when it exceeds 0.7.
+Convergent validity indicates the degree to which the indicators of a given construct converge or share a common variance, meaning that to achieve convergent validity, the set of variables measuring a research construct must have high intercorrelations (Kline, 2016).
+This is reflected in the standardized regression weights of each indicator for the latent construct if it is a unidimensional scale.
+To meet the requirement for convergent validity, the standardized loadings for the scale’s components must be greater than 0.5 and statistically significant (Gerbing & Anderson, 1988).
+Additionally, convergent validity is also assessed through the average variance extracted (AVE).
+An AVE coefficient greater than or equal to 0.5 affirms convergent validity (Hair et al., 2019).
+Discriminant validity indicates the extent to which a construct is truly distinct statistically from other constructs in terms of both correlation and measurement variables within each construct (Hair et al., 2019).
+The traditional approach to evaluating discriminant validity is the Fornell-Larcker criterion, which stipulates that the square root of AVE must be greater than the inter-construct correlations.
+Another evaluation criterion is that the correlation between two constructs should be less than 0.85, and the maximum shared variance (MSV) should be less than the AVE index (Kline, 2016).
+ Testing the goodness of fit of the students’ competency structural model
+First, the chi-square/degrees of freedom ratio (χ²/df) is an index used to assess the fit of the measurement model and is considered adequate when less than 5, and good when less than 3 (Hair et al., 2019).
+In addition, other commonly used indices according to Kline (2016) are important, including: the absolute fit index – GFI (goodness-of-fit index); the adjusted GFI by degrees of freedom in the model – AGFI (adjusted goodness-of-fit statistics); the comparative fit index – CFI; the Tucker-Lewis index – TLI; and the root mean square error of approximation – RMSEA, which determines how well the model fits the population.
+GFI, AGFI, TLI, and CFI values greater than 0.9 indicate the model is appropriate for the empirical data (Hair et al., 2019).
+An RMSEA value of up to 0.08 suggests good model fit, and RMSEA less than 0.03 indicates very good fit.
+Results and Discussion 3.1.
+Results of Content Validity Revision
+The results from the Delphi method enabled the research team to effectively gather expert opinions on the framework of high school students’ STEM competencies.
+In the first Delphi round, expert opinions showed low consensus on several indicators, specifically with a significant disparity in consensus (over 10%) between university lecturers and high school teachers for indicators A02, A03, A08, A09, A10, and A11.
+After subsequent Delphi rounds, the descriptions of the behavioral indicators in the theoretical framework of students’ STEM competencies were adjusted in terms of content according to the consensus reached by the Delphi expert panel (Figure 2).
+Figure 2.
+Level of consensus among the Delphi expert panel in the initial round (left) and the final round (right)
+Ho Chi Minh City University of Education Journal of Science, Vol.
+19, No.
+8 (2022): 1255-1270
+With the final questionnaire, the average consensus rate among experts for each behavioral indicator in every component was always 70% or higher.
+Additionally, the groups of lecturers and teachers showed similar assessments in the consensus levels for most behavioral indicators.
+However, for the behavioral indicators related to Technical Safety (A10, A11, A12), a disparity remained.
+The group of teachers considered this component necessary for assessment and believed the descriptions adequately captured its content, whereas the group of lecturers regarded these indicators as less essential.
+3.2.
+Research sample
+Regarding sample size, according to Hair et al.
+(2019), for studies utilizing SEM analysis and models with up to seven research constructs, the minimum sample size is 300.
+The study applied the cluster random sampling method to collect information from students at nine high schools, including: Luong The Vinh High School (District 1), Le Hong Phong Specialized High School (District 5), High School for the Gifted – Vietnam National University (District 5), Pham Phu Thu High School (District 6), Nam Sai Gon Secondary and High School (District 7), Nguyen Du High School (District 10), Nguyen Huu Canh High School (Binh Tan District), Gia Dinh High School (Binh Thanh District), and Hoa Sen Secondary and High School (Thu Duc City).
+The sampling process took place from December 2021 to early April 2022.
+After distributing both online and in-person questionnaires to high schools across the city, more than 887 students participated in the survey.
+After reviewing and excluding unreliable responses and students who had never participated in STEM-oriented education, a sample of 544 students was selected for analysis.
+Table 2.
+Statistical characteristics of the sample
+Characteristic Criteria Frequency Percentage
+Gender Male 252 46.3%
+Female 292 53.7%
+Grade level
+Type of school
+Public school 402 73.9%
+Specialized school 65 11.9%
+Private school 77 14.2%
+Approach to STEM education*
+- In a formal STEM lesson 163 30%
+- In a learning project or community project 99 18.2%
+- At an external center 14 2.5%
+- Online course 31 5.7%
+- Experiencing STEM spaces at school
+(product exhibitions, models, STEM applications, etc.)
+- Science playgrounds, science fairs 122 22.4%
+- Real-world experience at research institutes,
+businesses, enterprises, etc.
+- Participation in STEM clubs 51 9.4%
+- Participation in science and engineering contests (water rocket design, hand-washing machine, etc.)
+Other forms 178 32.7%
+Note: * Each student may engage in more than one form.
+Regarding the sample distribution, this sample also meets the standard for normal distribution as the mean and median are nearly equal, the absolute value of skewness is always less than 2 (the highest is |skewness (A05)| = 0.706), and the kurtosis is less than 2 (the highest is |kurtosis (A05)| = 1.076).
+Thus, this data satisfies all requirements regarding sample size and distribution for CB-SEM analysis.
+3.3.
+Preliminary Assessment of Reliability and Validity of the Scale
+Before conducting the measurement model test of students’ STEM competencies using CB-SEM, an exploratory factor analysis (EFA) was performed to condense or eliminate behavioral indicators inappropriate for the competency scale and to determine the number of competency components within the structural framework of students’ STEM competencies.
+Preliminary analysis results showed that variable A01 from the Information Collection scale and A06 from the Processing and Using Information scale had a factor loading difference between factor groups of less than 0.3, indicating that these variables did not meet the discriminant validity requirement and were therefore removed.
+In addition, the initial EFA identified three competency components instead of the original five.
+Recognizing that students’ behavioral indicators still followed the competency-based STEM education pathway, we renamed the components as follows: Information Collection and Processing (IN), Implementing Solutions and Community Sharing (PS), and Using Technical Equipment and Tools (TE).
+The behavioral indicators were also recoded accordingly: A02, A03, A04, and A05 were replaced by IN01, IN02, IN03, and IN04, respectively; A07, A08, A09, A10, A11, and A12 were replaced by PS01, PS02, PS03, PS04, PS05, and PS06, respectively; and A13, A14, and A15 were replaced by TE01, TE02, and TE03, respectively.
+Conducting EFA again with the official research sample, the results are presented in Table 3.
+Table 3.
+EFA Results for the Components in the Structural Framework of Students’ STEM Competencies
+Behavioral indicator | Factor group | Previous coding | New coding | 1 | 2 | 3
+Extracted variance | 54.884 | 9.187 | 8.365
+Cronbach’s Alpha | 0.910 | 0.840 | 0.903
+Total extracted variance = 72.436%
+Journal of Science, Ho Chi Minh City University of Education Vol.
+19, No.
+8 (2022): 1255-1270
+The results of the Cronbach’s Alpha test for the scale indicate that all scales have high reliability, with Cronbach’s Alpha coefficients > 0.8 and item-total correlation coefficients all > 0.3, so no observed variables were eliminated from the model.
+In addition, the KMO coefficient > 0.5 with Bartlett’s Sig.
+= 0.000 < 0.05 indicates that the data met the requirements for conducting factor analysis.
+Next, Principal Component Analysis was performed using Varimax (orthogonal) rotation.
+The total extracted variance values were all > 50%, meeting the requirements.
+With these results, it can be stated that the three factors IN, PS, and TE explain 72.436% of the variance in students’ STEM competency data.
+All factor loadings are greater than 0.5 and the differences between items of any two factors are above 0.3, signifying that the factors meet convergent and discriminant validity requirements in EFA.
+Thus, for the official scale, after factor analysis, these independent factors remain unchanged, with neither additional nor fewer factors than originally established.
+3.4.
+Evaluation of the structural model of students' STEM competencies using CB-SEM
+3.4.1.
+Assessment of the reliability of students' STEM competency scale
+To verify the reliability of the scale, it is necessary to assess using Cronbach’s Alpha coefficient and the composite reliability (CR) coefficient.
+The Cronbach’s Alpha results in Table 3 indicate that the scales meet the requirement for high internal consistency.
+In addition, based on Table 4, we can see that the composite reliability coefficients of all constructs are greater than 0.7, with the lowest being the IN factor at CRIN = 0.842.
+Thus, the research results show that the scales for the components in students' STEM competencies meet the reliability requirements.
+Table 4.
+Results of Reliability and Convergent Validity Evaluation of the Scale
+Factor Composite Reliability (CR) Average Variance Extracted (AVE)
+3.4.2.
+Assessment of the convergent validity of the students’ STEM competency scale
+In Table 3, the factor loading column for the convergent validity test shows the standardized loadings of the component variables for each scale.
+The average variance extracted (AVE) values also meet the required threshold, all being above 0.5, with the lowest being factor AB with AVEIN = 0.572.
+Thus, the scales meet the requirement for convergent validity.
+3.4.3.
+Assessment of the discriminant validity of the student STEM competency scale
+To assess the discriminant validity of the scale, the research results in Table 5 indicate that the scale has achieved discriminant validity because the square roots of the AVE values (bolded diagonals) are higher than the off-diagonal correlations.
+For example, the PS scale has an AVE of 0.578 (Table 4), and the square root of this value is 0.760 (Table 5).
+Thus, 0.760 is higher than both the correlation value in the same row (0.745) and in the same column (0.703).
+See Table 5.
+Correlation coefficients among the constructs
+Ho Chi Minh City University of Education Journal of Science Ta Thanh Trung et al.
+In addition, the correlation coefficients among the constructs are all less than 0.85, and the MSV ranges from 0.494 to 0.555, all of which meet the requirement of being less than the AVE of the constructs.
+Thus, the scale satisfies the requirements for discriminant validity.
+3.4.4.
+Assessment of the goodness of fit for the students’ STEM competency model
+Table 6.
+Model Fit Results
+Index Criterion Result Evaluation
+/df < 5.0 3.339 Good fit
+GFI > 0.9 0.952 Good fit
+CFI > 0.9 0.973 Good fit
+TLI > 0.9 0.953 Good fit
+RMSEA < 0.08 0.066 Good fit
+The students’ STEM competency model is represented by a second-order CB-SEM model with 58 degrees of freedom, yielding χ^2 = 193.679 and a p-value of 0.000.
+The model fit test results show that most indices meet the requirements for model fit: χ^2/df = 3.339 (< 5); TLI = 0.963 (> 0.95); CFI = 0.973 (> 0.95); GFI = 0.952 (> 0.95); RMSEA = 0.066 (< 0.08).
+This indicates that the structural model of students' STEM competencies, restructured through CB-SEM analysis, is suitable for the empirical data in Ho Chi Minh City.
+Figure 3.
+The SEM model of the structural framework of students’ STEM competencies as represented by AMOS 24
+Ho Chi Minh City University of Education Journal of Science Vol.
+19, No.
+8 (2022): 1255-1270
+Based on the path weights in the model, it can be observed that the competency components PS, IN, and TE are closely correlated with the integrated STEM competency.
+Among them, the PS component has the highest standardized coefficient at 0.88, indicating that this component holds greater significance than the others within the structural framework.
+The other components have slightly lower coefficients, but the differences are not substantial.
+3.5.
+Standardized STEM Competency Assessment Tool
+Based on the results of the structural model, the standardized assessment tool for high school students learning under the STEM education orientation is presented in Table 7.
+This tool enables students to monitor and record the development trajectory of their competencies during the learning process, thereby continuously improving and developing themselves.
+Additionally, teachers can use this tool to further describe levels of proficiency and the quality of behavioral indicators, forming an observational checklist for assessing students' competencies.
+Table 7.
+Standardized STEM Competency Assessment Tool for High School Students in Ho Chi Minh City
+Competency
+Component
+Behavioral indicator
+Description
+IN01 Information locating: Selects a variety of sources containing the information to be searched (books, newspapers, the internet, specialists, etc.).
+      
+IN02 Information collection: Recording information from the selected sources
+Information Collection
+and Processing
+Evaluating information: Assessing the quality of content and the reliability of collected sources before use
+IN04 Synthesizing information: Synthesizing all information intended to be used into one’s own understanding       
+Planning the implementation of solutions: Developing a plan for implementing solutions, which ensures steps for solution design, material preparation, task assignment, process of manufacturing, and testing, etc.
+PS02 Implementing solutions: Producing models or physical products in order to realize the proposed problem-solving solution       
+and Community
+PS03 Improving solutions: Proposing several options for improving the problem-solving solution in new contexts       
+Sharing
+PS04 Selecting a sharing method: Choosing a method to share the results of implementing solutions with the community       
+PS05 Presenting results: Presenting the results of implementing solutions in the selected sharing format       
+PS06 Defending: Responding to feedback and criticism concerning the learning product       
+Using
+Ensuring technical safety: Identifying technical information and safety criteria for each device and tool before use
+Technical Equipment
+TE02 Technical operations: Correctly performing technical procedures during the use of equipment and tools       
+and Tools
+Maintaining equipment and tools: Checking the status of equipment before and after use to minimize damage
+Journal of Science, Ho Chi Minh City University of Education, Ta Thanh Trung et al.
+Through the process of developing and standardizing the instrument, research results indicate that not every behavioral indicator is suitable for inclusion in the assessment tool.
+In addition to the behavioral indicators in the assessment tool being accurately described in qualitative terms regarding their content, they must also meet quantitative criteria for reliability and validity.
+Some assessment criteria, if derived solely from theoretical research without a quantitative verification stage, may result in evaluations that are highly subjective and may not ensure accuracy and objectivity when assessors provide results and judgments regarding learners’ competencies.
+4.
+Conclusion
+In summary, this study has developed and standardized a competency assessment tool for high school students learning under the STEM education orientation.
+After revision, the tool includes three components of STEM competency: Information Collection and Processing (IN), Implementing Solutions and Community Sharing (PS), and Using Technical Equipment and Tools (TE), which are assessed using a 7-point Likert scale.
+The higher the average score of all behavioral indicators, the better students are able to meet the requirements of STEM-oriented learning.
+Through a rigorous research process consisting of three stages—questionnaire design, scale development, and scale evaluation—the results of the CB-SEM analysis indicate that the constructed tool meets the criteria for internal consistency reliability and validity.
+ Statement of interest: The authors declare that there are no conflicts of interest.
+REFERENCES Arikan, S., Erktin, E., & Pesen, M. (2020).
+Phát triển và xác thực một khuôn khổ đánh giá năng lực STEM.
+International Journal of Science and Mathematics Education, 20(1), 1-24. doi:10.1007/s10763-020-10132-3 Baartman, L. K., Bastiaens, T. J., Kirschner, P. A., & Vleuten, C. P. (2006).
+The wheel of competency assessment: Presenting quality criteria for competency assessment programs.
+Studies in Educational Evaluation, 32(2), 153–170.
+doi:10.1016/j.stueduc.2006.04.006 Bainton, T. (2001).
+Information literacy and academic libraries: the SCONUL approach.
+United Kingdom: IFLA Council and General Conference.
+Boateng, G. O., Neilands, T. B., Frongillo, E. A., Melgar-Quiñonez, H. R., & Young, S. L. (2018).
+Các phương pháp tốt nhất để phát triển và kiểm định thang đo trong nghiên cứu y tế, xã hội và hành vi: Một tài liệu nhập môn.
+Front Public Health, 6: 149, 1-18. doi:10.3389/fpubh.2018.00149 Boon Ng, S. (2019).
+Exploring STEM competencies for the 21st century.
+Progress Reflection No.
+30 On Current and Critical Issues in Curriculum, Learning and Assessment.
+UNESCO International Bureau of Education.
+Bryant, F. B., & Yarnold, P. R. (1995).
+Phân tích thành phần chính và phân tích nhân tố khám phá và khẳng định.
+In L. G. Grimm, & P. R. Yarnold, Reading and understanding multivariate statistics (pp.
+99-136).
+Washington DC: American Psychological Association.
+Bundy, A.
+(2004).
+Australian and New Zealand Information Literacy Framework.
+Ho Chi Minh City University of Education Journal of Science, Vol.
+19, No.
+8 (2022): 1255-1270
+Devellis, R., & Thorpe, C. T. (2021).
+Scale Development: Theory and Applications (5th ed.).
+Sage Publications.
+English, L. D. (2016).
+Advancing integrated STEM learning through engineering design: sixth-grade students’ design and construction of earthquake-resistant buildings.
+The Journal of Educational Research, 110(3), 255-271. doi:10.1080/00220671.2016.1264053 Fornell, C., & Larcker, D. F. (1981).
+Evaluating Structural Equation Models with Unobservable Variables and Measurement Error.
+Journal of Marketing Research, 18(1), 39-50. doi:10.1177/002224378101800104 General Secretary.
+(2013).
+On the fundamental and comprehensive renovation of education and training to meet the requirements of industrialization and modernization under the conditions of a socialist-oriented market economy and international integration (Vols.
+29-NQ/TW.
+Hanoi.
+Gerbing, D. W., & Anderson, J. C. (1988).
+An Updated Paradigm for Scale Development Incorporating Unidimensionality and Its Assessment.
+Journal of Marketing Research, 25(2), 186-192. doi:10.2307/3172650 GSA.
+(2016).
+STEM education framework.
+New York.
+Retrieved from https://www.nyas.org/media/13051/gsa_stem_education_framework_dec2016.pdf Hair, J. F., Black, W. C., Babin, B. J., & Anderson, R. E. (2019).
+Multivariate Data Analysis (8th ed.).
+Cengage Learning, EMEA.
+Hoang, H. B.
+(2015).
+Competence and competency-based assessment.
+Ho Chi Minh City University of Education Journal of Science, 6(71), 21-32. doi:10.54607/hcmue.js.0.6(71).667.658(2015) Jang, H. (2015).
+Identifying 21st Century STEM Competencies Using Workplace Data.
+Journal of Science Education and Technology, 25, 284-301. doi:10.1007/s10956-015-9593-1 Joppe, M. (2000).
+The research process.
+Retrieved from https://www.uoguelph.ca/hftm/research-process Kline, R. B.
+(2016).
+Principles and Practice of Structural Equation Modeling (4th ed.).
+The Guilford Press.
+Marope, M., Griffin, P., & Gallagher, C. (2017).
+Future Competences and the Future of Curriculum.
+Geneva: UNESCO-IBE.
+Retrieved from http://www.ibe.unesco.org/sites/default/files/resources/future_competences_and_the_future_of_curriculum.pdf Ministry of Education and Training – MOET.
+(2018).
+General education program.
+Hanoi.
+Trích từ https://data.moet.gov.vn/index.php/s/LETzPhj5sGGnDii#pdfviewer Nunnally, J. C., & Bernstein, I. H. (1994).
+The Assessment of Reliability.
+In Psychometric Theory (Vol.
+3, pp.
+248-292).
+New York: McGraw-Hill.
+Sen, C., Ay, Z. S., & Kiray, S. A.
+(2018).
+STEM skills in 21st-century education.
+In M. Shelley, & S. A. Kiray, Research Highlights in STEM Education (pp.
+81-101).
+ISRES Publishing.
+Shulman, L. (2008).
+Assessment of teaching or assessment for learning?
+In D. H. Gitomer (Ed.
+), Measurement Issues and Assessment for Teaching Quality (pp.
+234-243).
+Washington DC: Sage Publications.
+Trilling, B., & Fadel, C. (2009).
+21st Century Skills: Learning for Life in Our Times.
+San Francisco: Jossey-Bass.
+Watkins, J., Spencer, K., & Hammer, D. (2014).
+Examining Young Students’ Problem Scoping in Engineering Design.
+Journal of Pre-College Engineering Education Research (J-PEER), 4(1).
+doi:10.7771/2157-9288.1082 Winter, G. (2000).
+A Comparative Discussion of the Notion of 'Validity' in Qualitative and Quantitative Research.
+The Qualitative Report, 4(3), 1-14. doi:10.46743/2160-3715/2000.2078
+Journal of Science - Ho Chi Minh City University of Education
+Ta Thanh Trung and colleagues
+DEVELOP AND STANDARDIZE A STEM COMPETENCY ASSESSMENT TOOL FOR HIGH SCHOOL STUDENTS IN HO CHI MINH CITY
+Ta Thanh Trung, Tran Thi Xuan Quynh, Nguyen Phuong Uyen, Nguyen Thanh Nga*
+Ho Chi Minh City University of Education, Vietnam
+*Corresponding author: Nguyen Thanh Nga – Email: nganthanh@hcmue.edu.vn
+Received: March 31, 2022; Revised: April 04, 2022; Accepted: April 05, 2022
+ABSTRACT
+Nowadays, competency assessment is one of the assessment trends across the globe.
+Accordingly, the development and standardization of competency assessment tools attract much attention from educators.
+For STEM education, a standardized and practical STEM competency assessment tool plays a vital role in guiding development in the future.
+This study aims to develop and standardize a tool for self-assessing STEM competencies of students in Ho Chi Minh City.
+To guarantee the reliability and validity of the tool, the research process was rigorously conducted in three stages, including questionnaire design, scale development, and scale evaluation.
+The quantitative analysis results demonstrate that the tool is reliable, valid, and appropriate for evaluating the STEM competencies of students in the region.
+Therefore, this tool is suitable for students to self-assess their competencies or as a competency framework to support teachers in developing other assessment tools in STEM education.
+Keywords: CB-SEM; competency assessment; high school students; STEM competency

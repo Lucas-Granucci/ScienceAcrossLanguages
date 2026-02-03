@@ -1,9 +1,9 @@
-import hashlib
-from pathlib import Path
-
-from lingua import LanguageDetectorBuilder
-from tqdm import tqdm
 import fitz
+import hashlib
+from tqdm import tqdm
+from pathlib import Path
+from utils import normalize_text
+from lingua import LanguageDetectorBuilder
 
 
 def detect_language(text: str, detector):
@@ -22,11 +22,8 @@ def process_document(
     kept_count = 0
     pdf_files = sorted(pdf_data_path.glob("*.pdf"))
 
-    for pdf_path in tqdm(pdf_files, desc=f"Converting PDFs to markdown..."):
+    for pdf_path in tqdm(pdf_files, desc="Converting PDFs to markdown..."):
         try:
-            # with pymupdf.open(pdf_path) as doc:
-            #     md_text = pymupdf4llm.to_markdown(doc)
-
             doc = fitz.open(pdf_path)
             full_text = []
 
@@ -36,6 +33,7 @@ def process_document(
                     clean_block = b[4].replace("\n", " ").strip()
                     full_text.append(clean_block)
             doc_text = "\n".join(full_text)
+            doc.close()
 
             if not isinstance(doc_text, str):
                 continue
@@ -52,7 +50,7 @@ def process_document(
 
                 doc_name = f"{kept_count:04d}_{content_hash}.txt"
                 doc_path = processed_output_path / doc_name
-                doc_path.write_text(doc_text, encoding="utf-8")
+                doc_path.write_text(normalize_text(doc_text), encoding="utf-8")
                 kept_count += 1
 
                 if kept_count >= target_articles:

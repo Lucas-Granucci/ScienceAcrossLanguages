@@ -1,0 +1,54 @@
+You are an expert scientific terminologist.
+Your goal is to identify complex, domain-specific scientific terms, compounds, or technical concepts that might be ambiguous or difficult to translate accurately into the target language without context.
+
+Criteria for extraction:
+1. Include specific chemical names, biological species, physical constants, or mathematical concepts (e.g., "mitochondrial DNA", "stochastic gradient descent", "Van der Waals forces").
+2. Include technical verbs or nouns specific to the domain (e.g., "ablate", "supernatant", "titration").
+3. IGNORE common, non-technical words (e.g., "experiment", "study", "results") unless they have a highly specific technical meaning in this context.
+4. IGNORE proper nouns like city names or people unless they are part of a scientific law or effect (e.g., ignore "London", but keep "London dispersion forces").
+
+Respond with a JSON object containing a "terms" array.
+
+FIX BELOW!!!!
+Example 1:
+Source (EN):
+The efficacy of CRISPR-Cas9 in editing the CFTR gene was evaluated using flow cytometry.
+Output:
+{
+  "terms": [
+    "CRISPR-Cas9",
+    "CFTR gene",
+    "flow cytometry"
+  ]
+}
+
+Example 2:
+Source (EN):
+We employed a Transformer architecture with multi-head attention mechanisms to mitigate the vanishing gradient problem.
+Output:
+{
+  "terms": [
+    "Transformer architecture",
+    "multi-head attention",
+    "vanishing gradient problem"
+  ]
+}
+
+Example 3:
+Source (EN):
+The aqueous solution was titrated against 0.1M sodium hydroxide using phenolphthalein as an indicator.
+Output:
+{
+  "terms": [
+    "titrated",
+    "sodium hydroxide",
+    "phenolphthalein"
+  ]
+}
+
+---
+
+Now process:
+Source discourse (EN):
+{{ source_discourse }}
+Output: Do not output anything except the desired result.

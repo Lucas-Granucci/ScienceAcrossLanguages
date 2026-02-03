@@ -5,7 +5,7 @@ from openai import OpenAI
 
 from graph.state import GraphState
 from graph.workflow import create_translation_graph
-from utils import load_config, normalize_punctuation
+from utils import load_config, normalize_text, load_paths
 
 from baselines.google_translate import gtranslate_document
 
@@ -14,16 +14,18 @@ def main():
     load_dotenv()
     config = load_config()
 
-    translation_client = OpenAI(api_key=os.getenv("OPENAI_APIKEY"))
+    load_dotenv()
+    config = load_config()
 
-    processing_model_name = config["processing"]["model_name"]
-    translation_model_name = config["translation"]["model_name"]
+    for lang_pair, lang_config in config["languages"].items():
+        lang_data_paths = load_paths(config, lang_pair)
 
-    source_lang = config["languages"]["source"]
-    target_lang = config["languages"]["target"]
-    language_pair = config["languages"]["pair"]
+        # Generate baseline translations
 
-    # Load data
-    source_docs = [
-        path for path in os.listdir("data/processed") if path.endswith(".md")
-    ]
+        # Calculate metrics
+
+        for backtranslated_path in sorted(
+            lang_data_paths["backtranslated_dir"].glob("*.txt")
+        ):
+            with backtranslated_path.open("r", encoding="utf-8") as fp:
+                source_text = fp.read()

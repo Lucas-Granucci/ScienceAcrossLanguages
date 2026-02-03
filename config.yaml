@@ -4,7 +4,7 @@ processing:
   model_name: "qwen2.5:7b-instruct"
 
 translation:
-  model_name: "gpt-5-mini"
+  model_name: "gpt-4.1-2025-04-14"
 
 languages:
   en-vi:
@@ -19,7 +19,7 @@ data:
   processed_dir: "processed"
   backtranslated_dir: "backtranslated"
   translation_dir: "translation"
-  input_file: "en-vi/0.en"
+  baseline_dir: "baseline"
 
 presets:
   base:

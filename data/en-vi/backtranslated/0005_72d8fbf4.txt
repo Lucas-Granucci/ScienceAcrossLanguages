@@ -1,0 +1,361 @@
+Transport and Communications Science Journal, Volume 73, Issue 5 (06/2022), 470-485
+Transport and Communications Science Journal
+BUCKLING ANALYSIS OF VARIABLE THICKNESS CRACKED NANOPLATES CONSIDERING THE FLEXOELECTRIC EFFECT
+Doan Hong Duc1, Do Van Thom2, Pham Minh Phuc3*
+1School of Transportation Engineering, Hanoi University of Science and Technology, No 1 Dai Co Viet Street, Hanoi, Vietnam
+2Faculty of Mechanical Engineering, Le Quy Don Technical University, Hanoi City, Vietnam
+3University of Transport and Communications, No 3 Cau Giay Street, Hanoi, Vietnam
+ARTICLE INFO
+TYPE: Research Article Received: 22/02/2022 Revised: 23/05/2022 Accepted: 08/06/2022 Published online: 15/06/2022 https://doi.org/10.47869/tcsj.73.5.3
+* Corresponding author Email: phamminhphuc@utc.edu.vn
+Abstract.
+The buckling response calculation of cracked nanoplates has received a lot of attention recently, especially considering the variable thickness plate and flexoelectric effect.
+The finite element formulations are derived from Mindlin's first-order shear deformation theory, and the crack is simulated using phase-field parameters in accordance with phase-field theory.
+This is a highly adaptable crack structural approach that offers several advantages over other solutions.
+The computational theory's dependability is established by comparisons to published findings.
+On that premise, this study investigates the effect of various material and geometrical parameters on the buckling response of a plate with variable thickness according to both linear and nonlinear principles.
+These are remarkable research findings, which clearly demonstrate the simultaneous influence of the flexoelectric effect and the thickness variation law of the plate on both the critical buckling load and the critical buckling mode shape of the structure.
+Numerical results show that, when cracks appear, the nanoplates become destabilized earlier; however, when the flexoelectric coefficient increases, the plates exhibit greater stiffness and can withstand stronger forces.
+This study provides a scientific foundation to assist designers and manufacturers of nanoplates in making recommendations to users when cracks appear.
+Keywords: Variable thickness, flexo, nanoplates, FEM.
+© 2022 University of Transport and Communications
+Transport and Communications Science Journal, Vol 73, Issue 5 (06/2022), 470-485
+Transport and Communications Science Journal
+BUCKLING ANALYSIS OF CRACKED NANOPLATES WITH VARIABLE THICKNESS CONSIDERING FLEXOELECTRIC EFFECT
+Doan Hong Duc1, Do Van Thom2, Pham Minh Phuc3*
+1Hanoi University of Science and Technology, No.
+1 Dai CoViet Street, Hanoi, Vietnam
+2Le Quy Don Technical University, No.
+236 Hoang Quoc Viet, Hanoi, Vietnam
+3University of Transport and Communications, No.
+3 Cau Giay, Hanoi, Vietnam
+ARTICLE INFORMATION
+CATEGORY: Scientific Research Article
+Received: 22/02/2022
+Revised: 23/05/2022
+Accepted: 08/06/2022
+Published online: 15/06/2022
+https://doi.org/10.47869/tcsj.73.5.3
+* Corresponding author: phamminhphuc@utc.edu.vn
+Abstract.
+The buckling analysis of nanoplates with cracks has recently attracted considerable attention, especially with respect to nanoplates with variable thickness and the flexoelectric effect.
+The finite element formulation is established based on Mindlin's first-order shear deformation theory, and the crack is modeled using the phase-field theory via the phase-field parameter; this is a very flexible approach for analyzing cracked structures and has many advantages over other methods.
+The reliability of the computational theory is verified through comparisons with published results.
+On that basis, the paper investigates the influence of several material and geometric parameters on the stability response of the plate, in which the thickness varies according to both linear and nonlinear laws.
+These are interesting research results that clearly demonstrate the simultaneous influence of the flexoelectric effect and the variation law of plate thickness on the critical buckling load and buckling modes of the nanoplate.
+Numerical results show that when a crack appears in the nanoplate, it becomes unstable more quickly; conversely, increasing the flexoelectric coefficient makes the plate stiffer and better able to withstand loads.
+This research establishes a scientific basis to help designers and manufacturers of nanoplates provide recommendations for use when cracks appear in the plates.
+Keywords: variable thickness, flexo, nanoplates, finite element method.
+© 2022 University of Transport and Communications
+Journal of Transport Science and Technology, Vol.
+73, No.
+5 (06/2022), 470-485
+1.
+INTRODUCTION
+Nowadays, nano-sized plate structures are increasingly being used in practice.
+To enhance the efficiency of these nano-scale structures, consideration is also given to the impact of the flexoelectric effect, which is the combined effect of the piezoelectric phenomenon and charge polarization caused by the variation of strain components.
+As a result, there have been numerous scientific studies investigating the mechanical behavior of such structures.
+Zhang and his research team [1] studied the influence of the flexoelectric effect on the electro-elastic response and free vibration of nanoplates based on the classical plate theory and the Ritz method.
+Yang and colleagues [2] also utilized the classical plate theory to provide an exact solution for the mechanical response of nanoplates considering the flexoelectric effect.
+Shingare and Kundalwal [3] investigated the behavior of graphene-reinforced nanoplates, taking into account the flexoelectric effect, also employing the classical plate theory as the basis for their analytical solutions in this study.
+Amir and colleagues [4] used the Navier solution to conduct a study on multilayered sandwich plates, taking into account the influence of the flexoelectric effect.
+Ghobadi and his team [5] presented a study on the nonlinear mechanical behavior of nanoplates with graded material properties, taking into account the flexoelectric effect.
+Arani and his collaborators [6] used the differential quadrature method to provide a solution for the mechanical response problem of annular nanoplates considering the flexoelectric effect.
+Yue [7] investigated the surface effect of the electrodes of nanoplates, additionally considering the flexoelectric effect.
+Wang and Xian-Fang [8] based their analysis on the classical plate theory and analytical solutions to investigate the effects of both static and dynamic flexoelectric effects on the response of nanoplates.
+Studies [9-16, 33-34] have also clearly demonstrated the mechanical responses of nanoplates subjected to various types of mechanical, thermal, and electrical loads, while considering the influence of the flexoelectric effect.
+In practice, structures with variable thickness may be encountered and are used in devices such as sensors and nanogenerators.
+However, during fabrication, cracks may develop, altering the mechanical response of the plate.
+Therefore, the research findings presented in this paper can serve as a basis for comparison and validation against experimental methods to assess whether cracks have appeared in the plate.
+Furthermore, when cracks do occur, these results can help determine up to what crack length the plate remains serviceable under in-plane compressive loading.
+This research also serves as a foundation for further studies aimed at predicting crack propagation during loading.
+To simulate cracks, various methods are employed, such as the finite element method, the extended finite element method, the isoparametric method, the finite element method combined with the phase-field theory, and the isogeometric method, among others.
+Among these, the finite element method combined with the phase-field theory is a novel approach with several advantages, such as high flexibility and the ability to model cracks with complex geometries.
+The application of this method to solve mechanical problems has been presented in studies [19-28], which also clearly demonstrate the advantages of phase-field theory and its applicability to plate and shell problems containing cracks.
+2.
+FINITE ELEMENT FORMULATION FOR CALCULATING CRACKED NANOPLATES WITH VARIABLE THICKNESS CONSIDERING THE FLEXOELECTRIC EFFECT
+Consider a nanoplate with variable thickness and a crack as shown in Figure 1, where the plate has length and width a and b, respectively.
+The thickness of the plate varies linearly or nonlinearly, with the plate thickness at the origin denoted as h0.
+Transport and Communications Science Journal, Vol 73, Issue 5 (06/2022), 470-485
+crack
+b. Linearly varying thickness c. Nonlinearly varying thickness
+Figure 1.
+Model of a plate with a crack and variable thickness.
+The paper employs Mindlin's first-order shear deformation theory, with the displacement components expressed as follows:
+u = u₀ + zβₓ; v = v₀ + zβᵧ; w = w₀ (1)
+where u₀, v₀, and w₀ are the displacement components along the x, y, and z axes in the mid-plane of the plate, and βₓ, βᵧ are the rotation angles about the y and x axes, respectively.
+The plate is discretized into finite elements with three nodes, each node possessing five mechanical displacement degrees of freedom and one phase-field variable component, s. These components are interpolated using the finite element method as follows:
+u = ΣNᵢuᵢ; v = ΣNᵢvᵢ; βₓ = ΣNᵢβₓᵢ; βᵧ = ΣNᵢβᵧᵢ; w = ΣNᵢwᵢ; s = ΣNₛᵢsᵢ (2)
+where n = 3 is the number of nodes per element, Nᵢ and Nₛᵢ are the shape functions corresponding to the mechanical displacement components and the phase-field variable, respectively.
+Bending strain field of the plate
+ε = ε^0 + z ε^1 = B_e d
+where {u, v, w, β_x, β_y} = d is the nodal displacement vector of the element, and the differential matrices
+Shape functions
+Transport and Communications Science Journal, Vol.
+73, No.
+5 (06/2022), 470-485
+N_x = ∂N/∂x ; N_y = ∂N/∂y
+N_xy = ∂²N/∂x∂y
+N_yx = ∂²N/∂y∂x
+Shear strain field of the plate:
+γ = B_s d
+The differential matrix B_s is constructed as shown above.
+Assuming the electric field only acts in the thickness direction of the plate, and neglecting the in-plane electric field in the xy-plane.
+Thus, the variation of the strain at this time takes the form:
+η_x = B_x e d
+η_y = B_y e d
+A nanoplate considering the effect of the flexoelectric effect, therefore the stress and components of electric polarization displacement can be expressed as follows [2]:
+σ_ij = c_ijkl ε_kl – e_kij E_k – f_kijm E_k,i,j
+χ_ijm = k_ijm ε_k
+P_i = e_ijk ε_jk + f_ijkl η_jkl
+where σ_ij is the stress tensor, E_k is the electric field; χ_ijm is the stress moment tensor or higher-order stress tensor; P_i is the electric displacement vector; c_ijkl, e_kij, f_kijm, and k_ij are the material, piezoelectric, flexoelectric, and dielectric constants, as specifically presented in [2].
+The third term in the expression for P_i (f_ijkl η_jkl) represents the charge polarization due to the flexoelectric effect [2].
+Expression (7) can be specifically written as follows:
+; τ γ = F γ xz 66
+       = =          
+          = − =              
+; ( ) ( ) 31 33 14 z x y z xxz yyz P e E f ε ε κ η η = + + + + (9)
+      = = −        
+where f14 = f3113, f14 = f3223 [17] and
+Transport and Communications Science Journal, Vol 73, Issue 5 (06/2022), 470-485
+  =    
+      = =         
+According to Gauss's law in electrostatics, the electric displacement component is determined by the following relation / 0 zP z  =
+Under open-circuit conditions, the electric field expression is given as follows
+( ) ( )   ( ) 31 14 0 0 1 1 33 33 z x y x y xxz yyz e f E z ε ε ε ε η η κ κ = − + + + − + (11)
+Or written more specifically as   31 14 0 1 1 33 33 z xy e xy e xy e e f E z κ κ = − + − B d B d B d (12)
+where
+0 1 1 1 0 0 0 0 0 0 n n i i i i xy xy i i N N N N ; x y x y = =         = =               B B (13)
+= 1 = 0
+0.5lc -0.5lc
+Figure 2.
+Finite element model of a cracked plate.
+To simulate the crack, the article employs the phase-field theory [18–27], in which the phase-field variable s varies smoothly and continuously from 0 to 1.
+When s = 1, the material is undamaged; when s = 0, the material is fully damaged.
+For 0 < s < 1, the material is in a softened state, meaning it is in the process of transforming into a damaged state within a very narrow range.
+Therefore, by using the variable s, the crack is represented by a narrow and continuous region, with the width of this region described by the parameter lc.
+The energy of the structure is multiplied by s² to reflect the reduction in energy as the crack appears.
+At this point, the energy of the nanoplate, taking into account the flexoelectric effect and in-plane compression in the midplane of the plate, is expressed as follows:
+\Pi_e = \int_V \left( \frac{1}{2} \varepsilon^T \mathbf{C} \varepsilon + \frac{1}{2} \gamma^T \mathbf{G} \gamma + \frac{1}{2} (\nabla w)^T \mathbf{F}_w (\nabla w) + (\nabla \beta)^T \mathbf{F}_\beta (\nabla \beta) - w^T \chi \sigma \right) dV
+where \(\sigma\) is the compressive force acting within the midplane of the plate, \(G_C\) is the critical energy release rate, as specified by the Griffith theory, and:
+\nabla w = B_w d, \quad \nabla \beta = B_\beta d,
+with:
+B_w = \left[ \frac{\partial}{\partial x} \quad \frac{\partial}{\partial y} \right], \quad
+B_\beta = \left[ \frac{\partial}{\partial x} \quad \frac{\partial}{\partial y} \right].
+Rewriting expression (14) in terms of nodal displacements, we obtain:
+\Pi_e = \int_V \left( d^T B^T D B d + d^T B^T \sigma B d \right) dV.
+Additionally,
+\int_\Omega \left[ \frac{G_C l_s}{2} (\nabla s)^2 + \frac{G_C}{4l_s} (1 - s)^2 \right] dz d\Omega
+where \(\Omega\) is the domain of the plate, and \(s\) is the phase-field variable.
+To derive the equilibrium equations of the element, we take the variation of the functional \(\Pi_e(d, s)\):
+\frac{\partial \Pi_e}{\partial d} = 0, \quad \frac{\partial \Pi_e}{\partial s} = 0
+Written in matrix form:
+\int_\Omega B_s^T C_s B_s s d\Omega + \int_\Omega \frac{G_C l_s}{2} (\nabla s)^2 d\Omega = 0
+(K_e + \lambda K_G^e) d = 0,
+where \(B_s\) is related to the phase-field variable gradient.
+After assembling the matrices and applying boundary conditions, the equilibrium equation for the entire structure is as follows:
+\sum_e \left( \int_{\Omega_e} B_s^T C_s B_s s d\Omega + \int_{\Omega_e} \frac{G_C l_s}{2} (\nabla s)^2 d\Omega \right) = 0
+\sum_e (K_e + \lambda K_G^e) d = 0
+Clearly, the stiffness matrix of the element depends on the coefficient \(f_{14}\).
+Therefore, the flexoelectric effect (through \(f_{14}\)) clearly influences the load-bearing capacity of the plate, i.e., it affects the stability of the plate.
+By solving equation (19a), the phase-field variable s can be obtained, which is then substituted into equation (19b) to determine the critical buckling load as well as the corresponding buckling modes of the nanoplate.
+To determine the value of the phase-field variable s, the crack must first be defined to specify its width and length.
+At this point, the expression for the energy released by the crack is written as follows [19-21]:
+( ) ( ) ( ) / .
+c c s G B G 4l H x = d (20)
+where c ≤ l_y, and H(x) = 0 otherwise.
+Here, Hs(x) equals 1 when x ≤ c and -
+The parameter c is the crack length, B is a constant, and according to [18], B = 1000.
+In the general case, Gc is a material constant defined according to [19-21].
+The crack width lc is selected as recommended in [24]; in this paper, the value lc = a/200 is chosen.
+Transport and Communications Science Journal, Volume 73, Issue 5 (06/2022), 470-485
+3.
+CALCULATION EXAMPLE
+3.1.
+Verification Example
+Example 1: This section validates the critical buckling load of a cracked plate by comparing it with experimental results reported in [29].
+The square plate has a side length of 240 mm, a thickness of 12 mm, and a Poisson’s ratio of 0.33.
+The plate is compressed along two opposite clamped edges, while the other two edges are free.
+The calculated results and their comparison are shown in Table 1.
+It can be seen that the maximum deviation from the experimental results is 0.559%, which demonstrates that the computational theory proposed in this paper ensures the required accuracy.
+Table 1.
+Comparison of the critical buckling load of a cracked plate,  = 0.
+Experiment
+Crack length ratio (c/a) Number of elements Article (N) % Deviation
+Example 2: This example validates the critical buckling load of a plate with thickness varying along the x-axis, where the compressive force is also applied along the x-axis.
+The plate has length a, width b, and thickness varying according to the law h = h0(1 + βx/a) with β = (ha/h0) − 1, where h0 = a/100 at x = 0 and h = ha at x = a.
+The dimensionless critical buckling load is defined as λ = Ncr b^2 / (π^2 DM) % (with DM = EM hM^3 / [12(1 − νM^2)] and hM = (h0 + ha)/2).
+Table 2 presents a comparison of the critical buckling load results calculated using the theory proposed in this paper with those published in [30-32].
+It is evident that the results are very close to each other, demonstrating the reliability and reasonableness of the computational theory in this study.
+Table 2.
+Comparison of the critical buckling load of plates with linearly varying thickness.
+a/b Solution
+Semianalytical solution [30] 3,970 3,878 3,720 3,560 3,317
+3.2.
+Numerical investigation
+A nanoplate with a crack of length c, with the crack centered in the middle of the plate and oriented parallel to edge a of the plate.
+The plate with variable thickness has the following geometric parameters: length a = 100 nm, width b is variable; the plate material is PZT-5H with material parameters [2]: c11 = 102 GPa, c12 = 31 GPa, c33 = 35.50 GPa, e31 = -17.05 C/m^2, k33 = 1.76×10^-8 C/(Vm).
+The plate's thickness varies according to four laws as follows: The plate with thickness varying linearly only along the x-axis: h = h0(1 - βx/a), with h0 = a/100, h = h0 at x = 0.
+The plate with thickness varying along both x and y axes: h = h0(1 - βx/a)(1 - βy/b), with h0 = a/100, h = h0 at x = 0, y = 0.
+The plate with nonlinear thickness variation type I: h(x) = h0(1 - (βx/a)^2), with h0 = a/100, h = h0 at x = 0.
+The plate with nonlinear thickness variation type II: h(x) = h0(1 - βx/a + (βx/a)^2/2), with h0 = a/100, h = h0 at x = 0.
+The investigated parameter is the dimensionless critical buckling load defined as:
+\( \overline{N}_{cr} = \frac{N_{cr} b^2}{D \pi^2} \); \( D = \frac{c_{11} h_0^3}{12} \) (21)
+- Influence of the coefficient \( f_{14} \):
+To clearly observe the effect of the coefficient \( f_{14} \) on the static stability response of the plate, its value is varied so that \( f_{14}^* \) takes values from 0 to 4 (with \( f_{14} = 0 \) corresponding to the case without the flexoelectric effect); the plate is simply supported on all edges, and the crack length is \( c = 0.2a \).
+The calculated results for the critical buckling load of the plate are presented in Table 3.
+The results indicate that as the coefficient f14 increases, the critical load also increases, meaning that f14 enhances the stiffness of the plate.
+This implies that the flexoelectric effect improves the load-bearing capacity of the nanoplate.
+In addition, it is evident that the plate with nonlinear thickness variation of type I exhibits the best compressive load-carrying capability.
+Table 3.
+The dependence of the critical buckling load kb of the nanoplate on the coefficient f14, c = 0.2a.
+Thickness Variation Law of the Plate
+Thickness variation
+Thickness variation
+Thickness variation
+Linear variation
+Thickness variation along the x-axis
+Nonlinear variation
+Nonlinear variation
+along the x-axis
+Type I
+Type II
+Transport and Communications Science Journal, Volume 73, Issue 5 (06/2022), 470-485
+- Investigation of the effect of crack length
+This section examines the effect of crack length c on the static stability response of the nanoplate, with all edges simply supported, *f₁₄ = 1.
+The value of c is gradually increased so that the ratio c/a ranges from 0 to 0.6, where c/a = 0 means the plate has no crack.
+The calculated critical buckling loads are presented in Table 4.
+It is readily apparent that as the crack length increases, the plate becomes softer and less capable of bearing load, resulting in a lower critical buckling load.
+The buckling mode of the nanoplate with a crack length of c/a = 0.5 is illustrated in Figure 3.
+It can be seen that although the crack appears, due to the flexoelectric effect, the buckling mode of the plate does not change significantly with different patterns of thickness variation.
+However, when the flexoelectric effect is neglected, the law of thickness variation has a considerable impact on the buckling mode of the nanoplate.
+Table 4.
+The dependence of the critical buckling load kb of the nanoplate on c, with *14 f = 1.
+Law of plate thickness variation
+Variable thickness
+Variable thickness
+Variable thickness
+Linear variation
+Thickness varying along the x-axis
+Nonlinear variation
+Nonlinear variation
+along the x-axis
+type I
+type II
+* f14 =
+Transport and Communications Science Journal, Vol 73, Issue 5 (06/2022), 470-485
+* f14 =
+Variable thickness
+Variable thickness
+Variable thickness
+Linear thickness variation along the x-axis
+Variation along both x and y axes
+Nonlinear variation type I
+Nonlinear variation type II
+Figure 3.
+The buckling mode of the nanoplate depends on the coefficient f14, with β = 0.5 and c/a = 0.5.
+- Investigation of the influence of boundary conditions
+To clearly observe the influence of boundary conditions on the static stability response of the plate, this section presents calculations for the plate under five different boundary conditions: simply supported on all four edges (SSSS), clamped on all four edges (CCCC), simply supported on two opposite edges and clamped on the other two (CSCS), clamped on two adjacent edges and simply supported on the other two (CCSS), clamped on two opposite edges and free on the other two (CFCF).
+The calculation results are shown in Table 5.
+The results indicate that the plate clamped on all edges has the highest critical buckling load, while the plate simply supported on all edges has the lowest critical buckling load, demonstrating that boundary conditions have a significant effect on the critical buckling load of the plate.
+The buckling mode shapes of the plate are shown in Figure 4, where it is evident that boundary conditions greatly influence the buckling mode shape of the nanoplate.
+For the SSSS plate, the buckling mode shape changes very little with different thickness variation laws, indicating that the thickness variation law and boundary conditions have a clear impact on the static buckling mode shape of the nanoplate when the flexoelectric effect is considered.
+Table 5.
+The dependence of the critical buckling load kb of the nanoplate on the boundary condition, with f14 = 1.
+Law of plate thickness variation
+Variable thickness
+Variable thickness
+Nonlinear variation
+Linear variation
+Thickness varying along the x-axis
+Nonlinear variation
+Boundary condition
+Linear type variation
+Along the x-axis
+Type I
+Transport and Communications Science Journal, Vol 73, Issue 5 (06/2022), 470-485
+Variable thickness
+Variable thickness
+Variable thickness
+Thickness varying linearly along the x-axis
+Varying along both x and y axes
+Nonlinear type I
+Nonlinear type II
+Figure 4.
+The instability mode of the nanoplate depends on the boundary conditions, with β = 0.5 and c/a = 0.5.
+5.
+CONCLUSION
+This paper presents a study on the static stability of cracked nanoplates, taking into account the flexoelectric effect.
+Finite element formulations are developed based on the first-order shear deformation theory and phase-field theory, with the plate thickness assumed to vary according to both linear and nonlinear laws.
+Comparative results are carried out to verify the reliability of the computational theory.
+On this basis, the paper investigates the influence of several factors, such as the flexoelectric effect, crack length, and boundary conditions, on the static stability response of nanoplates.
+The computational results indicate that increasing the coefficient f14 makes the nanoplate stiffer and enhances its load-bearing capacity.
+As the crack length increases, the plate becomes softer, and its load-bearing capacity decreases.
+Boundary conditions significantly affect both the value of the critical buckling load and the instability modes of the nanoplate.
+These computational results serve as valuable reference material for the design, fabrication, and practical use of nanoplates.
+ACKNOWLEDGEMENTS
+This research was supported by the NAFOSTED fund under grant number 107.02-2020.18.
+REFERENCES
+[1] Z. Zhang, Z. Yan, L. Jiang, Flexoelectric effect on the electroelastic responses and vibrational behaviors of a piezoelectric nanoplate, Journal of Applied Physics, 116 (2014) 014307. https://doi.org/10.1063/1.4886315
+[2] W. Yang, X. Liang, S. Shen, Electromechanical responses of piezoelectric nanoplates with flexoelectricity, Acta Mechanica, 226 (2015) 3097–3110.
+https://doi.org/10.1007/s00707-015-1373-8 [3] K.B.
+Shingare, S.I.
+Kundalwal, Static and dynamic response of graphene nanocomposite plates with flexoelectric effect, Mechanics of Materials, 134 (2019) 69-84. https://doi.org/10.1016/j.mechmat.2019.04.006 [4] S. Amir, H.B.A.
+Zarei, M. Khorasani, Flexoelectric vibration analysis of nanocomposite sandwich plates, Mechanics Based Design of Structures and Machines: An International Journal, 48 (2020) 146-163. https://doi.org/10.1080/15397734.2019.1624175 [5] A. Ghobadi, Y.T.
+Beni, H. Golestanian, Nonlinear thermo-electromechanical vibration analysis of size-dependent functionally graded flexoelectric nanoplate exposed to magnetic field, Archive of Applied Mechanics, 90 (2020) 2025–2070.
+https://doi.org/10.1007/s00419-020-01708-0
+Transport and Communications Science Journal, Volume 73, Issue 5 (06/2022), 470-485
+[6] A.G. Arani, A.H.S.
+Arani, E. Haghparast, Flexoelectric and surface effects on vibration frequencies of annular nanoplate, Indian Journal of Physics, 95 (2021) 2063-2083. https://doi.org/10.1007/s12648-020-01854-9 [7] Y. Yue, Nonlinear Vibration of the Flexoelectric Nanoplate with Surface Elastic Electrodes Under Active Electric Loading, Acta Mechanica Solida Sinica, 33 (2020) 864–878.
+https://doi.org/10.1007/s10338-020-00169-w [8] B. Wang, L. Xian-Fang, Flexoelectric effects on the natural frequencies for free vibration of piezoelectric nanoplates, Journal of Applied Physics, 129 (2021) 034102. https://doi.org/10.1063/5.0032343 [9] A. Ghobadi, Y.T.
+Beni, K.K.
+Zurd, Porosity distribution effect on stress, electric field and nonlinear vibration of functionally graded nanostructures with direct and inverse flexoelectric phenomenon, Composite Structures, 259 (2021) 113220. https://doi.org/10.1016/j.compstruct.2020.113220 [10] Z. Yan, L.Y.
+Jiang, Vibration and buckling analysis of a piezoelectric nanoplate considering surface effects and in-plane constraints, Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 468 (2012) 3458-3475. https://doi.org/10.1098/rspa.2012.0214 [11] A. Reza, G. Raheb, Size-Dependent Nonlinear Vibrations of First-Order Shear Deformable Magneto-Electro-Thermo Elastic Nanoplates Based on the Nonlocal Elasticity Theory, International Journal of Applied Mechanics, 08 (2016) 1650053. https://doi.org/10.1142/S1758825116500538 [12] X. Liang, W. Yang, S. Hu, S. Shen, Buckling and vibration of flexoelectric nanofilms subjected to mechanical loads, Journal of Physics D: Applied Physics, 49 (2016) 115307. https://doi.org/10.1088/0022-3727/49/11/115307 [13] S. Amir, M. Khorasani, H.B.
+Zarei, Buckling analysis of nanocomposite sandwich plates with piezoelectric face sheets based on flexoelectricity and first-order shear deformation theory, Journal of Sandwich Structures & Materials, 22 (2018) 1-24. https://doi.org/10.1177/1099636218795385 [14] F. Ebrahimi, M. Karimiasl, Nonlocal and surface effects on the buckling behavior of flexoelectric sandwich nanobeams, Mechanics of Advanced Materials and Structures, 25 (2018) 943-952. https://doi.org/10.1080/15376494.2017.1329468 [15] S. Zeng, B.L.
+Wang, K. F. Wang, Nonlinear vibration of piezoelectric sandwich nanoplates with functionally graded porous core with consideration of flexoelectric effect, Composite Structures, 207 (2019) 340-351. https://doi.org/10.1016/j.compstruct.2018.09.040 [16] K.K.
+Zur, M. Arefi, J. Kim, J.N.
+Reddy, Free vibration and buckling analyses of magneto-electro-elastic FGM nanoplates based on nonlocal modified higher-order sinusoidal shear deformation theory, Composites Part B: Engineering, 182 (2020) 107601. https://doi.org/10.1016/j.compositesb.2019.107601 [17] L.L.
+Shu, X.Y.
+Wei, T. Pang, X. Yao, C.L.
+Wang, Symmetry of flexoelectric coefficients in crystalline medium.
+Journal of Applied Physics, 110 (2011) 104106. https://doi.org/10.1063/1.3662196 [18] B. Zaouagui, S.A. Belalia, A. Boukhalfa, h-p finite element vibration analysis of side cracked rectangular nanoplates based on nonlocal elasticity theory, The European Physical Journal Plus, 134 (2019).
+https://doi.org/10.1140/epjp/i2019-12724-9 [19] K. Josef, A. Marreddy, L.D.
+Lorenzis, G. Hector, R. Alessandro, Phase-field description of brittle fracture in plates and shells, Computer Methods in Applied Mechanics and Engineering, 312 (2016) 374-394. https://doi.org/10.1016/j.cma.2016.09.011 [20] B. Bourdin, G.A.
+Francfort, J.J. Marigo, The variational approach to fracture, Journal of Elasticity, 91 (2008) 5–148.
+https://doi.org/10.1007/s10659-007-9107-3
+Transport and Communications Science Journal, Vol 73, Issue 5 (06/2022), 470-485
+[21] J.B. Michael, V.V.
+Clemens, A.S. Michael, J.R.H.
+Thomas, M.L.
+Chad, A phase-field description of dynamic brittle fracture, Computer Methods in Applied Mechanics Engineering, 217-220 (2012) 77–95.
+https://doi.org/10.1016/j.cma.2012.01.008 [22] V.D.
+Thom, H.D.
+Duc, N.D. Duc, Q.B.
+Tinh, Phase-field thermal buckling analysis for cracked functionally graded composite plates considering neutral surface, Composite Structures, 182 (2017) 524-548. https://doi.org/10.1016/j.compstruct.2017.09.059 [23] H.D.
+Duc, Q.B.
+Tinh, Thom, Duc, A rate-dependent hybrid phase field model for dynamic crack propagation, Journal of Applied Physics, 122 (2017) 1-4. https://doi.org/10.1063/1.4990073 [24] H.D.
+Duc, V.D.
+Thom, P.M., Phuc, N.D., Duc, Validation simulation for free vibration and buckling of cracked Mindlin plates using phase-field method, Mechanics of Advanced Materials and Structures, 0 (2018) 1-10. https://doi.org/10.1080/15376494.2018.1430262 [25] N.D. Duc, T.D.
+Truong, V.D.
+Thom, H.D.
+Duc, On the Buckling Behavior of Multi-cracked FGM Plates, Proceedings of the International Conference on Advances in Computational Mechanics, Lecture Notes in Mechanical Engineering, 2017, Springer, 29-45. https://doi.org/10.1007/978-981-10-7149-2_3 [26] V.H.
+Nam, H.D.
+Duc, M.K.
+Nguyen, V.D.
+Thom, T.T.
+Hong, Phase-field buckling analysis of cracked stiffened functionally graded plates, Composite Structures, 217 (2019) 50-59. https://doi.org/10.1016/j.compstruct.2019.03.014 [27] P.M. Phuc, Analysis of free vibration of functionally graded material cracked plates with varying thickness using the Phase-field theory, Transport and Communications Science Journal, 70 (2019) 122-131. https://doi.org/10.25073/tcsj.70.2.35.
+[28] Pham Minh Phuc, Using phase field and third-order shear deformation theory to study the effect of cracks on free vibration of rectangular plates with varying thickness, Transport and Communications Science Journal, 71 (2020) 853-867. https://doi.org/10.47869/tcsj.71.7.10 [29] R. Seifi, K.Y.
+Nafiseh, Experimental and numerical studies on buckling of cracked thin plates under full and partial compression edge loading, Thin-Walled Structures, 19 (2011) 1504-1516. https://doi.org/10.1016/j.tws.2011.07.010 [30] I.E.
+Harik, X. Liu, R. Ekambaram, Elastic stability of plates with varying rigidities, Computers & Structures, 38 (1991) 161-168. https://doi.org/10.1016/0045-7949(91)90094-3 [31] W.H.
+Wittrik, C.H.
+Ellen, Buckling of tapered rectangular plates in compression, Aeronautical Quarterly, 13 (1962) 308-326. https://doi.org/10.1017/S0001925900002547 [32] M.S.
+Nerantzaki, J.T.
+Katsikadelis, Buckling of plates with variable thickness—an analog equation solution, Engineering Analysis with Boundary Elements, 18 (1996) 149-154. https://doi.org/10.1016/S0955-7997(96)00045-8 [33] L.M.
+Thai, D.T.
+Luat, V.B.
+Phung, P.V.
+Minh, D.V.
+Thom, Finite element modeling of mechanical behaviors of piezoelectric nanoplates with flexoelectric effects, Archive of Applied Mechanics, 92 (2022) 163–182.
+https://doi.org/10.1007/s00419-021-02048-3.
+[34] D.H. Doan, A.M. Zenkour, D.V.
+Thom, Finite element modeling of free vibration of cracked nanoplates with flexoelectric effects, The European Physical Journal Plus, 137 (2022) 447. https://doi.org/10.1140/epjp/s13360-022-02631-9

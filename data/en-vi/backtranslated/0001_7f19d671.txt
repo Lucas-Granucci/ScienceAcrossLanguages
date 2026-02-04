@@ -1,0 +1,189 @@
+Journal of Science and Technology, No.
+53A, 2021
+SOME DIFFERENCES IN THE CALCULATION OF LOADS AND ACTIONS BETWEEN TCVN 2737:2020 AND TCVN 2737:1995, APPLIED TO CONSTRUCTION WORKS
+NGUYEN NGOC PHUC
+Faculty of Construction Engineering, Industrial University of Ho Chi Minh City
+phd.nguyenngocphuc@gmail.com
+Abstract.
+Accurately determining both the values and all components of loads and actions is a very important factor in structural design calculations.
+This factor determines the economic and technical requirements of a project, as reflected in the total construction investment and constraints on durability, stability, deformation, and service life of the structure.
+In practice, many latent and emerging issues related to construction works are caused by inadequate assessment of loads and actions.
+Moreover, loads and actions do not possess inherent values or modes of action; rather, they depend on changes in natural conditions and socio-economic factors.
+Nowadays, we are facing significant changes in loads—not only unusual modes of action due to socio-economic conditions, but also dramatic changes arising from natural conditions.
+At the same time, as our country advances in the process of international integration and globalization, systematically adopting technical standards is inevitable.
+In this article, I discuss some differences in the calculation of loads and actions between TCVN 2737:2020 and TCVN 2737:1995, as applied to civil and industrial construction works.
+Keywords: TCVN 2737:1995; TCVN 2737:2020; Loads and actions.
+THE DIFFERENTIATIONS FOR DETERMINATION OF ACTIONS ON STRUCTURES BETWEEN TCVN 2737:2020 AND TCVN 2737:1995, USED IN CIVIL ENGINEERING
+Abstract.
+In this paper, I focus on the differences in the determination of actions on structures between TCVN 2737:2020 and TCVN 2737:1995, as applied in Civil Engineering.
+As we know, actions and loads are not constant due to changes in natural conditions and social development.
+On the other hand, our country is currently in the process of internationalization and globalization.
+Therefore, we must align our standards with those of the world.
+Determining the exact values and the way actions affect structures is of utmost importance.
+They influence the safety, durability, and cost of construction projects.
+Keywords: TCVN 2737:1995; TCVN 2737:2020; Actions on structures
+1.
+ORIGINAL STANDARDS USED AS REFERENCES FOR THE COMPILATION OF THESE TWO STANDARDS: TCVN 2737:1995 was translated from the Russian standard SNip 1985 [6].
+In this edition, TCVN 2737:2020 was compiled based on the European standard series Eurocode EN 1991.
+2.
+COMBINATION OF ACTIONS:
+2.1 Load Combinations in TCVN 2737:1995 [1]
+This standard proposes to control the structural serviceability in two limit states with two types of load combination structures.
+The concept of load combination mentioned in this standard can easily lead to misunderstandings, as it is often interpreted as a combination of causes rather than an accurate understanding of the combination of effects of actions.
+This is because most effects of actions are resolved based on the principle of independent action, which allows for the acceptance of small deformations and displacements in the structure; thus, the combination of effects of actions by linear addition is similar to the linear addition of the causes of actions.
+* For the basic load combination: THCB = 1.TX + .DH + 1.NH (1) The combination factors  = 1 = 0.9.
+In cases where the simultaneous participation of multiple types of short-term variable loads is considered, the basic combination structure is written as follows: Basic combination: THCB = 1.TX + .DH + 1.NH1 + 2.NH2 + i.NHi (2)
+The combination factors are  = 1 = 0.9; 2 = 0.8; i = 0.6
+NH1 is the short-term variable load with the greatest impact on the structure, NH2 is the second most significant short-term variable load, and NHi refers to the remaining short-term variable loads.
+* For special combinations: THĐB = 1.TX + .DH + 1.NH + 3.ĐB (3) The combination coefficients are  = 1 = 0.95; 2 = 0.8; 3 = 1.
+Note: TX is permanent load; DH is long-term imposed load; NH is short-term imposed load; ĐB is special load.
+2.2 Combination of internal forces and displacements in TCVN 2737:2020 [2]
+This standard still proposes controlling the structural performance by two limit states and adds control of the allowable stress state.
+The combination structures are described in more detail and greater emphasis is placed on the consequences of actions.
+The reason for addressing combinations based on the consequences of actions is due to the material nonlinearity and geometric nonlinearity of structures under loads.
+That is, it is not possible to simply accept the principle of independent action in a purely straightforward manner.
+Therefore, this method of combination allows for a more convenient approach to technical standards and more accurately reflects the structural behavior.
+* Load combinations according to the first limit state include basic combinations and accidental (special) combinations [2].
+- The basic combinations for the first limit state are:
+THCB1 = G.G + Q.Q1 + 0,i.Q.Qi (4)
+THCB2 = G.G + Q.Q1 + 0,i.Q.Qi + 0.6.W.W (5)
+THCB3 = G.G + W.W + 0,i.Q.Qi (6)
+THCB4 = G.G + W.W (7)
+THCB5 = 0.85.G.G + W.W (8)
+Where:
+G is the effect (internal force, displacement, etc.)
+on the structure resulting from the standard value of permanent load;
+Qi is the effect (internal force, displacement, etc.)
+on the structure resulting from the standard value of imposed load;
+W is the effect (internal force, displacement, etc.)
+on the structure resulting from the standard value of wind load;
+G is the load factor (load reliability factor) for permanent load, with a value of 1.35;
+Q and W are the load factors (load reliability factors) for imposed load and wind load, with values of 1.5;
+0,i are the combination factors, specified in detail for each type of imposed load acting on the structure (Table 2 – TCVN 2737:2020).
+The combination factor 0,i has three groups of values: 1.0; 0.8; and 0.
+Therefore, when considering the product of the two load factors Q and the combination factor 0,i, most of the resulting products Q.0,i = 1.2, except for two cases: storehouse function and unused roof.
+- The accidental combinations (special combinations) for the first limit state are:
+THĐB1 = G + E + 2,i.Qi (9)
+THĐB2 = G + A + 2,i.Qi (10)
+Where:
+E is the effect of earthquake load;
+A is the effect of accidental loads (fire, explosion, etc.
+);
+2,i are the combination factors for the i-th imposed load (including the long-term component) in the accidental combination (Table 2 – TCVN 2737:2020).
+The combination factor 2,i has four groups of values: 0.8; 0.6; 0.3; and 0.
+* Load combinations according to the second limit state [2]
+TH1 = G + Q1 + φ0i.Qi (11)
+TH2 = G + W + φ0i.Qi (12)
+TH3 = G + W (13)
+* Load combinations calculated using the allowable stress method [2]
+TH1 = G + Q1 + φ0i.Qi (14)
+TH2 = G + W + φ0i.Qi + 0.6.W (15)
+TH3 = G + W + φ0i.Qi (16)
+© 2021 Industrial University of Ho Chi Minh City
+SOME DIFFERENCES IN LOAD AND ACTION CALCULATIONS BETWEEN TCVN 2737:2020 AND TCVN 2737:1995, APPLICABLE TO CONSTRUCTION WORKS
+TH4 = G + W (17)
+TH5 = G + 0.7.E (18)
+TH6 = G + W + φ0i.Qi + 0.7.E (19)
+TH7 = 0.9.G + W (20)
+TH8 = 0.9.G + 0.7.E (21)
+With the regulations on the methods of combining effects in TCVN 2737:2020, it can be observed that the level of strictness is higher compared to the load combination methods in TCVN 2737:1995.
+3.
+VALUES OF DEAD LOAD, LIVE LOAD, AND BASIC CHARACTERISTIC PARAMETERS: [1],[2],[3]
+The TCVN 2737:2020 standard provides detailed regulations on the characteristic parameters used to determine dead load values, including the volumetric weight parameters of various types of materials.
+For live load, the TCVN 2737:2020 standard only specifies the total value and does not specify the value for the long-term component.
+In addition, there are adjustments and additions to live loads for certain functions:
+- The live load for stands is separated and not generally specified within the group of loads for meeting rooms, ballrooms, etc.
+- Additional live loads are included for commercial areas, exhibitions, and display spaces.
+- Two new live load values have been added to the group for workshop functions.
+- Live load for refuge areas in high-rise buildings has been added.
+- Live loads have been supplemented for floors in special areas.
+- Additional live loads have been included for technical floors.
+- The live load value in the mezzanine function group has been adjusted and supplemented with one additional value.
+- A specific value is provided for the livestock barn function group instead of specifying a lower limit value.
+- The value has been modified and one live load value added to the flat roofs in use function group.
+- A lower limit value is specified for live loads in the platform function group.
+- Additional live loads have been specified for the function group of waiting rooms and passenger check-in and waiting areas at airports.
+- Live loads for the car garage function group have been adjusted and supplemented.
+- Live load values have been added for the fire engine function group.
+- Live load values have been specified for the helicopter landing area function group.
+Compared to TCVN 2737:1995, TCVN 2737:2020 has eliminated the load reduction factor A for areas subjected to loads greater than 9m2 and only allows the use of the load reduction factor A for areas subjected to loads greater than 36m2.
+In the TCVN 2737:1995 standard, the load combination reliability factor for crane loads is taken as 1.1.
+In TCVN 2737:2020, the adjusted value for γQ is 1.5; the recommended combination factors are ∑φ0i = 0.7 and ∑φ2i = 0.3.
+The auxiliary coefficients used to calculate the strength of crane beams subjected to vertical concentrated loads caused by crane wheels have also been adjusted; these coefficients are lower than those in TCVN 2737:1995.
+In TCVN 2737:2020, the requirements for calculating structures subjected to crane loads are specified within the scope of the design task and are not detailed as in TCVN 2737:1995.
+4.
+WIND LOAD [2] In the TCVN 2737:2020 standard, the calculation method for wind load has been changed in accordance with EN 1991-1-4.
+The structural analysis is no longer solved under the influence of two components, namely static wind and dynamic wind; instead, the Gust factor (Gf) is used.
+The wind load also takes into account the importance factor of the structure (Iw).
+W = 1.2.(W0.k.c).
+(Gf.Iw) (22) Where: W is the standard wind pressure, using a factor of 1.2 when converting the recurrence period from 20 years to 50 years; W0 is the basic wind pressure (reference wind pressure); k is the wind pressure adjustment factor according to height and terrain type; c is the dynamic factor; Gf is the gust factor; Iw is the importance factor of the structure.
+The input parameter of the European standard series Eurocode EN 1991 is wind speed.
+For both TCVN 2737:1995 and TCVN 2737:2020, it is recommended to prioritize the reference wind pressure Wo as the calculation parameter; however, calculating wind pressure based on wind speed is still permitted when sufficient observational data is available.
+© 2021 Industrial University of Ho Chi Minh City
+32 SOME DIFFERENCES IN LOAD AND ACTION CALCULATIONS BETWEEN TCVN 2737:2020 AND TCVN 2737:1995, APPLICABLE TO CONSTRUCTION WORKS
+W0 = 0.0613.V0^2 (23) where V0 is the wind speed at a height of 10 meters above ground level, averaged over a period of 3 seconds, exceeded on average once every 20 years, corresponding to terrain type B.
+When checking the acceleration of oscillation at the top of the structure, which affects the comfort of occupants and workers, a 10-minute wind speed is used, with a recurrence period taken from 1 to 10 years.
+The wind pressure adjustment factor according to height, K, has also been updated and allows the use of a height-based calculation formula corresponding to the height limit for each type of terrain.
+𝑘 = 2.01 (
+Where Z is the height at which the wind pressure is calculated, and zg is the wind speed height limit (depending on the type of terrain).
+This value is proposed to change compared to the standard for calculating the dynamic component of wind load TCXD 229:1999. α is an exponent factor that depends on the terrain type.
+This value is proposed to change for terrain types A and B compared to the standard for calculating the dynamic component of wind load TCXD 229:1999.
+The scaling coefficient of the exponential function determining k in TCXD 229:1999 has a value of 1.844, whereas in TCVN 2737:2020 it is 2.01.
+In this TCVN 2737:2020 standard, “wind tunnel testing” is proposed to assess the aerodynamic factor for structures with complex shapes.
+However, the experimental and independent research wind data obtained should not be lower than 85% of the values proposed in this Standard.
+In the TCVN 2737:1995 standard, wind pressure values are provided for meteorological observation stations in mountainous regions and islands, with the assumed service life of the structure at four levels: 5 years, 10 years, 20 years, and 50 years.
+However, the TCVN 2737:2020 standard only provides two assumed service life durations for structures: 20 years and 50 years, with adjusted intensity values.
+The wind pressure zoning table in TCVN 2737:2020 also includes many adjustments and changes regarding zone identification and wind pressure terrain types.
+Compared to TCVN 2737:1995, the TCVN 2737:2020 standard additionally specifies aerodynamic coefficients for five structural shape types: prismatic structures with square or polygonal floor plans; prismatic structures with Y-shaped floor plans in a narrow angle; prismatic structures with Y-shaped floor plans in a right angle; prismatic structures with cross-shaped floor plans; and prismatic structures with polygonal floor plans.
+5.
+GUST FACTOR GF AND IMPORTANCE FACTOR OF THE STRUCTURE IW [2]
+5.1 Gust Factor Gf
+The gust factor Gf is the coefficient reflecting the structural response under wind load, including both the static component (wind impulse) and the dynamic component (resonance).
+The calculation of the gust factor Gf and the dynamic response of the structure focuses on the first mode of vibration.
+Specifically:
+- For “rigid” structures (with a fundamental period of vibration T1 ≤ 1s), Gf = 0.85.
+- For flexible structures (with a fundamental period T1 > 1s), Gf is calculated based on the geometric characteristics of the structure B.H; wind turbulence at an elevation of 0.6H; the structure’s peak acceleration coefficient gR; and resonance factor R.
+Gf = 0.925.
+(
+Where:
+𝐼𝑧̅: is the turbulence intensity at the height of 0.6H
+𝐼𝑧̅ = 1.6·d·H(−1/6) (26)
+Q is the factor accounting for the static component of the structure’s response under wind load
+Q = √
+The peak acceleration coefficient gR is determined by formula (28):
+gR = √2·ln (
+R is the resonance factor, determined by formula (29):
+R = √
+β is the structural damping coefficient: for steel structures β = 1%; for composite structures β = 1.5%; for concrete, reinforced concrete, and masonry structures β = 2%.
+The component resonance coefficients are determined as follows:
+Rn =
+N1 =
+V̅ = 𝑏̅(0.06.
+𝐻)α̅.
+√
+Rh = Rx with x =
+RB = Rx with x =
+RL = Rx with x =
+Rx =
+1 / 2.x² .
+(1 −𝑒−2𝑥), take Rx = 1 when x = 0 (36) Table 1: Values of coefficients for different terrain types according to TCVN 2737:2020
+Terrain type d l (m) ̅ b̅ α̅
+- For high-rise buildings with a first natural vibration period T1 > 1s and a height not exceeding 150m, it is permitted to calculate the gust factor Gf using the following approximate formulas: + For reinforced concrete structures: Gf = 0.85 + H/2840 + For steel structures: Gf = 0.85 + H/1010 Where: H is the height of the structure (m) 5.2 Importance factor of the structure: The importance factor of the structure is divided into 4 categories with 3 value levels Iw Special structures and structures of class I: Iw = 1.15 Structures of class II and class III: Iw = 1.00 Structures of class IV: Iw = 0.87
+6.
+CONCLUSION:
+- The TCVN 2737:2020 standard provides more detailed specifications regarding the structure of combination effects, replacing the simpler load combination concept in TCVN 2737:1995.
+- The TCVN 2737:2020 standard specifies more detailed characteristic parameters for calculating dead load values, including the volumetric weight of different material types.
+- The TCVN 2737:2020 standard adjusts and supplements live load values according to usage functions, reflecting the current, more diverse practices compared to TCVN 2737:1995.
+- The TCVN 2737:2020 standard takes a more open approach to the calculation of wind loads on structures; wind pressure zoning and intensity identification have also undergone more changes compared to TCVN 2737:1995.
+REFERENCES
+[1] TCVN 2737:1995, Hanoi, 1995.
+[2] TCVN 2737:2020, Hanoi, 2020.
+© 2021 Industrial University of Ho Chi Minh City
+34 SOME DIFFERENCES IN LOAD AND ACTION CALCULATIONS BETWEEN TCVN 2737:2020 AND TCVN 2737:1995, APPLIED TO CONSTRUCTION WORKS
+[3] Standard TCXD 229:1999.
+[4] European standard EN 1991-1-4:2005 + AC:2010, Construction Publishing House, 2016.
+[5] American standard ASCE 7-2005.
+[6] Russian standard SNip 1985.
+Received date: 16/10/2020
+Accepted date: 12/03/2021
+© 2021 Industrial University of Ho Chi Minh City

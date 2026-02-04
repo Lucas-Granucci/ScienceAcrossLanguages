@@ -1,0 +1,356 @@
+ẢNH HƯỞNG HỆ SINH THÁI FINTECH ĐẾN DỰ ĐỊNH KHỞI NGHIỆP KINH DOANH SỐ CỦA
+SINH VIÊN VIỆT NAM
+Nguyễn Thu Thủy Trường Đại học Kinh tế Quốc dân
+Email: thuyntqtkd@neu.edu.vn
+Đào Thu Trang Trường Đại học Kinh tế Quốc dân Email: daotrangforstudy@gmail.com
+Nguyễn Thị Thu Hương Trường Đại học Kinh tế Quốc dân Email: hatuly08042004@gmail.com
+Trần Bảo Trâm Trường Đại học Kinh tế Quốc dân Email: tranbaotramtdlc@gmail.com
+Lê Thị Ngọc Linh Trường Đại học Kinh tế Quốc dân Email: lengoclinh2062004@gmail.com
+Phạm Thị Thảo Nguyên Trường Đại học Kinh tế Quốc dân Email: Thaonguyenneu14@gmail.com
+Mã bài: JED-1562 Ngày nhận bài: 03/01/2024 Ngày nhận bài sửa: 16/04/2024 Ngày duyệt đăng: 20/05/2024 DOI: 10.33301/JED.VI.1562
+Tóm tắt Nghiên cứu dựa vào lý thuyết hành vi có kế hoạch để kiểm định tác động của hệ sinh thái Fintech bao gồm nhận thức Fintech (Blockchain, Crowdfunding, AI) và hỗ trợ môi trường (hỗ trợ khởi nghiệp của trường đại học, hỗ trợ khởi nghiệp của Chính phủ) tới dự định khởi nghiệp kinh doanh số sinh viên Việt Nam.
+Kết quả phân tích mô hình cấu trúc tuyến tính từ dữ liệu 549 sinh viên cho thấy nhận thức Fintech (Blockchain, Crowdfunding, AI) và hỗ trợ khởi nghiệp của trường đại học có tác động tích cực tới dự định khởi nghiệp kinh doanh số.
+Trong khi đó, hỗ trợ khởi nghiệp của Chính phủ không tác động tới dự định khởi nghiệp kinh doanh số.
+Ngoài ra, thái độ và nhận thức kiểm soát hành vi khởi nghiệp kinh doanh số có vai trò trung gian giữa hệ sinh thái Fintech và dự định khởi nghiệp kinh doanh số.
+Trong bối cảnh chuyển đối số mạnh mẽ hiện nay, nghiên cứu này đóng góp một số bằng chứng thực nghiệm để phát triển kinh doanh số tại Việt Nam.
+Từ khóa: AI, Blockchain, Crowdfunding, digital startup intention, Fintech, lý thuyết hành vi có kế hoạch.
+Mã JEL: G13; M1; M13.
+Effect of Fintech Ecosystem on Digital Entrepreneurial Intention of Vietnamese students Abstract Based on the Theory of Planned Behavior (TPB), this study investigates the effect of the Fintech ecosystem, including Fintech literacy (Blockchain, Crowdfunding, AI) and environmental support (higher education support, government support) on the digital entrepreneurial intention of Vietnamese students.
+Structural Equation Modeling (SEM) analysis of data from 549 students revealed that Fintech literacy (Blockchain, Crowdfunding, AI) and higher education support positively effect digital entrepreneurial intention.
+However, the relationship between government support and digital entrepreneurial intention is not significant.
+Furthermore, attitude toward the behavior and perceived behavioral control play mediating roles in the relation between the fintech ecosystem and digital entrepreneurial intentions.
+In the context of digital transformation, this research contributes empirical evidence for stakeholders to develop digital businesses in Vietnam.
+Keywords: AI, Blockchain, Crowdfunding, Digital Entrepreneurial Intention, Fintech, Theory of Planned Behavior.
+JEL Codes: G13; M1; M13.
+Số 327 tháng 9/2024 89
+1.
+Giới thiệu
+Ngày nay, công nghệ số hiện đại đang ngày càng mang đến nhiều sự thay đổi sâu sắc lĩnh vực khởi nghiệp và kinh doanh.
+Trong đó, Fintech đã trở thành một trong những nhân tố chủ chốt trong sự hình thành và phát triển của lĩnh vực khởi nghiệp kinh doanh số (Leong & cộng sự, 2017).
+Trong khi đó, Việt Nam là một quốc gia có nền kinh tế số và lĩnh vực khởi nghiệp vẫn còn đang phát triển (Nathan & cộng sự, 2022).
+Vì vậy, việc tìm hiểu các yếu tố công nghệ số, điển hình là Fintech tới sự hình thành dự định khởi nghiệp kinh doanh số tại Việt Nam đóng vai trò quan trọng đối với các nhà hoạch định chính sách.
+Các nghiên cứu trước đây thường tập trung vào dự định khởi sự kinh doanh truyền thống, trong khi đó khởi sự kinh doanh trong bối cảnh chuyển số vẫn còn tương đối hạn chế (Ismail & cộng sự, 2012).
+Bên cạnh đó, mặc dù các công nghệ đã được chỉ ra có vai trò quan trọng trong hình thành khởi nghiệp lĩnh vực kinh doanh số (Nambisan, 2017).
+Tuy nhiên, những công trình trước đây về khởi nghiệp kinh doanh số chủ yếu nghiên cứu về nhận thức số (Chan & cộng sự, 2017; Zaheer & cộng sự, 2019), khả năng tiếp cận Fintech (Hasan & cộng sự, 2023) và ứng dụng Fintech (Nathan & cộng sự, 2022; Stolper & Walter, 2017) hoặc nhận thức tài chính (Hasan & cộng sự, 2023) mà chưa phân tích đầy đủ mối quan hệ giữa các công nghệ đối với kinh doanh, tiêu biểu là Fintech với dự định khởi nghiệp số.
+Theo đó, Fintech không chỉ ảnh hưởng tới cách thức thành lập một doanh nghiệp mới mà còn liên quan tới việc định hình một môi trường hỗ trợ khởi nghiệp (Alkhalaileh, 2021).
+Như vậy, để đánh giá một cách toàn diện mối quan hệ giữa công nghệ Fintech và dự định khởi nghiệp số, cần phải xem xét Fintech dưới góc độ một hệ sinh thái, thúc đẩy tinh thần khởi nghiệp từ yếu tố bên trong (kiến thức, nhận thức,…) lẫn yếu tố bên ngoài (hỗ trợ từ bối cảnh, môi trường,…) (Avarmaa & cộng sự, 2022).
+Chính vì vậy, nghiên cứu này áp dụng lý thuyết hành vi có kế hoạch tìm hiểu ảnh hưởng của hệ sinh thái Fintech đến dự định khởi nghiệp số.
+Kết quả nghiên cứu được kỳ vọng sẽ đóng góp những hiểu biết hữu ích để đề xuất một số giải pháp phát triển kinh doanh số tại Việt Nam.
+2.
+Tổng quan và giả thuyết nghiên cứu
+2.1.
+Lý thuyết hành vi có kế hoạch và dự định khởi nghiệp kinh doanh số
+Khởi nghiệp kinh doanh số là việc áp dụng kỹ thuật số vào quá trình sản xuất hoặc quản lý doanh nghiệp, nhằm tạo ra giá trị mới và các hoạt động này được diễn ra trên Internet (Kraus & cộng sự, 2019).
+Lý thuyết hành vi có kế hoạch (Ajzen, 1991) là một trong những lý thuyết nổi tiếng được sử dụng để khám phá hành vi có chủ ý của cá nhân (Maheshwari & Kha, 2022).
+Theo đó, lý thuyết này cho rằng dự định thực hiện hành vi chịu ảnh hưởng bởi ba nhân tố: thái độ đối với hành vi, chuẩn chủ quan và nhận thức kiểm soát hành vi.
+Thái độ về khởi nghiệp kinh doanh số được hiểu là ý kiến tích cực hay không tích cực của một người đối với hành vi khởi nghiệp kinh doanh hái độ càng tích cực thì dự định khởi nghiệp kinh doanh số của họ càng cao.
+Nhận thức kiểm soát hành vi khởi nghiệp kinh doanh số thể hiện sự cảm nhận độ khả thi về một hành vi cụ thể của cá nhân (Ajzen, 1991).
+Khi một người nhận thấy có đầy đủ những nguồn lực cần thiết để khởi nghiệp kinh doanh số thì khả năng về dự định thực hiện hành vi đó sẽ cao hơn.
+Tuy nhiên, mối quan hệ giữa chuẩn chủ quan và dự định khởi sự kinh doanh vẫn còn nhiều tranh cãi, nhiều học giả cho rằng chuẩn chủ quan có tác động không đáng kể đến dự định khởi sự kinh doanh ở Việt Nam (Doanh & Bernat, 2019).
+Vì vậy, nghiên cứu này không xem xét ảnh hưởng của chuẩn chủ quan.
+Dựa vào cơ sở lập luận trên, các giả thuyết được đề xuất như sau:
+Giả thuyết 1a (H1a): Nhận thức về kiểm soát hành vi khởi nghiệp kinh doanh số có ảnh hưởng tích cực đến dự định khởi nghiệp kinh doanh số của sinh viên Việt Nam.
+Giả thuyết 1b (H1b): Thái độ về khởi nghiệp kinh doanh số có ảnh hưởng tích cực đến dự định khởi nghiệp kinh doanh số của sinh viên Việt Nam.
+2.2.
+Vai trò của hệ sinh thái Fintech
+Hệ sinh thái Fintech bao gồm các yếu tố phối hợp với nhau để thúc đẩy kinh tế, hòa nhập xã hội và nâng cao trải nghiệm của khách hàng, trong đó bao gồm công nghệ chuỗi khối Blockchain, huy động vốn từ cộng đồng (Crowdfunding), trí tuệ nhân tạo (Artificial Intelligence - AI), hỗ trợ khởi nghiệp của Chính phủ (Lee & Shin, 2018) và hỗ trợ khởi nghiệp của trường đại học (Muthukannan & cộng sự, 2020).
+Số 327 tháng 9/2024 90
+2.2.1.
+Nhận thức Fintech
+Hiện nay, Fintech bao gồm công nghệ chuỗi khối (Blockchain), huy động vốn từ cộng đồng (Crowdfunding) và trí tuệ nhân tạo (AI) (Von Briel & cộng sự, 2021).
+Trong đó, nhận thức Fintech là thái độ và khả năng của các cá nhân trong việc sử dụng công cụ kỹ thuật số để quản lý, phân tích và tổng hợp các tài nguyên kỹ thuật số (Hasan & cộng sự, 2023).
+Nhận thức về công dụng của Blockchain - Công nghệ chuỗi khối: Với việc sử dụng mạng phi tập trung (các chuỗi khối), Blockchain cho phép truy cập và tiếp cận dữ liệu một cách đồng thời và bảo mật (Vaigandla & cộng sự, 2023).
+Với việc sử dụng blockchain, tất cả các bên liên quan có thể truy cập và nắm bắt các công đoạn sản xuất và sản phẩm kinh doanh (Wang & cộng sự, 2022).
+Như vậy, các nguồn lực cần thiết như tài chính - vốn, tiếp thị để thực hiện hoạt động kinh doanh chỉ được cung cấp đầy đủ thông qua nền tảng Blockchain.
+Việc sử dụng các công nghệ mới nổi như Blockchain có thể góp phần tăng hiệu quả hoạt động kinh doanh, các công ty có thể khai thác và đổi mới để phát triển các sản phẩm, dịch vụ và quy trình kinh doanh vừa tận dụng được những khả năng mới này, vừa giúp tạo ra những cơ hội và đột phá mới (Festa & cộng sự, 2022).
+Được hỗ trợ thông qua công nghệ Blockchain, Fintech đã khuyến khích hàng trăm công ty khởi nghiệp xây dựng các dịch vụ như thanh toán di động và chuyển tiền quốc tế, đặc biệt không qua bất kỳ trung gian nào (Mukherjee & Pradhan, 2021), từ đó góp phần quan trọng vào việc điều tiết và phân phối tài chính thế giới.
+Hơn nữa, Blockchain có thể làm cho các mối quan hệ trở nên minh bạch và đáng tin cậy hơn đối với các doanh nhân và nhà đầu tư tiềm năng (Morkunas & cộng sự, 2019).
+Hiểu được tất cả những lợi ích trên của Blockchain từ đó thúc đẩy tinh thần của các cá nhân tham gia khởi nghiệp góp phần thúc đẩy niềm tin và thái độ tích cực của các doanh nhân đối với quá trình khởi nghiệp kinh doanh trong bối cảnh công nghệ phức tạp.
+Chính vì vậy, nhóm tác giả đề xuất giả thuyết sau:
+Giả thuyết 2a (H2a): Nhận thức về công dụng của Blockchain có ảnh hưởng tích cực đếnnhận thức về kiểm soát hành vi khởi nghiệp kinh doanh số của sinh viên Việt Nam.
+Giả thuyết 2b (H2b): Nhận thức về công dụng của Blockchain có ảnh hưởng tích cực đến thái độ về khởi nghiệp kinh doanh số của sinh viên Việt Nam.
+Giả thuyết 2c (H2c): Nhận thức về công dụng của Blockchain có ảnh hưởng tích cực đến dự định khởi nghiệp kinh doanh số của sinh viên Việt Nam.
+Nhận thức về công dụng của Crowdfunding - Gọi vốn cộng đồng qua Internet: Nổi lên như một nguồn tài trợ thay thế có giá trị trong quá trình tìm kiếm nguồn vốn tài chính từ bên ngoài (Belleflamme & cộng sự, 2014), huy động vốn từ cộng đồng thông qua Internet tạo ra một môi trường trung gian kết nối các cá nhân hay công ty mới thành lập đang tìm kiếm nguồn vốn đầu tư cho dự án của mình với các nhà tài trợ có mục tiêu đầu tư hoặc hứng thú với sản phẩm (Mollick, 2014).
+Một trong những khó khăn hàng đầu của các công ty khởi nghiệp trong gia đoạn đầu là khó khăn về tài chính (Acs, 2008), Huy động vốn từ cộng đồng được coi như là một giải pháp tài chính nhằm tháo gỡ khó khăn về tiếp cận tài chính và nguồn lực (Beltrame & cộng sự, 2023).
+Các công ty khởi nghiệp có thể huy động lượng tài chính lớn từ nguồn vốn cộng đồng (Lee & Shin, 2018; Hendrikse & cộng sự, 2018).
+Chính vì vậy, nâng cao nhận thức về vận hành và ứng dụng nền tảng huy động vốn từ cộng đồng là chìa khóa quan trọng thúc đẩy các doanh nhân khởi nghiệp kinh doanh kỹ thuật số, đặc biệt là tại các nền kinh tế đang phát triển (Phung, 2023).
+Theo đó, các giả thuyết được đề xuất như sau:
+Giả thuyết 3a (H3a): Nhận thức về công dụng của Crowdfunding có ảnh hưởng tích cực đến nhận thức về kiểm soát hành vi khởi nghiệp kinh doanh số của sinh viên Việt Nam.
+Giả thuyết 3b (H3b): Nhận thức về công dụng của Crowdfunding có ảnh hưởng tích cực đến thái độ vềkhởi nghiệp kinh doanh số của sinh viên Việt Nam.
+Giả thuyết 3c (H3c): Nhận thức về công dụng của Crowdfunding có ảnh hưởng tích cực đến dự định khởi nghiệp kinh doanh số của sinh viên Việt Nam.
+Nhận thức về công dụng của AI - Trí tuệ nhân tạo: Các nghiên cứu trước đây đã nhận định công nghệ AI có thể nâng cao năng lực cạnh tranh của các cá nhân từ đó góp phần thúc đẩy dự định khởi sự kinh doanh (Wang & cộng sự, 2022).
+Cụ thể, với việc ứng dụng linh hoạt các thuật toán thông qua việc thâm nhập, thu thập dữ liệu và phân tích thị trường, AI mang lại những thay đổi cơ bản cho tư duy khởi nghiệp bằng cách
+Số 327 tháng 9/2024 91
+tác động đến thái độ nhận thức của cá nhân đối với các cơ hội khởi nghiệp kỹ thuật số (Buxmann & cộng sự, 2021).
+AI được triển khai có chọn lọc hoặc phổ biến có khả năng tác động đến cả khả năng một cá nhân quyết định bắt đầu kinh doanh và loại hình liên doanh mà họ tiếp tục thành lập (Chalmers & cộng sự, 2021; Hendrikse & cộng sự, 2018).
+Do đó, nhận thức về AI được đánh giá là trợ thủ đắc lực thúc đẩy khởi nghiệp kinh doanh kỹ thuật số (Dabbous & Boustani, 2023).
+Khi cá nhân có nhận thức cao hơn, họ sẽ đánh giá cao về công dụng của công nghệ đó và có thái độ tích cực hơn (Belanche & cộng sự, 2019).
+Giả thuyết sau được đề xuất:
+Giả thuyết 4a (H4a): Nhận thức về công dụng của AI có ảnh hưởng tích cực đến nhận thức về kiểm soát hành vi khởi nghiệp kinh doanh số của sinh viên Việt Nam.
+Giả thuyết 4b (H4b): Nhận thức về công dụng của AI có ảnh hưởng tích cực đến thái độ về khởi nghiệp kinh doanh số của sinh viên Việt Nam.
+Giả thuyết 4c (H4c): Nhận thức về công dụng của AI có ảnh hưởng tích cực đến dự định khởi nghiệp kinh doanh số của sinh viên Việt Nam.
+2.2.2.
+Hỗ trợ môi trường
+Hỗ trợ khởi nghiệp của trường đại học: Việc cung cấp một nền giáo dục chất lượng là cách tốt nhất để phát triển tinh thần khởi nghiệp trong sinh viên (Maheshwari & Kha, 2022).
+Hiện nay, ngày càng nhiều trường đại học chú trọng thúc đẩy tinh thần kinh doanh của sinh viên thông qua thực hiện đầu tư vào các chương trình đào tạo khởi nghiệp, tăng cường trang thiết bị công nghệ thông tin,… Ngoài ra, việc ứng dụng rộng rãi công nghệ kỹ thuật số trong giáo dục đại học góp phần tạo tiền đề cho sự sáng tạo, ứng dụng công nghệ, từ đó ảnh hưởng mạnh mẽ đến dự định khởi nghiệp, đặc biệt là khởi nghiệp kinh doanh số (Dabbous & Boustani, 2023; Youseff & cộng sự, 2021).
+Dựa vào lập luận trên, nghiên cứu đề xuất giả thuyết như sau:
+Hình 1: Mô hình nghiên cứu đề xuất
+Nguồn: Nhóm tác giả
+Giả thuyết 5a (H5a): Hỗ trợ khởi nghiệp của trường đại học có ảnh hưởng tích cực đến nhận thức về kiểm soát hành vi khởi nghiệp kinh doanh số của sinh viên Việt Nam.
+Giả thuyết 5b (H5b): Hỗ trợ khởi nghiệp của trường đại học có ảnh hưởng tích cực đến thái độ về khởi nghiệp kinh doanh số của sinh viên Việt Nam.
+Số 327 tháng 9/2024 92
+Giả thuyết 5c (H5c): Hỗ trợ khởi nghiệp của trường đại học có ảnh hưởng tích cực đến dự định khởi nghiệp kinh doanh số của sinh viên Việt Nam.
+Hỗ trợ khởi nghiệp của Chính phủ: Hỗ trợ khởi nghiệp của Chính phủ bao gồm các kế hoạch và chính sách tài trợ cho các dự án khởi nghiệp như ưu đãi thuế, hỗ trợ tài chính bao gồm vay vốn sinh viên và hỗ trợ vốn khởi nghiệp (Turker & Selcuk, 2009).
+Tuy còn nhiều tranh cãi nhưng nhìn chung, sự hỗ trợ khởi nghiệp của Chính phủ nhằm góp phần thúc đẩy tinh thần khởi nghiệp và tăng cường hoạt động khởi nghiệp (Al Halbusi & cộng sự, 2023) giúp chuyển hóa niềm đam mê kinh doanh của sinh viên đại học thành ý định và hành động kinh doanh điện tử (Batool & cộng sự, 2015).
+Với nền kinh tế chuyển đổi số của Việt Nam, hỗ trợ khởi nghiệp của Chính phủ có tác động tích cực thông qua thái độ đối với khởi nghiệp kinh doanh và nhận thức kiểm soát hành vi của sinh viên đại học.
+Như vậy, giả thuyết được đề xuất như sau:
+Giả thuyết 6a (H6a): Hỗ trợ khởi nghiệp của Chính phủ có ảnh hưởng tích cực đến nhận thức về kiểm soát hành vi khởi nghiệp kinh doanh số của sinh viên Việt Nam.
+Giả thuyết 6b (H6b): Hỗ trợ khởi nghiệp của Chính phủ có ảnh hưởng tích cực đến thái độ về khởi nghiệp kinh doanh số của sinh viên Việt Nam.
+Giả thuyết 6c (H6c): Hỗ trợ khởi nghiệp của Chính phủ có ảnh hưởng tích cực đến dự định khởi nghiệp kinh doanh số của sinh viên Việt Nam.
+3.
+Phương pháp nghiên cứu
+3.1.
+Thang đo và phát triển bảng hỏi
+Các biến trong mô hình được đo lường bằng thang đo do nhóm tác giả kế thừa và điều chỉnh từ các nghiên cứu trước.
+Tất cả thang đo này được đánh giá theo thang Likert 5 mức độ, từ 1 - hoàn toàn không đồng ý đến 5 - hoàn toàn đồng ý.
+Thang đo “Blockchain” và “Crowdfunding” được điều chỉnh từ Festa & cộng sự (2022).
+Thang đo “AI” kế thừa từ Dabbous & cộng sự (2023).
+Thang đo “Hỗ trợ khởi nghiệp của trường đại học” và “Hỗ trợ khởi nghiệp của Chính phủ” kế thừa từ Youssef & cộng sự (2021).
+Thang đo “Nhận thức kiểm soát hành vi”, “Thái độ về khởi nghiệp kinh doanh số” và “Dự định khởi nghiệp kinh doanh số” phát triển từ Liñan & Chen (2009).
+Bảng hỏi được xây dựng bao gồm 2 phần, phần đầu tiên là những câu hỏi đo lường các cấu trúc trong mô hình nghiên cứu, phần thứ hai là những câu hỏi nhằm thu thập thông tin cá nhân của người phản hồi.
+Do đối tượng khảo sát là sinh viên đại học nên bảng hỏi được phát triển theo phương pháp dịch ngược để đảm bảo nội dung có tính dễ hiểu với người đọc.
+3.2.
+Cỡ mẫu và thu thập dữ liệu
+Bảng 1: Đặc điểm nhân khẩu học của mẫu nghiên cứu
+Nhân khẩu học Tần số %
+Giới tính
+Ngành học Kinh tế & Kinh doanh 296 53,92
+Kỹ thuật & Ngành khác 253 46,08
+Không 449 81,79
+Bạn đã từng kinh doanh hoặc góp vốn thành lập doanh nghiệp chưa?
+Nguồn: Nhóm tác giả
+Dữ liệu được thu thập bằng cả hình thức online và offline.
+Phiếu online được thiết kế trên Google Forms
+và gửi tới sinh viên thông qua các nền tảng mạng xã hội.
+Trong khi đó, phiếu offline được sinh viên điền
+bằng tay ngay tại các lớp học.
+Sau khi loại bỏ các trường hợp không đủ điều kiện phân tích, mẫu cuối cùng
+là 549 sinh viên.
+Số 327 tháng 9/2024 93
+AIP - AI (Cronbach’s alpha = 0,893)
+BLC - Blockchain (Cronbach’s alpha = 0,901)
+CRF - Crowdfunding (Cronbach’s alpha = 0,915)
+STS - Hỗ trợ khởi nghiệp của Chính phủ (Cronbach’s alpha = 0,847)
+HES - Hỗ trợ khởi nghiệp của trường đại học (Cronbach’s alpha = 0,881)
+Bảng 2: Thống kê mô tả, độ tin cậy Cronbach’s Alpha và hệ số tải các chỉ báo
+Các cấu trúc và chỉ báo Mean SD Skewness Kurtosis Factor
+Số 327 tháng 9/2024 94
+DEI - Dự định khởi nghiệp kinh doanh số (Cronbach’s alpha = 0,929)
+ATT - Thái độ về khởi nghiệp kinh doanh số (Cronbach’s alpha = 0,881)
+PBC – Nhận thức kiểm soát hành vi khởi nghiệp kinh doanh số (Cronbach’s alpha = 0,932)
+Nguồn: Nhóm tác giả
+Số 327 tháng 9/2024 95
+Đặc điểm nhân khẩu học của mẫu nghiên cứu thể hiện trong Bảng 1 cho thấy phần lớn là sinh viên nữ (chiếm 57,55%) tham gia khảo sát.
+Kết quả cũng thể hiện 53,92% là sinh viên ngành kinh tế & kinh doanh.
+Ngoài ra, đa số sinh viên chưa từng có kinh nghiệm trong kinh doanh (81,79%).
+3.3.
+Phương pháp phân tích dữ liệu
+Để đánh giá mối quan hệ tác động trong mô hình nghiên cứu, nhóm tác giả sử dụng các phương pháp phân tích định lượng.
+Trước hết, đánh giá thang đo với phân tích thống kê mô tả, độ tin cậy Cronbach’s Alpha, phân tích nhân tố khám phá (EFA) và phân tích nhân tố khẳng định (CFA).
+Sau đó, kiểm định mô hình và các giả thuyết đề xuất bằng phân tích mô hình cấu trúc tuyến tính (SEM) và phương pháp Bootstrapping.
+4.
+Kết quả nghiên cứu
+4.1.
+Đánh giá thang đo
+Bảng 2 cho thấy các chỉ báo đều có giá trị skewness thấp hơn 3 và giá trị kurtosis nhỏ hơn 8 (Hair & cộng sự, 2010).
+Do đó, các thang đo đều đạt yêu cầu về tính quy phạm đơn biến.
+Ngoài ra, các giá trị Cronbach’s Alpha đều nằm trong mức kỳ vọng là lớn hơn 0,6 (Hair & cộng sự, 2010).
+Hơn nữa, hệ số tải nhân tố của tất cả các mục đều cao hơn ngưỡng 0,3.
+Như vậy, các thang đo đã thỏa mãn điều kiện về độ tin cậy.
+Giá trị hội tụ và giá trị phân biệt của tất cả các thang đo được đánh giá bằng mô hình đo lường với phân tích nhân tố khẳng định (CFA).
+Kết quả CMIN/df = 1,710 < 3 (tốt), CFI = 0,968 > 0,95 (rất tốt), GFI = 0,9 (tốt), TLI = 0,965 > 0,9 (tốt), RMSEA = 0,036 < 0,06 (tốt) và PCLOSE = 1 > 0,05 (tốt) (Hu & Bentler, 1999).
+Do đó, mô hình đo lường phù hợp với dữ liệu thị trường.
+Ngoài ra, phương sai trích (AVE) và độ tin cậy tổng hợp (CR) được sử dụng để đánh giá tính hội tụ và tính phân biệt của các biến (Anderson & Gerbing, 1988; Hair & cộng sự, 2010).
+Kết quả trong Bảng 3 thể hiện giá trị CR cho tất cả cấu trúc được ghi nhận là cao hơn 0,8 và giá trị AVE cao hơn 0,5.
+Đồng thời, phân tích nhân tố khẳng định (CFA) cũng chỉ ra rằng tất cả các biến đều có thể có trọng số hồi quy chuẩn hóa cao hơn 0,6.
+Như vậy, các thang đo đều thỏa mãn điều kiện về tính hội tụ và phân biệt.
+Bảng 3: Độ tin cậy, tính hội tụ, tính phân biệt của thang đo
+CR AVE MSV MaxR(H) PBC DEI CRF HES BLC ATT STS AIP
+Nguồn: Nhóm tác giả
+4.2.
+Kiểm định mô hình và giả thuyết đề xuất
+Phân tích mô hình cấu trúc tuyến tính (SEM) được tiến hành để khám phá các mối quan hệ trong nghiên cứu mô hình.
+Tương tự với mô hình đo lường, các chỉ số cũng thể hiện mô hình cấu trúc tuyến tính có độ phù hợp với dữ liệu đầu vào.
+Cụ thể, CMIN/df = 1,725 < 3 (tốt), CFI = 0,962 > 0,95 (rất tốt), TLI = 0,958 > 0,9 (tốt), RMSEA = 0,036 < 0,06 (tốt) và PCLOSE = 1 > 0,05 (tốt) (Hu & Bentler, 1999).
+Ngoài ra, chỉ số GFI = 0,892 > 0,8 phù hợp với khuyến nghị của Doll & cộng sự (1994) và Baumgartner & Homburg (1996).
+Kết quả các giả thuyết được trình bày trong Hình 2 và Bảng 4.
+Hầu hết các giả thuyết đều được chấp nhận, ngoại trừ tác động trực tiếp của hỗ trợ khởi nghiệp của Chính phủ đến nhận thức kiểm soát hành vi khởi nghiệp kinh doanh số, thái độ về khởi nghiệp kinh doanh số và dự định khởi nghiệp kinh doanh số bởi p-value > 0,05.
+Kết quả nghiên cứu chỉ ra rằng nhận thức kiểm soát hành vi khởi nghiệp kinh doanh số và thái độ về khởi nghiệp số tác động tích cực đến dự định khởi nghiệp số (β = 0,286; β = 0,195).
+Khám phá này phù hợp với
+Số 327 tháng 9/2024 96
+các nghiên cứu trước đây (Al Halbusi & cộng sự, 2023; Youssef & cộng sự, 2021).
+Như vậy, những cá nhân
+có năng lực tự kinh doanh và thái độ tích cực trong việc trở thành một doanh nhân trong tương lai sẽ có dự
+định khởi nghiệp số cao hơn.
+Hình 2: Kết quả phân tích mô hình cấu trúc tuyến tính - SEM (chuẩn hóa)
+Nguồn: Nhóm tác giả
+Xét về vai trò của nhận thức Fintech, cho thấy Blockchain, Crowdfunding và AI có ảnh hưởng tích cực đến nhận thức kiểm soát hành vi khởi nghiệp kinh doanh số (β = 0,252; β = 0,097; β = 0,496).
+Ngoài ra, Blockchain, Crowdfunding và AI cũng có tác động thuận chiều với thái độ hướng tới khởi nghiệp số (β = 0,188; β = 0,182; β = 0,296).
+Kết quả này phù hợp với nhiều nghiên cứu trước đây (Chalmers & cộng sự, 2021; Akhter & cộng sự, 2022).
+Bên cạnh đó, Blockchain, Crowdfunding, AI được tìm thấy ảnh hưởng tích cực và trực tiếp đến dự định khởi nghiệp số (β = 0,096; β = 0,122; β = 0,160).
+Kết quả này tương đồng với nhiều nghiên cứu trước đây (Festa & cộng sự, 2022; Ekpe & cộng sự, 2017; Chalmers & cộng sự 2021).
+Như vậy, Blockchain, Crowdfunding, AI đóng vai trò quan trọng trong việc thúc đẩy dự định khởi nghiệp số (Wright & cộng sự, 2007).
+Theo đó, kiến thức và kỹ năng về áp dụng Fintech giúp các doanh nhân tiềm năng thúc đẩy khả năng sáng tạo, tạo ra cơ hội đổi mới cũng như tăng cường khả năng đáp ứng linh hoạt trong môi trường kinh doanh số.
+Kết quả nghiên cứu cho thấy hỗ trợ khởi nghiệp của trường đại học có ảnh hưởng thuận chiều đến nhận thức kiểm soát hành vi khởi nghiệp kinh doanh số (β = 0,089) và thái độ về khởi nghiệp (β = 0,205).
+Kết quả này tương đồng với các nghiên cứu trước đây (Baterna & cộng sự, 2020; Mugion & cộng sự, 2020).
+Hỗ trợ khởi nghiệp của trường đại học cũng ảnh hưởng trực tiếp đến dự định khởi nghiệp kinh doanh số (β = 0,162).
+Điều này được giải thích bởi trường đại học không chỉ cung cấp kiến thức chuyên sâu, kỹ năng cần thiết để giúp sinh viên tự tin hơn trong hoạt động khởi nghiệp số mà còn tạo ra môi trường thích hợp để sinh viên phát triển ý tưởng kinh doanh về bối cảnh chuyển đổi số.
+Trong khi đó, hỗ trợ khởi nghiệp Chính phủ không ảnh hưởng đến nhận thức kiểm soát hành vi khởi nghiệp kinh doanh số thái độ hướng tới khởi nghiệp số và dự định khởi nghiệp số.
+Số 327 tháng 9/2024 97
+Bảng 4: Kết quả kiểm định các giả thuyết (chuẩn hóa)
+Giả thuyết Ước lượng P-value Kết luận
+H1a PBC -> DEI 0,286 *** Chấp nhận
+H1b ATT -> DEI 0,195 *** Chấp nhận
+H2a BLC -> PBC 0,252 *** Chấp nhận
+H2b BLC -> ATT 0,188 *** Chấp nhận
+H2c BLC -> DEI 0,096 * Chấp nhận
+H3a CRF -> PBC 0,097 * Chấp nhận
+H3b CRF -> ATT 0,182 ** Chấp nhận
+H3c CRF -> DEI 0,122 ** Chấp nhận
+H4a AIP -> PBC 0,496 *** Chấp nhận
+H4b AIP -> ATT 0,269 *** Chấp nhận
+H4c AIP -> DEI 0,160 ** Chấp nhận
+H5a HES -> PBC 0,089 * Chấp nhận
+H5b HES -> ATT 0,205 *** Chấp nhận
+H5c HES -> DEI 0,162 *** Chấp nhận
+H6a STS -> PBC -0,051 0,110 Không chấp nhận
+H6b STS -> ATT -0,032 0,391 Không chấp nhận
+H6c STS -> DEI 0,030 0,306 Không chấp nhận
+Ghi chú: *** p < 0,001, ** p < 0,010, * p < 0,050 Nguồn: Nhóm tác giả
+Để đánh giá mô hình trung gian, phương pháp Bootstrapping với 5000 mẫu và khoảng tin cậy 95% được áp dụng.
+Kết quả thể hiện cảm nhận kiểm soát hành vi khởi nghiệp kinh doanh số và thái độ đều đóng vai trò trung gian giữa nhận thức Fintech (Blockchain, Crowdfunding, AI), hỗ trợ khởi nghiệp của trường đại học và dự định khởi nghiệp kinh doanh số.
+Tuy nhiên, mối quan hệ giữa hỗ trợ khởi nghiệp của Chính phủ và dự định khởi nghiệp kinh doanh không có ý nghĩa.
+5.
+Kết luận và kiến nghị
+Nghiên cứu này dựa vào lý thuyết hành vi có kế hoạch (TPB) để khám phá ảnh hưởng của hệ sinh thái Fintech đến dự định khởi nghiệp số của sinh viên Việt Nam thông qua các thành tố nhận thức Fintech và hỗ trợ môi trường.
+Đối với các trường đại học, đây là thành phần đóng vai trò quan trọng trong việc thúc đẩy tinh thần khởi nghiệp.
+Vì vậy, các trường đại học có thể thông qua việc bổ sung các chương trình giáo dục liên quan đến khởi nghiệp số và Fintech để nâng cao hiểu biết, nhận thức và kỹ năng Fintech.
+Các hoạt động có thể bao gồm tổ chức các câu lạc bộ khởi nghiệp, tổ chức các chương trình giáo dục mời các doanh nhân nổi tiếng để đưa hình ảnh doanh nhân thành công đến gần gũi với sinh viên hơn hay là các hoạt động kỹ năng thực tế và các cuộc thi khởi nghiệp số để khuyến khích học sinh có những trải nghiệm và tiếp cận sớm với thực tiễn.
+Các trường đại học cũng có thể tổ chức các hoạt động ngoại khóa, các cuộc thi ý tưởng khởi nghiệp số và cuộc thi, hội thảo cấp trường và liên trường để tăng cường hiểu biết của sinh viên về Fintech.
+Đối với Chính phủ, khởi nghiệp số có thể giảm tỷ lệ thất nghiệp đồng thời gia tăng GDP và phát triển kinh tế bền vững.
+Vì vậy, Chính phủ nên thiết lập một hệ sinh thái thuận lợi để khuyến khích tinh thần khởi nghiệp của sinh viên thông qua các thể chế, pháp luật và chính sách thúc đẩy môi trường khởi nghiệp.
+Ngoài ra, chính phủ nên tăng cường tuyên truyền về Fintech và có chính sách hỗ trợ tốt hơn đối với các doanh nghiệp kinh doanh trong lĩnh vực kinh doanh số.
+Nghiên cứu vẫn còn một số hạn chế nhất định.
+Thứ nhất, nghiên cứu này mang tính thời điểm, khi nghiên cứu về hành vi của cá nhân cần phải nghiên cứu đa thời điểm để có kết quả chính xác hơn.
+Do đó, các nghiên cứu trong tương lai có thể hướng tới các nghiên cứu đa thời điểm để xem xét tác động nhận thức Fintech tới hành vi khởi nghiệp.
+Thứ hai, hệ sinh thái Fintech có rất nhiều yếu tố ảnh hưởng đến dự định khởi nghiệp
+Số 327 tháng 9/2024 98
+số, tuy nhiên chúng tôi chỉ nghiên cứu mức độ ảnh hưởng của nhận thức về Fintech và hỗ trợ môi trường.
+Vì vậy, các nghiên cứu trong tương lai nên xem xét đầy đủ hơn các yếu tố tác động đến dự định khởi nghiệp kinh doanh số.
+Tài liệu tham khảo
+Acs, Z. J.
+(2008), ‘Foundations of high impact entrepreneurship’, Foundations and Trends in Entrepreneurship, 4(6),
+Ajzen, I.
+(1991), ‘The theory of planned behavior’, Organizational Behavior and Human Decision Processes, 50(2),
+Akhter, A. K. M. Islam, A.
+Md., Karim M. and Latif, W.B.
+(2022), ‘Examining determinants of digital entrepreneurial
+intention: A case of graduate students’, Problems and Perspectives in Management, 20(3), 153-163.
+Al Halbusi, H., Soto-Acosta, P., & Popa, S. (2023), ‘Analysing e-entrepreneurial intention from the theory of planned
+behaviour: the role of social media use and perceived social support’, International Entrepreneurship and Management Journal, 19(4), 1611-1642.
+Alkhalaileh, M. Y.
+(2021), ‘Systematic Review: Digital Entrepreneurship Intention’, Network Intelligence Studies,
+Anderson, J. C., & Gerbing, D. W. (1988), ‘Structural equation modeling in practice: A review and recommended twostep approach’, Psychological Bulletin, 103(3), 411-423.
+Avarmaa, M., Torkkeli, L., Laidroo, L., & Koroleva, E. (2022), ‘The interplay of entrepreneurial ecosystem actors
+and conditions in FinTech ecosystems: An empirical analysis’, Journal of Entrepreneurship, Management and Innovation, 18(4), 79-113.
+Baumgartner, H., & Homburg, C. (1996), ‘Applications of structural equation modeling in marketing and consumer
+research: A review’, International journal of Research in Marketing, 13(2), 139-161.
+Batool, H., Rasheed, H., Malik, M. I., & Hussain, S. (2015), ‘Application of partial least square in predicting
+e-entrepreneurial intention among business students: evidence from Pakistan’, Journal of Innovation and Entrepreneurship, 4(1), 1-16.
+Belanche, D., Casaló, L. V., & Flavián, C. (2019), ‘Artificial Intelligence in FinTech: understanding robo-advisors
+adoption among customers’, Industrial Management & Data Systems, 119(7), 1411-1430.
+Belleflamme, P., Lambert, T., & Schwienbacher, A.
+(2014), ‘Crowdfunding: Tapping the right crowd’, Journal of
+Business Venturing, 29(5), 585-609.
+Beltrame, F., Grassetti, L., Bertinetti, G. S., & Sclip, A.
+(2023), ‘Relationship lending, access to credit and entrepreneurial
+orientation as cornerstones of venture financing’, Journal of Small Business and Enterprise Development, 30(1), 4-29.
+Buxmann, P., Hess, T., & Thatcher, J.
+B.
+(2021), ‘AI-based information systems’, Business & Information Systems
+Engineering, 63(1), 1-4.
+Chalmers, D., MacKenzie, N. G., & Carter, S. (2021), ‘Artificial intelligence and entrepreneurship: Implications for
+venture creation in the fourth industrial revolution’, Entrepreneurship Theory and Practice, 45(5), 1028-1053.
+Chan, B. S., Churchill, D., & Chiu, T. K. (2017), ‘Digital literacy learning in higher education through digital storytelling
+approach’, Journal of International Education Research, 13(1), 1-16.
+Dabbous, A., & Boustani, N. M. (2023).
+‘Digital explosion and entrepreneurship education: Impact on promoting
+entrepreneurial intention for business students’, Journal of Risk and Financial Management, 16(1), 27-48
+Doanh, D. C., & Bernat, T. (2019), ‘Entrepreneurial self-efficacy and intention among Vietnamese students: A metaanalytic path analysis based on the theory of planned behavior’, Procedia Computer Science, 159, 2447-2460.
+Doll, W. J., Xia, W., & Torkzadeh, G. (1994), ‘A confirmatory factor analysis of the end-user computing satisfaction
+instrument’, MIS Quarterly, 18(4), 453-461.
+Festa, G., Elbahri, S., Cuomo, M. T., Ossorio, M., & Rossi, M. (2022), ‘FinTech ecosystem as influencer of young
+entrepreneurial intentions: empirical findings from Tunisia’, Journal of Intellectual Capital, 24(1), 205-226.
+Hasan, M., Noor, T., Gao, J., Usman, M., & Abedin, M. Z.
+(2023), ‘Rural consumers’ financial literacy and access to
+FinTech services’, Journal of the Knowledge Economy, 14(2), 780-804.
+Số 327 tháng 9/2024 99
+Hendrikse, R., Bassens, D., & Van Meeteren, M. (2018), ‘The Appleization of finance: Charting incumbent finance’s
+embrace of FinTech’, Finance and Society, 4(2), 159-180.
+Hu, L. T., & Bentler, P. M. (1999), ‘Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria
+versus new alternatives’, Structural Equation Modeling, 6(1), 1-55.
+Ismail, N., Jaffar, N., Khan, S., & Leng, T. S. (2012), ‘Tracking the cyber entrepreneurial intention of private universities
+students in Malaysia’, International Journal of Entrepreneurship and Small Business, 17(4), 538-546.
+Kraus, S., Palmer, C., Kailer, N., Kallinger, F. L., & Spitzer, J.
+(2019), ‘Digital entrepreneurship: A research agenda
+on new business models for the twenty-first century’, International Journal of Entrepreneurial Behavior & Research, 25(2), 353-375.
+Lee, I., & Shin, Y. J.
+(2018), ‘Fintech: Ecosystem, business models, investment decisions, and challenges’, Business
+Horizons, 61(1), 35-46.
+Leong, C., Tan, B., Xiao, X., Tan, F. T. C., & Sun, Y.
+(2017), ‘Nurturing a FinTech ecosystem: The case of a youth
+microloan startup in China’, International Journal of Information Management, 37(2), 92-97.
+Liñán, F., & Chen, Y. W. (2009), ‘Development and cross–cultural application of a specific instrument to measure
+entrepreneurial intentions’, Entrepreneurship Theory and Practice, 33(3), 593-617.
+Maheshwari, G., & Kha, K. L. (2022), Investigating the relationship between educational support and entrepreneurial
+intention in Vietnam: The mediating role of entrepreneurial self-efficacy in the theory of planned behavior, retrieved on October 12th 2023, from <https://doi.org/10.1016/j.ijme.2021.100553>.
+Mollick, E. (2014), ‘The dynamics of crowdfunding: An exploratory study’, Journal of Business Venturing, 29(1), 1-16.
+Morkunas, V. J., Paschen, J., & Boon, E. (2019), ‘How blockchain technologies impact your business model’, Business
+Horizons, 62(3), 295-306.
+Muthukannan, P., Tan, B., Gozman, D., & Johnson, L. (2020), The emergence of a fintech ecosystem: A case study of the
+Vizag Fintech Valley in India, retrieved on October 12th 2023, from <https://doi.org/10.1016/j.im.2020.103385>.
+Mukherjee, P., & Pradhan, C. (2021), ‘Blockchain 1.0 to blockchain 4.0—The evolutionary transformation of
+blockchain technology’, in Blockchain technology: applications and challenges, Panda, S. K.
+(ed.
+), Springer International Publishing, Cham, Switzerland.
+Nambisan, S. (2017), ‘Digital entrepreneurship: Toward a digital technology perspective of entrepreneurship’,
+Entrepreneurship Theory and Practice, 41(6), 1029-1055.
+Nathan, R. J., Setiawan, B., & Quynh, M. N. (2022), ‘Fintech and financial health in Vietnam during the COVID-19
+pandemic: In-depth descriptive analysis’, Journal of Risk and Financial Management, 15(3), 125.
+DOI: https:// doi.org/10.3390/jrfm15030125.
+Phung, T. M. (2023), Vietnam Fintech Industry and Government Support: A Role of Fintech Entrepreneurial Intention,
+retrieved on October 12th 2023, from <https://doi.org/10.1007/s11115-023-00708-2>.
+Stolper, O.
+A., & Walter, A.
+(2017), ‘Financial literacy, financial advice, and financial behavior’, Journal of Business
+Economics, 87(5), 581-643.
+Turker, D., & Selcuk, S. S. (2009), ‘Which factors affect entrepreneurial intention of university students?’, Journal of
+European Industrial Training, 33(2), 142-159.
+Vaigandla, K. K., Karne, R., Siluveru, M., & Kesoju, M. (2023), ‘Review on Blockchain Technology: Architecture,
+Characteristics, Benefits, Algorithms, Challenges and Applications’, Mesopotamian Journal of CyberSecurity, 2023, 73-85.
+Von Briel, F., Selander, L., Hukal, P., Lehmann, J., Rothe, H., Fürstenau, D., ... & Wurm, B.
+(2021), ‘Researching digital
+entrepreneurship: Current issues and suggestions for future directions’, Communications of the Association for Information Systems, 48, 284-304.
+Wang, Z., Li, M., Lu, J., & Cheng, X.
+(2022), Business Innovation based on artificial intelligence and Blockchain
+technology, retrieved on October 12th 2023, from <https://doi.org/10.1016/j.ipm.2021.102759>.
+Wright, M., Hmieleski, K. M., Siegel, D. S., & Ensley, M. D. (2007), ‘The role of human capital in technological
+entrepreneurship’, Entrepreneurship Theory and Practice, 31(6), 791-806.
+Youssef, A.
+B., Boubaker, S., Dedaj, B., & Carabregu-Vokshi, M. (2021), Digitalization of the economy and
+entrepreneurship intention, retrieved on October 26th 2023, from <https://doi.org/10.1016/j.techfore.2020.120043>
+Zaheer, H., Breyer, Y., & Dumay, J.
+(2019), Digital entrepreneurship: An interdisciplinary structured literature review
+and research agenda, retrieved on October 17th 2023, from <https://doi.org/10.1016/j.techfore.2019.119735>.
+Số 327 tháng 9/2024 100
+Tạp chí Phát hành qua mạng lưới bưu điện Việt Nam

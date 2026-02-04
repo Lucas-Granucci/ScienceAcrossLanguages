@@ -1,0 +1,244 @@
+MEDICAL RESEARCH JOURNAL
+PREVALENCE/SUSPECTED PREVALENCE OF COVID-19 AMONG HEALTHCARE WORKERS PARTICIPATING IN EPIDEMIC PREVENTION IN SELECTED PROVINCES/CITIES AND UNIVERSITIES IN VIETNAM IN 2021–2022 AND RELATED FACTORS
+Dang Thi Huong, Do Nam Khanh, Hoang Thi Hai Van, and Le Minh Giang*
+Hanoi Medical University
+This study was conducted to determine the prevalence/suspected prevalence of COVID-19 among healthcare workers involved in epidemic prevention in 7 provinces/cities and 3 universities in Vietnam in 2021–2022 and the related factors.
+The study results showed that 76.7% (703/917) of healthcare workers participating in epidemic prevention in 2021–2022 had contracted or were suspected to have contracted COVID-19.
+The prevalence/suspected prevalence of COVID-19 among healthcare workers varied by age group, and females were predominant compared to males (p < 0.05).
+Most healthcare workers (410/703; 58.3%) who had contracted or were suspected to have contracted COVID-19 did so while participating in epidemic prevention at their place of employment or in the locality where they were working.
+Nurses had the highest prevalence/suspected prevalence of COVID-19 among occupational groups/positions (41.7%) (p < 0.05).
+Overall, the COVID-19 vaccination rate among healthcare workers was high, and there was a statistically significant difference in the prevalence/suspected prevalence of COVID-19 among healthcare worker groups who had not been vaccinated or had received different numbers of COVID-19 vaccine doses.
+Keywords: Prevalence/suspected cases, COVID-19, healthcare workers, related factors, Vietnam.
+I.
+INTRODUCTION
+Originating from the first epicenter in Wuhan, China at the end of December 2019, COVID-19 rapidly spread to most countries and territories around the world, becoming a global pandemic.
+To date, the world has experienced multiple waves of the COVID-19 pandemic with various variants, leading to an unprecedented crisis in health, economy, and society.
+Vietnam, prior to the fourth wave of the COVID-19 pandemic (April 2021), had successfully contained community outbreaks despite the continued introduction of SARS-CoV-2 cases via international arrivals.
+However, the incursion of the highly transmissible Delta variant, first detected in April 2021, threatened Vietnam’s success in COVID-19 control.
+This placed significant pressure on the entire healthcare system, especially the frontline healthcare workers at hospitals, centers for disease control, health centers, and medical stations.
+By the end of 2021, as the Delta variant outbreak subsided and came under control in the southern provinces, Vietnam shifted from a Zero COVID policy to one of safe, flexible, and effective adaptation and control of the COVID-19 pandemic (Resolution 128/NQ-CP).
+Nevertheless, the surge of the Omicron variant in early 2022 led to a peak in COVID-19 cases compared to previous pandemic waves.
+This situation continued to require the mobilization of the entire political system and further efforts from all healthcare staff in pandemic prevention and control.
+Hanoi Medical University
+Email: leminhgiang@hmu.edu.vn
+Date received: 06/03/2023
+In order to promptly respond to the unpredictable developments and rapid spread of the pandemic, in 2021–2022, tens of thousands of medical staff...
+Date accepted: 16/03/2023
+MEDICAL RESEARCH JOURNAL
+...were excluded from the study (due to being off duty/on leave, etc.
+); healthcare workers who refused to participate in the study.
+2.
+Methodology
+Study design
+The study was conducted using a cross-sectional descriptive method.
+Research locations
+Seven provinces/cities (Hanoi, Bac Ninh, Bac Giang, Nghe An, Dak Lak, Binh Duong, Kien Giang) and three universities (Hanoi Medical University, Can Tho University of Medicine and Pharmacy, Ho Chi Minh City University of Medicine and Pharmacy).
+Data collection period
+From May to October 2022.
+Sample size
+The total number of healthcare workers participating in the study at 7 provinces/cities and 3 universities was 917.
+Sampling
+A multistage sampling method was applied.
+Step 1: Selection of provinces and universities.
+Purposefully selected 7 key provinces in the country based on their pandemic response status in 2021: Binh Duong, Kien Giang, Dak Lak, Bac Giang, Bac Ninh, Hanoi, Nghe An, and 3 universities that sent numerous staff and students to support pandemic prevention and control efforts in 2021: Hanoi Medical University, Ho Chi Minh City University of Medicine and Pharmacy, Can Tho University of Medicine and Pharmacy.
+Step 2: Selection of districts, communes, and healthcare facilities.
+Healthcare workers were mobilized to participate in local treatment, prevention, and on-site testing efforts, as well as to reinforce and support provinces and cities considered pandemic hotspots.
+The process of engaging in pandemic control under significant pressure and over an extended period has had a substantial impact on both the physical and mental health of healthcare workers.
+In addition to coping with mental health issues and physical challenges, healthcare workers also faced a much higher risk of exposure to COVID-19 compared to the general population.
+A study conducted up to May 2020 on more than 24,000 COVID-19 cases in Ontario, Canada, indicated that the proportion of healthcare workers infected was 17.5%, and their incidence rate was 5.5 times higher than that of non-healthcare workers.
+In Vietnam, a cross-sectional descriptive study in Dak Lak in early 2022 reported a COVID-19 infection rate among healthcare workers of 47.8%.
+Among these, age group, years of service, ethnicity, workplace, smoking, underlying health conditions, and vaccination status were found to be associated with the prevalence of COVID-19 among healthcare workers.6 To investigate the prevalence of COVID-19 among healthcare workers involved in pandemic prevention and control, as well as related factors up to the end of 2022 and on a broader scale (seven provinces/cities and three universities), we conducted the study titled “Prevalence/Suspected Cases of COVID-19 Among Healthcare Workers Participating in Pandemic Prevention and Control in Selected Provinces, Cities, and Universities in Vietnam in 2021–2022 and Related Factors.” II.
+SUBJECTS AND METHODS
+1.
+Subjects
+Inclusion criteria
+Healthcare workers directly involved in COVID-19 prevention and control in 2021–2022.
+Exclusion criteria
+Healthcare workers who were absent during the study period
+In each province, the Provincial/City General Hospital and Provincial CDC were purposefully selected, and two districts were randomly chosen.
+In each district, the District Health Center and District General Hospital were purposefully selected for the study, and three communes were randomly selected.
+In Hanoi, due to specific characteristics related to treatment facilities, the study was conducted at two Grade I hospitals under the Department of Health located in the selected districts, instead of at the Provincial/District General Hospital as in other provinces.
+Step 3: Select healthcare workers from the sampling frame.
+The selected healthcare workers were interviewed using a quantitative questionnaire developed by the research team based on reference materials and revised after pilot testing.
+The interviews were conducted directly by the investigators, using tablets via the REDCap software.
+The investigators included staff and postgraduate students from Hanoi Medical University who had received thorough training on the research and the questionnaire prior to participating in the interviews.
+Data Processing
+The data were cleaned, processed, and analyzed using STATA 15.0 software (StataCorp, Texas, USA).
+Descriptive statistical methods (calculating mean and standard deviation for quantitative variables and frequency and percentage for qualitative variables) and Fisher’s exact test were applied to describe information on the prevalence/suspected cases of COVID-19 among healthcare workers and related factors.
+3.
+Research Ethics
+From the sampling frame, which consists of the list of healthcare workers participating in pandemic prevention and control in 2021–2022 at the units provided by the personnel/administrative planning department, healthcare workers were randomly selected according to the purposively allocated numbers.
+Specifically, for each province (except Hanoi), an equal selection of 100 healthcare workers was made, including 25–28 provincial-level healthcare workers (5–8 at the provincial Center for Disease Control and 20 at the Provincial General Hospital), 40 district-level healthcare workers (from 2 districts, with 20 healthcare workers per district), 30 commune-level healthcare workers (from 3 communes per district, with 5 healthcare workers per commune), and 2–5 healthcare workers from private healthcare facilities.
+In Hanoi, the number of healthcare workers interviewed at each Grade I hospital was 100.
+Additionally, at each hospital, the sample selection was evenly distributed between doctors and nurses.
+For training institutions, 20 healthcare workers were selected from Can Tho University of Medicine and Pharmacy, 40 healthcare workers from Ho Chi Minh City University of Medicine and Pharmacy, and 40 healthcare workers from Hanoi Medical University.
+Research Variables/Indicators
+The prevalence of healthcare workers who have ever had/suspected to have had COVID-19 and the contexts of infection/suspected infection.
+This study is part of the Ministry of Health-level scientific and technological research project “Assessment and Forecast of Effective Health Workforce Response to COVID-19 in Vietnam.” The study was approved by the Ethics Committee in Biomedical Research, Hanoi Medical University (756/GCN-HĐĐĐNCYYSSH-ĐHYHN dated February 14, 2023).
+All healthcare workers participating in the study were fully informed and agreed to take part in the research.
+Data were collected honestly and used solely for research purposes.
+Personal information of participants was coded and kept strictly confidential.
+Demographic information (age, gender, ethnicity); professional title and workplace; history of exposure to patients/suspected cases of COVID-19 at varying levels; history of COVID-19 vaccination by number of doses and types of vaccine combinations were included.
+MEDICAL RESEARCH JOURNAL
+III.
+RESULTS
+Chart 1.
+The prevalence of healthcare workers who had or were suspected to have had COVID-19 (n = 917) is defined as having suspected symptoms of COVID-19 but either not being tested or testing negative (using rapid tests).
+The study results showed that 703 out of 917 (76.7%) healthcare workers who participated in pandemic prevention and control from 2021 to 2022 had experienced infection or were suspected of having COVID-19.
+Suspected cases of COVID-19 here are
+Chart 2.
+Contexts of COVID-19 infection among healthcare workers (n = 703)
+but the source of infection was unknown (51; 7.3%), contracted while participating in pandemic prevention in other local areas within the same province (37; 5.3%), and finally, contracted COVID-19 while participating in pandemic prevention in another province (4; 0.6%).
+Among the 703 healthcare workers who had or were suspected to have had COVID-19, the most common context of infection/suspicion was during participation in pandemic prevention at their local area/workplace (410; 58.3%), followed by infection at home (227; 32.3%), and
+MEDICAL RESEARCH JOURNAL
+Table 1.
+Prevalence of healthcare workers having had/suspected of having COVID-19 by demographic characteristics (n = 917).
+Total n (%) p-value*
+Characteristic Never had COVID-19 n (%) Had/suspected COVID-19 n (%)
+≥ 50 28 (13.1) 32 (4.6) 60 (6.5)
+* Fisher's exact test
+and gender are statistically significant (p < 0.05).
+The prevalence of healthcare workers who had or were suspected to have had COVID-19 was fairly similar between the Kinh ethnic group and other ethnic groups.
+Most healthcare workers who had or were suspected to have had COVID-19 (436; 47.6%) were in the 30–39 age group, and females had higher rates than males.
+The difference in prevalence/suspected cases among age groups is shown in Table 2.
+Prevalence/Suspected Cases of COVID-19 Among Healthcare Workers by Professional Title and Working Unit (n = 917)
+Total n (%) p-value*
+Characteristic Never had COVID-19 n (%) Had/suspected COVID-19 n (%)
+Professional title
+Bachelor of Public Health 7 (3.3) 11 (2.0) 18 (2.0)
+Other (population collaborators, midwives, pharmacists, etc.)
+16 (7.5) 56 (8.0) 72 (7.9)
+MEDICAL RESEARCH JOURNAL
+Total n (%) p-value*
+Characteristic Never had COVID-19 n (%) Had/suspected COVID-19 n (%)
+Working unit
+* Fisher’s exact test
+Among healthcare workers who had or were suspected of having COVID-19, nurses and doctors accounted for the highest proportions.
+However, the difference in prevalence/suspected cases among professional title groups was not statistically significant (p = 0.543).
+Healthcare workers in provincial/city general hospitals, district health centers/district general hospitals, and commune/ward health stations had the highest rates of infection/suspected infection among the five working unit groups.
+Table 3.
+Prevalence of healthcare workers with a history of COVID-19 infection/suspected infection by exposure history (n = 917)
+| Total n (%) | p value* | Exposure history | Never had COVID-19 n (%) | Had/suspected COVID-19 n (%) |
+| Ever had direct contact in wards/community at a distance less than 2m | 209 (97.7) | 684 (97.3) | 893 (97.4) | 1.000 |
+| Ever worked in ward/community areas at a distance greater than 2m | 202 (94.4) | 647 (92.0) | 849 (92.6) | 0.139 |
+| Ever worked in the same area with colleagues who had direct contact in ward/community at less than 2m | 206 (96.3) | 670 (95.3) | 876 (95.5) | 0.833 |
+| Ever cleaned/disinfected in ward/community while patients/suspected patients were present | 72 (33.6) | 284 (40.4) | 356 (38.8) | 0.112 |
+| Ever cleaned/disinfected ward/community after patients/suspected patients had left | 66 (30.8) | 260 (37.0) | 326 (35.6) | 0.142 |
+| Ever directly worked in treatment/care areas for patients in COVID-19 intensive care units | 90 (42.1) | 316 (45.0) | 406 (44.3) | 0.591 |
+MEDICAL RESEARCH JOURNAL
+| Total n (%) | p value* | Exposure history | Never had COVID-19 n (%) | Had/suspected COVID-19 n (%) |
+| Ever had direct contact with patients/suspected cases in the family (due to family member having/suspected to have COVID-19) | 142 (66.4) | 562 (79.9) | 704 (76.8) | 0.000 |
+* Fisher's exact test
+In general, most healthcare workers participating in the study had been exposed to confirmed or suspected COVID-19 cases at varying levels.
+The proportions of those who had direct contact with COVID-19 patients/suspected cases in wards/community settings at a distance less than 2m, those who had worked in ward/community areas with cases at a distance greater than 2m, and those who had worked in the same area with colleagues who directly contacted COVID-19 patients/suspected cases within 2m, were all above 90%.
+There was no difference in the prevalence of healthcare workers who had or were suspected to have had COVID-19 between groups with and without exposure to risk factors in different settings.
+The prevalence/suspected cases of COVID-19 among healthcare workers who had direct contact with family members infected/suspected of being infected was higher than among those who did not have such contact, and this difference was statistically significant (p = 0.000).
+Table 4.
+Prevalence of COVID-19 infection/suspected infection among healthcare workers based on COVID-19 vaccination history
+Total n (%) p-value*
+Vaccination history Never had COVID-19 n (%) Had/suspected COVID-19 n (%)
+Number of doses (n = 917)
+Mixing of two or more vaccine types (n = 863)
+* Fisher's exact test
+Among the healthcare workers participating in the study, 39 individuals either could not remember or had no information regarding their vaccination history on the PCCovid software, Electronic Health Book, or were unable to retrieve information from the COVID-19 immunization information portal (https://tiemchungcovid19.gov.vn/portal/search).
+In addition, 2 healthcare workers in Dak Lak did not receive the COVID-19 vaccine due to a history of allergy/anaphylaxis to a different vaccine.
+All other cases had received at least one dose of a COVID-19 vaccine.
+We recorded a statistically significant difference in the prevalence/suspected cases of COVID-19 between the group of healthcare workers who were unvaccinated and those who had received 1, 2, 3, or 4 doses of the COVID-19 vaccine (p = 0.000).
+Among healthcare workers who received more than 2 doses of the COVID-19 vaccine, those who were vaccinated with a mix of two or more types had a higher prevalence/suspected cases of COVID-19 than the remaining group (p = 0.009).
+IV.
+DISCUSSION
+This rate is higher than that reported in previously published studies both internationally and domestically.
+Several hypotheses can be proposed to explain this situation, including: (1) our study considered both prevalence and suspected cases—that is, cases with suspected COVID-19 symptoms but either not tested or tested (rapid test) negative; (2) this is a cross-sectional study, with data collection from May to October 2022, which is later than other studies; (3) our study subjects were healthcare workers who participated in COVID-19 prevention and control efforts during 2021–2022, so their level of exposure to COVID-19 may have been higher than that of the general group of healthcare workers.
+In the context of the severe and complex developments of the COVID-19 pandemic in 2021–2022, healthcare workers contracting the disease further increased the difficulties faced by the health sector in pandemic prevention and control, as the demand for care, treatment, vaccination, investigation, and tracing surged while the health workforce was affected by absences/quarantine due to illness.
+Among the 703 healthcare workers who had contracted or were suspected of contracting COVID-19, we found that the majority (411 out of 703; 58.5%) had contracted or were suspected of contracting COVID-19 while participating in pandemic prevention and control at their workplace or local area (Chart 2).
+The prevalence/suspected cases of COVID-19 among healthcare workers differed between age groups, with a higher proportion among females than males (Table 1).
+Our findings are consistent with those of Nguyen Anh Khoa and colleagues conducted in Dak Lak.
+Nurses accounted for the highest prevalence/suspected cases of COVID-19 among all occupational groups/positions (41.7%).
+Research
+Globally, the prevalence of COVID-19 among healthcare workers varies between countries and regions, changes over time, and depends on the testing techniques used for confirmation.
+However, there have not been many studies assessing the prevalence of COVID-19 among healthcare workers up to the end of 2022.
+The results of a meta-analysis conducted around July–August 2021 on 25 cross-sectional studies in 2020 showed that the prevalence of COVID-19 among healthcare workers, as determined by rapid tests and Polymerase Chain Reaction (PCR) techniques, was 7% (95% CI: 3–17%) and 11% (95% CI: 7–16%), respectively.7 In Vietnam, the prevalence of COVID-19 among healthcare workers in Dak Lak as of April 2022 was 47.8%.8 Our study found that the proportion of healthcare workers who had been infected or were suspected of having COVID-19 by the end of October 2022 reached 76.7% (703/917) (Chart 1).
+Similarly, the findings of Abdul Aziz Harith and colleagues also provided a comparable figure, with nurses accounting for 40.5% (652/1608) of healthcare workers infected with COVID-19 in Malaysia.9 Healthcare workers working at provincial, district, communal, private healthcare units, or training facilities did not show any significant difference in the prevalence/suspected cases of COVID-19.
+Up to 893 out of 916 (97.4%) healthcare workers participating in the study had a history of exposure to COVID-19 patients in the highest risk setting—within less than 2 meters in a hospital ward or in the community.
+Although some instances of exposure, such as during high-risk procedures,
+MEDICAL RESEARCH JOURNAL
+are associated with a higher prevalence, this rate is also related to certain factors such as job position, level of exposure, and history of COVID-19 vaccination.
+Determining the prevalence of COVID-19 infection among healthcare workers and its related factors is important for developing occupational health policies stratified by risk level, providing appropriate vaccination programs, and allocating resources to protect the health of healthcare workers (such as personal protective equipment and insurance policies).
+This is not only necessary during the pandemic period but also holds significant importance for the present and the future—should the health system face another public health emergency.
+Aerosol-generating procedures (e.g., intubation), direct contact with patients, and contact with patients' bodily fluids have been shown to increase the risk of infection.
+However, in our study, the prevalence/history of COVID-19 among healthcare workers did not differ between groups who had or had not been exposed to COVID-19 patients at a distance of less than 2 meters, more than 2 meters, or in other healthcare settings (p < 0.05).10 In cases where a family member had COVID-19, both our study and a study of 1,432 healthcare workers in Thailand found that the prevalence/suspected cases of COVID-19 among healthcare workers were higher in the group with this exposure compared to the other group, and this difference was statistically significant (p = 0.000) (Table 3).11
+ACKNOWLEDGEMENTS
+To complete this study, the research team would like to express our sincere gratitude to the healthcare workers in the seven provinces/cities (Hanoi, Bac Ninh, Bac Giang, Nghe An, Dak Lak, Binh Duong, Kien Giang) and three universities (Hanoi Medical University, Can Tho University of Medicine and Pharmacy, Ho Chi Minh City University of Medicine and Pharmacy) for agreeing to participate in the study and completing the questionnaire set.
+The authors declare no conflicts of interest regarding the results of this study.
+REFERENCES
+COVID-19 vaccination is an important and effective measure for preventing infection, mitigating severe disease progression, and reducing the risk of death.
+Excluding 46 cases where vaccination history could not be recalled or verified, most healthcare workers participating in the study had received at least one dose of the COVID-19 vaccine (Table 4).
+A relatively significant limitation of our study is the inability to determine the exact timing of each dose or the date of COVID-19 infection, which would provide more robust evidence of the relationship between vaccination and infection.
+Related to
+1.
+Thai PQ, Rabaa MA, Luong DH, et al.
+The First 100 Days of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Control in Vietnam.
+Clin Infect Dis.
+2021; 72(9): e334-e342.
+doi:10.1093/cid/ciaa1130.
+Regarding vaccination with a mix of two or more types of vaccines, our study found that healthcare workers who received the same type of vaccine had a lower prevalence/suspected rate of COVID-19 compared to those who received mixed types.
+However, further research is needed on the types of vaccines used, the methods of mixing, as well as the intervals between doses in order to reach more specific and accurate conclusions on this issue.
+V. CONCLUSION
+2.
+Minh LHN, Khoi Quan N, Le TN, Khanh PNQ, Huy NT.
+COVID-19 Timeline of Vietnam: Key Milestones Across Four Waves of the Pandemic and Lessons Learned.
+Frontiers in Public Health.
+2021; 9.
+Accessed February 28, 2023. https://www.frontiersin.org/articles/10.3389/fpubh.2021.709067.
+Our study indicates that the prevalence of healthcare workers who have had or have been infected with COVID-19 is at a level
+MEDICAL RESEARCH JOURNAL
+https://pubmed.ncbi.nlm.nih.gov/35010412/.
+3.
+The government electronic information portal.
+Resolution 128/NQ-CP of the Government: Issuing provisional regulations on “Safe, flexible adaptation and effective control of the COVID-19 pandemic.” Accessed February 28, 2023. http://vanban.chinhphu.vn/?page-id=27160&docid=204272&classid=509.
+8.
+Nguyen Anh Khoa, Vu Thi Quynh Hau, Dang Thi Phuong Duyen.
+Prevalence of COVID-19 among healthcare workers and related factors in Dak Lak, 2022.
+Vietnam Journal of Medicine.
+2022; 515(1).
+Accessed February 22, 2023. https://tapchiyhocvietnam.vn/index.php/vmj/article/view/2676/2472.
+4.
+Ung T Thi H, Hoang PVM, Nguyen SV, et al.
+Occurrence of the Omicron variant of SARS-CoV-2 in northern Vietnam in early 2022.
+Western Pacific Surveillance and Response.
+2022; 13(3): 5-5. doi:10.5365/wpsar.2022.13.3.955.
+9.
+Harith AA, Ab Gani MH, Griffiths R, et al.
+Incidence, Prevalence, and Sources of COVID-19 Infection among Healthcare Workers in Hospitals in Malaysia.
+Int J Environ Res Public Health.
+2022; 19(19): 12485. doi:10.3390/ijerph191912485.
+5.
+COVID-19 infections among Healthcare Workers and Transmission within Households | medRxiv.
+Accessed February 9, 2023. https://www.medrxiv.org/content/10.1101/2020.06.12.20129619v2.
+10.
+Chou R, Dana T, Buckley DI, Selph S, Fu R, Totten AM.
+Epidemiology of and Risk Factors for Coronavirus Infection among Healthcare Workers.
+Ann Intern Med.
+2020; 173(2): 120-136. doi:10.7326/M20-1632.
+6.
+Prevalence of COVID-19 and Related Factors Among Healthcare Workers in Dak Lak, 2022.
+Accessed February 9, 2023. https://tapchiyhocvietnam.vn/index.php/vmj/article/view/2676/2472.
+11.
+Sirijatuphat R, Leelarasamee A, Horthongkham N. Prevalence and factors associated with COVID-19 among healthcare workers at a university hospital in Thailand.
+Medicine.
+2022; 101(38).
+doi:10.1097/MD.0000000000030837.
+7.
+COVID-19 Prevalence among Healthcare Workers.
+A Systematic Review and Meta-Analysis - PubMed.
+Truy cập ngày 9 tháng 2 năm 2023.
+MEDICAL RESEARCH JOURNAL
+Summary
+PREVALENCE/SUSPECTED CASES OF COVID-19 AMONG HEALTHCARE WORKERS PARTICIPATING IN PANDEMIC PREVENTION AND CONTROL IN 7 PROVINCES AND 3 UNIVERSITIES OF VIETNAM IN 2021–2022 AND RELATED FACTORS
+This study was conducted to determine the prevalence/suspected cases of COVID-19 among healthcare workers participating in pandemic prevention and control in 7 provinces and 3 universities of Vietnam in 2021–2022 and related factors.
+The results showed that 76.7% (703/917) of healthcare workers involved in COVID-19 prevention and control from 2021 to 2022 had been infected/suspected of being infected with COVID-19.
+The prevalence/suspected cases of COVID-19 among healthcare workers differed by age group and gender; females were more frequently infected/suspected than males (p value < 0.05).
+The majority of healthcare workers (410/703; 58.3%) were infected/suspected while participating in pandemic prevention and control activities at their current workplace.
+Among professional titles, nurses accounted for the highest rate of COVID-19 infection (41.7%) (p value < 0.05).
+In general, the rate of COVID-19 vaccination among healthcare workers was high, and there was a statistically significant difference in the prevalence/suspected cases of COVID-19 among those who were not vaccinated compared to others.
+Keywords: Infection/suspected rate, COVID-19, healthcare worker, associated factors, Vietnam.

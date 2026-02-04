@@ -1,0 +1,137 @@
+Tạp chí Khoa học và Công nghệ, Số 53A, 2021
+MỘT SỐ ĐIỂM KHÁC BIỆT TRONG TÍNH TOÁN TẢI TRỌNG VÀ TÁC
+ĐỘNG GIỮA TCVN 2737:2020 SO VỚI TCVN 2737:1995, ÁP DỤNG CHO
+CÔNG TRÌNH XÂY DỰNG
+NGUYỄN NGỌC PHÚC Khoa Kỹ thuật Xây dựng, Trường Đại học Công nghiệp thành phố Hồ Chí Minh
+phd.nguyenngocphuc@gmail.com Tóm tắt.
+Việc xác định đúng giá trị cũng như xác định đầy đủ các thành phần của tải trọng và tác động là một yếu tố rất quan trọng trong tính toán thiết kế công trình.
+Yếu tố này quyết định đến các yêu cầu về Kinh tế - Kỹ thuật của một dự án và được thể hiện qua tổng mức đầu tư xây lắp và các ràng buộc về độ bền; ổn định; biến dạng; tuổi thọ của công trình.
+Thực tiễn đã chứng minh nhiều vấn đề tiềm ẩn và phát sinh liên quan đến công trình do đánh giá chưa xác đáng về tải trọng và tác động gây ra.
+Bên cạnh đó, tải trọng và tác động không mang yếu tố cố hữu về giá trị cũng như cách thức tác động, mà nó phụ thuộc vào sự thay đổi của điều kiện tự nhiên và điều kiện kinh tế xã hội.
+Ngày nay, chúng ta đang đứng trước những thay đổi lớn lao của tải trọng không kém dị thường về cách thức tác động do điều kiện kinh tế xã hội gây ra, mà còn chịu sự thay đổi rất lớn từ các điều kiện tự nhiên.
+Đồng thời, đất nước chúng ta đang trong tiến trình hội nhập Quốc tế hóa – Toàn cầu hóa, sự tiếp cận một cách đồng bộ hệ thống Tiêu chuẩn kỹ thuật là điều tất yếu.
+Bài viết này, tôi đề cập đến một số điểm khác biệt trong tính toán tải trọng và tác động giữa TCVN 2737:2020 so với TCVN 2737:1995 áp dụng cho Công trình xây dựng Dân dụng và Công nghiệp.
+Từ khóa: TCVN 2737:1995; TCVN 2737:2020; Tải trọng và tác động.
+THE DIFFERENTIATIONS FOR DETERMINATION OF ACTIONS ON STRUCTURES
+BETWEEN TCVN 2737:2020 WITH TCVN 2737:1995, USING IN CIVIL
+ENGINEERING Astract.
+In this paper, I concern about the differentiations for determination of actions on structures between TCVN 2737:2020 with TCVN 2737:1995, using in Civil Engineering.
+As we known, Acting- Loading is not constant by changing of natural conditions and developments of social.
+On the other hand, nowadays, Our Country is on the processing of Internationalization and Globalization.
+So, we must to synchronize our standards with the world.
+To determine exactly values and the way of actings on structures are most important thing.
+They influence to safety, longevity and cost of projects.
+Keywords: TCVN 2737:1995; TCVN 2737:2020; Actions on structures
+1.
+TIÊU CHUẨN GỐC ĐƯỢC VIỆN DẪN ĐỂ BIÊN SOẠN CỦA HAI TIÊU CHUẨN NÀY: Tiêu chuẩn TCVN 2737:1995 được biên dịch từ tiêu chuẩn Nga SNip năm 1985 [6].
+Tiêu chuẩn TCVN 2737:2020 được biên soạn lần này được tiếp cận theo bộ tiêu chuẩn châu Âu Eurocode EN 1991.
+2.
+TỔ HỢP CÁC TÁC ĐỘNG: 2.1 Tổ hợp tải trọng TCVN 2737:1995 [1] Tiêu chuẩn này đề xuất kiểm soát trạng thái làm việc của kết cấu ở 02 trạng thái giới hạn với 02 dạng cấu trúc tổ hợp tải trọng.
+Khái niệm tổ hợp tải trọng được đề cập trong tiêu chuẩn này dễ dẫn đến các hiểu nhầm đó là tổ hợp về nguyên nhân hơn là hiểu đúng về tổ hợp hệ quả của các tác động.
+Bởi vì, đa phần các hệ quả tác động được giải quyết dựa trên nguyên lý độc lập tác dụng, dễ dàng chấp thuận các biến dạng và chuyển vị trong kết cấu công trình có giá trị nhỏ, cho nên hệ quả tác động được cộng tuyến tính cũng tương đồng với cộng tuyến tính nguyên nhân tác động.
+* Đối với tổ hợp cơ bản: THCB = 1.TX + .DH + 1.NH (1) Hệ số tổ hợp  = 1 = 0,9.
+Trong trường hợp xét sự tham gia đồng thời của nhiều loại tải trọng tạm thời ngắn hạn thì cấu trúc tổ hợp cơ bản được viết như sau: Tổ hợp cơ bản: THCB = 1.TX + .DH + 1.NH1 + 2.NH2 + i.NHi (2)
+© 2021 Trường Đại học Công nghiệp thành phố Hồ Chí Minh
+30 MỘT SỐ ĐIỂM KHÁC BIỆT TRONG TÍNH TOÁN TẢI TRỌNG VÀ TÁC ĐỘNG GIỮA TCVN 2737:2020 SO VỚI TCVN 2737:1995, ÁP DỤNG CHO CÔNG TRÌNH XÂY DỰNG
+Hệ số tổ hợp  = 1 = 0,9; 2 = 0,8; i = 0,6 NH1 là tải trọng tạm thời ngắn hạn có ảnh hưởng lớn nhất đối với kết cấu công trình NH2 là tải trọng tạm thời ngắn hạn thứ 2 NHi là các tải trọng tạm thời còn lại.
+* Đối với tổ hợp đặc biệt: THĐB = 1.TX + .DH + 1.NH + 3.ĐB (3) Hệ số tổ hợp  = 1 = 0,95; 2 = 0,8; 3 = 1 Chú thích: TX là tải trọng thường xuyên; DH là tải trọng tạm thời dài hạn; NH là tải trọng tạm thời ngắn hạn; ĐB là tải trọng đặc biệt.
+2.2 Tổ hợp nội lực, chuyển vị trong TCVN 2737:2020 [2] Tiêu chuẩn này vẫn đề xuất kiểm soát trạng thái làm việc của kết cấu là 02 trạng thái giới hạn và được bổ sung kiểm soát trạng thái ứng suất cho phép.
+Các cấu trúc tổ hợp diễn đạt chi tiết hơn và được chú trọng ở phần hệ quả của các tác động.
+Lý do của việc giải quyết tổ hợp dựa trên các hệ quả tác động là vì tính phi tuyến của vật liệu và tính phi tuyến về hình học của kết cấu khi chịu các tác động.
+Tức là không thể thuần túy chấp nhận một cách giản đơn của nguyên lý độc lập tác dụng.
+Vì vậy, cách thức tổ hợp này cho phép tiếp cận các tiêu chuẩn kỹ thuật sẽ thuận tiện hơn, phản ánh đúng bản chất làm việc của kết cấu.
+* Tổ hợp tải trọng theo trạng thái giới hạn thứ nhất, bao gồm các tổ hợp cơ bản và các tổ hợp sự cố (tổ hợp đặc biệt) [2].
+- Các tổ hợp cơ bản thuộc trạng thái giới hạn thứ nhất:
+THCB1 = G.G + Q.Q1 + 0,i.Q.Qi (4) THCB2 = G.G + Q.Q1 + 0,i.Q.Qi + 0,6.W.W (5) THCB3 = G.G + W.W + 0,i.Q.Qi (6) THCB4 = G.G + W.W (7) THCB5 = 0,85.G.G + W.W (8) Trong đó: G là hệ quả (nội lực, chuyển vị …) sinh ra trên kết cấu từ giá trị tiêu chuẩn tải trọng thường xuyên Qi là hệ quả (nội lực, chuyển vị …) sinh ra trên kết cấu từ giá trị tiêu chuẩn tải trọng tạm thời W là hệ quả (nội lực, chuyển vị …) sinh ra trên kết cấu từ giá trị tiêu chuẩn tải trọng gió G là hệ số vượt tải (hệ số tin cậy tải trọng) đối với tải trọng thường xuyên, có giá trị 1,35 Q; w là hệ số vượt tải (hệ số tin cậy tải trọng) đối với tải trọng tạm thời và tải trọng gió, có giá trị 1,5 0,i là các hệ số tổ hợp, được qui định chi tiết cho từng loại hoạt tải tác động lên công trình (Bảng 2-TCVN 2737:2020).
+Hệ số tổ hợp 0,i có 03 nhóm giá trị là 1,0; 0,8 và 0.
+Vì vậy, khi xét tích của hai hệ số vượt tải Q và hệ số tổ hợp 0,i thì đa phần thu được giá trị tích số Q.0,i = 1,2 ngoại trừ cho 02 trường hợp công năng Kho và Mái bằng không sử dụng.
+- Các tổ hợp sự cố (tổ hợp đặc biệt) thuộc trạng thái giới hạn thứ nhất:
+THĐB1 = G + E + 2,i.Qi (9) THĐB2 = G + A + 2,i.Qi (10) Trong đó: E là hệ quả của tải trọng động đất A là hệ quả của tải trọng sự cố (cháy, nổ...) 2i là các hệ số tổ hợp tải trọng tạm thời thứ i (kể đến thành phần dài hạn) trong tổ hợp sự cố (Bảng 2- TCVN 2737:2020).
+Hệ số tổ hợp 2i có 04 nhóm giá trị là 0,8; 0,6; 0,3 và 0.
+* Tổ hợp tải trọng theo trạng thái giới hạn thứ 2 [2]
+TH1 = G + Q1 + 0i.Qi (11) TH2 = G + W + 0i.Qi (12) TH3 = G + W (13) * Tổ hợp tải trọng khi tính theo phương pháp ứng suất cho phép [2]
+TH1 = G + Q1 + 0i.Qi (14) TH2 = G + W + 0i.Qi + 0,6.W (15) TH3 = G + W + 0i.Qi (16)
+© 2021 Trường Đại học Công nghiệp thành phố Hồ Chí Minh
+MỘT SỐ ĐIỂM KHÁC BIỆT TRONG TÍNH TOÁN TẢI TRỌNG VÀ TÁC ĐỘNG 31 GIỮA TCVN 2737:2020 SO VỚI TCVN 2737:1995, ÁP DỤNG CHO CÔNG TRÌNH XÂY DỰNG
+TH4 = G + W (17) TH5 = G + 0,7.E (18) TH6 = G + W + 0i.Qi + 0,7.E (19) TH7 = 0,9.G + W (20) TH8 = 0,9.G + 0,7.E (21) Với qui định về các cách thức tổ hợp hệ quả trong TCVN 2737:2020 này, ta có nhận thấy mức độ ràng buộc chặt chẽ hơn so với cách thức tổ hợp tải trọng ở TCVN 2737:1995.
+3.
+GIÁ TRỊ TĨNH TẢI, HOẠT TẢI VÀ CÁC THÔNG SỐ ĐẶC TRƯNG CƠ BẢN: [1],[2],[3]
+Trong tiêu chuẩn TCVN 2737:2020 qui định chi tiết các thông số đặc trưng dùng để xác định giá trị tĩnh tải, trong đó có thông số trọng lượng thể tích của các chủng loại vật liệu.
+Đối với hoạt tải, Tiêu chuẩn TCVN 2737:2020 chỉ qui định giá trị tổng, không qui định giá trị cho thành phần dài hạn.
+Ngoài ra, có sự điều chỉnh, bổ sung hoạt tải cho một số công năng:
+- Hoạt tải của khán đài được tách riêng, không qui chịnh chung trong nhóm hoạt tải của Phòng hội họp, khiêu vũ… - Bổ sung hoạt tải cho Khu vực thương mại, triển lãm và trưng bày… - Bổ sung thêm 02 giá trị hoạt tải trong nhóm công năng xưởng... - Bổ sung hoạt tải Gian lánh nạn trong nhà cao tầng… - Bổ sung hoạt tải cho các sàn ở các khu vực đặc biệt… - Bổ sung hoạt tải cho tầng kỹ thuật… - Điều chỉnh và bổ sung thêm 01 giá trị hoạt tải trong nhóm công năng gác lửng… - Không qui định giá trị cận dưới cho nhóm công năng Trại chăn nuôi, mà qui định giá trị cụ thể… - Điều chỉnh giá trị và bổ sung 01 giá trị hoạt tải trong nhóm công năng Mái bằng có sử dụng… - Qui định giá trị cận dưới cho hoạt tải thuộc nhóm công năng Sân ga… - Bổ sung hoạt tải cho nhóm công năng Phòng chờ, khu vực làm thủ tục đón và chờ khách ở Sân bay.
+- Điều chỉnh và bổ sung giá trị hoạt tải cho nhóm công năng Ga ra ô tô, … - Bổ sung giá trị hoạt tải cho nhóm công năng Xe cứu hỏa… - Bổ sung giá trị hoạt tải cho nhóm công năng Bãi đỗ trực thăng… So với TCVN 2737:1995; trong TCVN 2737:2020 đã lượt bỏ hệ số giảm tải A đối với diện tích chịu tải lớn hơn 9m2 và chỉ cho phép sử dụng hệ số giảm tải A đối với diện tích chịu tải lớn hơn 36m2.
+Trong tiêu chuẩn TCVN 2737:1995, hệ số tin vậy tải trọng đối với tải trọng do cầu trục lấy bằng 1,1.
+Trong TCVN 2737:2020 hiệu chỉnh Q = 1,5; hệ số tổ hợp đề nghị là 0i = 0,7; 2i = 0,3.
+Các hệ số phụ dùng để tính toán độ bền của dầm cầu trục chịu tải tập trung thẳng đứng do bánh xe cẩu trụ gây ra cũng được hiệu chỉnh; các hệ số này có giá trị bé hơn so với TCVN 2737:1995.
+Trong TCVN 2737:2020, các yêu cầu về tính toán kết cấu chịu tải trọng cầu trục gây ra được qui định bao hàm theo Nhiệm vụ thiết, không qui định chi tiết như TCVN 2737:1995.
+4.
+TẢI TRỌNG GIÓ [2] Trong tiêu chuẩn TCVN 2737:2020, tải trọng gió đã thay đổi cách tính toán theo EN 1991-1-4.
+Không giải bài toán kết cấu chịu tác động của hai thành phần Gió tĩnh và Gió động nữa mà sử dụng hệ số gió giật Gust (Gf); tải trọng gió có xét đến hệ số tầm quan trọng của công trình Iw.
+W = 1,2.(W0.k.c).
+(Gf.Iw) (22) Trong đó: W là áp lực gió tiêu chuẩn, sử dụng hệ số 1,2 khi chuyển đổi chu kỳ lặp từ 20 năm lên 50 năm W0 là áp lực gió cơ bản (áp lực gió tham chiếu) k là hệ số hiệu chỉnh áp lực gió theo chiều cao và dạng địa hình c là hệ số khi động Gf là hệ số gió giật Iw là hệ số tầm quan trọng của công trình Thông số đầu vào của Tiêu chuẩn Eurocode EN1991 là vận tốc.
+Đối với TCVN 2737:1995 và TCVN 2737:2020 ưu tiên đề nghị thông số tính là áp lực gió tham chiếu Wo, song vẫn cho phép tính áp lực gió theo vận tốc gió khi có đầy đủ số liệu quan trắc.
+© 2021 Trường Đại học Công nghiệp thành phố Hồ Chí Minh
+32 MỘT SỐ ĐIỂM KHÁC BIỆT TRONG TÍNH TOÁN TẢI TRỌNG VÀ TÁC ĐỘNG GIỮA TCVN 2737:2020 SO VỚI TCVN 2737:1995, ÁP DỤNG CHO CÔNG TRÌNH XÂY DỰNG
+W0 = 0,0613.V02 (23) V0 là vận tốc gió ở độ cao 10m so với mặt đất lấy trung bình trong khoảng thời gian 3 giây, bị vượt trung bình một lần trong 20 năm, tương ứng với dạng địa hình B. Khi tính toán kiểm tra gia tốc dao động tại đỉnh công trình ảnh hưởng đến tiện nghi sử dụng người ở và làm việc thì dùng vận tốc gió 10 phút, tương ứng chu kỳ lặp lấy từ 1 năm đến 10 năm.
+Hệ số hiệu chỉnh áp lực gió theo chiều cao K cũng được cập nhật và cho phép sử dụng công thức tính theo chiều cao tương ứng với chiều cao giới hạn trong từng dạng địa hình.
+𝑘= 2,01 (
+Trong đó Z là chiều cao tính toán áp lực gió zg là chiều cao giới hạn của vận tốc gió (phụ thuộc vào dạng địa hình).
+Giá trị này có để xuất thay đổi so với tiêu chuẩn chỉ dẫn tính toán thành phần động của tải trọng gió TCXD 229:1999. α là hệ số mũ phụ thuộc vào dạng địa hình.
+Giá trị này có để xuất thay đổi ở hai dạng địa hình A và B so với tiêu chuẩn chỉ dẫn tính toán thành phần động của tải trọng gió TCXD 229:1999.
+Hệ số tỷ lệ của hàm mũ xác định k trong TCXD 229:1999 có giá trị là 1,844 thì trong TCVN 2737:2020 này có giá trị là 2,01.
+Trong tiêu chuẩn TCVN 2737:2020 này có đề xuất “thí nghiệm trong hầm gió” để đánh giá hệ số khí động cho công trình có hình dạng phức tạp.
+Tuy nhiên, các số liệu của kết quả thí nghiệm gió và nghiên cứu riêng lấy không thấp hơn 85% số liệu đề xuất của Tiêu chuẩn này.
+Trong tiêu chuẩn TCVN 2737:1995 cung cấp giá trị Áp lực gió cho các trạm quan trắc khí tượng vùng núi và hải đảo với khoảng thời gian giả định sử dụng của công trình ở 4 mức là 5 năm, 10 năm, 20 năm và 50 năm.
+Tuy nhiên, tiêu chuẩn TCVN 2737:2020 chỉ cung cấp cho 2 mức thời gian giả định sử dụng của công trình là 20 năm và 50 năm; với các giá trị cường độ cũng có sự điều chỉnh.
+Bảng phân vùng áp lực gió trong TCVN 2737:2020 cũng có nhiều sự điều chỉnh thay đổi về Phân vùng định danh và dạng địa hình áp lực gió.
+So với Tiêu chuẩn TCVN 2737:1995 thì trong Tiêu chuẩn TCVN 2737:2020 có qui định bổ sung hệ số khí động thêm cho 05 dạng hình khối công trình: Công trình hình lăng trụ có mặt bằng hình vuông và đa giác; Công trình hình lăng trụ có mặt bằng hỉnh chữ Y dạng góc hẹp; Công trình hình lăng trụ có mặt bằng hình chữ Y dạng vuông góc; Công trình hình lăng trụ có mặt bằng hình chữ thập; Công trình hình lăng trụ có mặt bằng hình đa giác.
+5.
+HỆ SỐ GIÓ GIẬT GF VÀ HỆ SỐ TẦM QUAN TRỌNG CỦA CÔNG TRÌNH IW [2].
+5.1 Hệ số gió giật Gf
+Hệ số gió giật Gf là hệ số phản ứng của kết cấu dưới tác dụng của tải trọng gió, kể cả thành phần phản ứng tĩnh (xung của gió) và thành phần phản ứng động (cộng hưởng).
+Việc tính toán hệ số gió giật Gf, phản ứng động lực học của kết cấu công trình được chú trọng ở dạng dao động đầu tiên.
+Cụ thể là: - Đối với kết cấu “cứng” (có chu kỳ dao động riêng thứ nhất T1 ≤ 1s) thì Gf = 0,85.
+- Đối với kết cấu mềm (có chu kỳ dao động thứ nhất T1 > 1s) thì Gf được tính toán theo các đặc trưng về kích thước hình học của công trình B.H; độ rối của gió ở cao trình 0,6H; hệ số đỉnh gia tốc dao động của công trình gR; hệ số cộng hưởng R.
+Gf = 0,925.
+(
+Trong đó: 𝐼𝑧̅: là độ rối tại độ cao 0,6H
+𝐼𝑧̅ = 1,6. 𝑑. 𝐻(−1/6) (26) Q là hệ số kể đến thành phần phản ứng tĩnh của kết cấu chịu tải trọng gió
+Q = √
+Hệ số đỉnh gR xác định theo công thức (28)
+© 2021 Trường Đại học Công nghiệp thành phố Hồ Chí Minh
+MỘT SỐ ĐIỂM KHÁC BIỆT TRONG TÍNH TOÁN TẢI TRỌNG VÀ TÁC ĐỘNG 33 GIỮA TCVN 2737:2020 SO VỚI TCVN 2737:1995, ÁP DỤNG CHO CÔNG TRÌNH XÂY DỰNG
+gR = √2.
+ln (
+R là hệ số kể đến thành phần cộng hưởng, được xác định theo công thức (29)
+R = √
+β là hệ số cản dao động của kết cấu: đối với kết cấu thép β = 1%; đối với kết cấu liên hợp β = 1,5%; đối với kết cấu bê tông, bê tông cốt thép và khối xây β = 2%.
+Các hệ số thành phần cộng hưởng được xác định theo công thức sau:
+Rn =
+N1 =
+V̅ = 𝑏̅(0,06.
+𝐻)α̅.
+√
+𝑅ℎ= 𝑅𝑥 với 𝑥=
+𝑅𝐵= 𝑅𝑥 với 𝑥=
+𝑅𝐿= 𝑅𝑥 với 𝑥=
+𝑅𝑥=
+1 2.𝑥2 .
+(1 −𝑒−2𝑥), lấy Rx =1 khi x =0 (36) Bảng 1: Giá trị hệ số cho các dạng địa hình theo TCVN 2737:2020
+Dạng địa hình d l (m) ̅ b̅ α̅
+- Với nhà cao tầng có chu kỳ dao động riêng thứ nhất T1 > 1s và chiều cao không quá 150m, cho phép tính hệ số gió giật Gf bằng công thức gần đúng: + Công trình có kết cấu bê tông cốt thép: Gf = 0,85 + H/2840 + Công trình kết cấu thép: Gf = 0,85 + H/1010 Trong đó: H là chiều cao công trình (m) 5.2 Hệ số tầm quan trọng của công trình: Hệ số tầm quan trọng của công trình được chia làm 04 cấp độ và có 03 mức giá trị Iw Công trình đặc biệt và công trình cấp 1 lấy Iw = 1,15 Công trình cấp II và công trình cấp III lấy Iw = 1,00 Công trình cấp IV lấy Iw = 0,87
+6.
+KẾT LUẬN: - Tiêu chuẩn TCVN 2737:2020 qui định chi tiết hơn về các cấu trúc tổ hợp hệ quả của tác động; thay thế cho quan niệm về tổ hợp tải trọng đơn giản trong TCVN 2737:1995.
+- Tiêu chuẩn TCVN 2737:2020 qui định chi tiết hơn về các thông số đặc trưng phục vụ tính toán giá trị tĩnh tải, trong đó có thông số về trọng lượng thể tích của các chủng loại vật liệu; - Tiêu chuẩn TCVN 2737:2020 điều chỉnh và bổ sung giá trị hoạt tải theo các dạng công năng theo thực tiễn hiện nay phong phú hơn so với TCVN 2737:1995; - Tiêu chuẩn TCVN 2737:2020 định hướng tính toán tải trọng gió tác động lên công trình theo hướng mở hơn; phân vùng định danh và cường độ áp lực gió cũng có nhiều thay đổi hơn so với TCVN 2737:1995.
+TÀI LIỆU THAM KHẢO
+[1] Tiêu chuẩn TCVN 2737:1995, Hà Nội, 1995.
+[2] Tiêu chuẩn TCVN 2737:2020, Hà Nội, 2020.
+© 2021 Trường Đại học Công nghiệp thành phố Hồ Chí Minh
+34 MỘT SỐ ĐIỂM KHÁC BIỆT TRONG TÍNH TOÁN TẢI TRỌNG VÀ TÁC ĐỘNG GIỮA TCVN 2737:2020 SO VỚI TCVN 2737:1995, ÁP DỤNG CHO CÔNG TRÌNH XÂY DỰNG
+[3] Tiêu chuẩn TCXD 229:1999.
+[4] Tiêu chuẩn Châu Âu EN 1991-1-4:2005 + AC:2010, Nhà xuất bản Xây dựng, 2016.
+[5] Tiêu chuẩn Hoa Kỳ ASCE 7-2005.
+[6] Tiêu chuẩn Nga Tiêu chuẩn Nga Snip-1985.
+Ngày nhận bài: 16/10/2020
+Ngày chấp nhận đăng: 12/03/2021
+© 2021 Trường Đại học Công nghiệp thành phố Hồ Chí Minh

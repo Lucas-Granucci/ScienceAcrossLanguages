@@ -1,0 +1,377 @@
+Tạp chí Khoa học và Công nghệ, Số 69A, 2024
+MỨC ĐỘ TRẦM CẢM, LO ÂU VÀ STRESS CỦA SINH VIÊN TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH
+LÊ THỊ HƯƠNG Khoa Thương Mại du lịch, Trường Đại học Công nghiệp Thành phố Hồ Chí Minh
+lethihuong.18@iuh.edu.vn DOIs: https://doi.org/10.46242/jstiuh.v69i03.5136 Tóm tắt: Nghiên cứu này khảo sát mô tả cắt ngang nhằm tìm hiểu mức độ trầm cảm, lo âu và stress của sinh viên (năm học 2022 - 2023) tại trường Đại học Công nghiệp Thành phố Hồ Chí Minh theo thang đánh giá DASS21.
+Kết quả nghiên cứu trên 818 khách thể cho thấy, tỷ lệ sinh viên có biểu hiện trầm cảm, lo âu và stress lần lượt là 24.2%, 19.4% và 6.8%.
+Trong đó, tỷ lệ trầm cảm mức độ nặng chiếm 1.3%, lo âu mức độ nặng chiếm 2% và rất nặng chiếm 1.6%.
+Có sự khác biệt ý nghĩa thống kê giữa các nhóm sinh viên có hoàn cảnh kinh tế khác nhau.
+Những kết quả này giúp nhà trường thiết kế các chiến lược can thiệp phù hợp cải thiện sức khỏe tinh thần cho sinh viên góp phần nâng cao chất lượng giáo dục và đào tạo của nhà trường trong giai đoạn hiện nay.
+Từ khóa: trầm cảm, mức độ trầm cảm, stress, stress ở sinh viên
+1.
+ĐẶT VẤN ĐỀ
+Sức khỏe tâm thần của sinh viên là một lĩnh vực đặc biệt được quan tâm nghiên cứu (Yang và Koo, 2022).
+Các chỉ số sức khỏe tâm lý tiêu cực về trầm cảm, lo âu và stress đã được phát hiện đang ngày càng gia tăng trong những thập kỷ qua ở khắp nơi trên thế giới (Lim và cs, 2018).
+Theo Tổ chức Y tế Thế giới (WHO) ước tính, đến năm 2020, các vấn đề về rối loạn sức khỏe tâm thần sẽ là nguyên nhân gây nên gánh nặng khuyết tật hàng đầu, gợi lên tầm quan trọng của việc cần xác định sớm tỷ lệ sinh viên dễ mắc rối loạn tâm thần để kịp thời can thiệp, giúp giảm bớt áp lực học tập (Nguyễn & Nguyễn, 2020).
+Theo Hiệp hội Tâm lý học Hoa Kỳ (2013), trầm cảm là một tình trạng được đặc trưng bởi biểu hiện buồn bã, cảm giác trống rỗng, vô vọng và mất hứng thú hầu hết thời gian trong ngày.
+Hysenbegasi A. et al, (2005) đã đưa ra định nghĩa stress là phản ứng của cơ thể trước những kích thích, áp lực mang tính đe dọa từ cuộc sống, bao gồm cả những trải nghiệm căng thẳng trong đời sống đại học của sinh viên.
+Cũng giống như stress, nhưng lo âu còn kèm theo một nỗi sợ hãi được khơi dậy từ bên trong (có thể là thực tế hoặc tưởng tượng), là một phản ứng vô thức đối với các khuynh hướng trầm cảm có thể chuyển thành sợ hãi hoặc cơn hoảng sợ nghiêm trọng.
+Kiecolt-Glaser JK et al., (2003) cho rằng, stress, lo âu và trầm cảm là những chỉ số cơ bản để đánh giá sức khỏe tâm thần của một người, chúng thường xuất hiện đồng thời; các triệu chứng stress và trầm cảm thường vẫn tăng sau khi sự kiện gây căng thẳng đã kết thúc.
+Các công trình nghiên cứu trên thế giới đã cho thấy tỷ lệ trầm cảm, lo âu và stress ở sinh viên ngày một gia tăng.
+Một cuộc khảo sát online đối với 7915 sinh viên đại học năm thứ nhất ở Hồng Kông cho thấy, số sinh viên được hỏi có mức độ trầm cảm, lo âu và stress tương ứng là 21%, 41% và 27% (Wong & cs, 2006).
+Nghiên cứu tổng quan và phân tích hệ thống dựa trên sự tổng hợp 113 nghiên cứu với 185.787 sinh viên đại học ở Trung Quốc cho thấy tỷ lệ trầm cảm chung là 28,4% (Gao & cs, 2020).
+Nghiên cứu khác được tiến hành trên 1617 sinh viên đại học ở Thổ Nhĩ Kỳ cũng cho thấy, tỷ lệ cao sinh viên bị trầm cảm(27,1%), lo âu (47,1%) và stress (27%) (Bayram & cs, 2008).
+Nghiên cứu cắt ngang trên 1074 sinh viên đại học Tây Ban Nha cũng báo cáo tỷ lệ mắc trầm cảm, lo âu và stress lần lượt là 18,4%, 23,6% và 34,5% (Ramón- Arbués & cs, 2020).
+Một nghiên cứu đoàn hệ gồm 1686 sinh viên đại học ở Vương quốc Anh cho thấy 32% sinh viên báo cáo các triệu chứng lo âu từ trung bình đến nặng và 27% sinh viên báo cáo các triệu chứng trầm cảm từ trung bình đến nặng khi nhập học đại học (Adams & cs, 2021).
+Ngoài ra, nhiều nghiên cứu ở Hoa Kỳ đã chỉ ra rằng tỷ lệ trầm cảm, lo âu ngày càng tăng ở sinh viên đại học (Lipson & cs, 2019; Oswalt & cs, 2020).
+Những phát hiện này cho thấy sự cần thiết phải quan tâm và giải quyết vấn đề sức khỏe tâm thần ở sinh viên đại học.
+Một số công trình nghiên cứu trên sinh viên theo học khối ngành sức khỏe tại Việt Nam đã báo cáo một tỷ lệ mức độ về trầm cảm, lo âu và stress đáng báo động ở sinh viên.
+Bên cạnh đó các nghiên cứu
+© 2024 Trường Đại học Công nghiệp thành phố Hồ Chí Minh
+MỨC ĐỘ TRẦM CẢM, LO ÂU….
+đã phân tích, so sánh và tìm ra sự khác biệt về tỷ lệ trầm cảm, lo âu và stress theo các biến nhân khẩu của sinhviên về hoàn cảnh kinh tế, xếp loại học lực, khu vực sống, giới tính, năm theo học của sinh viên.
+Nghiên cứu mô tả cắt ngang thực hiện trên 134 sinh viên đại học năm cuối ngành Dược tại 2 trường Đại học ở Đồng Nai (Nguyễn & cs, 2020) cho thấy, sinh viên có biểu hiện lo âu chiếm tỷ lệ cao nhất (38.8%), kế đến là trầm cảm (29.8%), và cuối cùng là stress (16.4%).
+Có sự khác biệt ý nghĩa thống kê về mức độ stress, lo âu và trầm cảm của sinh viên xét theo xếp loại học lực; cụ thể, sinh viên có học lực trung bình trải qua mức độ stress, lo âu và trầm cảm cao hơn so với sinh viên có học lực khá; điều này đã được giải thích là bởi sự tác động từ các yếu tố áp lực trong học tập.
+Đáng chú ý, có mối tương quan thuận khá chặt giữa mức độ stress, lo âu và trầm cảm của sinh viên.
+Một nghiên cứu khác của Lê Minh Thuận (2011) tại Đại học Y Dược TPHCM khảo sát trên 252 sinh viên khoa Y cũng cho thấy tỷ lệ sinh viên có biểu hiện lo âu mức độ nặng là 12% và rất nặng là 11%, tỷ lệ sinh viên stress nặng là 2% và trầm cảm nặng là 2%.
+Từ thực tiễn các công trình nghiên cứu trên thế giới và trong nước đã cho thấy mức độ cần thiết nghiên cứu trầm cảm, lo âu và stress một cách toàn diện và sâu rộng.
+Stress, lo âu, trầm cảm, để lại hậu quả nghiệm trọng cho con người chúng ta nói chung và sinh viên nói riêng như rối loạn sức khỏe tâm thần là một trong những nguyên nhân cơ bản, gây nên gánh nặng khuyết tật hàng đầu, tác động tiêu cực đến chất lượng học tập của người học.
+Hơn nữa làm cho chất lượng cuộc sống của người học giảm sút.
+Hậu quả của stress, lo âu, trầm cảm không chỉ gây ảnh hưởng đến sức khoẻ và tinh thần học tập nghề nghiệp của sinh viên mà còn làm ảnh hưởng trầm trọng đến sự tồn tại và phát triển của của đất nước.
+Bởi sinh viên là trụ cột của nước nhà, đất nước phồn vinh và giàu mạnh hay không là nhờ vào nguyên khí quốc gia này.
+Từ đây đặt ra vấn đề cấp thiết là phải cần xác định sớm số lượng sinh viên bị stress, lo âu, trầm cảm kịp thời giúp đỡ các em dần dần thoát khỏi vòng vây của stress, lo âu, trầm cảm.
+Mặc dù ở trong nước đã có nhiều công trình nghiên cứu về sức khỏe tâm thần ở sinh viên và chỉ ra những tỷ lệ mức độ trầm cảm, lo âu, stres và chỉ mới tập trung ở các trường thực hành nghề thuộc khối sức khỏe nói riêng, nhưng chủ đề này vẫn chưa được khảo sát nghiên cứu trên khách thể là sinh viên các chương trình thực hành nghề thuộc khối kỹ thuật đặc biệt là tại trường Đại học Công nghiệp thành phố Hồ Chí Minh.
+Xuất phát từ những lý do này, nghiên cứu được tiến hành với mục đích sau: (1) Đánh giá mức độ trầm cảm, lo âu và stress của sinh viên Đại học Công nghiệp Thành phố Hồ Chí Minh.
+(2) So sánh sự khác biệt về mức độ trầm cảm, lo âu và stress của sinh viên Đại học Công nghiệp thành phố Hồ Chí Minh theo một số đặc điểm nhân khẩu.
+2.
+PHƯƠNG PHÁP NGHIÊN CỨU
+2.1.
+Mẫu nghiên cứu Cách chọn mẫu: Trường Đại học Công nghiệp Thành phố Hồ Chí Minh là một trường đào tạo đa ngành, hàng năm trường tuyển sinh đào tạo 43 nhóm ngành/ngành bậc đại học.
+Sinh viên theo học đến chủ yếu từ các tỉnh thành khu vực, miền Bắc, miền Trung, Tây Nguyên và Nam Bộ.
+Phục vụ cho hoạt động đào tạo, trường có trên 500 giảng đường và phòng học, trên 350 phòng thí nghiệm và xưởng thực hành, hệ thống thư viện có trên 200.000 bản sách các loại cùng với khu nội trú có sức chứa 8.000 sinh viên.
+(trường Đại học Công nghiệp thành phố Hồ Chí Minh, 2021).
+Nghiên cứu này được thực hiện trên 818 sinh viên (năm học 2022 – 2023) đang học các ngành hệ Đại học chính quy, tại trường Đại học Công nghiệp thành phố Hồ Chí Minh, theo phương pháp chọn mẫu ngẫu nhiên thuận tiện từ tháng 3/2023 đến tháng 4/2023.
+Đặc điểm khách thể nghiên cứu: Trong số 818 sinh viên tham gia nghiên cứu, tỷ lệ sinh viên nam chiếm 31.3% và nữ chiếm 68.7%.
+Khảo sát về khu vực sống (sinh ra và lớn lên) của sinh viên, có 72.9% sinh viên sinh ra và lớn lên tại nông thôn và miền núi, 27.1% sinh viên sinh ra và lớn lên tại thành phố.
+Khảo sát về hoàn cảnh kinh tế gia đình của sinh viên, có 10% sinh viên có hoàn cảnh kinh tế khó khăn, 80.6% sinh viên có hoàn cảnh kinh tế trung bình, 8.3% sinh viên có hoàn cảnh kinh tế khá giả, 1.0% sinh viên có hoàn cảnh kinh tế giàu có.
+Tỷ lệ sinh viên đang theo học năm 1, năm 2, năm 3, năm 4 lần lượt là 16.0%, 42.4%, 23.8%, 17.7%.
+Xét theo xếp loại học lực của học kỳ, năm học gần nhất, tỷ lệ sinh viên đạt loại xuất sắc là 2.3%; giỏi là 15.9%; khá là 57.9%; trung bình là 20.9% và dưới trung bình là 3.4%.
+2.2.
+Phương pháp nghiên cứu Đề tài được tiến hành theo phương pháp mô tả cắt ngang có phân tích là chủ yếu, kết hợp phương pháp khảo sát bảng hỏi, trắc nghiệm - gồm: Thang đo trầm cảm, lo âu và stress rút gọn DASS21 và phiếu khảo sát về thông tin nhân khẩu do
+Tác giả: Lê Thị Hương
+tác giả nghiên cứu tự thiết kế.
+Dữ liệu thu thập được nhập và xử lý bằng phần mềm SPSS phiên bản 25.
+Các phương pháp thống kê mô tả sử dụng gồm: điểm trung bình, độ lệch chuẩn, tần số và tỷ lệ phần trăm, kiểm định T-test, One-way ANOVA và tương quan Pearson.
+Thang đo DASS-21 là bộ công cụ tích hợp đánh giá được cả 3 rối loạn tâm thần phổ biến trầm cảm, lo âu và stress, của nhóm các nhà nghiên cứu tâm lí, khoa Tâm lý của Đại học New South Wales (Úc) phát triển và rút gọn từ thang đo DASS- 42.
+DASS-21 có 21 câu hỏi chia làm 3 phần, mỗi phần gồm 07 câu hỏi để đánh giá 3 vấn đề sức khoẻ trầm cảm, lo âu và stress.
+Thang đo trầm cảm, lo âu và stress rút gọn DASS21 đã được chuẩn hóa để thích ứng với bối cảnh Việt Nam bởi tác giả Trần và cộng sự (2013).
+Khách thể tham gia khảo sát sẽ tự đánh giá về mức độ cảm xúc của mình trong 01 tuần qua dựa trên 21 tiểu mục theo thang điểm: (0) - Không đúng với tôi chút nào cả; (1) - Đúng với tôi phần nào, hoặc thỉnh thoảng mới đúng; (2) - Đúng với tôi phần nhiều, hoặc phần lớn thời gian là đúng; (3) - Hoàn toàn đúng với tôi, hoặc hầu hết thời gian là đúng.
+Cách quy đổi điểm thang đo DASS21 được trình bày ở Bảng 1.
+Bảng 1.
+Mức độ trầm cảm, lo âu, stress quy đổi theo điểm thang đo DASS21
+Trầm Cảm Lo Âu Stress Bình thường 0-9 0-7 0-14 Nhẹ 10-13 8-9 15-18 Vừa 14-20 10-14 19-25 Nặng 21-27 15-19 26-33 Rất nặng ≥ 28 ≥ 20 ≥ 34 Hệ số tin cậy Cronbach’s Alpha của thang đo DASS21 là 0.963; trong đó, hệ số Cronbach’s Alpha của các tiểu thang đo trầm cảm, lo âu, stress lần lượt là 0.913, 0.904 và 0.894, chứng tỏ đây là công cụ có độ tin cậy cao (Hoàng & Chu, 2008), phù hợp với mô hình nghiên cứu sức khỏe tâm thần của sinh viên thuộc mẫu quan sát.
+Bảng 2.
+Chuẩn phân phối điểm của thang đo DASS21
+N Minimum Maximum Mean Std.
+Deviation Median Skewness Trầm cảm 818 0.00 21.00 5.78 5.03 5.00 0.878 Lo âu 818 0.00 21.00 5.27 4.78 4.50 0.962 Stress 818 0.00 21.00 6.74 5.01 7.00 0.662 Ghi chú: N - số lượng khách thể; Minimum - giá trị nhỏ nhất; Maximum - giá trị lớn nhất; Mean - điểm trung bình; Std.
+Deviation - độ lệch chuẩn; Median - trung vị; Skewness - độ xiên) Tính chuẩn phân phối điểm của thang đo DASS21.
+Phân tích dữ liệu thu được từ khảo sát thang thang đo DASS21 (Bảng 1) trên mẫu khảo sát gồm 818 sinh viên qua mô hình đường cong chuẩn Histogram cho thấy trị số trung bình (ĐTB) và trung vị (ĐTV) của điểm trầm cảm (ĐTB = 5.78; ĐTV = 5.00), lo âu (ĐTB = 5.27; ĐTV = 4.50), stress (ĐTB = 6.74; ĐTV = 7.00) gần bằng nhau, độ xiên Skewness dao động trong khoảng từ -1 đến 1 (độ xiên Skewness của phân phối điểm trầm cảm, lo âu và stress lần lượt là 0.878, 0.962, và 0.662).
+Theo Nguyễn và cộng sự (2020), đây được coi là các phân phối chuẩn.
+3.
+KẾT QUẢ NGHIÊN CỨU
+3.1.
+Mức độ trầm cảm, lo âu và stress ở sinh viên trường Đại học Công nghiệp Thành phố Hồ Chí Minh Trong số 818 khách thể nghiên cứu, phần lớn sinh viên tham gia nghiên cứu không có biểu hiện stress (93.2%), lo âu (75.8%) và trầm cảm (80.6 %).
+Kết quả ở biểu đồ 1 cho thấy: - Xét về mức độ trầm cảm ở sinh viên: Tỷ lệ sinh viên có biểu hiện trầm cảm là 19.4% trong đó, mức độ trầm cảm nhẹ chiếm 7.9%, vừa là 10.1% và nặng chiếm 1.3%.
+Xét về mức độ lo âu ở sinh viên: Tỷ lệ sinh viên có biểu hiện lo âu là 24.2% trong đó, tỷ lệ sinh viên biểu hiện lo âu mức độ nhẹ và vừa lần lượt là 8.4% và 12.2%; mức độ nặng và rất nặng lần lượt là 2% và 1.6%.
+- Xét về mức độ stress ở sinh viên: Tỷ lệ sinh viên có biểu hiện stress là 6.8% trong đó, có 4.5% sinh viên biểu hiện ở mức độ nhẹ và 2.3% sinh viên biểu hiện stress ở mức độ vừa.
+MỨC ĐỘ TRẦM CẢM, LO ÂU….
+Trầm cảm Lo âu Stress
+Bình thường Nhẹ Vừa Nặng Rất nặng
+Biểu đồ 1.
+Mức độ trầm cảm, lo âu và stress ở sinh viên Các tỷ lệ và mức độ trầm cảm, lo âu, và stress trong nghiên cứu này thấp hơn so với nghiên cứu
+Biểu đồ 1.
+Mức độ trầm cảm, lo âu và stress ở sinh viên
+Các tỷ lệ và mức độ trầm cảm, lo âu, và stress trong nghiên cứu này thấp hơn so với nghiên cứu của nhóm tác giả Nguyễn và cộng sự (2020) thực hiện khảo sát 134 sinh viên năm cuối ngành Dược ở Đồng Nai cho thấy, phần lớn sinh viên tham gia nghiên cứu không có biểu hiện stress (83.6%), lo âu (61.2%) và trầm cảm (70.1 %).
+Tỷ lệ sinh viên có biểu hiện trầm cảm là 29.8%; trong đó, mức độ trầm cảm nhẹ chiếm 18.7%, vừa là 10.4% và nặng chiếm 0.7%.
+Tỷ lệ sinh viên có biểu hiện lo âu là 38.8%; trong đó, tỷ lệ sinh viên biểu hiện lo âu mức độ nhẹ và vừa lần lượt là 8.2% và 24.6%; mức độ nặng là 6%.
+Trong số sinh viên có biểu hiện stress (16.4%), có 11.9% sinh viên biểu hiện ở mức độ nhẹ và 4.5% sinh viên biểu hiện stress ở mức độ vừa.
+Nghiên cứu của tác giả Lê Minh Thuận (2011) với tỷ lệ sinh viên các khối ngành Y, Dược tại TPHCM có stress nặng là 2%, lo âu nặng là 11% và trầm cảm nặng là 2% được sàng lọc theo thang đo Dass-42.
+Nghiên cứu của Leta Melaku và cộng sự (2015) tiến hành khảo sát trên 329 sinh viên y khoa tại đại học Jimma với thang đo GHO-12 và thu được kết quả là 52,4% sinh viên bị stress.
+Nghiên cứu của Vũ Dũng (2015) đo lường mức độ stress bằng thang đo đánh giá stress (Perceived Stress Scale 10 - PSS 10) trên toàn bộ sinh viên điều dưỡng năm 2 và năm 3 của trường đại học Thăng Long cho thấy điểm trung bình stress là từ 19,49 ± 4,5, trong đó 22,8% sinh viên có stress ở mức độ cao.
+Từ kết quả nghiên cứu thực tiễn mức độ trầm cảm, lo âu và stress ở sinh viên trong giai đoạn hiện nay cho thấy một mức độ đáng báo động về sức khỏe tâm thần của sinh viên bậc đại học, nhưng nhóm sinh viên này lại ít có khả năng nhận được sự hỗ trợ về tư vấn - tham vấn học đường trong trường (Nguyễn & Nguyễn, 2020).
+Nguyễn và cộng sự (2020) qua phỏng vấn sâu 30 sinh viên năm cuối ngành Dược cho thấy, có 90% sinh viên “chưa từng tìm đến sự hỗ trợ chuyên môn về tâm lý” cung cấp ở trong và ngoài trường, và cũng không có ý định sẽ tìm kiếm các nguồn lực này.
+Tỷ lệ sinh viên năm cuối ngành Dược trên địa bàn tỉnh Đồng Nai tiếp cận các dịch vụ trợ giúp tâm lý chuyên nghiệp là 10%.
+Nghiên cứu của Nguyễn Bá Phú (2005) sử dụng thang đo ủng hộ xã hội đa diện (The multidimensional Scale of perceived social support - MSPSS) của Zimet, Dahlem, Zimet và Farley (1988) để đánh giá ảnh hưởng của chỗ dựa xã hội đến quản lý cảm xúc lo âu kết quả nghiên cứu cho thấy, chỗ dựa xã hội là nhân tố có sức chi phối lớn đến quản lý cảm xúc lo âu của sinh viên.
+Chỗ dựa xã hội là phương tiện vật chất và tinh thần để sinh viên giải quyết vấn đề và giúp sinh viên nâng cao nội lực bản thân, làm cho họ trở lên bản lĩnh hơn để đương đầu giải quyết những lo âu gặp phải trong hoạt động học tập (Nguyễn Bá Phu, 2005).
+Điều này đặt ra nhu cầu bức thiết cần phải có chính sách và chương trình cụ thể chăm sóc sức khỏe tâm thần, thể chất toàn diện cho sinh viên nói chung, sinh viên trường Đại học Công nghiệp thành phố Hồ Chí Minh nói riêng.
+3.2.
+So sánh sự khác biệt mức độ trầm cảm, lo âu và stress ở sinh viên trường Đại học Công nghiệp Thành phố Hồ Chí Minh theo một số đặc điểm nhân khẩu Trong nghiên cứu này chúng tôi tiến hành kiểm định và so sánh mức độ trầm cảm, lo âu và stress của sinh viên với các biến nhân khẩu: giới tính, khu vực sinh sống của sinh viên, hoàn cảnh kinh tế gia đình, năm học của sinh viên, học lực của sinh viên.
+Các kết quả kiểm định so sánh trung bình cho thấy trầm cảm, lo âu, stress của sinh viên trường Đại học công nghiệp thành phố Hồ Chí Minh cho thấy, không có sự khác biệt có ý nghĩa thống kê (các hệ số p > 0.05) theo giới tính, khu vực sinh sống của sinh viên, năm học của
+Tác giả: Lê Thị Hương
+sinh viên, học lực của sinh viên.
+Điều này có nghĩa là những sinh viên có giới tính, khu vực sống, theo học các năm học khác nhau và có học lực khác nhau thì có mức độ trầm cảm, lo âu và stress thấp hoặc cao là giống nhau.
+Bảng 3.
+Sự khác biệt về mức độ trầm cảm, lo âu, stress của sinh viên theo biến hoàn cảnh kinh tế gia đình (n = 818)
+Đặc điểm nhân khẩu ĐTB ĐLC Anova (df =3)
+1.
+Khó khăn 7.53 6.07
+Trầm cảm
+F = 4.923 p = 0.002 2.
+Trung bình 5.64 4.86 3.
+Khá giả 5.43 4.99 4.
+Giầu Có 2.37 2.44
+1.
+Khó khăn 6.59 5.82
+Lo âu
+F = 2.742 p = 0.042 2.
+Trung bình 5.17 4.59 3.
+Khá giả 4.81 5.19 4.
+Giầu Có 3.62 3.42
+1.
+Khó khăn 7.99 5.98
+Stress
+F = 3.175 p = 0.024 2.
+Trung bình 6.65 4.87 3.
+Khá giả 6.47 4.91 4.
+Giầu Có 3.25 3.01 Kết quả phân tích ở bảng 3 cho thấy, có sự khác biệt có ý nghĩa thống kê về mức độ trầm cảm, lo âu, stress (các hệ số p < 0.05) theo hoàn cảnh kinh tế gia đình của sinh viên.
+Sự khác biệt thể hiện rõ ràng nhất khi so sánh trầm cảm (p = 0.002), lo âu (p = 0.042), stress (p = 0.024), giữa các nhóm sinh viên có hoàn cảnh kinh tế khác nhau.
+Kết hợp với điểm trung bình trầm cảm, lo âu và stress ở bảng 3, có thể thấy, sinh viên có hoàn cảnh kinh tế khó khăn (ĐTBTrầm cảm = 7.53, ĐTB Lo âu = 6.59, ĐTBStress = 7.99), hoàn cảnh kinh tế trung bình ĐTBTrầm cảm = 5.64, ĐTB Lo âu = 5.17, ĐTBStress = 6.65) có sức khỏe tinh thần kém hơn so với sinh viên có hoàn cảnh kinh tế khá giả (ĐTBTrầm cảm = 5.43, ĐTB Lo âu = 4.81, ĐTBStress = 6.47) và giầu có (ĐTBTrầm cảm = 2.37, ĐTB Lo âu = 3.62, ĐTBStress = 3.25).
+Nhìn vào bảng trên, ta thấy rõ 1 điều sinh viên có hoàn cảnh kinh tế khó khăn bị: Trầm cảm, lo âu, stress là cao nhất (ĐTBTrầm cảm = 7.53, ĐTB Lo âu = 6.59, ĐTBStress = 7.99), sinh viên trong gia đình giàu có bị: Trầm cảm, lo âu, stress thấp nhất (ĐTBTrầm cảm = 2.37, ĐTB Lo âu = 3.62, ĐTBStress = 3.25).
+Điều này cũng dễ hiểu, bởi sinh viên nói chung và con người chúng ta, hiện nay đang sống trong xã hội hiện đại, giá trị kinh tế chi phối lên tất cả lĩnh vực đời sống, không loại trừ lĩnh vực tinh thần của con người.
+Điều này làm chúng ta nghĩ đến một số câu tục ngữ, ca dao nói về giá trị kinh tế “Tiền bạc là người đầy tớ trung thành” “Miệng nhà giàu nói đâu ra đấy”.
+Hơn nữa trong xã hội hiện đại sự giàu nghèo là vấn đề rất nhạy cảm của giới trẻ, chính tác giả cảm nhận rất rõ, nhiều lần bước vào lớp học, tình cờ nghe: “Nhà nó nghèo ba đời đấy, mẹ nó đi làm vú nuôi, lấy tiền cho nó ăn học, nó làm bồi bàn hộc mặt, để có tiền chi tiêu học hành, nó đâu có tiền, có thời gian mà mày rủ, tối nay làm vài xị”.
+Trong suốt giờ học, sinh viên được mệnh danh nghèo ba đời, thu mình, không còn hăng hái phát biểu bài, hoạt động nhóm không còn tranh luận sôi nổi, thay vào đó là trầm ngâm tra cứu tài liệu, viết ra giấy (phần nội dung bài tập nhóm giao) rồi gửi lại nhóm trưởng.
+Một số bạn con nhà giàu trong nhóm hả hê, khi lột trần được sự nghèo khổ của bạn mình.
+Câu tục ngữ “Miệng nhà giàu nói đâu ra đấy” đã được một số sinh viên vận dụng theo hướng tiêu cực: “Nhà nó giàu thì mua tiên cũng được, huống gì mấy đồng học phí ...”.
+Sinh viên nhà giàu nói gì cũng được nhiều thành viên trong lớp nghe theo, sự phân biệt giàu nghèo trong lớp học giữa sinh viên với nhau, tương đối hà khắc như xã hội phong kiến trước đây, phải chăng đây chính là nguyên nhân cơ bản, làm cho những em có hoàn cảnh kinh tế khó khăn bị: Trầm cảm, lo âu, stress là cao nhất (ĐTBTrầm cảm = 7.53, ĐTB Lo âu = 6.59, ĐTBStress = 7.99).
+Thực tế sinh viên trường Đại học công nghiệp thành phố Hồ Chí Minh, phần nhiều có hoàn cảnh kinh tế trung bình và khó khăn từ các mọi miền đất nước, bắc, trung, nam.
+Điều này làm tác giả không khỏi trăn trở.
+Điều này được khẳng định lại qua phỏng vấn sâu với sinh viên NTTM (Sinh viên năm 1, khoa Tài chính - Ngân hàng) chia sẻ: "Em sinh ra và lớn lên ở nông thôn, quê ở Bình Định kinh tế gia đình khó khăn, vì vậy em quyết tâm thi vào trường công lập, đỡ phải đóng học phí cao như trường tư thục, giảm bớt gánh nặng kinh tế cho gia đình.
+Mặc dù đã chi tiêu tiết kiệm hết sức, vẫn thấy thiếu thốn và chật vật.
+Không những em dự định mà bố mẹ yêu cầu hè này và các hè năm sau phải đi làm thêm, kiếm thêm thu nhập để phụ gia đình trang trãi tiền ăn học.
+Vừa đi học vừa đi làm thêm
+MỨC ĐỘ TRẦM CẢM, LO ÂU….
+có ảnh hưởng đến việc học của em ở trường không?.
+Học chung 1 số môn với các anh chị năm hai và năm ba, thì em cảm nhận được “Thời đại bây giờ sinh ra và lớn lên trong gia đình nghèo cũng là một cái tội” Tại sao em lại nghĩ “Thời đại bây giờ sinh ra và lớn lên trong gia đình nghèo cũng là một cái tội”.
+Dạ thưa cô ở lớp, sự phân biệt giàu nghèo khá rõ... làm em luôn mặc cảm giao tiếp, chẳng dám mở lòng chia sẽ với bạn bè trong lớp về cái nghèo của gia đình.
+Bạn sinh viên BTNH (Sinh viên năm 4, Khoa Công nghệ Động lực) chia sẻ: Em học năm cuối, vừa học ở trường vừa phải đi cơ sở, thực tập, nên các khoản chi phí phát sinh khá lớn, hàng tháng em phải xin thêm tiền từ cha mẹ cho những khoản chi phí phát sinh.
+Cha mẹ là cán bộ công chức, thu nhập cũng chỉ đủ chi tiêu tối thiểu cho gia đình ,đôi khi em thấy mệt mỏi, may mà nhà em ở thành phố nên cũng đỡ hơn so với một số bạn cùng lớp quá xa quê, xa nhà".
+Những phát hiện qua phỏng vấn sâu, là cơ sở để chúng tôi đưa ra khuyến nghị phù hợp giảm bớt mức độ trầm cảm, lo âu và stress cho sinh viên có liên quan đến hoàn cảnh kinh tế gia đình và kỹ năng quản lý tài chính của sinh viên hiện nay.
+Kết qủa nghiên cứu này cho thấy một phát hiện mới về yếu tố hoàn cảnh kinh tế của sinh viên là yếu tố có tác động mạnh nhất đến mức độ trầm cảm, lo âu và stress ở sinh viên trường Đại học Công nghiệp thành phố Hồ Chí Minh.
+Những phát hiện này còn cho thấy có sự khác biệt so với kết quả nghiên cứu của Nguyễn và cộng sự (2020) phát hiện áp lực học tập là yếu tố tác động mạnh mẽ nhất đến mức độ stress, lo âu, trầm cảm của của sinh viên năm cuối ngành Dược trên địa bàn tỉnh Đồng Nai, kế đến là áp lực từ gia đình.
+3.3.
+Mối tương quan giữa stress, lo âu và trầm cảm của sinh viên trường Đại học Công nghiệp Thành phố Hồ Chí Minh
+Bảng 4:.
+Mối tương quan giữa mức độ trầm cảm, lo âu và stress của sinh viên (n = 818)
+Trầm cảm Lo âu Stress
+**.
+Cặp biến có tương quan tuyến tính ở mức tin cậy 99% (tương ứng mức ý nghĩa 1% = 0.01)
+Kết quả kiểm định tương quan Pearson ở bảng 4 cho thấy, mối quan hệ tuyến tính rất chặt chẽ giữa các cặp biến trầm cảm - lo âu (r = 0.861, p < 0.01), trầm cảm - stress (r = 0.877; p < 0.01) và lo âu - stress (r = 0.848; p < 0.01).
+Như vậy mối tương quan giữa tình trạng trầm cảm và stress của khách thể nghiên cứu là mạnh nhất.
+Nghiên cứu của Lê Minh Thuận (2011) cũng cho thấy mối tương quan thuận chặt chẽ giữa 3 tình trạng này, nhưng tương quan giữa lo âu - trầm cảm là mạnh nhất (r = 0.73).
+Trong nghiên cứu của nhóm tác giả Nguyễn và cộng sự (2020) cũng cho thấy mối tương quan giữa tình trạng stress và lo âu của khách thể nghiên cứu là mạnh nhất (r = 0.838).
+Theo KiecoltGlaser JK et al (2003) cho rằng mối tương quan giữa các trạng thái sức khỏe tâm thần trầm cảm, lo âu, stress là yếu tố dự báo một số vấn đề đáng lo ngại hơn về sức khỏe tổng thể của các sinh viên nếu không được can thiệp kịp thời.
+4.
+KẾT LUẬN
+Nghiên cứu mô tả cắt ngang thực hiện trên 818 sinh viên trường đại học Công nghiệp cho thấy, tại thời điểm khảo sát, số sinh viên có biểu hiện trầm cảm chiếm tỷ lệ cao nhất (24.2%), kế đến là lo âu (19.4%), và cuối cùng là stress (6.8%).
+Có sự khác biệt ý nghĩa thống kê về mức độ trầm cảm, lo âu và stress của sinh viên xét theo hoàn cảnh kinh tế gia đình; cụ thể, sinh viên có hoàn cảnh kinh tế khó khăn và hoàn cảnh kinh tế trung bình trải qua mức độ trầm cảm, lo âu và stress cao hơn so với sinh viên có hoàn cảnh kinh tế khá giả và hoàn cảnh kinh tế giầu có; điều này có thể được giải thích là bởi sự tác động từ sự biến động của tình hình kinh tế sau đại dịch trong giai đoạn hiện nay.
+Đáng chú ý, có mối tương quan thuận khá chặt giữa mức độ trầm cảm, lo âu và stress của sinh viên.
+Những kết quả này, cung cấp một số bằng chứng về thực tiễn sức khỏe tâm thần của sinh viên Đại học Công nghiệp thành phố Hồ Chí Minh.
+Trên cơ sở đó, Tác giả đưa ra một số khuyến nghị để cải thiện thực trạng này, bao gồm: (1) Đối với sinh viên: Cần loại bỏ sự phân biệt giàu nghèo trong giảng đường, bởi vì
+Tác giả: Lê Thị Hương
+các em đang sống trong xã hội: “Công bằng và bác ái”.
+Hơn nữa các em phải hiểu rằng là tri thức trẻ, trụ cột của xã hội “Văn minh và bình đẳng”.
+Nhất là truyền thống đạo đức của dân tộc Việt Nam “Lá lành đùm lá rách, lá rách ít đùm là rách nhiều”, tri thức trẻ phải là người phát huy cao hơn nữa truyền thống quý báu của dân tộc.
+Nếu luôn ám thị trong người sự phân biệt đối xử giàu nghèo thì làm sao xứng đối là trụ cột của đất nước Lạc Hồng.
+Cần trang bị cho mình nhận thức đầy đủ về các biểu hiện stress, lo âu, trầm cảm của bản thân cũng như các yếu tố ảnh hưởng và lập kế hoạch chủ động ứng phó kịp thời, khi rơi vào các mức độ khác nhau của trầm cảm, lo âu và stress.
+Khi quá khó khăn về tài chính cho học tập, phải trao đổi với gia đình và nhà trường, để gia đình cùng hỗ trợ (2) Đối với nhà trường: Cần triển khai các chương trình chăm sóc sức khỏe tinh thần cho sinh viên thông qua xây dựng và tổ chức các chương trình khám sàng lọc sức khỏe tâm thần cho sinh viên, chương trình tập huấn, tọa đàm, hội thảo về chăm sóc sức khỏe tâm thần cho sinh viên.
+Đồng thời xây dựng phòng tư vấn tâm lý học đường cho sinh viên, với đội tham vấn vừa đúngchuyên ngành tâm lí học đào tạo chính quy, vừa có kinh nghiệm, tư vấn tâm lý cho sinh viên kịp thời khi các em có những biểu hiện trầm cảm, lo âu và stress.
+Đối với sinh viên nghèo hiếu học, khi các em rơi vào tình cảnh bế tắc về tài chính như: Sắp thi kết thúc học phần mà vẫn chưa có tiền đóng học phí, thì khoa và trường có thể cho sinh viên này vay tạm trong thời gian ngắn (có sự cam kết của gia đình).
+Xoa dịu nỗi lo thấp thỏm vây quanh (không có tiền đóng học phí hoặc đóng học phí không kịp, sẽ bị cấm thi) giúp sinh viên ổn định tâm lý tập trung vào học và ôn thi, từ đó nâng cao kết quả học tập và chất lượng giáo dục, đào tạo của nhà trường.
+(3) Đối với gia đình, quan tâm đến tinh thần của con, cần tạo điều kiện hơn nữa về mặt vật chất, nhất là 1 số vật chất tối thiếu như tiền đóng học phí trước cho con, không nên để nhà trường, thầy cô phải reo gọi hàng ngày về việc đóng học phí, làm cho các em thấy chạnh lòng, xấu hổ dẫn đến mặc cảm,…tiền học các chứng chỉ cần thiết…giúp sinh viên yên tâm học tập, không nên bỏ rơi con với quan điểm “Lớn tự bươn chãi mà sống”, nhất là sinh viên nghèo đến từ các tỉnh lẻ quá xa nhà, muốn tồn tại được ở môi trường xa hoa, hiện đại như thành phố Hồ Chí Minh là điều rất khó, nhiều em phải lo cơm áo, gạo tiền từng bữa, đi làm thêm đủ việc, lấy gần hết quỷ thời gian học tập, long đong lận đật vừa học vừa kiếm kế sinh nhai mà vẫn không đủ tiền đóng học phí, dẫn đến stress ở sinh viên là lẽ đương nhiên.
+TÀI LIỆU THAM KHẢO
+Adams, K.L.
+; Saunders, K.E.
+; Keown-Stoneman, C.D.G.
+; Duffy, A.C. (2021).
+Mental health trajectories in
+undergraduate students over the first year of university: A longitudinal cohort study.
+BMJ Open, 11, e047393.
+American Psychiatric Association.
+(2013).
+Diagnostic and statistical manual of mental disorders (5th ed.).
+Bayram, N.; Bilgel, N. (2008).
+The prevalence and socio-demographic correlations of depression, anxiety and stress
+among a group of university students.
+Soc.
+Psychiatry Psychiatr.
+Epidemiol, 43, 667–672.
+Gao, L.; Xie, Y.; Jia, C.; Wang, W. (2020).
+Prevalence of depression among Chinese university students: A systematic
+review and meta-analysis.
+Sci.
+Rep, 10, 15897.
+Hoàng, T., Chu, N.M.N.
+(2008).
+Phân tích dữ liệu nghiên cứu với SPSS.
+NXB Hồng Đức.
+Hysenbegasi, A., Hass, S.L., Rowland, C.R.
+(2005).
+The impact of depression on the academic productivity of
+university students.
+J Ment Health Policy Econ, 8(3), 145-151.
+PMID: 16278502
+Kiecolt-Glaser, J. K., Preacher, K. J., MacCallum, R. C., Atkinson, C., Malarkey, W. B., & Glaser, R. (2003).
+Chronic
+stress and age-related increases in the proinflammatory cytokine IL - 6.
+Proceedings of the National Academy of
+Sciences of the United States of America, 100(15), 9090-9095. https://doi.org/10.1073/pnas.1531903100
+Lê, T.M.
+(2011).
+Sức khỏe tâm lý của sinh viên: Nghiên cứu cắt ngang.
+Tạp chí Y học Thực hành (774), Số 7, 72-75.
+Lim, G.Y.
+; Tam, W.W.; Lu, Y.; Ho, C.S.
+; Zhang, M.W.
+; Ho, R.C.
+(2018).
+Prevalence of depression in the community
+from 30 countries between 1994 and 2014.
+Sci.
+Rep, 8, 2861.
+MỨC ĐỘ TRẦM CẢM, LO ÂU….
+Lipson, S.K.
+; Lattie, E.G.
+; Eisenberg, D. (2019).
+Increased rates of mental health service utilization by U.S. college
+students: 10-year population-level trends (2007–2017).
+Psychiatr.
+Serv, 70, 60–63.
+Melaku, L.M.A., Negash, A.
+(2015), Stress among Medical Students and Its Association with Substance Use and
+Academic Performance, accessed 26/9/2016, from https://www.hindawi.com/journals/jbe/2015 /149509
+Nguyễn, B.P (2005), Ảnh hưởng của tinh thần lạc quan và chỗ dựa xã hội đến cách quản lý cảm xúc lo âu trong hoạt
+động học tập của sinh viên.
+Nguyễn, T.B.T, Nguyễn, T.T, Nguyễn, P.K.
+(2020).
+Thực trạng stress, lo âu, trầm cảm của sinh viên Đại học năm
+cuối ngành Dược tại Đồng Nai, ISSN: 1859 - 4603: Tạp chí Khoa học Xã hội, Nhân văn và Giáo dục, Tập 10, Số 2,
+32-37, DOI: https://doi.org/10.47393/jshe.v10i4.904
+Nguyễn, T.T, Nguyễn, T.B.T.
+(2020).
+Các yếu tố ảnh hưởng đến stress, lo âu, trầm cảm của sinh viên năm cuối ngành
+Dược tại Đồng Nai.
+Tạp chí Khoa học và Công nghệ - Đại học Đà Nẵng, Tập 18, Số 10, 10-13.
+Nguyễn, V.Th, Trần, V. Ngh (2001), “Sức khoẻ tâm thần trong nền kinh tế thị trường”, Nội san Tâm thần học số 5
+quý I – 2001, Tổng hội Y Dược học Việt Nam, Hội Tâm thần học, Hà Nội, Tr 13 – 16.
+Oswalt, S.B.
+; Lederer, A.M.; Chestnut-Steich, K.; Day, C.; Halbritter, A.; Ortiz, D (2020).
+Trends in college students’
+mental health diagnoses and utilization of services, 2009-2015.
+J.
+Am.
+Coll.
+Health, 68, 41–51.
+Ramón-Arbués, E.; Gea-Caballero, V.; Granada-López, J.M.
+; Juárez-Vela, R.; Pellicer-García, B.; Antón-Solanas, I.
+(2020).
+The prevalence of depression, anxiety and stress and their associated factors in college students.
+Int.
+J. Environ.
+Res.
+Public Health, 17, 7001.
+Trần, T.D., Trần T., Fisher, J.
+2013.
+Validation of the depression anxiety stress scales (DASS) 21 as a screening
+instrument for depression and anxiety in a rural community-based cohort of northern Vietnamese women.
+BMC
+Trường Đại học Công nghiệp Thành phố Hồ Chí Minh.
+(2021).
+Báo cáo Tổng kết công tác năm 2020 và phương
+hướng nhiệm vụ năm 2021.
+Vũ, D, (2015), Thực trạng stress của sinh viên điều dưỡng Đại học Thăng Long năm 2015 và một số yếu tố liên quan,
+Luận văn thạc sĩ y tế công cộng, Trường đại học Y tế công cộng Hà Nội, Hà Nội
+Wong, J.G.
+; Cheung, E.P.
+; Chan, K.K.
+; Ma, K.K.
+; Tang, S.W.
+(2006).
+Web-based survey of depression, anxiety and
+stress in first-year tertiary education students in Hong Kong.
+Aust.
+N. Z. J. Psychiatry, 40, 777–782.
+Yang, S.-W.; Koo, M. (2022).
+The Big Five Personality Traits as Predictors of Negative Emotional States in University
+Students in Taiwan.
+Int.
+J. Environ.
+Res.
+Public Health, 19, 16468. https:// doi.org/10.3390/ijerph192416468.
+Tác giả: Lê Thị Hương
+PHỤ LỤC THANG ĐO DASS 21
+Thang đo gốc Thang đo điều chỉnh/chuyển ngữ 1.
+I found it hard to wind down 1.
+Tôi thấy khó mà thoải mái được 2.
+I was aware of dryness of my mouth 2.
+Tôi bị khô miệng 3.
+I couldn’t seem to experience any positive feeling at all
+3.
+Tôi dường như chẳng có chút cảm xúc tích cực nào
+4.
+Tôi bị rối loạn nhịp thở (thở gấp, khó thở dù chẳng làm việc gì nặng)
+4.
+I experienced breathing difficulty (eg, excessively rapid breathing, breathlessness in the absence of physical exertion)
+5.
+Tôi thấy khó bắt tay vào công việc
+5.
+I found it difficult to work up the initiative to do things
+6.
+I tended to over-react to situations 6.
+Tôi có xu hướng phản ứng thái quá với mọi tình huống 7.
+I experienced trembling (eg, in the hands) 7.
+Tôi bị ra mồ hôi (chẳng hạn như mồ hôi tay...) 8.
+I felt that I was using a lot of nervous energy 8.
+Tôi thấy mình đang suy nghĩ quá nhiều 9.
+I was worried about situationsin which I might panic and make a fool of myself
+9.
+Tôi lo lắng về những tình huống có thể làm tôi hoảng sợ hoặc biến tôi thành trò cười 10.
+I felt that I had nothing to look forward to 10.
+Tôi thấy mình chẳng có gì để mong đợi cả 11.
+I found myself getting agitated 11.
+Tôi thấy bản thân dễ bị kích động 12.
+I found it difficult to relax 12.
+Tôi thấy khó thư giãn được 13.
+I felt down-hearted and blue 13.
+Tôi cảm thấy chán nản, thất vọng 14.
+I was intolerant of anything that kept me from getting on with what I was doing
+16.
+Tôi không thấy hăng hái với bất kì việc gì nữa
+14.
+Tôi không chấp nhận được việc có cái gì đó xen vào cản trở việc tôi đang làm 15.
+I felt I was close to panic 15.
+Tôi thấy mình gần như hoảng loạn 16.
+I was unable to become enthusiastic about anything
+17.
+I felt I wasn’t worth much as a person 17.
+Tôi cảm thấy mình không có giá trị gì với tư cách là một con người 18.
+I felt that I was rather touchy 18.
+Tôi thấy mình khá dễ phật ý, tự ái 19.
+I was aware of the action of my heart in the absence of physicalexertion (eg, sense of heart rate increase, heart missing a beat)
+19.
+Tôi nghe thấy rõ tiếng nhịp tim dù chẳng làm việc gì cả (ví dụ, tiếng nhịp tim tăng, tiếng tim loạn nhịp) 20.
+I felt scared without any good reason 20.
+Tôi hay sợ vô cớ 21.
+I felt that life was meaningless 21.
+Tôi thấy cuộc sống vô nghĩa
+Ghi chú: Tiểu thang đo trầm cảm gồm các item: 3,5,10,13,16,17,21; Tiểu thang đo lo âu gồm các item: 2,4,7,9,15, 19,20; Tiểu thang đo stress gồm các item:1,6,8,11,12,14,18
+STUDENTS LEVELS OF DEPRESSION, ANXIETY, AND STRESS
+INDUSTRIAL UNIVERSITY OF HO CHI MINH CITY
+LE THI HUONG Faculty of Commerce and Tourism, Industrial University of Ho Chi Minh City
+lethihuong.18@iuh.edu.vn Abstract: This study conducts a cross-sectional descriptive survey to find out the level of depression, anxiety and stress of students (school year 2022 - 2023) at the Industrial University of Ho Chi Minh City based on questionnaire survey Scale (DASS21).
+The research results from 818 respondents showed that the
+MỨC ĐỘ TRẦM CẢM, LO ÂU….
+proportions of students experiencing depression, anxiety, and stress were 24.2%, 19.4% and 6.8%, respectively, of which, the rate of serious depression accounted for 1.3%, anxiety accounted for 2% and very serious accounted for 1.6% analysis.
+There were also statistically significant differences among groups of students with different economic backgrounds.
+These results help the school design appropriate intervention strategies to improve students' mental health, contributing to improving the quality of education and training of the school in the current period.
+Keywords: depression, levels of depression, stress, stress in students
+Ngày nhận bài: 19/05/2023 Ngày chấp nhận đăng: 02/10/2023

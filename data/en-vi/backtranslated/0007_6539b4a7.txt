@@ -1,0 +1,280 @@
+MEDICAL RESEARCH JOURNAL
+SINGLE-INCISION LAPAROSCOPIC SURGERY FOR HIRSCHSPRUNG'S DISEASE IN NEONATES
+Dao Duc Dung1,*, Bui Duc Hau2, Tran Anh Quynh2, Le Quang Du2, Hoang Huu Kien2, Le Hoang Long2, Pham Duy Hien2
+1Hanoi Medical University
+2National Children’s Hospital
+Single-incision laparoscopic surgery (SILS) offers many advantages yet is infrequently applied in children.
+We evaluated the outcomes of single-incision laparoscopic surgery in the treatment of Hirschsprung's disease in neonates.
+This was a prospective descriptive study of Hirschsprung's patients aged 1–28 days who underwent single-incision laparoscopic surgery at the National Children’s Hospital from January 2020 to December 2021.
+Results: 23 patients were included, with a mean age of 22.3±3.2 days (range: 17–28 days).
+The average operative time was 53.8±11.9 minutes (range: 35–75 minutes), and the mean postoperative hospital stay was 4.5±1.1 days (range: 3–7 days).
+There were 4 cases of enterocolitis, 1 case of anastomotic stricture, and no mortality.
+This study demonstrates that single-incision laparoscopic surgery is a safe and effective treatment for Hirschsprung's disease in neonates.
+Keywords: Single-incision laparoscopic surgery, Hirschsprung’s disease, congenital megacolon.
+I.
+INTRODUCTION
+Hirschsprung’s disease is a developmental disorder characterized by the absence of ganglion cells in the distal gastrointestinal tract, leading to functional intestinal obstruction.
+Most cases of Hirschsprung’s disease are diagnosed during the neonatal period, with the typical symptom being failure to pass meconium within 24–48 hours after birth.¹ Surgery is the mainstay of treatment and is performed following definitive diagnosis by histopathology.
+Hirschsprung’s disease.
+The surgery is performed through a single incision at the umbilicus using three conventional laparoscopic instruments.3 Although single-incision laparoscopic surgery is widely used in adult patients, its application in children remains limited.
+One of the main reasons is the lack of appropriate surgical instruments for pediatric patients, especially neonates.4 Currently, skilled surgeons can still apply this technique by using standard laparoscopic instruments combined with suspension sutures to ensure effective treatment of Hirschsprung’s disease.5
+In 1995, Georgeson first reported the use of laparoscopic surgery to treat Hirschsprung’s disease, showing remarkable effectiveness in reducing trauma, fewer complications, and faster recovery compared to open surgery.2 With significant advances in minimally invasive surgery, in 2010, Muensterer successfully applied single-incision laparoscopic surgery for treatment.
+Author correspondence: Dao Duc Dung
+Hanoi Medical University
+Email: drdung.sur@gmail.com
+Date received: 15/03/2023
+Date accepted: 05/04/2023
+In Vietnam, surgical treatment for Hirschsprung’s disease has made significant progress, evolving from multi-stage procedures to single-stage surgery; from primarily selecting children over three months of age to now being applicable even in neonates, yielding promising results.
+Nguyen Thanh Liem’s study applied single-incision laparoscopic surgery for the treatment of Hirschsprung’s disease during the period 2013–2015, with results showing that this is a novel, feasible, and safe approach with good outcomes; however, this study only included children beyond the neonatal period (from 1 to 17 months old).5 Single-incision surgery was performed using three trocars placed within a single skin incision around the circumference of the umbilicus.
+The surgeries were performed by the same surgical team, and postoperative care followed a standardized protocol;
+(3) Parents (or legal guardians) consented to participate in the study and complied with the follow-up schedule.
+Exclusion criteria
+- Presence of contraindications for laparoscopic surgery such as: bleeding disorders, severe congenital heart disease, acute respiratory tract conditions (bronchopneumonia);
+- Previous failed surgery performed elsewhere.
+2.
+Methods
+Study design
+A prospective descriptive study.
+Convenience sampling.
+Single-incision laparoscopic surgery procedure:
+The current perspective among pediatric surgeons worldwide regarding the treatment of Hirschsprung’s disease is early intervention, single-stage surgery using minimally invasive techniques.
+The timing of colon pull-through surgery in neonates remains a matter of debate.
+Kastenberg’s study demonstrated that single-stage pull-through during the neonatal period yields postoperative bowel function comparable to surgery performed after the neonatal stage.6 Surgery in neonates offers certain advantages, such as less colonic dilatation compared to older children, a thinner abdominal wall, and a surgical field that is easier to manipulate; however, postoperative recovery is prolonged and there is a higher risk of missing aganglionic segments.6 Single-incision laparoscopic surgery has been successfully performed in neonates with favorable results, but the number of studies remains limited and further evaluation of its effectiveness is needed.
+Therefore, we conducted this study with the objective of evaluating the outcomes of single-incision laparoscopic surgery in the treatment of Hirschsprung’s disease in neonates.
+II.
+SUBJECTS AND METHODS
+Preoperative preparation involved daily colonic lavage with normal saline for about 2–3 days before surgery, which could be extended depending on the degree of colonic dilatation and fecal retention, with the aim of cleansing and reducing the dilation of the colon.
+1.
+Subjects
+Including neonate patients diagnosed with Hirschsprung’s disease and undergoing single-incision laparoscopic surgery at the Department of Surgery – National Children’s Hospital from January 2020 to December 2021, meeting the following criteria:
+Inclusion criteria
+Age from 1 to 28 days, with the following standards:
+(1) Diagnosis of Hirschsprung’s disease based on clinical symptoms, abdominal X-ray showing a transition zone, and intraoperative rapid pathology confirming absence of ganglion cells in the narrow bowel segment;
+(2) Treated with single-incision laparoscopic surgery
+Technique:
+During laparoscopy, three trocars are inserted through a 1.5 cm incision just above the umbilicus, using two 5 mm trocars and one 3 mm trocar (Figure 1), with CO2 insufflation pressure of 7–8 mmHg.
+Frozen section biopsy of the colonic muscularis propria outside the mucosa is performed at two sites: the suspected aganglionic narrowed segment and the suspected ganglionic dilated segment; each biopsy specimen is 5 mm in size.
+The sigmoid colon and rectum are mobilized close to the bowel wall down into the pelvis via the peritoneal fold, approximately 2–3 cm.
+The trunk of the sigmoid artery and superior rectal artery are divided.
+The colonic mesentery is mobilized upward as needed according to the length of the aganglionic segment and the segment intended for pull-through, to ensure there is no tension at the anastomosis.
+MEDICAL RESEARCH JOURNAL
+Figure 1.
+Trocar placement site (a) and the incision after skin suturing (b) (Patient Nguyen Minh K., Surgery on 16/05/2020)
+Figure 2.
+Pulling the colon through the anus (Patient Nguyen Minh K., Surgery on 16/05/2020)
+Perineal phase: The Lone Star retractor was used to open the anus.
+A circumferential incision was made in the anal mucosal tube, 0.5 cm above the dentate line.
+The mucosal tube was dissected upward for about 5–7 cm.
+The anterior wall muscularis of the rectum was inverted and incised longitudinally to enter the abdominal cavity through the dissection plane created during the laparoscopic phase.
+Subsequently, the muscularis was incised circumferentially along the rectal perimeter to completely free the rectum and colon.
+A “V” shaped incision was made in the posterior wall of the rectal muscularis, leaving an anal-rectal muscular cuff approximately 1.5 cm in length from the anal verge.
+The rectosigmoid segment was pulled through the anal canal to the outside, and laparoscopy was used to confirm that the colon was neither distended nor twisted (Figure 2).
+The aganglionic and dilated segments were resected.
+The normal ganglionic colon was anastomosed to the anal muscular cuff at 0.5 cm above the dentate line using the modified Soave technique with interrupted sutures.
+A 24Fr Foley catheter was placed into the anus.
+Preoperative information (age, gender, weight, comorbidities), intraoperative data (aganglionic segment location, length of resected colon, operative time), and postoperative follow-up to evaluate surgical outcomes (postoperative period, complications, postoperative follow-up duration, and follow-up visit information) were recorded.
+Evaluation of postoperative enterocolitis was conducted using the Delphi criteria.7 Assessment of scars at least 6 months postoperatively was performed using the SCAR (The Scar Cosmesis Assessment and Rating) scale.8
+Postoperative care: The child was given water 6 hours after surgery, and milk could be introduced between 12 and 24 hours postoperatively.
+Remove the rectal tube once the patient passes gas or has a bowel movement.
+Discharge from the hospital is typically 3 to 5 days after surgery.
+The anastomosis was guided for dilation, which started two weeks after surgery, with daily dilation performed for one month.
+Postoperative check-ups were conducted at 1 month, 3 months, and then every 6 months thereafter.
+MEDICAL RESEARCH JOURNAL
+Data Processing
+III.
+RESULTS
+According to medical statistical methods, using SPSS 26.0 software.
+3.
+Research Ethics
+A total of 23 neonates with Hirschsprung’s disease underwent single-incision laparoscopic surgery performed by the same surgical team at the National Children's Hospital from January 2020 to December 2021, with the following results:
+The male-to-female ratio was 22:1; the average age was 22.3 ± 3.15 days (range, 17–28 days).
+The average weight was 3.33 ± 0.36 kg (range, 2.7–4.2 kg).
+All patients had delayed passage of meconium after 24 hours postoperatively.
+There were 2 cases associated with Down syndrome (8.7%) and 1 case (4.3%) with bilateral hydrocele (patent processus vaginalis).
+The study fully adhered to the ethical principles of biomedical research.
+This study was approved by the Ethics Committee in Biomedical Research of Hanoi Medical University (No.
+HS50/BB – HĐĐĐ, dated April 10, 2017).
+The single-incision laparoscopic surgery protocol for treating Hirschsprung’s disease has been developed, researched, and is the result of the national-level project “Research on the application of single-incision laparoscopic surgery in the treatment of certain pediatric diseases,” code KC.10.42/11-15.
+Table 1.
+Intraoperative Evaluation
+Outcome Assessment
+Aganglionic segment location, n (%)
+Rectum: 11 (47.8)
+Sigmoid colon: 12 (52.2)
+Length of resected colon segment, cm (minimum – maximum):
+19.35 ± 4.27 (12–30)
+Laparoscopic phase: 23.39 ± 7.01 (13–35)
+Perineal phase: 29.52 ± 9.56 (18–49)
+Operative time, minutes (Min – Max)
+Total: 53.83 ± 11.95 (35–75)
+Comment: The majority of aganglionic segments were located from the sigmoid colon down to the rectum, with the resected aganglionic segment averaging approximately 19 cm.
+The mean operative time was 53 minutes (ranging from 35 to 75 minutes).
+Table 2.
+Relationship between the length of the resected bowel segment and operative time with aganglionic segment location
+Assessment Aganglionic segment location p Rectum (n=11) Sigmoid colon (n=12)
+Mean resected length (cm) 17.18 ± 2.96 21.33 ± 4.42 0.015
+Mean operative time (minutes) 53.18 ± 14.75 54.42 ± 9.32 0.068
+Comment: There was no difference in operative time between the groups with different lengths of resected bowel segments.
+MEDICAL RESEARCH JOURNAL
+Table 3.
+Postoperative outcomes
+Characteristic Outcome
+Enterocolitis 4 (17.4%)
+Complications, n (%)
+Anastomotic stricture 1 (4.3%)
+Mortality 0
+Postoperative period (days) ± SD (Min - Max) 4.48 ± 1.08 (3-7)
+Follow-up duration (months) ± SD (Min - Max) 24.70 ± 4.07 (13-32)
+Remarks: Enterocolitis was the most common postoperative complication (17.4%).
+There was one case of anastomotic stricture at the colon-anal anastomosis requiring reoperation.
+No mortality occurred.
+Assessment of surgical scars using the SCAR scale resulted in scores of 1–2 points.
+IV.
+DISCUSSION
+Resection of the aganglionic bowel segment and restoration of intestinal continuity is achieved by bringing the normal bowel down and anastomosing it to the anal canal while preserving sphincter function.
+With advancements in laparoscopic instruments and surgical techniques, minimally invasive treatment methods have become a growing trend in the management of Hirschsprung’s disease, offering advantages such as reduced trauma, minimized bleeding, improved cosmetic outcomes, while still ensuring safety and effectiveness.
+The timing of colon pull-through surgery for neonates with Hirschsprung’s disease, however, remains a subject of ongoing discussion.
+Surgery in the neonatal period helps prevent preoperative enterocolitis; however, care must be taken.
+Asian children have a high incidence of Hirschsprung’s disease, with a rate of about 3 per 5,000 live births, and the disease is more common in males, with a male-to-female ratio of approximately 4:1.1 In our study, the male-to-female ratio was much higher than that reported in the literature.
+Hirschsprung’s disease typically presents in one of three clinical forms: intestinal obstruction in neonates, chronic constipation in older children, or enterocolitis.
+According to the literature, symptoms of delayed passage of meconium within the first 24 hours or intestinal obstruction in the neonatal period are observed in 80-90% of infants during the neonatal phase.1 All neonates in this study exhibited delayed meconium passage 24 hours after surgery, followed by abdominal distension and frequent vomiting; we did not encounter any cases of cecal perforation as described in the literature.1
+They face risks such as inaccurate disease diagnosis, postoperative enterocolitis, and prolonged postoperative recovery time.
+Delaying colon pull-through surgery until after the neonatal period allows additional time for definitive diagnosis.
+Kastenberg’s study showed that single-stage colon pull-through performed beyond the neonatal period yields functional outcomes equivalent to surgery performed during the neonatal period.
+The current consensus among pediatric surgeons worldwide regarding the treatment of Hirschsprung’s disease is early surgery, utilizing single-stage, minimally invasive techniques.
+The absence of ganglion cells in the colon wall on histopathology is the gold standard for diagnosing Hirschsprung’s disease.
+Surgical excision of the aganglionic segment is the fundamental principle in treating this condition.
+Swenson first described the surgical technique in 1948.9 To date, although numerous techniques have been developed, the two most common procedures are Georgeson’s laparoscopic-assisted transanal pull-through and De La Torre’s totally transanal pull-through.1,2,10 The goal of surgery is to resect the entire aganglionic segment; additionally, to ensure that the coloanal anastomosis is tension-free by thoroughly mobilizing the colon and avoiding twisting while pulling the colon down for the anastomosis.
+Third, the colon within the abdominal cavity should be kept intact to prevent peritoneal contamination.
+Fourth, mobilization of the colon and rectum facilitates surgical field identification while minimizing trauma to the pelvic floor—especially by reducing excessive dilatation of the anal sphincter during the transanal portion of the procedure, which could affect postoperative continence.
+In 2010, Muensterer was the first to report the application of single-incision laparoscopic surgery for the treatment of Hirschsprung’s disease in 6 patients with a mean age of 28 ± 32 days, including 4 neonates.
+The results showed an average operative time of 145 ± 44 minutes, with no intraoperative complications; the average postoperative period was 7 days, and all patients showed no visible scarring, ate well, had normal bowel movements, and gained weight appropriately.
+The author noted that single-incision laparoscopic surgery presents technical challenges during the procedure but can still be safely performed through a single umbilical incision, yielding good postoperative outcomes and superior cosmetic results.3 Two years later, Tang conducted a comparative study on the short-term effects of single-incision laparoscopic surgery and conventional laparoscopic surgery in the treatment of Hirschsprung’s disease.
+In this study, 28 cases were treated with single-incision laparoscopic surgery, with a mean age of 3.4 ± 2.1 months (range 1–78.8 months), and a mean operative time of 122 ± 18 minutes.12 There were no intraoperative complications, and the short-term treatment efficacy of both surgical approaches was equivalent.
+In 2015, Xia reported a comparison of the mid-term follow-up outcomes of single-incision laparoscopic surgery and conventional laparoscopic surgery in the treatment of Hirschsprung’s disease, in which 40 cases were treated with single-incision laparoscopic surgery, with a mean age of 16.9 ± 19.6 months.
+The application of single-incision laparoscopic surgery for children with Hirschsprung’s disease demonstrated efficacy equivalent to that of conventional laparoscopic surgery.
+In Vietnam, Nguyen Thanh Liem reported the results of applying single-incision laparoscopic surgery to treat 40 children with Hirschsprung’s disease from 2013 to 2015, showing a mean age of 2.7 months (range, 1–17 months); the operative time was 96 ± 23 minutes (range, 50–150 minutes), with minimal blood loss and a postoperative hospital stay of 4.5 ± 2 days.
+With a mean follow-up duration of 65 ± 9.9 months, two patients (5.3%) developed enterocolitis, while no cases of fecal incontinence or constipation occurred.
+All patients were classified as having excellent outcomes according to the Rintala scoring system for bowel control.5
+with an operative time of 226 ± 4 minutes and similar outcomes between the two groups.13
+In the treatment of Hirschsprung’s disease, single-incision laparoscopic surgery also shares the general advantages of conventional laparoscopic procedures compared to transanal-only surgery.
+Firstly, laparoscopic biopsy allows for determination of the extent of the aganglionic segment prior to dividing the colonic mesentery or rectum.
+Secondly, laparoscopic dissection of the blood supply to the colon is clearer, minimizing abdominal trauma, especially in cases where—
+The surgical technique for single-incision laparoscopic surgery in our study also utilized standard laparoscopic instruments, similar to the operative procedure described in Nguyen Thanh Liem’s study,5 but we did not use auxiliary suspension sutures.
+The average operative time in our study was 53.8 ± 11.9 minutes, which is significantly shorter than those reported in other studies both domestically and internationally.5,12-14 This discrepancy can be explained by the fact that our research group only included neonates, whereas other authors conducted their studies on older children.
+MEDICAL RESEARCH JOURNAL
+We found that surgery in neonates offers several advantages over older children, including a thinner abdominal wall, easier manipulation, more easily identifiable anatomical structures, less colonic dilation compared to older children, a thinner intestinal wall due to the absence of recurrent episodes of enterocolitis, and easier creation of a coloanal anastomosis.
+However, single-incision laparoscopic surgery is still regarded as more challenging to perform, and thus its indications remain more limited compared to conventional laparoscopic surgery.
+The existing challenges in performing single-incision laparoscopic surgery include working in a less favorable position for the surgeon, instrument collisions with each other or with the camera, more technically demanding maneuvers, frequent instrument crossing, and often requiring the surgeon to operate within a new spatial geometry, losing the traditional triangular working setup; as a result, organ accessibility is also more limited.
+Therefore, this technique should only be performed by experienced surgeons.
+Neonates have a thin and highly elastic abdominal wall, so using three standard laparoscopic instruments through a 1–1.5 cm skin incision (Figure 1) does not pose any difficulty for manipulation.
+For dissection and mobilization of the colon toward the pelvic cavity, we primarily performed cautery and dissection close to the rectal wall using an electrocautery hook.
+However, in cases with abdominal distension or a high-lying aganglionic segment, mobilization of the colon at the splenic flexure can be challenging.
+For cases with abdominal distension, we usually place a Foley catheter high up to the descending colon to decompress the colon.
+We strive to minimize the operative time during the laparoscopic phase to reduce the impact of CO₂ insufflation.
+In situations where, upon perineal dissection, the colon has not descended sufficiently, we combine traction of the colon from the perineal side with further laparoscopic mobilization up to the splenic flexure or even higher if necessary.
+In this study, the average duration of the laparoscopic procedure was approximately 24 minutes (Table 1), and there were no cases in which suspension sutures were used as described in Nguyen Thanh Liem’s study.5 Although the length of the aganglionic segment varied, there was no difference in operative time whether the aganglionic segment was located in the rectum or the sigmoid colon (Table 2).
+This indicates that single-incision laparoscopic surgery is feasible for aganglionic segments located higher up without prolonging operative time.
+Enterocolitis is a common complication following surgical treatment of Hirschsprung’s disease, occurring in approximately 30-40% of cases.
+This condition may present both before and after surgery, at any age from the neonatal period to adulthood, and it may not be directly related to the surgical procedure itself.
+The mortality rate has decreased significantly over the past 30 years, from 30% down to 1%.1 All patients in our study were evaluated for postoperative enterocolitis according to the Delphi criteria,7 with scores of ≥10 points; our rate of enterocolitis (17.4%) was lower than that reported in the literature.7 Fecal stasis combined with immature mucosal immunity is believed to be a predisposing factor for enterocolitis.7 Some studies suggest that a shorter rectal muscular cuff may also reduce the incidence of enterocolitis.
+In our study, all patients underwent resection of the aganglionic segment along with the adjacent poorly functioning dilated colon (Figure 2), and a short rectal muscular cuff (about 1.5–2 cm) was left according to the modified Soave technique.15
+Single-incision laparoscopic surgery is a highly feasible and safe method, does not require expensive specialized instruments, is cost-effective, and is well-suited to the economic conditions of Vietnam.
+However, to date, surgery has proven to be technically feasible, safe, and effective in the treatment of Hirschsprung’s disease in neonates.
+This method is associated with few severe complications and represents a minimally invasive approach that offers the advantages of laparoscopic surgery.
+One case of anastomotic stricture in our study was managed by anal dilation.
+REFERENCES
+1.
+Langer JC.
+Hirschsprung’s disease.
+Curr Opin Pediatr.
+2013; 25(3): 368-374.
+2.
+Georgeson KE, Fuenfer MM, and Hardin WD.
+Primary laparoscopic pull-through for Hirschsprung’s disease in infants and children.
+J Pediatr Surg.
+1995; 30(7): 1017-1022.
+Without success, the child developed recurrent episodes of enterocolitis and required a repeat colon pull-through surgery in the fourth month after the initial operation.
+Anastomotic stricture following surgical treatment of Hirschsprung’s disease is a serious complication; risk factors include ischemia at the anastomosis, ischemia at the rectal stump, anastomotic leakage, and a narrow anastomotic diameter.
+Swenson suggested that performing a diagonal coloanal anastomosis can help avoid anastomotic stricture.
+Stricture at the anastomosis may lead to postoperative enterocolitis.
+Typically, mild anal anastomotic stricture can be easily managed by daily anal dilatation starting from the third postoperative week and continuing for 1–2 months.
+In some cases, surgical resection and reconstruction of the stricture, or re-anastomosis, may be required.
+Muensterer OJ, Chong A, Hansen EN et al.
+Single-incision laparoscopic endorectal pull-through (SILEP) for Hirschsprung’s disease.
+J Gastrointest Surg.
+2010; 14(12): 1950-1954.
+All of our patients had their scars evaluated at least 6 months after surgery using the SCAR scale, with scores ranging from 1 to 2 points, indicating that single-incision laparoscopic surgery provides excellent cosmetic results, similar to the assessments in the studies by Li.8,14 Morales-Conde S, Peeters A, Meyer YM, et al.
+European Association for Endoscopic Surgery (EAES) consensus statement on single-incision endoscopic surgery.
+Surg Endosc.
+2019; 33:996-1019.
+5.
+Liem NT, Anh NT, Quang NT, et al.
+Suspension sutures facilitate single-incision laparoscopic-assisted rectal pull-through for Hirschsprung’s disease.
+BMC Surgery.
+2021; 21: 274.
+6.
+Kastenberg ZJ, Taylor MA, Durham MM, et al (2021).
+Perioperative and long-term functional outcomes of neonatal versus delayed primary endorectal pull-through for children with Hirschsprung’s disease: A pediatric colorectal and pelvic learning consortium study.
+J Pediatr Surg.
+2021; 56(8): 1465-1469.
+Our study has shown that single-incision laparoscopic surgery is safe and technically feasible in selected patients, with hospital stay duration and complication rates comparable to conventional laparoscopic techniques.
+The main limitation of this study is the small number of patients and the relatively short postoperative follow-up period.
+This study could not demonstrate that single-incision laparoscopic surgery can be routinely applied to all forms of aganglionosis in Hirschsprung’s disease.
+The true effectiveness of single-incision laparoscopic surgery in neonates still needs further evaluation.
+Continuous refinement of surgical techniques and accumulation of experience may enable broader indications for this method.
+7.
+Pastor A, Osman F, Teitelbaum D, et al.
+Phát triển một định nghĩa tiêu chuẩn hóa cho viêm đại tràng liên quan đến Hirschsprung: Phân tích Delphi.
+J Pediatr Surg.
+2009; 44(1): 251-256.
+V. CONCLUSION
+8.
+Kantor J.
+Reliability and photographic equivalency of the scar cosmesis assessment
+Single-incision laparoscopic surgery is capable
+MEDICAL RESEARCH JOURNAL
+of yielding long-term surgical results.
+J Pediatr Surg.
+2013; 48(9): 1919-1923.
+and rating (SCAR) scale, an outcome measure for postoperative scars.
+JAMA Dermatol.
+2017; 153(1): 55-60.
+9.
+Swenson O. Hirschsprung’s Disease: A Review.
+Pediatrics, 2002; 109(5): 914-918.
+13.
+Xia X, Li N, Wei J, et al.
+Single-incision laparoscopic versus conventional laparoscopic surgery for Hirschsprung’s disease: a comparison of medium-term outcomes.
+J Pediatr Surg.
+2016; 51(3): 440-443.
+10.
+De la Torre L, Ortega A. Transanal endorectal pull-through for Hirschsprung’s disease.
+J Pediatr Surg.
+1998; 33(8): 1283-1286.
+14.
+Li W, Lin M, Hu H, et al.
+Surgical Management of Hirschsprung’s Disease: A Comparative Study Between Conventional Laparoscopic Surgery, Transumbilical Single-Site Laparoscopic Surgery, and Robotic Surgery.
+Front Surg.
+2022; 9: 924850.
+11.
+Tomuschat C, Zimmer J, Puri P. Laparoscopic-assisted pull-through operation for Hirschsprung’s disease: a systematic review and meta-analysis.
+Pediatr Surg Int.
+2016; 32(8): 751-757.
+15.
+Liem NT, Hau BD, Son HT.
+Modified Soave procedure through the posterior sagittal approach for Hirschsprung’s disease.
+J Pediatr Surg.
+2005; 40(3): 547-550.
+12.
+Tang ST, Yang Y, Li SW, et al.
+Single-incision laparoscopic versus conventional laparoscopic endorectal pull-through for Hirschsprung’s disease: a comparison of shortSummary
+SINGLE-INCISION LAPAROSCOPIC SURGERY FOR THE TREATMENT OF HIRSCHSPRUNG'S DISEASE IN NEONATES
+Single-incision laparoscopic surgery (SILS) offers many advantages but is rarely utilized in children.
+We evaluated the application of SILS in treating Hirschsprung’s disease in neonates.
+A prospective study was conducted on patients aged 1–28 days diagnosed with Hirschsprung’s disease who underwent SILS at National Children’s Hospital from January 2020 to December 2021.
+Twenty-three neonates with a mean age of one month received surgical treatment; the average age was 22.3 ± 3.2 days (range: 17–28 days).
+The mean operative time was 53.8 ± 11.9 minutes (range: 35–75 minutes), and the mean postoperative hospital stay was 4.5 ± 1.1 days (range: 3–7 days).
+Complications included 4 cases of enterocolitis and 1 case of anastomotic stenosis, with no mortality.
+In conclusion, SILS is a safe and effective method for treating Hirschsprung’s disease in neonates.
+Keywords: Single-incision laparoscopic surgery, Hirschsprung’s disease, congenital megacolon.

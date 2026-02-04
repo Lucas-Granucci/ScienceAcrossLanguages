@@ -1,0 +1,384 @@
+Journal of Science and Technology, No.
+69A, 2024
+LEVELS OF DEPRESSION, ANXIETY, AND STRESS AMONG STUDENTS AT HO CHI MINH CITY UNIVERSITY OF INDUSTRY
+LE THI HUONG
+Faculty of Tourism and Commerce, Ho Chi Minh City University of Industry
+lethihuong.18@iuh.edu.vn
+DOIs: https://doi.org/10.46242/jstiuh.v69i03.5136
+Abstract: This descriptive cross-sectional study aims to investigate the levels of depression, anxiety, and stress among students (academic year 2022–2023) at Ho Chi Minh City University of Industry using the DASS21 assessment scale.
+The results from 818 participants show that the rates of students exhibiting symptoms of depression, anxiety, and stress are 24.2%, 19.4%, and 6.8%, respectively.
+Among these, the proportion of students with severe depression is 1.3%, those with severe anxiety make up 2%, and extremely severe anxiety accounts for 1.6%.
+There are statistically significant differences between groups of students with varying economic backgrounds.
+These results help the university design appropriate intervention strategies to improve students’ mental health, thereby contributing to enhancing the quality of education and training at the university in the current period.
+Keywords: depression, degree of depression, stress, student stress
+1.
+INTRODUCTION
+The mental health of students is a field of particular research interest (Yang and Koo, 2022).
+Indicators of negative psychological health such as depression, anxiety, and stress have been found to be on the rise globally over the past decades (Lim et al., 2018).
+According to estimates from the World Health Organization (WHO), by 2020, mental health disorders would become a leading cause of disability burden, highlighting the importance of early identification of students at risk of mental disorders for timely intervention to help alleviate academic pressure (Nguyen & Nguyen, 2020).
+According to the American Psychological Association (2013), depression is a condition characterized by sadness, feelings of emptiness, hopelessness, and a lack of interest most of the time during the day.
+Hysenbegasi A. et al.
+(2005) defined stress as the body's response to threatening stimuli and pressures in life, including the stressful experiences encountered by students during their university years.
+Similar to stress, anxiety is also accompanied by a fear that arises from within (which may be real or imagined); it is an unconscious response to depressive tendencies that can manifest as fear or severe panic attacks.
+Kiecolt-Glaser JK et al.
+(2003) stated that stress, anxiety, and depression are fundamental indicators for assessing an individual’s mental health, often appearing simultaneously; symptoms of stress and depression frequently continue to rise even after the stressful event has ended.
+Research studies worldwide have shown increasing rates of depression, anxiety, and stress among students.
+An online survey of 7,915 first-year university students in Hong Kong found that the proportions of students with depression, anxiety, and stress were 21%, 41%, and 27% respectively (Wong et al., 2006).
+A systematic review and meta-analysis synthesizing 113 studies with 185,787 university students in China reported an overall depression rate of 28.4% (Gao et al., 2020).
+Another study conducted on 1,617 university students in Turkey also found high rates of depression (27.1%), anxiety (47.1%), and stress (27%) (Bayram et al., 2008).
+A cross-sectional study of 1,074 university students in Spain reported prevalence rates of depression, anxiety, and stress at 18.4%, 23.6%, and 34.5% respectively (Ramón-Arbués et al., 2020).
+A cohort study of 1,686 university students in the United Kingdom showed that 32% of students reported moderate-to-severe anxiety symptoms, and 27% reported moderate-to-severe depression symptoms upon entering university (Adams et al., 2021).
+Additionally, numerous studies in the United States have indicated increasing rates of depression and anxiety among university students (Lipson et al., 2019; Oswalt et al., 2020).
+These findings highlight the need for attention to and resolution of mental health issues among university students.
+Several studies among students in health-related disciplines in Vietnam have reported alarming rates of depression, anxiety, and stress among students.
+Furthermore, studies have analyzed, compared, and identified differences in rates of depression, anxiety, and stress based on demographic variables such as economic background, academic performance, residential area, gender, and year of study.
+A descriptive cross-sectional study of 134 final-year pharmacy students at two universities in Dong Nai (Nguyen et al., 2020) showed that the highest rate was for anxiety (38.8%), followed by depression (29.8%), and finally stress (16.4%).
+There were statistically significant differences in the levels of stress, anxiety, and depression among students based on academic performance; specifically, students with average academic performance experienced higher levels of stress, anxiety, and depression compared to those with good academic performance—this has been explained as the result of academic pressure.
+Notably, there was a fairly strong positive correlation between students’ levels of stress, anxiety, and depression.
+Another study by Le Minh Thuan (2011) at the University of Medicine and Pharmacy at Ho Chi Minh City, surveying 252 medical students, also demonstrated rates of severe anxiety at 12% and extremely severe at 11%, rates of severe stress at 2%, and severe depression at 2%.
+Practical research both internationally and domestically has thus shown the pressing need for a comprehensive and in-depth study of depression, anxiety, and stress.
+Stress, anxiety, and depression leave serious consequences for humans in general and students in particular, as mental health disorders are a fundamental cause and a leading contributor to the burden of disability, negatively impacting the academic performance of students.
+Furthermore, they diminish the quality of life of students.
+The consequences of stress, anxiety, and depression not only affect students’ health and academic pursuits, but also severely impact the very existence and development of the country.
+Since students are the backbone of the nation, the prosperity and strength of the country depend on this vital resource.
+This raises the urgent issue of the need to promptly identify the number of students experiencing stress, anxiety, and depression in order to provide timely assistance and help them gradually break free from the grip of these conditions.
+Although there have been numerous studies on mental health among students in Vietnam, which have identified rates of depression, anxiety, and stress, these studies have mainly focused on students in vocational training programs within the health sector.
+This topic has yet to be explored among students in vocational training programs within the technical sector, particularly at Ho Chi Minh City University of Industry.
+For these reasons, this study was conducted with the following objectives: (1) To assess the levels of depression, anxiety, and stress among students at Ho Chi Minh City University of Industry, and (2) To compare differences in depression, anxiety, and stress levels among students at Ho Chi Minh City University of Industry based on certain demographic characteristics.
+2.
+RESEARCH METHODS
+2.1.
+Research sample Sampling method: Ho Chi Minh City University of Industry is a multidisciplinary training institution that annually enrolls students in 43 groups of majors/majors at the undergraduate level.
+The majority of students come from provinces in the Northern, Central, Central Highlands, and Southern regions.
+To serve its training activities, the university has over 500 lecture halls and classrooms, more than 350 laboratories and practice workshops, a library system with over 200,000 books of various kinds, and a dormitory area with a capacity of 8,000 students.
+(Ho Chi Minh City University of Industry, 2021).
+This study was conducted on 818 students (academic year 2022–2023) enrolled in full-time undergraduate programs at Ho Chi Minh City University of Industry, using a convenient random sampling method from March 2023 to April 2023.
+Characteristics of the research subjects: Among the 818 participating students, 31.3% were male and 68.7% were female.
+Regarding students’ places of residence (birthplace and upbringing), 72.9% were born and raised in rural and mountainous areas, while 27.1% were born and raised in urban areas.
+In terms of family economic background, 10% of students were from disadvantaged families, 80.6% from families with average economic status, 8.3% from well-off families, and 1.0% from wealthy families.
+The proportion of students in their first, second, third, and fourth years was 16.0%, 42.4%, 23.8%, and 17.7%, respectively.
+According to academic performance in the most recent semester or academic year, the rates of students with excellent, good, fairly good, average, and below average academic results were 2.3%, 15.9%, 57.9%, 20.9%, and 3.4%, respectively.
+2.2.
+Research Methods
+This study was conducted primarily using a descriptive cross-sectional method with analysis, combined with a questionnaire survey and psychological testing methods, including: the shortened Depression, Anxiety and Stress Scale (DASS21) and a demographic information survey form designed by the author, LE THI HUONG.
+The collected data were entered and processed using SPSS software version 25.
+The descriptive statistical methods utilized included: mean scores, standard deviation, frequencies and percentages, T-test, One-way ANOVA, and Pearson’s correlation.
+The DASS-21 scale is an integrated tool that assesses all three common mental disorders: depression, anxiety, and stress.
+It was developed and shortened from the DASS-42 scale by a group of psychological researchers from the Department of Psychology, University of New South Wales (Australia).
+DASS-21 contains 21 items divided into 3 sections, each with 7 items to evaluate the three mental health issues: depression, anxiety, and stress.
+The shortened DASS21 scale for depression, anxiety, and stress has been standardized for adaptation to the Vietnamese context by Tran and colleagues (2013).
+Survey participants self-assessed their emotional levels over the past week based on 21 sub-items using the following scoring scale: (0) - Did not apply to me at all; (1) - Applied to me to some degree, or some of the time; (2) - Applied to me to a considerable degree, or a good part of time; (3) - Applied to me very much, or most of the time.
+The method for converting DASS21 scores is presented in Table 1.
+Table 1.
+Levels of depression, anxiety, and stress according to the DASS21 scale scores
+Depression Anxiety Stress
+Normal 0–9 0–7 0–14
+Moderate 14–20 10–14 19–25
+Extremely severe ≥28 ≥20 ≥34
+The Cronbach’s Alpha reliability coefficient of the DASS21 scale is 0.963; specifically, the Cronbach’s Alpha coefficients for the subscales of depression, anxiety, and stress are 0.913, 0.904, and 0.894 respectively, demonstrating that this is a highly reliable instrument (Hoang & Chu, 2008), suitable for the mental health research model for students in the observed sample.
+Table 2.
+Score distribution standards of the DASS21 scale
+N Minimum Maximum Mean Std.
+Deviation Median Skewness Depression 818 0.00 21.00 5.78 5.03 5.00 0.878 Anxiety 818 0.00 21.00 5.27 4.78 4.50 0.962 Stress 818 0.00 21.00 6.74 5.01 7.00 0.662 Note: N - sample size; Minimum - lowest value; Maximum - highest value; Mean - average score; Std.
+Deviation - standard deviation; Median - median; Skewness - skewness.
+The normality of the DASS21 scale score distribution was calculated.
+Analysis of the data obtained from the DASS21 scale survey (Table 1) on a sample of 818 students using the normal distribution model Histogram showed that the mean (M) and median (Md) scores for depression (M = 5.78; Md = 5.00), anxiety (M = 5.27; Md = 4.50), and stress (M = 6.74; Md = 7.00) were nearly equal.
+Skewness ranged from -1 to 1 (the skewness values for the distributions of depression, anxiety, and stress scores were 0.878, 0.962, and 0.662, respectively).
+According to Nguyen et al.
+(2020), these are considered normal distributions.
+3.
+RESEARCH RESULTS
+3.1.
+Levels of Depression, Anxiety, and Stress among Students at Ho Chi Minh City University of Industry
+Among the 818 study participants, the majority of students showed no symptoms of stress (93.2%), anxiety (75.8%), and depression (80.6%).
+Results shown in Chart 1 indicate:
+- Regarding the level of depression among students: the rate of students exhibiting symptoms of depression was 19.4%, with mild depression accounting for 7.9%, moderate at 10.1%, and severe at 1.3%.
+- Regarding the level of anxiety among students: the rate of students exhibiting symptoms of anxiety was 24.2%.
+Of these, the rates of mild and moderate anxiety were 8.4% and 12.2%, respectively; severe and extremely severe accounted for 2% and 1.6%, respectively.
+- Regarding the level of stress among students: the rate of students exhibiting symptoms of stress was 6.8%, with 4.5% of students experiencing mild stress and 2.3% experiencing moderate stress.
+LEVELS OF DEPRESSION, ANXIETY... Depression Anxiety Stress
+Normal Mild Moderate Severe Extremely severe
+Chart 1.
+Levels of depression, anxiety, and stress among students The rates and levels of depression, anxiety, and stress in this study are lower than those in previous research Chart 1.
+Levels of depression, anxiety, and stress among students
+The rates and levels of depression, anxiety, and stress in this study are lower compared to the research by Nguyen & Nguyen (2020), which surveyed 134 final-year pharmacy students in Dong Nai and found that most participants did not display symptoms of stress (83.6%), anxiety (61.2%), or depression (70.1%).
+The percentage of students showing signs of depression was 29.8%; among these, mild depression accounted for 18.7%, moderate for 10.4%, and severe for 0.7%.
+The proportion of students with symptoms of anxiety was 38.8%; of these, 8.2% exhibited mild anxiety, 24.6% moderate, and 6% severe anxiety.
+Among the students experiencing stress (16.4%), 11.9% showed mild stress, and 4.5% exhibited moderate stress.
+The study by Le Minh Thuan (2011) reported that among medical and pharmaceutical students in Ho Chi Minh City, the rates of severe stress, severe anxiety, and severe depression were 2%, 11%, and 2% respectively, based on the DASS-42 scale.
+Research conducted by Leta Melaku and colleagues (2015) surveyed 329 medical students at Jimma University using the GHO-12 scale, revealing that 52.4% of students experienced stress.
+The study by Vu Dung (2015), which measured stress levels using the Perceived Stress Scale 10 (PSS-10) among all second- and third-year nursing students at Thang Long University, found an average stress score of 19.49 ± 4.5, with 22.8% of students experiencing high levels of stress.
+The practical research results on the levels of depression, anxiety, and stress among students in the current period indicate an alarming level of mental health issues among university students.
+However, this group has limited access to school-based counseling services (Nguyen & Nguyen, 2020).
+Nguyen et al.
+(2020), through in-depth interviews with 30 final-year pharmacy students, found that 90% of students “had never sought professional psychological support” provided either within or outside the university, nor did they intend to seek out such resources.
+The rate of final-year pharmacy students in Dong Nai province accessing professional psychological support services is only 10%.
+The study by Nguyen Ba Phu (2005) used the Multidimensional Scale of Perceived Social Support (MSPSS) developed by Zimet, Dahlem, Zimet, and Farley (1988) to assess the impact of social support on the management of anxiety-related emotions.
+The results indicated that social support is a major factor influencing students’ ability to manage anxiety-related emotions.
+Social support serves as both a material and psychological resource for students to address problems, helping them to strengthen their inner resilience and become more confident in coping with the anxieties they encounter in their academic activities (Nguyen Ba Phu, 2005).
+This highlights the urgent need for specific policies and programs to provide comprehensive mental and physical healthcare for students in general, and particularly for students at Ho Chi Minh City University of Industry.
+3.2.
+Comparison of differences in levels of depression, anxiety, and stress among students at Ho Chi Minh City University of Industry according to certain demographic characteristics
+In this study, we conducted tests and compared the levels of depression, anxiety, and stress among students against demographic variables: gender, students' residential area, family economic background, academic year, and academic performance.
+The results of the mean comparison tests show that depression, anxiety, and stress among students at Ho Chi Minh City University of Industry do not differ significantly (all p-values > 0.05) by gender, residential area, academic year, or academic performance.
+This means that students of different genders, living areas, academic years, and academic achievements have similar levels of depression, anxiety, and stress, whether low or high.
+Table 3.
+Differences in levels of depression, anxiety, and stress among students by family economic status (n = 818)
+Demographic Characteristics Mean SD ANOVA (df = 3)
+1.
+Difficult 7.53 6.07
+Depression
+F = 4.923 p = 0.002 2.
+Average 5.64 4.86
+3.
+Well-off 5.43 4.99
+4.
+Wealthy 2.37 2.44
+1.
+Difficult 6.59 5.82
+Anxiety
+F = 2.742 p = 0.042 2.
+Average 5.17 4.59
+3.
+Well-off 4.81 5.19
+4.
+Wealthy 3.62 3.42
+1.
+Difficult 7.99 5.98
+Stress
+F = 3.175 p = 0.024 2.
+Average 6.65 4.87
+3.
+Well-off 6.47 4.91
+4.
+Wealthy 3.25 3.01
+The analysis results in Table 3 show that there is a statistically significant difference in the levels of depression, anxiety, and stress (all p coefficients < 0.05) according to students’ family economic backgrounds.
+The differences are most prominent when comparing depression (p = 0.002), anxiety (p = 0.042), and stress (p = 0.024) levels among groups of students with varying economic conditions.
+Combined with the mean scores for depression, anxiety, and stress shown in Table 3, it can be seen that students from economically disadvantaged families (Mean Depression = 7.53, Mean Anxiety = 6.59, Mean Stress = 7.99) and those with average economic backgrounds (Mean Depression = 5.64, Mean Anxiety = 5.17, Mean Stress = 6.65) have poorer mental health compared to students from well-off (Mean Depression = 5.43, Mean Anxiety = 4.81, Mean Stress = 6.47) and wealthy families (Mean Depression = 2.37, Mean Anxiety = 3.62, Mean Stress = 3.25).
+Looking at the table above, it is clear that students from economically disadvantaged backgrounds have the highest rates of depression, anxiety, and stress (Mean Depression = 7.53, Mean Anxiety = 6.59, Mean Stress = 7.99), while students from wealthy families have the lowest rates (Mean Depression = 2.37, Mean Anxiety = 3.62, Mean Stress = 3.25).
+This is also understandable, as students in general—and people today—are living in a modern society where economic value influences every aspect of life, including the spiritual domain.
+This brings to mind several proverbs and folk sayings about economic value, such as “Money is a loyal servant” and “A rich person’s words carry weight.” Moreover, in modern society, the gap between rich and poor is a very sensitive issue for young people.
+The author has observed this firsthand; on several occasions upon entering the classroom, I happened to overhear: “Their family has been poor for three generations.
+Their mother works as a nanny to earn money for them to study; they work themselves to the bone as a waiter just to have money for school expenses.
+They don’t have the money or the free time for you to invite them out for drinks tonight.” Throughout the class session, the student labeled as “poor for three generations” withdrew, no longer participating actively in discussions or group work.
+Instead, they silently searched for information and wrote down their portion of the group assignment to pass to the group leader.
+Some wealthy students in the group seemed pleased to have exposed their classmate’s poverty.
+The saying “A rich person’s words carry weight” was adopted by some students in a negative way: “If someone’s family is rich, they can even buy the heavens, let alone a few bucks for tuition…” Wealthy students tend to have their opinions followed by many classmates, and the divide between rich and poor among students in the classroom is quite harsh, reminiscent of the feudal society in the past.
+Could this be the fundamental reason why students with difficult economic backgrounds have the highest levels of depression, anxiety, and stress (Mean Depression Score = 7.53, Mean Anxiety Score = 6.59, Mean Stress Score = 7.99)?
+In reality, most students at Ho Chi Minh City University of Industry come from average or difficult economic backgrounds from all regions of the country—North, Central, and South.
+This has deeply concerned the author.
+This is reaffirmed through an in-depth interview with NTTM (a first-year student from the Faculty of Finance and Banking), who shared: “I was born and raised in a rural area; my hometown is Binh Dinh, and my family’s economic situation is difficult.
+That’s why I was determined to apply to a public university—to avoid the high tuition fees of private schools and to ease the financial burden on my family.
+Even though I have been extremely frugal, I still feel deprived and struggle a lot.
+Not only do I plan to work, but my parents also require me to take on part-time jobs during this summer and the summers to come, to earn extra income and help the family cover food and education expenses.
+Juggling school and part-time work…”
+LEVEL OF DEPRESSION, ANXIETY… Does it affect your studies at school?
+Taking classes with some sophomores and juniors, I feel that “in this day and age, being born and raised in a poor family is almost a crime.” Why do I think that?
+Well, in class, the divide between rich and poor is quite clear… it always makes me feel self-conscious in interactions, and I never dare to open up to classmates about my family’s poverty.
+BTNH, a fourth-year student from the Faculty of Automotive Engineering, shared: I am in my final year, and I have to juggle studying at university, going to practical sites, and doing internships, so the extra costs are quite significant.
+Each month, I have to ask my parents for additional money to cover these expenses.
+My parents are government employees, and their income is just enough to cover the family’s basic expenses.
+Sometimes I feel exhausted, but I’m lucky that my family lives in the city, so it’s easier for me than for some classmates who come from far away, far from home.
+The findings from in-depth interviews serve as a basis for us to propose suitable recommendations to reduce levels of depression, anxiety, and stress among students, particularly those related to family economic circumstances and students’ financial management skills.
+The results of this study reveal a new finding: that students’ economic background is the most influential factor affecting the levels of depression, anxiety, and stress among students at Ho Chi Minh City University of Industry.
+These findings also indicate a difference from the results of Nguyen and Nguyen (2020), who found that academic pressure was the most significant factor affecting the levels of stress, anxiety, and depression among final-year pharmacy students in Dong Nai province, followed by pressure from family.
+3.3.
+The correlation between stress, anxiety, and depression among students at Ho Chi Minh City University of Industry
+Table 4:.
+Correlation between the levels of depression, anxiety, and stress among students (n = 818)
+Depression Anxiety Stress
+**.
+Variable pairs are linearly correlated at a 99% confidence level (corresponding to a significance level of 1% = 0.01)
+The results of the Pearson correlation test in Table 4 show a very strong linear relationship between the variable pairs depression – anxiety (r = 0.861, p < 0.01), depression – stress (r = 0.877; p < 0.01), and anxiety – stress (r = 0.848; p < 0.01).
+Thus, the correlation between depression and stress among the study subjects is the strongest.
+The study by Le Minh Thuan (2011) also demonstrated a strong positive correlation among these three conditions, but the correlation between anxiety and depression was the strongest (r = 0.73).
+In the study by Nguyen and colleagues (2020), the strongest correlation among the subjects was between stress and anxiety (r = 0.838).
+According to Kiecolt-Glaser J K et al.
+(2003), the correlation between mental health states—depression, anxiety, and stress—is a predictor of more concerning overall health problems among students if timely interventions are not provided.
+4.
+CONCLUSION
+The cross-sectional study conducted on 818 students at Ho Chi Minh City University of Industry showed that at the time of the survey, the highest proportion of students exhibited symptoms of depression (24.2%), followed by anxiety (19.4%), and finally stress (6.8%).
+There is a statistically significant difference in the levels of depression, anxiety, and stress among students when considering their family economic circumstances; specifically, students from economically disadvantaged and average-income backgrounds experience higher levels of depression, anxiety, and stress compared to those from well-off or wealthy families.
+This may be explained by the impact of economic fluctuations following the pandemic in the current period.
+Notably, there is a fairly strong positive correlation between students’ levels of depression, anxiety, and stress.
+These results provide some evidence regarding the mental health status of students at Ho Chi Minh City University of Industry.
+On that basis, the author offers several recommendations for improving this situation, including: (1) For students: It is necessary to eliminate the divide between rich and poor in the classroom, because you are living in a society of “justice and compassion.” Moreover, you must understand that as young intellectuals, the pillars of a “civilized and egalitarian” society, you must uphold the moral traditions of Vietnam—“The whole leaves cover the torn ones; those less torn help those more tattered.” Young intellectuals must be the ones to further promote these precious national values.
+If you constantly harbor thoughts of discrimination based on wealth, how can you truly be worthy of being the pillars of the Land of Lac Hong?
+It is necessary to equip oneself with a thorough understanding of the symptoms of stress, anxiety, and depression, as well as the influencing factors, and to proactively develop timely response plans when experiencing different levels of depression, anxiety, and stress.
+When facing significant financial difficulties in pursuing education, students should communicate with their families and the school so that families can provide support.
+(2) For the school: It is necessary to implement mental health care programs for students by developing and organizing mental health screening programs, training sessions, discussions, and seminars on mental health care for students.
+At the same time, schools should establish counseling offices for students, staffed with consultants who are both formally trained in psychology and experienced, to provide timely psychological counseling for students exhibiting symptoms of depression, anxiety, and stress.
+For diligent but financially disadvantaged students who find themselves in dire financial situations—such as approaching final exams without having the funds to pay tuition—the faculty and university can provide short-term loans (with the family's commitment).
+Alleviating the anxiety caused by fears of not being able to pay tuition on time or being barred from taking exams helps students stabilize their mental state and focus on studying and preparing for exams, thereby improving academic performance and the overall quality of education and training at the university.
+(3) For families, it is important to pay attention to your child’s mental well-being and provide more support in terms of material needs, especially basic necessities such as paying tuition fees in advance for your child.
+Parents should not leave it to the school or teachers to repeatedly call about unpaid tuition, which can make students feel embarrassed and ashamed, leading to feelings of inadequacy.
+Tuition for required certificates should also be considered.
+This support helps students focus on their studies without anxiety.
+Do not abandon your children with the notion that “They’re grown up, so let them manage on their own,” especially for poor students from remote provinces.
+Surviving in a modern and luxurious environment like Ho Chi Minh City is extremely difficult; many have to worry about daily food and accommodation, take on various part-time jobs that consume almost all their study time, and struggle just to make ends meet, yet still cannot afford tuition.
+It is only natural that such students will experience stress.
+REFERENCES
+Adams, K.L.
+; Saunders, K.E.
+; Keown-Stoneman, C.D.G.
+; Duffy, A.C. (2021).
+Mental health trajectories in undergraduate students over the first year of university: A longitudinal cohort study.
+BMJ Open, 11, e047393.
+American Psychiatric Association.
+(2013).
+Diagnostic and Statistical Manual of Mental Disorders (5th ed.).
+Bayram, N.; Bilgel, N. (2008).
+Tỷ lệ mắc và mối tương quan giữa các yếu tố xã hội - nhân khẩu học với trầm cảm, lo âu và stress ở một nhóm sinh viên đại học.
+Soc.
+Psychiatry Psychiatr.
+Epidemiol, 43, 667–672.
+Gao, L.; Xie, Y.; Jia, C.; Wang, W. (2020).
+Prevalence of depression among Chinese university students: A systematic review and meta-analysis.
+Sci.
+Rep, 10, 15897.
+Hoang, T., Chu, N.M.N.
+(2008).
+Research data were analyzed using SPSS.
+Hong Duc Publishing House.
+Hysenbegasi, A., Hass, S.L., Rowland, C.R.
+(2005).
+The impact of depression on the academic productivity of university students.
+J Ment Health Policy Econ, 8(3), 145-151.
+PMID: 16278502
+Kiecolt-Glaser J K, Preacher K J, MacCallum R C, Atkinson C, Malarkey W B, & Glaser R (2003).
+Chronic stress and age-related increases in the proinflammatory cytokine IL-6.
+Proceedings of the National Academy of Sciences of the United States of America, 100(15), 9090-9095. https://doi.org/10.1073/pnas.1531903100
+Le, T.M.
+(2011).
+Mental health of students: A cross-sectional study.
+Journal of Practical Medicine (774), No.
+7, 72-75.
+Lim, G.Y.
+; Tam, W.W.; Lu, Y.; Ho, C.S.
+; Zhang, M.W.
+; Ho, R.C.
+(2018).
+Prevalence of depression in the community from 30 countries between 1994 and 2014.
+Sci.
+Rep, 8, 2861.
+Levels of Depression, Anxiety... Lipson, S.K.
+; Lattie, E.G.
+; Eisenberg, D. (2019).
+Increased rates of mental health service utilization by U.S. college students: 10-year population-level trends (2007–2017).
+Psychiatr.
+Serv, 70, 60–63.
+Melaku, L.M.A., Negash, A.
+(2015), Stress among Medical Students and Its Association with Substance Use and Academic Performance, accessed 26/9/2016, from https://www.hindawi.com/journals/jbe/2015/149509
+Nguyen, B.P (2005), The impact of optimism and social support on the management of anxiety-related emotions in students’ academic activities.
+Nguyen, T.B.T, Nguyen, T.T, Nguyen, P.K.
+(2020).
+The prevalence of stress, anxiety, and depression among final-year pharmacy students in Dong Nai, ISSN: 1859 - 4603: Journal of Social Sciences, Humanities and Education, Volume 10, Issue 2, 32-37, DOI: https://doi.org/10.47393/jshe.v10i4.904
+Nguyen, T.T, Nguyen, T.B.T.
+(2020).
+Factors affecting stress, anxiety, and depression among final-year pharmacy students in Dong Nai.
+Journal of Science and Technology – University of Danang, Vol.
+18, No.
+10, 10-13.
+Nguyen, V. Th, Tran, V. Ngh (2001), “Mental health in the market economy,” Psychiatry Internal Bulletin No.
+5, Quarter I – 2001, Vietnam General Medical Association, Psychiatry Association, Hanoi, pp.
+13–16.
+Oswalt, S.B.
+; Lederer, A.M.; Chestnut-Steich, K.; Day, C.; Halbritter, A.; Ortiz, D (2020).
+Xu hướng chẩn đoán các bệnh về sức khỏe tâm lý và việc sử dụng dịch vụ của sinh viên đại học, giai đoạn 2009-2015.
+J.
+Am.
+Coll.
+Health, 68, 41–51.
+Ramón-Arbués, E.; Gea-Caballero, V.; Granada-López, J.M.
+; Juárez-Vela, R.; Pellicer-García, B.; Antón-Solanas, I.
+(2020).
+Tỷ lệ hiện mắc của trầm cảm, lo âu và stress và các yếu tố liên quan ở sinh viên đại học.
+Int.
+J. Environ.
+Res.
+Public Health, 17, 7001.
+Tran, T.D., Tran T., Fisher, J.
+2013.
+Xác thực thang đo trầm cảm, lo âu, stress (DASS) 21 như một công cụ sàng lọc cho trầm cảm và lo âu trong một đoàn hệ cộng đồng phụ nữ nông thôn miền Bắc Việt Nam.
+BMC
+Ho Chi Minh City University of Industry.
+(2021).
+Report on the Summary of Work in 2020 and Directions and Tasks for 2021.
+Vu, D. (2015).
+The prevalence of stress among nursing students at Thang Long University in 2015 and several associated factors.
+Master's thesis in Public Health, Hanoi University of Public Health, Hanoi.
+Wong, J.G.
+; Cheung, E.P.
+; Chan, K.K.
+; Ma, K.K.
+; Tang, S.W.
+(2006).
+Web-based survey of depression, anxiety, and stress among first-year tertiary education students in Hong Kong.
+Aust.
+N. Z. J. Psychiatry, 40, 777–782.
+Yang, S.-W.; Koo, M. (2022).
+The Big Five Personality Traits as Predictors of Negative Emotional States in University Students in Taiwan.
+Int.
+J. Environ.
+Res.
+Public Health, 19, 16468. https://doi.org/10.3390/ijerph192416468.
+Author: LE THI HUONG
+APPENDIX: DASS 21 SCALE
+Original scale Adjusted/translated scale 1.
+1.
+I found it hard to wind down
+1.
+Tôi thấy khó mà thoải mái được
+2.
+I was aware of dryness of my mouth
+2.
+Tôi bị khô miệng
+3.
+I couldn’t seem to experience any positive feeling at all
+3.
+Tôi dường như chẳng có chút cảm xúc tích cực nào
+4.
+I experienced irregular breathing (such as rapid breathing, shortness of breath even without engaging in strenuous activity) I found it difficult to work up the initiative to do things.
+I tended to overreact to situations.
+7.
+I experienced sweating (such as sweaty palms...) 8.
+I felt that I was using a lot of nervous energy.
+I found myself thinking too much.
+I was worried about situations in which I might panic and make a fool of myself.
+10.
+I felt that I had nothing to look forward to.
+11.
+I found myself getting agitated.
+12.
+I found it difficult to relax.
+13.
+I felt down-hearted and blue.
+16.
+I no longer felt enthusiastic about anything.
+14.
+I was intolerant of anything that kept me from getting on with what I was doing.
+I couldn’t tolerate anything that got in the way of what I was doing.
+I felt I was close to panic.
+I was unable to become enthusiastic about anything.
+I felt I wasn’t worth much as a person.
+I felt that I was rather touchy.
+19.
+I was aware of my heartbeat even when I was not doing anything (for example, I noticed my heart rate increasing or my heart skipping a beat).
+20.
+I felt scared for no good reason.
+21.
+I felt that life was meaningless.
+Note: The depression subscale includes items: 3, 5, 10, 13, 16, 17, 21; the anxiety subscale includes items: 2, 4, 7, 9, 15, 19, 20; the stress subscale includes items: 1, 6, 8, 11, 12, 14, 18.
+STUDENTS’ LEVELS OF DEPRESSION, ANXIETY, AND STRESS
+INDUSTRIAL UNIVERSITY OF HO CHI MINH CITY
+LE THI HUONG
+Faculty of Commerce and Tourism, Industrial University of Ho Chi Minh City
+lethihuong.18@iuh.edu.vn
+Abstract: This study conducts a cross-sectional descriptive survey to determine the levels of depression, anxiety, and stress among students (academic year 2022–2023) at the Industrial University of Ho Chi Minh City based on the DASS21 questionnaire scale.
+The research results from 818 respondents showed the levels of depression, anxiety...
+The proportions of students experiencing depression, anxiety, and stress were 24.2%, 19.4%, and 6.8%, respectively.
+Of these, the rate of severe depression was 1.3%, severe anxiety was 2%, and extremely severe cases accounted for 1.6%.
+There were also statistically significant differences among groups of students with different economic backgrounds.
+These results help the university design appropriate intervention strategies to improve students' mental health, thereby contributing to enhancing the quality of education and training at the university during the current period.
+Keywords: depression, depression levels, stress, student stress
+Received: 19/05/2023 Accepted: 02/10/2023

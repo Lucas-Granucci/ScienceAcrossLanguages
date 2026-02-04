@@ -1,0 +1,329 @@
+THE IMPACT OF THE FINTECH ECOSYSTEM ON THE DIGITAL BUSINESS ENTREPRENEURIAL INTENTIONS OF VIETNAMESE STUDENTS
+Nguyen Thu Thuy National Economics University
+Email: thuyntqtkd@neu.edu.vn
+Dao Thu Trang National Economics University
+Email: daotrangforstudy@gmail.com
+Nguyen Thi Thu Huong National Economics University
+Email: hatuly08042004@gmail.com
+Tran Bao Tram National Economics University
+Email: tranbaotramtdlc@gmail.com
+Le Thi Ngoc Linh National Economics University
+Email: lengoclinh2062004@gmail.com
+Pham Thi Thao Nguyen National Economics University
+Email: Thaonguyenneu14@gmail.com
+Manuscript code: JED-1562
+Date received: 03/01/2024
+Date revised: 16/04/2024
+Date accepted: 20/05/2024
+DOI: 10.33301/JED.VI.1562
+Abstract
+This study applies the theory of planned behavior to examine the impact of the Fintech ecosystem—comprising Fintech awareness (Blockchain, Crowdfunding, AI) and environmental support (university startup support, government startup support)—on the digital business entrepreneurial intentions of Vietnamese students.
+Structural equation modeling analysis using data from 549 students shows that both Fintech awareness (Blockchain, Crowdfunding, AI) and university startup support have a positive effect on students’ digital business entrepreneurial intentions.
+Meanwhile, government support for startups does not affect the intention to pursue digital entrepreneurship.
+In addition, attitude and perceived behavioral control towards digital entrepreneurship play a mediating role between the Fintech ecosystem and digital entrepreneurship intention.
+In the current context of strong digital transformation, this study provides some empirical evidence to support the development of digital business in Vietnam.
+Keywords: AI, Blockchain, Crowdfunding, digital startup intention, Fintech ecosystem, theory of planned behavior.
+JEL codes: G13; M1; M13.
+Tác động của Hệ sinh thái Fintech đối với Ý định Khởi nghiệp Kỹ thuật số của Sinh viên Việt Nam
+Tóm tắt
+Dựa trên lý thuyết hành vi có kế hoạch (TPB), nghiên cứu này điều tra tác động của hệ sinh thái Fintech, bao gồm hiểu biết về Fintech (Blockchain, Crowdfunding, AI) và hỗ trợ môi trường (hỗ trợ giáo dục đại học, hỗ trợ của chính phủ) đối với ý định khởi nghiệp kỹ thuật số của sinh viên Việt Nam.
+Phân tích mô hình phương trình cấu trúc (SEM) trên dữ liệu từ 549 sinh viên cho thấy hiểu biết về Fintech (Blockchain, Crowdfunding, AI) và hỗ trợ giáo dục đại học có ảnh hưởng tích cực đến ý định khởi nghiệp kỹ thuật số.
+Tuy nhiên, mối quan hệ giữa hỗ trợ của chính phủ và ý định khởi nghiệp kỹ thuật số không có ý nghĩa thống kê.
+Ngoài ra, thái độ đối với hành vi và kiểm soát hành vi nhận thức đóng vai trò trung gian trong mối liên hệ giữa hệ sinh thái Fintech và ý định khởi nghiệp kỹ thuật số.
+In the context of digital transformation, this research provides empirical evidence for stakeholders to develop digital businesses in Vietnam.
+Keywords: AI, Blockchain, Crowdfunding, Digital Entrepreneurial Intention, Fintech, Theory of Planned Behavior.
+JEL Codes: G13; M1; M13.
+No.
+327 September 2024 89
+1.
+Introduction
+Today, modern digital technologies are increasingly bringing about profound changes in the field of entrepreneurship and business.
+Among these, Fintech has become one of the key factors in the formation and development of digital entrepreneurship (Leong et al., 2017).
+Meanwhile, Vietnam is a country whose digital economy and startup sector are still in the process of developing (Nathan et al., 2022).
+Therefore, understanding the impact of digital technology factors—especially Fintech—on the formation of digital startup intention in Vietnam plays an important role for policymakers.
+Previous studies have often focused on traditional entrepreneurial intentions, while research on entrepreneurship in the context of digital transformation remains relatively limited (Ismail et al., 2012).
+Moreover, although technologies have been shown to play a crucial role in shaping entrepreneurship in the digital business sector (Nambisan, 2017), prior works on digital business entrepreneurship have mainly investigated digital perception (Chan et al., 2017; Zaheer et al., 2019), access to Fintech (Hasan et al., 2023), Fintech application (Nathan et al., 2022; Stolper & Walter, 2017), or financial literacy (Hasan et al., 2023), but have not thoroughly analyzed the relationship between technologies—particularly Fintech—and digital startup intention.
+Accordingly, Fintech not only influences the way a new business is established but also relates to shaping an environment that supports entrepreneurship (Alkhalaileh, 2021).
+Thus, to comprehensively evaluate the relationship between Fintech and digital startup intention, it is necessary to consider Fintech from an ecosystem perspective, promoting entrepreneurial spirit from both internal factors (knowledge, perception, etc.)
+and external factors (support from context, environment, etc.)
+(Avarmaa et al., 2022).
+Therefore, this study applies the Theory of Planned Behavior to investigate the impact of the Fintech ecosystem on digital startup intention.
+The research findings are expected to provide valuable insights for proposing solutions to develop digital business in Vietnam.
+2.
+Overview and Research Hypotheses
+2.1.
+Theory of Planned Behavior and Digital Startup Intention
+Digital entrepreneurship refers to the application of digital technologies to the processes of production or business management, with the aim of creating new value, and these activities take place on the Internet (Kraus et al., 2019).
+The Theory of Planned Behavior (Ajzen, 1991) is one of the prominent theories used to explore individuals’ intentional behavior (Maheshwari & Kha, 2022).
+According to this theory, the intention to perform a behavior is influenced by three factors: attitude toward the behavior, subjective norms, and perceived behavioral control.
+Attitude toward digital entrepreneurship is understood as an individual’s positive or negative opinion about engaging in digital entrepreneurship—the more positive the attitude, the higher the intention to start a digital business.
+Perceived behavioral control over digital entrepreneurship reflects an individual’s sense of the feasibility of performing a specific behavior (Ajzen, 1991).
+When a person perceives that they have all the necessary resources to embark on digital entrepreneurship, their intention to perform this behavior is higher.
+However, the relationship between subjective norms and entrepreneurial intention remains controversial, with many scholars arguing that subjective norms have an insignificant impact on entrepreneurial intention in Vietnam (Doanh & Bernat, 2019).
+Therefore, this study does not consider the influence of subjective norms.
+Based on the above rationale, the following hypotheses are proposed:
+Hypothesis 1a (H1a): Perceived behavioral control over digital entrepreneurship has a positive effect on the digital entrepreneurial intention of Vietnamese students.
+Hypothesis 1b (H1b): Attitude toward digital entrepreneurship has a positive effect on the digital entrepreneurial intention of Vietnamese students.
+2.2.
+The role of the Fintech ecosystem
+The Fintech ecosystem comprises components that work together to promote economic growth, social inclusion, and enhance customer experience.
+These include blockchain technology, crowdfunding, artificial intelligence (AI), government startup support (Lee & Shin, 2018), and startup support from universities (Muthukannan et al., 2020).
+No.
+327 September 2024 90
+2.2.1.
+Fintech Awareness
+Currently, Fintech encompasses blockchain technology, crowdfunding, and artificial intelligence (AI) (Von Briel et al., 2021).
+Fintech awareness refers to individuals’ attitudes and abilities in utilizing digital tools to manage, analyze, and synthesize digital resources (Hasan et al., 2023).
+Awareness of the utility of Blockchain – blockchain technology: By using a decentralized network (blockchains), Blockchain enables simultaneous and secure access to data (Vaigandla et al., 2023).
+With the use of blockchain, all stakeholders can access and capture the processes of production and business products (Wang et al., 2022).
+Thus, essential resources such as finance, capital, and marketing necessary for conducting business activities are only fully provided through the blockchain platform.
+The use of emerging technologies such as blockchain can contribute to increasing business efficiency; companies can leverage and innovate to develop products, services, and business processes that not only capitalize on these new capabilities but also generate new opportunities and breakthroughs (Festa et al., 2022).
+Supported by blockchain technology, Fintech has encouraged hundreds of startups to build services such as mobile payments and international money transfers, particularly without involving any intermediaries (Mukherjee & Pradhan, 2021), thereby playing an important role in the regulation and distribution of global finance.
+Moreover, blockchain can make relationships more transparent and trustworthy for entrepreneurs and potential investors (Morkunas et al., 2019).
+Understanding all these benefits of blockchain thus motivates individuals to engage in entrepreneurship, helping to foster trust and a positive attitude among entrepreneurs toward the startup process in a complex technological environment.
+Therefore, the authors propose the following hypotheses:
+Hypothesis 2a (H2a): Perceived usefulness of blockchain positively influences the perceived behavioral control over digital entrepreneurship among Vietnamese students.
+Hypothesis 2b (H2b): Perceived usefulness of blockchain positively influences the attitude towards digital entrepreneurship among Vietnamese students.
+Hypothesis 2c (H2c): Perceived usefulness of blockchain positively influences the digital entrepreneurial intention among Vietnamese students.
+Perception of the usefulness of Crowdfunding—fundraising from the community via the Internet: Emerging as a valuable alternative source of funding in the process of seeking external financial capital (Belleflamme et al., 2014), raising funds from the community through the Internet creates an intermediary environment that connects individuals or newly established companies seeking investment capital for their projects with sponsors who have investment goals or who are interested in the product (Mollick, 2014).
+One of the primary challenges faced by startups in their early stages is financial difficulty (Acs, 2008).
+Crowdfunding is considered a financial solution to alleviate difficulties in accessing capital and resources (Beltrame et al., 2023).
+Startups can raise significant financial amounts from community-based crowdfunding sources (Lee & Shin, 2018; Hendrikse et al., 2018).
+Therefore, enhancing awareness of the operation and application of crowdfunding platforms is a key factor in promoting digital entrepreneurial activity, especially in developing economies (Phung, 2023).
+Accordingly, the hypotheses are proposed as follows:
+Hypothesis 3a (H3a): Perceived usefulness of Crowdfunding has a positive impact on perceived behavioral control over digital entrepreneurship among Vietnamese students.
+Hypothesis 3b (H3b): Perceived usefulness of Crowdfunding has a positive impact on attitudes toward digital entrepreneurship among Vietnamese students.
+Hypothesis 3c (H3c): Perceived usefulness of Crowdfunding has a positive impact on digital startup intention among Vietnamese students.
+Awareness of the usefulness of AI – Artificial Intelligence: Previous studies have determined that AI technology can enhance individuals’ competitiveness, thereby contributing to the promotion of entrepreneurial intentions (Wang et al., 2022).
+Specifically, by flexibly applying algorithms through data mining and market analysis, AI brings about fundamental changes in entrepreneurial thinking by influencing individuals’ perceived attitudes towards digital entrepreneurship opportunities (Buxmann et al., 2021).
+Selective or widespread deployment of AI has the potential to influence both an individual’s ability to decide to start a business and the type of ventures they subsequently establish (Chalmers et al., 2021; Hendrikse et al., 2018).
+Therefore, awareness of AI is considered a powerful tool to promote digital entrepreneurship (Dabbous & Boustani, 2023).
+When individuals have greater awareness, they value the usefulness of the technology more and develop more positive attitudes (Belanche et al., 2019).
+The following hypotheses are proposed:
+Hypothesis 4a (H4a): Awareness of the usefulness of AI has a positive impact on perceived behavioral control over digital entrepreneurship among Vietnamese students.
+Hypothesis 4b (H4b): Awareness of the usefulness of AI has a positive impact on attitudes towards digital entrepreneurship among Vietnamese students.
+Hypothesis 4c (H4c): Awareness of the usefulness of AI has a positive impact on the digital startup intention of Vietnamese students.
+2.2.2.
+Environmental Support
+University support for entrepreneurship: Providing quality education is the best way to foster entrepreneurial spirit among students (Maheshwari & Kha, 2022).
+Currently, an increasing number of universities are focusing on promoting student entrepreneurship by investing in entrepreneurship training programs and enhancing information technology infrastructure.
+In addition, the widespread application of digital technology in higher education helps lay the foundation for creativity and technological application, thereby significantly influencing entrepreneurial intentions, especially digital entrepreneurial intention (Dabbous & Boustani, 2023; Youseff et al., 2021).
+Based on the above reasoning, the study proposes the following hypotheses:
+Figure 1: Proposed Research Model
+Source: The authors
+Hypothesis 5a (H5a): University support for entrepreneurship has a positive impact on perceived behavioral control regarding digital entrepreneurship among Vietnamese students.
+Hypothesis 5b (H5b): University support for entrepreneurship has a positive impact on attitudes toward digital entrepreneurship among Vietnamese students.
+Hypothesis 5c (H5c): University entrepreneurship support has a positive impact on the digital entrepreneurial intention of Vietnamese students.
+Government Startup Support: Government startup support includes plans and policies for funding startup projects such as tax incentives, financial support including student loans, and startup capital assistance (Turker & Selcuk, 2009).
+Although still subject to some debate, in general, government startup support aims to foster entrepreneurial spirit and enhance entrepreneurial activities (Al Halbusi et al., 2023), helping to transform university students' business passion into intentions and actions toward digital entrepreneurship (Batool et al., 2015).
+In Vietnam's digital economy, government support for startups has a positive impact through attitudes toward entrepreneurship and perceived behavioral control among university students.
+Thus, the hypotheses are proposed as follows:
+Hypothesis 6a (H6a): Government Startup Support has a positive impact on perceived behavioral control over digital entrepreneurship among Vietnamese students.
+Hypothesis 6b (H6b): Government Startup Support has a positive impact on attitudes toward digital entrepreneurship among Vietnamese students.
+Hypothesis 6c (H6c): Government Startup Support has a positive impact on digital startup intention among Vietnamese students.
+3.
+Research Methodology
+3.1.
+Measurement Scales and Questionnaire Development
+The variables in the model were measured using scales adopted and adapted by the authors from previous studies.
+All scales were assessed using a 5-point Likert scale, ranging from 1 (strongly disagree) to 5 (strongly agree).
+The “Blockchain” and “Crowdfunding” scales were adapted from Festa et al.
+(2022).
+The “AI” scale was adopted from Dabbous et al.
+(2023).
+The scales for “University Entrepreneurship Support” and “Government Support for Entrepreneurship” were adopted from Youssef et al.
+(2021).
+The scales for “Perceived Behavioral Control,” “Attitude Toward Digital Entrepreneurship,” and “Digital Entrepreneurial Intention” were developed from Liñan & Chen (2009).
+The questionnaire consisted of two sections: the first section contained questions measuring the constructs in the research model, and the second section consisted of questions aimed at collecting respondents’ personal information.
+As the survey participants were university students, the questionnaire was developed using the back-translation method to ensure the content was easily understandable to the readers.
+3.2.
+Sample Size and Data Collection
+Table 1: Demographic Characteristics of the Research Sample
+Demographics | Frequency | %
+Gender
+Field of Study
+Economics & Business | 296 | 53.92
+Engineering & Other Fields | 253 | 46.08
+Have you ever run a business or contributed capital to establish a company?
+Source: The authors
+Data were collected using both online and offline methods.
+The online questionnaire was designed on Google Forms and sent to students via social media platforms.
+Meanwhile, the offline questionnaire was completed by students by hand directly in classrooms.
+After removing cases that were ineligible for analysis, the final sample consisted of 549 students.
+No.
+327 September 2024 93
+AIP - Artificial Intelligence (Cronbach’s alpha = 0.893)
+BLC - Blockchain (Cronbach’s alpha = 0.901)
+CRF - Crowdfunding (Cronbach’s alpha = 0.915)
+STS - Government support for entrepreneurship (Cronbach’s alpha = 0.847)
+HES - Higher education support for entrepreneurship (Cronbach’s alpha = 0.881)
+Table 2: Descriptive statistics, Cronbach’s Alpha reliability, and indicator loadings
+Constructs and indicators Mean SD Skewness Kurtosis Factor
+No.
+327 September 2024 94
+DEI - Digital entrepreneurial intention (Cronbach’s alpha = 0.929)
+ATT - Attitude toward digital entrepreneurship (Cronbach’s alpha = 0.881)
+PBC - Perceived behavioral control for digital entrepreneurship (Cronbach’s alpha = 0.932)
+Source: The authors
+No.
+327 September 2024 95
+The demographic characteristics of the research sample shown in Table 1 indicate that most of the respondents were female students (57.55%).
+The results also show that 53.92% were students majoring in economics and business.
+In addition, the majority of students had no prior business experience (81.79%).
+3.3.
+Data Analysis Methods
+To assess the relationships within the research model, the authors employed quantitative analytical methods.
+First, the measurement scales were evaluated using descriptive statistical analysis, Cronbach’s Alpha reliability, exploratory factor analysis (EFA), and confirmatory factor analysis (CFA).
+Subsequently, the model and the proposed hypotheses were tested using structural equation modeling (SEM) and the Bootstrapping method.
+4.
+Research Results
+4.1.
+Assessment of Measurement Scales
+Table 2 shows that all indicators have skewness values lower than 3 and kurtosis values less than 8 (Hair et al., 2010).
+Therefore, all measurement scales meet the requirement for univariate normality.
+In addition, all Cronbach’s Alpha values are within the expected range, greater than 0.6 (Hair et al., 2010).
+Furthermore, the factor loadings for all items are higher than the threshold of 0.3.
+Thus, the measurement scales satisfy the reliability condition.
+The convergent and discriminant validity of all scales were evaluated using a measurement model with confirmatory factor analysis (CFA).
+The results show CMIN/df = 1.710 < 3 (good), CFI = 0.968 > 0.95 (very good), GFI = 0.9 (good), TLI = 0.965 > 0.9 (good), RMSEA = 0.036 < 0.06 (good), and PCLOSE = 1 > 0.05 (good) (Hu & Bentler, 1999).
+Therefore, the measurement model fits the market data.
+In addition, average variance extracted (AVE) and composite reliability (CR) are used to assess the convergent and discriminant validity of the variables (Anderson & Gerbing, 1988; Hair et al., 2010).
+The results in Table 3 show that the CR values for all constructs are recorded as higher than 0.8, and the AVE values are higher than 0.5.
+At the same time, confirmatory factor analysis (CFA) also indicates that all variables may have standardized factor loadings greater than 0.6.
+Thus, the measurement scales satisfy the conditions for convergent and discriminant validity.
+Table 3: Reliability, convergent validity, and discriminant validity of the measurement scales
+CR AVE MSV MaxR(H) PBC DEI CRF HES BLC ATT STS AIP
+Source: Authors’ group
+4.2.
+Model Testing and Proposed Hypotheses
+Structural equation modeling (SEM) was conducted to explore the relationships in the research model.
+Consistent with the measurement model, the indices also indicate that the structural model fits the input data well.
+Specifically, CMIN/df = 1.725 < 3 (good), CFI = 0.962 > 0.95 (excellent), TLI = 0.958 > 0.9 (good), RMSEA = 0.036 < 0.06 (good), and PCLOSE = 1 > 0.05 (good) (Hu & Bentler, 1999).
+Additionally, the GFI index is 0.892 > 0.8, in line with the recommendations of Doll et al.
+(1994) and Baumgartner & Homburg (1996).
+The results of the hypotheses are presented in Figure 2 and Table 4.
+Most hypotheses are supported, except for the direct impact of government support for entrepreneurship on perceived behavioral control, attitude toward digital entrepreneurship, and digital entrepreneurial intention, with p-value > 0.05.
+The findings indicate that perceived behavioral control and attitude toward digital entrepreneurship have a positive effect on digital entrepreneurial intention (β = 0.286; β = 0.195).
+This finding is consistent with previous studies (Al Halbusi et al., 2023; Youssef et al., 2021).
+Thus, individuals with the ability to engage in self-employment and a positive attitude toward becoming an entrepreneur in the future will have a higher digital entrepreneurial intention.
+Figure 2: Results of Structural Equation Modeling Analysis - SEM (standardized)
+Source: The authors
+Regarding the role of Fintech awareness, the results show that Blockchain, Crowdfunding, and AI have a positive impact on perceived behavioral control for digital entrepreneurship (β = 0.252; β = 0.097; β = 0.496).
+In addition, Blockchain, Crowdfunding, and AI also positively influence attitudes toward digital entrepreneurship (β = 0.188; β = 0.182; β = 0.296).
+These results are consistent with several previous studies (Chalmers et al., 2021; Akhter et al., 2022).
+Furthermore, Blockchain, Crowdfunding, and AI are found to have a positive and direct effect on digital entrepreneurial intention (β = 0.096; β = 0.122; β = 0.160).
+This finding is in line with many previous studies (Festa et al., 2022; Ekpe et al., 2017; Chalmers et al., 2021).
+Thus, Blockchain, Crowdfunding, and AI play an important role in promoting digital entrepreneurial intention (Wright et al., 2007).
+Accordingly, knowledge and skills in applying Fintech enable potential entrepreneurs to foster creativity, generate opportunities for innovation, and enhance adaptability in the digital business environment.
+The research results indicate that university entrepreneurship support has a positive impact on perceived behavioral control for digital entrepreneurship (β = 0.089) and attitude toward entrepreneurship (β = 0.205).
+These findings are consistent with previous studies (Baterna et al., 2020; Mugion et al., 2020).
+University entrepreneurship support also has a direct effect on digital entrepreneurial intention (β = 0.162).
+This can be explained by the fact that universities not only provide in-depth knowledge and essential skills to help students become more confident in digital entrepreneurial activities but also create a conducive environment for students to develop business ideas in the context of digital transformation.
+Meanwhile, government support for entrepreneurship does not affect perceived behavioral control for digital entrepreneurship, attitudes toward digital entrepreneurship, or digital entrepreneurial intention.
+Number 327 September 2024 97
+Table 4: Results of Hypothesis Testing (Standardized)
+Hypothesis Estimate P-value Conclusion
+H1a PBC -> DEI 0.286 *** Accepted
+H1b ATT -> DEI 0.195 *** Accepted
+H2a BLC -> PBC 0.252 *** Accepted
+H2b BLC -> ATT 0.188 *** Accepted
+H2c BLC -> DEI 0.096 * Accepted
+H3a CRF -> PBC 0.097 * Accepted
+H3b CRF -> ATT 0.182 ** Accepted
+H3c CRF -> DEI 0.122 ** Accepted
+H4a AIP -> PBC 0.496 *** Accepted
+H4b AIP -> ATT 0.269 *** Accepted
+H4c AIP -> DEI 0.160 ** Accepted
+H5a HES -> PBC 0.089 * Accepted
+H5b HES -> ATT 0.205 *** Accepted
+H5c HES -> DEI 0.162 *** Accepted
+H6a STS -> PBC -0.051 0.110 Not accepted
+H6b STS -> ATT -0.032 0.391 Not accepted
+H6c STS -> DEI 0.030 0.306 Not accepted
+Note: *** p < 0.001, ** p < 0.010, * p < 0.050 Source: Author group
+To evaluate the mediation model, the bootstrapping method with 5,000 samples and a 95% confidence interval was applied.
+The results indicate that perceived behavioral control for digital entrepreneurship and attitude both serve as mediators between Fintech awareness (Blockchain, Crowdfunding, AI), university entrepreneurship support, and digital entrepreneurial intention.
+However, the relationship between government support for entrepreneurship and digital entrepreneurial intention is not significant.
+5.
+Conclusion and Recommendations
+This study is based on the Theory of Planned Behavior (TPB) to explore the influence of the Fintech ecosystem on the digital entrepreneurial intention of Vietnamese students through Fintech awareness and environmental support factors.
+For universities, this is a crucial component in fostering entrepreneurial spirit.
+Therefore, universities can enhance students’ understanding, awareness, and skills in Fintech by incorporating educational programs related to digital entrepreneurship and Fintech.
+Activities may include organizing entrepreneurship clubs, hosting educational programs that invite renowned entrepreneurs to bring the image of successful entrepreneurs closer to students, as well as practical skill-building activities and digital startup competitions that encourage students to gain early experience and exposure to the real-world environment.
+Universities can also organize extracurricular activities, digital startup idea competitions, as well as university-level and inter-university contests and seminars to strengthen students’ understanding of Fintech.
+For the government, digital entrepreneurship can reduce unemployment rates while increasing GDP and fostering sustainable economic development.
+Therefore, the government should establish a favorable ecosystem to encourage students' entrepreneurial spirit through institutions, laws, and policies that promote an entrepreneurial environment.
+Additionally, the government should enhance communication about Fintech and implement better support policies for businesses operating in the digital sector.
+The study still has certain limitations.
+First, this research is cross-sectional; when studying individual behavior, it is necessary to conduct longitudinal research to obtain more accurate results.
+Therefore, future research could move towards longitudinal studies to examine the impact of Fintech awareness on entrepreneurial behavior.
+Secondly, although the Fintech ecosystem includes many factors influencing digital startup intention, we have only studied the influence of Fintech awareness and environmental support.
+Thus, future studies should consider a more comprehensive range of factors affecting digital entrepreneurial intention.
+References
+Acs, Z. J.
+(2008), ‘Foundations of high impact entrepreneurship’, Foundations and Trends in Entrepreneurship, 4(6), Ajzen, I.
+(1991), ‘The theory of planned behavior’, Organizational Behavior and Human Decision Processes, 50(2), Akhter, A. K. M. Islam, A.
+Md., Karim M. and Latif, W.B.
+(2022), ‘Examining determinants of digital entrepreneurial intention: A case of graduate students’, Problems and Perspectives in Management, 20(3), 153-163.
+Al Halbusi, H., Soto-Acosta, P., & Popa, S. (2023), ‘Analysing e-entrepreneurial intention from the theory of planned behaviour: the role of social media use and perceived social support’, International Entrepreneurship and Management Journal, 19(4), 1611-1642.
+Alkhalaileh, M. Y.
+(2021), ‘Systematic Review: Digital Entrepreneurship Intention’, Network Intelligence Studies,
+Anderson, J. C., & Gerbing, D. W. (1988), ‘Structural equation modeling in practice: A review and recommended twostep approach’, Psychological Bulletin, 103(3), 411-423.
+Avarmaa, M., Torkkeli, L., Laidroo, L., & Koroleva, E. (2022), ‘The interplay of entrepreneurial ecosystem actors and conditions in FinTech ecosystems: An empirical analysis’, Journal of Entrepreneurship, Management and Innovation, 18(4), 79-113.
+Baumgartner, H., & Homburg, C. (1996), ‘Applications of structural equation modeling in marketing and consumer research: A review’, International Journal of Research in Marketing, 13(2), 139-161.
+Batool, H., Rasheed, H., Malik, M. I., & Hussain, S. (2015), "Application of partial least square in predicting e-entrepreneurial intention among business students: Evidence from Pakistan," Journal of Innovation and Entrepreneurship, 4(1), 1-16.
+Belanche, D., Casaló, L. V., & Flavián, C. (2019), ‘Artificial Intelligence in FinTech: understanding robo-advisors adoption among customers’, Industrial Management & Data Systems, 119(7), 1411-1430.
+Belleflamme, P., Lambert, T., & Schwienbacher, A.
+(2014), ‘Crowdfunding: Tapping the right crowd’, Journal of Business Venturing, 29(5), 585-609.
+Beltrame, F., Grassetti, L., Bertinetti, G. S., & Sclip, A.
+(2023), ‘Relationship lending, access to credit and entrepreneurial orientation as cornerstones of venture financing’, Journal of Small Business and Enterprise Development, 30(1), 4-29.
+Buxmann, P., Hess, T., & Thatcher, J.
+B.
+(2021), ‘AI-based information systems’, Business & Information Systems Engineering, 63(1), 1-4.
+Chalmers, D., MacKenzie, N. G., & Carter, S. (2021), ‘Artificial intelligence and entrepreneurship: Implications for venture creation in the fourth industrial revolution’, Entrepreneurship Theory and Practice, 45(5), 1028-1053.
+Chan, B. S., Churchill, D., & Chiu, T. K. (2017), 'Digital literacy learning in higher education through digital storytelling approach', Journal of International Education Research, 13(1), 1-16.
+Dabbous, A., & Boustani, N. M. (2023).
+‘Digital explosion and entrepreneurship education: Impact on promoting entrepreneurial intention for business students’, Journal of Risk and Financial Management, 16(1), 27-48 Doanh, D. C., & Bernat, T. (2019), ‘Entrepreneurial self-efficacy and intention among Vietnamese students: A meta-analytic path analysis based on the theory of planned behavior’, Procedia Computer Science, 159, 2447-2460.
+Doll, W. J., Xia, W., & Torkzadeh, G. (1994), ‘A confirmatory factor analysis of the end-user computing satisfaction instrument’, MIS Quarterly, 18(4), 453-461.
+Festa, G., Elbahri, S., Cuomo, M. T., Ossorio, M., & Rossi, M. (2022), 'FinTech ecosystem as influencer of young entrepreneurial intentions: empirical findings from Tunisia,' Journal of Intellectual Capital, 24(1), 205-226.
+Hasan, M., Noor, T., Gao, J., Usman, M., & Abedin, M. Z.
+(2023), 'Rural consumers’ financial literacy and access to FinTech services', Journal of the Knowledge Economy, 14(2), 780-804.
+No.
+327 September 2024 99
+Hendrikse, R., Bassens, D., & Van Meeteren, M. (2018), 'The Appleization of finance: Charting incumbent finance’s embrace of FinTech', Finance and Society, 4(2), 159-180.
+Hu, L. T., & Bentler, P. M. (1999), ‘Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives’, Structural Equation Modeling, 6(1), 1-55.
+Ismail, N., Jaffar, N., Khan, S., & Leng, T. S. (2012), ‘Tracking the cyber entrepreneurial intention of private universities students in Malaysia’, International Journal of Entrepreneurship and Small Business, 17(4), 538-546.
+Kraus, S., Palmer, C., Kailer, N., Kallinger, F. L., & Spitzer, J.
+(2019), ‘Digital entrepreneurship: A research agenda on new business models for the twenty-first century’, International Journal of Entrepreneurial Behavior & Research, 25(2), 353-375.
+Lee, I., & Shin, Y. J.
+(2018), 'Fintech: Ecosystem, business models, investment decisions, and challenges', Business Horizons, 61(1), 35-46.
+Leong, C., Tan, B., Xiao, X., Tan, F. T. C., & Sun, Y.
+(2017), ‘Nurturing a FinTech ecosystem: The case of a youth microloan startup in China’, International Journal of Information Management, 37(2), 92-97.
+Liñán, F., & Chen, Y. W. (2009), "Development and cross-cultural application of a specific instrument to measure entrepreneurial intentions," Entrepreneurship Theory and Practice, 33(3), 593-617.
+Maheshwari, G., & Kha, K. L. (2022), Investigating the relationship between educational support and entrepreneurial intention in Vietnam: The mediating role of entrepreneurial self-efficacy in the theory of planned behavior, retrieved on October 12th, 2023, from <https://doi.org/10.1016/j.ijme.2021.100553>.
+Mollick, E. (2014), ‘The dynamics of crowdfunding: An exploratory study’, Journal of Business Venturing, 29(1), 1-16.
+Morkunas, V. J., Paschen, J., & Boon, E. (2019), ‘How blockchain technologies impact your business model’, Business Horizons, 62(3), 295-306.
+Muthukannan, P., Tan, B., Gozman, D., & Johnson, L. (2020), The emergence of a fintech ecosystem: A case study of the Vizag Fintech Valley in India, retrieved on October 12th 2023, from <https://doi.org/10.1016/j.im.2020.103385>.
+Mukherjee, P., & Pradhan, C. (2021), ‘Blockchain 1.0 to blockchain 4.0—The evolutionary transformation of blockchain technology’, in Blockchain technology: applications and challenges, Panda, S. K.
+(ed.
+), Springer International Publishing, Cham, Switzerland.
+Nambisan, S. (2017), ‘Digital entrepreneurship: Toward a digital technology perspective of entrepreneurship’, Entrepreneurship Theory and Practice, 41(6), 1029-1055.
+Nathan, R. J., Setiawan, B., & Quynh, M. N. (2022), ‘Fintech and financial health in Vietnam during the COVID-19 pandemic: In-depth descriptive analysis’, Journal of Risk and Financial Management, 15(3), 125.
+DOI: https://doi.org/10.3390/jrfm15030125.
+Phung, T. M. (2023), Vietnam Fintech Industry and Government Support: A Role of Fintech Entrepreneurial Intention, retrieved on October 12th 2023, from <https://doi.org/10.1007/s11115-023-00708-2>.
+Stolper, O.
+A., & Walter, A.
+(2017), ‘Financial literacy, financial advice, and financial behavior’, Journal of Business Economics, 87(5), 581-643.
+Turker, D., & Selcuk, S. S. (2009), ‘Which factors affect entrepreneurial intention of university students?’, Journal of European Industrial Training, 33(2), 142-159.
+Vaigandla, K. K., Karne, R., Siluveru, M., & Kesoju, M. (2023), “Review on Blockchain Technology: Architecture, Characteristics, Benefits, Algorithms, Challenges and Applications,” Mesopotamian Journal of CyberSecurity, 2023, 73-85.
+Von Briel, F., Selander, L., Hukal, P., Lehmann, J., Rothe, H., Fürstenau, D., ... & Wurm, B.
+(2021), "Researching digital entrepreneurship: Current issues and suggestions for future directions," Communications of the Association for Information Systems, 48, 284-304.
+Wang, Z., Li, M., Lu, J., & Cheng, X.
+(2022), Business Innovation based on artificial intelligence and blockchain technology, retrieved on October 12th 2023, from <https://doi.org/10.1016/j.ipm.2021.102759>.
+Wright, M., Hmieleski, K. M., Siegel, D. S., & Ensley, M. D. (2007), ‘The role of human capital in technological entrepreneurship’, Entrepreneurship Theory and Practice, 31(6), 791-806.
+Youssef, A.
+B., Boubaker, S., Dedaj, B., & Carabregu-Vokshi, M. (2021), Digitalization of the economy and entrepreneurship intention, retrieved on October 26th 2023, from <https://doi.org/10.1016/j.techfore.2020.120043> Zaheer, H., Breyer, Y., & Dumay, J.
+(2019), Digital entrepreneurship: An interdisciplinary structured literature review and research agenda, retrieved on October 17th 2023, from <https://doi.org/10.1016/j.techfore.2019.119735>.
+No.
+327, September 2024, page 100
+Journal Distributed via the Vietnam Post Network

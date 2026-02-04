@@ -1,0 +1,263 @@
+TẠP CHÍ NGHIÊN CỨU Y HỌC
+TỶ LỆ MẮC/NGHI MẮC COVID-19 Ở CÁN BỘ Y TẾ THAM GIA PHÒNG CHỐNG DỊCH TẠI MỘT SỐ TỈNH/THÀNH VÀ TRƯỜNG ĐẠI HỌC CỦA VIỆT NAM NĂM 2021 – 2022 VÀ MỘT SỐ YẾU TỐ LIÊN QUAN
+Đặng Thị Hương, Đỗ Nam Khánh, Hoàng Thị Hải Vân và Lê Minh Giang*
+Trường Đại học Y Hà Nội
+Nghiên cứu được tiến hành nhằm xác định tỷ lệ mắc/nghi mắc COVID-19 ở cán bộ y tế tham gia phòng
+chống dịch tại 7 tỉnh/thành và 3 trường đại học của Việt Nam năm 2021 – 2022 và các yếu tố liên quan.
+Kết
+quả nghiên cứu cho thấy có 76,7% (703/917) cán bộ y tế tham gia phòng chống dịch năm 2021 – 2022 từng
+mắc/nghi mắc COVID-19.
+Tỷ lệ mắc/nghi mắc COVID-19 ở cán bộ y tế có sự khác biệt giữa các nhóm tuổi và
+nữ chiếm ưu thế hơn nam (p < 0,05).
+Phần lớn cán bộ y tế (410/703; 58,3%) từng mắc/nghi mắc COVID-19
+khi tham gia chống dịch tại cơ quan hoặc địa phương đang công tác.
+Điều dưỡng là đối tượng chiếm tỷ lệ mắc/
+nghi mắc COVID-19 cao nhất trong số các nhóm đối tượng/vị trí việc làm (41,7%) (p < 0,05).
+Tỷ lệ tiêm vắc xin
+phòng COVID-19 nói chung ở cán bộ y tế đạt mức cao và có sự khác biệt có ý nghĩa thống kê về tỷ lệ mắc/nghi
+mắc COVID-19 ở các nhóm cán bộ y tế chưa tiêm cũng như tiêm số mũi vắc xin phòng COVID-19 khác nhau.
+Từ khóa: Tỷ lệ mắc/nghi mắc, COVID-19, cán bộ y tế, yếu tố liên quan, Việt Nam.
+I. ĐẶT VẤN ĐỀ
+Bắt nguồn từ tâm dịch đầu tiên tại Vũ Hán, Trung Quốc vào cuối tháng 12/2019, COVID-19 đã lây lan nhanh chóng ra hầu hết các quốc gia/ vùng lãnh thổ trên thế giới và trở thành đại dịch toàn cầu.
+Đến nay, thế giới đã trả qua nhiều làn sóng dịch COVID-19 với nhiều biến chủng khác nhau dẫn đến tình trạng khủng hoảng về y tế, kinh tế và xã hội chưa từng có.
+Việt Nam, trước khi làn sóng dịch COVID-19 lần thứ 4 (tháng 4/2021) bùng phát, đã thành công trong việc ngăn chặn các đợt bùng phát cộng đồng mặc dù vẫn có sự xâm nhập của các trường hợp nhiễm SARS-CoV-2 qua đường nhập cảnh.1 Tuy nhiên, việc xâm nhập của biến thể Delta với khả năng siêu lây nhiễm phát hiện lần đầu vào tháng 4 năm 2021 đã đe dọa thành
+Tác giả liên hệ: Lê Minh Giang
+công của Việt Nam trong việc kiểm soát dịch COVID-19.2 Điều này gây ra áp lực lớn đối với toàn bộ hệ thống y tế, đặc biệt là đội ngũ cán bộ y tế tuyến đầu chống dịch tại các bệnh viện, trung tâm kiểm soát bệnh tật, trung tâm y tế và trạm y tế.
+Tới cuối năm 2021, khi đợt bùng phát của biến thể Delta đã giảm và nằm trong tầm kiểm soát ở các tỉnh miền Nam, Việt Nam chuyển hướng từ chủ trương Zero COVID sang thích ứng an toàn, linh hoạt, kiểm soát hiệu quả dịch bệnh COVID-19 (Nghị quyết 128/NQ-CP).3 Tuy nhiên, sự gia tăng đột biến của biến thể Omicron vào đầu năm 2022 đã tạo đỉnh về số ca mắc COVID-19 so với các đợt trước đó.4 Tình trạng này tiếp tục đòi hỏi sự vào cuộc của toàn bộ hệ thống chính trị và sự nỗ lực hơn nữa của tất cả cán bộ, nhân lực y tế trong công tác phòng chống dịch.
+Trường Đại học Y Hà Nội
+Email: leminhgiang@hmu.edu.vn
+Ngày nhận: 06/03/2023
+Để đáp ứng kịp thời trước diễn biến khó lường và sự lây lan nhanh chóng của dịch, trong năm 2021 – 2022, hàng chục nghìn cán
+Ngày được chấp nhận: 16/03/2023
+TẠP CHÍ NGHIÊN CỨU Y HỌC
+hành nghiên cứu (do nghỉ trực/nghỉ phép…); cán bộ y tế từ chối tham gia nghiên cứu.
+2.
+Phương pháp
+Thiết kế nghiên cứu
+Nghiên cứu được thực hiện theo phương pháp mô tả cắt ngang.
+Địa điểm nghiên cứu
+7 tỉnh/thành (Hà Nội, Bắc Ninh, Bắc Giang, Nghệ An, Đắk Lắk, Bình Dương, Kiên Giang) và 3 trường đại học (Trường Đại học Y Hà Nội, Trường Đại học Y Dược Cần Thơ, Đại học Y Dược TP Hồ Chí Minh).
+Thời gian thu thập số liệu
+Từ tháng 5 – tháng 10/2022.
+Cỡ mẫu
+Tổng số cán bộ y tế tham gia nghiên cứu tại 7 tỉnh/thành và 3 trường đại học là 917 người.
+Chọn mẫu
+Áp dụng phương pháp chọn mẫu nhiều giai đoạn.
+Bước 1: Chọn tỉnh và trường đại học.
+Chọn chủ đích 07 tỉnh trọng điểm về tình hình chống dịch năm 2021 trong cả nước: Bình Dương, Kiên Giang, Đắk Lắk, Bắc Giang, Bắc Ninh, Hà Nội, Nghệ An và 03 trường đại học đã cử nhiều cán bộ, sinh viên hỗ trợ công tác phòng chống dịch năm 2021: Đại học Y Hà Nội, Đại học Y Dược TP Hồ Chí Minh, Đại học Y Dược Cần Thơ.
+Bước 2: Chọn huyện, xã, cơ sở y tế.
+bộ y tế đã được huy động tham gia vào công tác điều trị, dự phòng và xét nghiệm tại chỗ của y tế địa phương, cũng như tăng cường, hỗ trợ cho các tỉnh/thành là điểm nóng về dịch.
+Quá trình tham gia phòng chống dịch với áp lực lớn và thời gian kéo dài đã gây ra tác động lớn về cả thể chất và tinh thần của cán bộ y tế.
+Bên cạnh việc phải đương đầu với các vấn đề sức khỏe tâm thần, những thách thức về mặt thể lực và thể chất, cán bộ y tế còn phải đối mặt với nguy cơ phơi nhiễm với COVID-19 cao hơn so với cộng đồng nói chung.
+Nghiên cứu tính đến tháng 5/2020 trên hơn 24.000 trường hợp mắc COVID-19 tại Ontario, Canada chỉ ra tỷ lệ mắc COVID-19 ở cán bộ y tế là 17,5% và tỷ lệ mắc mới của cán bộ y tế cao gấp 5,5 lần so với những người không phải cán bộ y tế.5 Tại Việt Nam, một nghiên cứu mô tả cắt ngang tại Đắk Lắk trong đầu năm 2022 cung cấp thông tin về tỷ lệ mắc COVID-19 ở cán bộ y tế là 47,8%.
+Trong đó, nhóm tuổi, năm công tác, dân tộc, nơi làm việc, hút thuốc lá, bệnh nền và tiêm vắc xin có mối liên quan với tỷ lệ mắc bệnh COVID-19 của cán bộ y tế.6 Để tìm hiểu tỷ lệ mắc COVID-19 ở cán bộ y tế tham gia phòng chống dịch và các yếu tố liên quan tính đến thời điểm cuối năm 2022 và trên phạm vi rộng hơn (7 tỉnh/thành và 3 trường đại học), chúng tôi thực hiện nghiên cứu “Tỷ lệ mắc/nghi mắc COVID-19 ở cán bộ y tế tham gia phòng chống dịch tại một số tỉnh thành và trường đại học của Việt Nam năm 2021 – 2022 và một số yếu tố liên quan”.
+II.
+ĐỐI TƯỢNG VÀ PHƯƠNG PHÁP
+1.
+Đối tượng
+Tiêu chuẩn lựa chọn
+Cán bộ y tế trực tiếp tham gia phòng chống dịch COVID-19 trong năm 2021 – 2022.
+Tiêu chuẩn loại trừ
+Cán bộ y tế vắng mặt trong thời gian tiến
+Tại mỗi tỉnh, chọn chủ đích Bệnh viện đa khoa tỉnh/thành phố, CDC tỉnh và chọn ngẫu nhiên 2 quận/huyện.
+Tại mỗi quận/huyện, chọn chủ đích Trung tâm y tế quận/huyện và Bệnh viện đa khoa huyện để tiến hành nghiên cứu, đồng thời chọn ngẫu nhiên 3 xã.
+Tại Hà Nội, do có nhiều đặc thù liên quan các cơ sở điều trị nên nghiên cứu được tiến hành tại hai Bệnh viện hạng I trực thuộc Sở Y tế đóng trên địa bàn
+TẠP CHÍ NGHIÊN CỨU Y HỌC
+Phương pháp thu thập số liệu
+của 2 quận được lựa chọn, thay vì Bệnh viện đa khoa tỉnh/huyện như các tỉnh khác.
+Bước 3: Chọn cán bộ y tế từ khung mẫu.
+Phỏng vấn cán bộ y tế được chọn bằng bộ câu hỏi định lượng do đề tài xây dựng dựa trên các tài liệu tham khảo và được chỉnh sửa sau khi điều tra thử.
+Việc phỏng vấn được tiến hành trực tiếp bởi điều tra viên, bằng máy tính bảng thông qua phần mềm REDCap.
+Điều tra viên bao gồm các cán bộ và học viên sau đại học của trường Đại học Y Hà Nội đã được tâp huấn kỹ lưỡng về nghiên cứu và bộ câu hỏi trước khi tham gia phỏng vấn.
+Xử lý số liệu
+Số liệu được làm sạch, xử lý và phân tích bằng phần mềm STATA 15.0 (StataCorp, Texas, USA).
+Phương pháp thống kê mô tả (tính giá trị trung bình, độ lệch chuẩn để mô tả biến số định lượng và tính số lượng, tỷ lệ để mô tả biến số định tính) và Fisher’s exact test được áp dụng để mô tả thông tin về tỷ lệ mắc/nghi mắc COVID-19 ở cán bộ y tế và các yếu tố liên quan.
+3.
+Đạo đức nghiên cứu
+Từ khung mẫu là danh sách các cán bộ y tế tham gia phòng chống dịch năm 2021 – 2022 của các đơn vị do phòng tổ chức cán bộ/ kế hoạch tổng hợp cung cấp, chọn ngẫu nhiên các cán bộ y tế theo số lượng phân bổ có chủ đích.
+Cụ thể, chọn đồng đều mỗi tỉnh (trừ Hà Nội) 100 cán bộ y tế bao gồm 25 - 28 cán bộ y tế tuyến tỉnh (5 - 8 cán bộ y tế tại trung tâm kiểm soát bệnh tật và 20 cán bộ y tế tại bệnh viện đa khoa tỉnh), 40 cán bộ y tế tuyến huyện (2 huyện, mỗi huyện 20 cán bộ y tế), 30 cán bộ y tế tuyến xã (3 xã/huyện, mỗi xã 5 cán bộ y tế) và 2 – 5 cán bộ y tế thuộc cơ sở y tế tư nhân.
+Riêng Hà Nội, số lượng cán bộ y tế được phỏng vấn tại mỗi bệnh viện hạng I là 100 cán bộ y tế.
+Ngoài ra, tại các bệnh viện, việc lựa chọn mẫu cũng được phân bổ đồng đều giữa bác sĩ và điều dưỡng.
+Đối với các cơ sở đào tạo, chọn 20 cán bộ y tế của Trường Đại học Y Dược Cần Thơ, 40 cán bộ y tế của Trường Đại học Y Dược TP Hồ Chí Minh và 40 cán bộ y tế của Trường Đại học Y Hà Nội.
+Biến số/chỉ số nghiên cứu
+Tỷ lệ cán bộ y tế đã từng mắc/nghi mắc COVID-19 và các bối cảnh mắc/nghi mắc COVID-19.
+Nghiên cứu nằm trong khuôn khổ của đề tài nghiên cứu khoa học công nghệ cấp Bộ Y tế “Đánh giá và dự báo nguồn nhân lực y tế ứng phó có hiệu quả với COVID-19 ở Việt Nam”.
+Nghiên cứu được chấp thuận bởi Hội đồng Đạo đức trong nghiên cứu Y sinh học, Trường Đại học Y Hà Nội (756/GCN-HĐĐĐNCYYSSH- ĐHYHN ngày 14/02/2023).
+Tất cả cán bộ y tế tham gia nghiên cứu đều được cung cấp đầy đủ thông tin và đồng ý tham gia nghiên cứu.
+Số liệu nghiên cứu được thu thập trung thực và chỉ được sử dụng cho mục đích nghiên cứu.
+Thông tin cá nhân của đối tượng nghiên cứu đều được mã hoá và hoàn toàn bảo mật.
+Thông tin về nhân khẩu học (tuổi, giới, dân tộc); chức danh nghề nghiệp và đơn vị công tác; tiền sử phơi nhiễm với người bệnh/người nghi ngờ mắc COVID-19 ở các mức độ khác nhau; tiền sử tiêm vắc xin phòng COVID-19 theo số mũi tiêm và sự phối trộn các loại vắc xin.
+TẠP CHÍ NGHIÊN CỨU Y HỌC
+III.
+KẾT QUẢ
+Biểu đồ 1.
+Tỷ lệ cán bộ y tế từng mắc/nghi mắc COVID-19 (n = 917)
+định nghĩa là tình trạng có triệu chứng nghi ngờ của COVID-19 nhưng không xét nghiệm hoặc xét nghiệm (test nhanh) cho kết quả âm tính.
+Kết quả nghiên cứu cho thấy, có 703/917 (76,7%) cán bộ y tế tham gia phòng chống dịch năm 2021 – 2022 đã từng mắc/nghi mắc COVID-19.
+Nghi mắc COVID-19 ở đây được
+Biểu đồ 2.
+Bối cảnh mắc COVID-19 của cán bộ y tế (n = 703)
+nhưng không rõ nguồn lây (51; 7,3%), mắc khi đang đi chống dịch ở địa bàn khác trong tỉnh (37; 5,3%) và cuối cùng là mắc COVID-19 khi đang đi chống dịch ở tỉnh khác (4; 0,6%).
+Trong số 703 cán bộ y tế từng mắc/nghi mắc COVID-19, bối cảnh mắc/nghi bệnh khi tham gia phòng chống dịch tại địa phương/cơ quan đang công tác là thường gặp nhất (410; 58,3%), tiếp theo sau là mắc tại nhà (227; 32,3%), mắc
+TẠP CHÍ NGHIÊN CỨU Y HỌC
+Bảng 1.
+Tỷ lệ cán bộ y tế từng mắc/nghi mắc COVID-19 theo đặc điểm nhân khẩu học (n = 917).
+Tổng n (%) Giá trị p*
+Đặc điểm Chưa mắc COVID-19 n (%)
+Từng mắc/nghi mắc COVID-19 n (%)
+≥ 50 28 (13,1) 32 (4,6) 60 (6,5)
+* Fisher’s exact test
+và giới là có ý nghĩa thống kê (p < 0,05).
+Tỷ lệ cán bộ y tế mắc/nghi mắc COVID-19 khá tương đồng giữa dân tộc Kinh và các dân tộc khác.
+Phần lớn cán bộ y tế từng mắc/nghi mắc COVID-19 (436; 47,6%) nằm trong độ tuổi từ 30 - 39 và nữ mắc nhiều hơn nam.
+Sự khác biệt về tỷ lệ mắc/nghi mắc giữa các nhóm tuổi
+Bảng 2.
+Tỷ lệ cán bộ y tế từng mắc/nghi mắc COVID-19 theo chức danh nghề nghiệp và đơn vị công tác (n = 917)
+Tổng n (%) Giá trị p*
+Đặc điểm Chưa mắc COVID-19 n (%)
+Từng mắc/nghi mắc COVID-19 n (%)
+Chức danh nghề nghiệp
+Cử nhân Y tế công cộng 7 (3,3) 11 (2,0) 18 (2,0)
+Khác (cộng tác viên dân số, nữ hộ sinh, dược sĩ…) 16 (7,5) 56 (8,0) 72 (7,9)
+TẠP CHÍ NGHIÊN CỨU Y HỌC
+Tổng n (%) Giá trị p*
+Đặc điểm Chưa mắc COVID-19 n (%)
+Từng mắc/nghi mắc COVID-19 n (%)
+Đơn vị công tác
+* Fisher’s exact test
+Trong nhóm cán bộ y tế đã từng mắc/nghi mắc COVID-19, điều dưỡng và bác sĩ là hai đối tượng chiếm tỷ lệ cao nhất.
+Tuy nhiên, tỷ lệ mắc/nghi mắc có sự khác biệt không có ý nghĩa thống kê giữa các nhóm chức danh nghề
+nghiệp (p = 0,543).
+cán bộ y tế công tác tại bệnh viện đa khoa tỉnh/TP, trung tâm y tế huyện/bệnh viện đa khoa huyện và trạm y tế xã/phường có tỷ lệ cán bộ mắc/nghi mắc cao nhất trong tổng số 5 nhóm đơn vị công tác.
+Bảng 3.
+Tỷ lệ cán bộ y tế từng mắc/nghi mắc COVID-19 theo tiền sử phơi nhiễm (n = 917)
+Tổng n (%) Giá trị p*
+Tiền sử phơi nhiễm Chưa mắc COVID-19 n (%)
+Từng mắc/nghi mắc COVID-19 n (%)
+Từng tiếp xúc trực tiếp ở bệnh phòng/ cộng đồng khoảng cách dưới 2m 209 (97,7) 684 (97,3) 893 (97,4) 1,000
+Từng làm việc trong khu vực bệnh phòng/cộng đồng khoảng cách trên 2m 202 (94,4) 647 (92,0) 849 (92,6) 0,139
+Từng làm cùng khu vực với các đồng nghiệp tiếp xúc trực tiếp ở bệnh phòng/ cộng đồng dưới 2m 206 (96,3) 670 (95,3) 876 (95,5) 0,833
+Từng làm vệ sinh/dọn dẹp ở bệnh phòng/cộng đồng trong quá trình có người bệnh/người nghi ngờ 72 (33,6) 284 (40,4) 356 (38,8) 0,112
+Từng làm vệ sinh/dọn dẹp bệnh phòng/ cộng đồng sau khi người bệnh/người nghi ngờ rời khỏi 66 (30,8) 260 (37,0) 326 (35,6) 0,142
+Từng trực tiếp làm việc ở khu vực điều trị/chăm sóc người bệnh khu vực điều trị hồi sức tích cực COVID-19 90 (42,1) 316 (45,0) 406 (44,3) 0,591
+TẠP CHÍ NGHIÊN CỨU Y HỌC
+Tổng n (%) Giá trị p*
+Tiền sử phơi nhiễm Chưa mắc COVID-19 n (%)
+Từng mắc/nghi mắc COVID-19 n (%)
+Từng tiếp xúc trực tiếp với người bệnh/ người nghi ngờ ở gia đình (do có thành viên gia đình mắc/nghi mắc) 142 (66,4) 562 (79,9) 704 (76,8) 0,000
+* Fisher’s exact test
+Nhìn chung, hầu hết cán bộ y tế tham gia nghiên cứu đã từng tiếp xúc với người mắc/ nghi mắc COVID-19 ở các mức độ khác nhau.
+Tỷ lệ cán bộ y tế từng tiếp xúc trực tiếp với người mắc/nghi mắc COVID-19 ở bệnh phòng/ cộng đồng khoảng cách dưới 2m, từng làm việc trong khu vực bệnh phòng/cộng đồng có người mắc/nghi mắc COVID-19 ở khoảng cách trên 2m và từng làm cùng khu vực với các đồng nghiệp tiếp xúc trực tiếp với người mắc/nghi
+mắc COVID-19 ở bệnh phòng/cộng đồng dưới 2m đều trên 90%.
+Tỷ lệ cán bộ y tế từng mắc/ nghi mắc COVID-19 không có sự khác biệt giữa nhóm có tiếp xúc và không tiếp xúc với các yếu tố nguy cơ ở các bối cảnh khác nhau.
+Riêng tỷ lệ mắc/nghi mắc COVID-19 ở nhóm cán bộ y tế có tiếp xúc trực tiếp với thành viên gia đình mắc/nghi mắc cao hơn ở nhóm cán bộ y tế không tiếp xúc, và sự khác biệt này là có ý nghĩa thống kê (p = 0,000).
+Bảng 4.
+Tỷ lệ cán bộ y tế từng mắc/nghi mắc COVID-19 theo tiền sử tiêm vắc xin phòng COVID-19
+Tổng n (%) Giá trị p*
+Tiền sử tiêm phòng vắc xin Chưa mắc COVID-19 n (%)
+Từng mắc/nghi mắc COVID-19 n (%)
+Số mũi tiêm (n = 917)
+Tiêm phối hợp trộn 2 hay nhiều loại vắc xin (n = 863)
+* Fisher’s exact test
+Trong số cán bộ y tế tham gia nghiên cứu, có 39 cán bộ y tế không nhớ hoặc không có thông tin về tiền sử tiêm vắc xin trên phần mềm
+PCCovid, Sổ sức khỏe điện tử hoặc không thể tra cứu thông tin trên Cổng thông tin tiêm chủng COVID-19 (https://tiemchungcovid19.gov.vn/
+TẠP CHÍ NGHIÊN CỨU Y HỌC
+portal/search).
+Ngoài ra, có 2 cán bộ y tế tại Đắk Lắk không tiêm phòng vắc xin COVID-19 do có tiền sử dị ứng/sốc phản vệ khi tiêm phòng một vắc xin khác.
+Các trường hợp còn lại đã được tiêm ít nhất một mũi vắc xin phòng COVID-19.
+Chúng tôi ghi nhận sự khác biệt có ý nghĩa thống kê về tỷ lệ mắc/nghi mắc COVID-19 giữa nhóm cán bộ y tế chưa tiêm và đã tiêm 1, 2, 3 hay 4 mũi vắc xin phòng COVID-19 (p = 0,000).
+Đối với cán bộ tiêm trên 2 mũi vắc xin phòng COVID-19, nhóm cán bộ y tế tiêm phối hợp trộn 2 hay nhiều loại có tỷ mắc/nghi mắc COVID-19 cao hơn nhóm còn lại (p = 0,009).
+IV.
+BÀN LUẬN
+cao hơn so với các nghiên cứu trên thế giới và trong nước được công bố trước đây.
+Một số giả thuyết có thể đưa ra để lý giải cho tình trạng trên bao gồm: (1) nghiên cứu của chúng tôi xét đến cả tỷ lệ mắc hoặc nghi mắc – tức bao gồm các trường hợp có triệu chứng nghi ngờ của COVID-19 nhưng không xét nghiệm hoặc xét nghiệm (test nhanh) cho kết quả âm tính; (2) đây là một nghiên cứu cắt ngang với thời gian khảo sát trên đối tượng nghiên cứu được diễn ra từ tháng 5 – 10/2022, tức muộn hơn so với các nghiên cứu khác; (3) đối tượng nghiên cứu của chúng tôi là cán bộ y tế từng tham gia phòng chống dịch COVID-19 năm 2021 - 2022 nên mức độ phơi nhiễm với COVID-19 có thể cao hơn so với nhóm cán bộ y tế nói chung.
+Trong bối cảnh dịch COVID-19 diễn biến căng thẳng và phức tạp trong năm 2021 – 2022, việc cán bộ y tế mắc bệnh làm tăng thêm khó khăn cho ngành y tế trong công tác phòng chống dịch: nhu cầu về chăm sóc, điều trị, tiêm phòng vắc xin, điều tra, truy vết… tăng cao trong khi nguồn nhân lực y tế lại bị ảnh hưởng do phải nghỉ làm/cách ly do mắc bệnh.
+Trong số 703 cán bộ y tế từng mắc/nghi mắc COVID-19, chúng tôi nhận thấy phần lớn (411/703; 58,5%) từng mắc/nghi mắc COVID-19 khi tham gia chống dịch tại cơ quan hoặc địa phương đang công tác (Biểu đồ 2).
+Tỷ lệ mắc/ nghi mắc COVID-19 ở cán bộ y tế có sự khác biệt giữa các nhóm tuổi và nữ chiếm ưu thế hơn nam (Bảng 1).
+Kết quả này của chúng tôi tương đồng với kết quả trong nghiên cứu của Nguyễn Anh Khoa và cộng sự tiến hành tại Đắk Lắk.8 Điều dưỡng là đối tượng chiếm tỷ lệ mắc/nghi mắc COVID-19 cao nhất trong số các nhóm đối tượng/vị trí việc làm (41,7%).
+Nghiên cứu
+Trên thế giới, tỷ lệ mắc COVID-19 ở cán bộ y tế khác biệt giữa các quốc gia, khu vực, thay đổi tùy từng thời điểm và phụ thuộc vào kỹ thuật xét nghiệm được dùng để khẳng định.
+Tuy nhiên, hiện chưa có nhiều nghiên cứu đánh giá tỷ lệ mắc COVID-19 tính đến cuối năm 2022.
+Kết quả của một nghiên cứu phân tích gộp tiến hành vào khoảng tháng 7 - 8/2021 trên 25 nghiên cứu cắt ngang trong năm 2020 cho thấy tỷ lệ mắc COVID-19 ở cán bộ y tế xác định bằng test nhanh và Kỹ thuật phản ứng chuỗi polymerase (Polymerase Chain Reaction – PCR) lần lượt là 7% (95% CI: 3 - 17%) và 11% (95% CI: 7 - 16%).7 Tại Việt Nam, tỷ lệ mắc COVID-19 ở cán bộ y tế tại Đắk Lắk tính đến tháng 4/2022 là 47,8%.8 Nghiên cứu của chúng tôi cho tỷ lệ cán bộ y tế từng mắc/nghi mắc COVID-19 tính đến cuối tháng 10/2022 đạt 76,7% (703/917) (Biểu đồ 1).
+Như vậy, tỷ lệ này
+của Abdul Aziz Harith và cộng sự cũng cung cấp con số khá tương tự với tỷ lệ điều dưỡng mắc COVID-19 chiếm tới 40,5% (652/1608) trong nhóm cán bộ y tế mắc COVID-19 tại Malaysia.9 Các cán bộ y tế làm việc tại đơn vị y tế của tỉnh, huyện, xã, y tế tư nhân hay cơ sở đào tạo không có sự khác biệt về tỷ lệ mắc/ nghi mắc COVID-19.
+Có tới 893/916 (97,4%) cán bộ y tế tham gia nghiên cứu có tiền sử tiếp xúc với người mắc COVID-19 ở hoàn cảnh có nguy cơ cao nhất - ở bệnh phòng/cộng đồng khoảng cách dưới 2m.
+Mặc dù các trường hợp phơi nhiễm như thực hiện thủ thuật có
+TẠP CHÍ NGHIÊN CỨU Y HỌC
+cao và tỷ lệ này có liên quan đến một số yếu tố về vị trí việc làm, mức độ tiếp xúc cũng như tiền sử tiêm vắc xin phòng COVID-19.
+Việc xác định tỷ lệ nhiễm COVID-19 ở cán bộ y tế và các yếu tố liên quan là một phần quan trọng để xây dựng các chính sách về sức khỏe nghề nghiệp phân tầng theo các mức độ rủi ro, cung cấp chương trình tiêm chủng phù hợp cũng như phân phối các nguồn lực bảo vệ sức khỏe cho cán bộ y tế (đồ phòng hộ cá nhân, các chính sách bảo hiểm).
+Điều này không chỉ cần thiết ở trong giai đoạn dịch mà còn có ý nghĩa nhất định đối với giai đoạn hiện nay và cả tương lai - nếu hệ thống y tế phải đối mặt một tình trạng khẩn cấp về sức khỏe cộng đồng khác.
+phát sinh aerosol (ví dụ: đặt nội khí quản), tiếp xúc trực tiếp với người bệnh, tiếp xúc với dịch tiết của người bệnh được chứng minh là làm tăng nguy cơ mắc bệnh, nhưng tỷ lệ cán bộ y tế mắc/từng mắc COVID-19 trong nghiên cứu của chúng tôi không có sự khác biệt giữa nhóm từng hay chưa từng tiếp xúc với người mắc ở khoảng cách dưới 2m, trên 2m hay các hoàn cảnh khác trong môi trường y tế (p < 0,05).10 Đối với trường hợp gia đình có thành viên mắc COVID-19, cả nghiên cứu của chúng tôi và một nghiên cứu trên 1.432 cán bộ y tế tại Thái Lan đều cho kết quả tỷ lệ cán bộ y tế mắc/nghi mắc COVID-19 trong nhóm có phơi nhiễm cao hơn nhóm còn lại và sự khác biệt này có ý nghĩa thống kê (p = 0,000) (Bảng 3).11
+LỜI CẢM ƠN
+Để hoàn thành nghiên cứu này, nhóm nghiên cứu xin gửi lời cảm ơn sâu sắc đến cán bộ y tế tại 7 tỉnh/thành (Hà Nội, Bắc Ninh, Bắc Giang, Nghệ An, Đắk Lắk, Bình Dương, Kiên Giang) và 3 trường đại học (Trường Đại học Y Hà Nội, Trường Đại học Y Dược Cần Thơ, Đại học Y Dược TP Hồ Chí Minh) đã đồng ý tham gia nghiên cứu và hoàn thành bộ câu hỏi.
+Nhóm tác giả cam kết không có xung đột lợi ích từ kết quả nghiên cứu.
+TÀI LIỆU THAM KHẢO
+Tiêm vắc xin phòng COVID-19 là một biện pháp quan trọng và hiệu quả để phòng ngừa lây nhiễm, ngăn chặn tình trạng bệnh diễn tiến nghiêm trọng và giảm thiểu nguy cơ tử vong.
+Ngoài 46 trường hợp không nhớ/không thể tra cứu tiền sử tiêm chủng thì hầu hết cán bộ y tế tham gia nghiên cứu đã tiêm ít nhất 1 mũi vắc xin phòng COVID-19 (Bảng 4).
+Một hạn chế tương đối lớn trong nghiên cứu của chúng tôi là chưa xác định được thời gian cụ thể của các mũi tiêm cũng như ngày mắc COVID-19 để có bằng chứng xác đáng hơn về mối liên quan giữa tiêm chủng và mắc bệnh.
+Liên quan đến
+1.
+Thai PQ, Rabaa MA, Luong DH, et al.
+The First 100 Days of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Control in Vietnam.
+Clin Infect Dis.
+2021; 72(9): e334-e342.
+doi:10.1093/cid/ciaa1130.
+việc tiêm phối hợp/trộn 2 hay nhiều loại vắc xin, nghiên cứu của chúng tôi đã chỉ ra cán bộ y tế tiêm đồng nhất một loại vắc xin có tỷ lệ mắc/ nghi mắc COVID-19 thấp hơn so với nhóm tiêm phối hợp/trộn.
+Tuy vậy, cần có các nghiên cứu sâu hơn về các loại vắc xin được sử dụng, cách thức phối hợp/trộn cũng như khoảng cách giữa các mũi tiêm để có kết luận cụ thể và chính xác hơn về vấn đề này.
+V. KẾT LUẬN
+2.
+Minh LHN, Khoi Quan N, Le TN, Khanh PNQ, Huy NT.
+COVID-19 Timeline of Vietnam: Important Milestones Through Four Waves of the Pandemic and Lesson Learned.
+Frontiers in Public Health.
+2021; 9.
+Accessed February 28, 2023. https://www.frontiersin.org/ articles/10.3389/fpubh.2021.709067.
+Nghiên cứu của chúng tôi chỉ ra rằng, tỷ lệ cán bộ y tế mắc/từng mắc COVID-19 ở mức
+TẠP CHÍ NGHIÊN CỨU Y HỌC
+https://pubmed.ncbi.nlm.nih.gov/35010412/.
+3. phủ CT tin điện tử C. Nghị quyết số 128/ NQ-CP của Chính phủ: Ban hành Quy định tạm thời “Thích ứng an toàn, linh hoạt, kiểm soát hiệu quả dịch COVID-19.” Accessed February 28, 2023. http://vanban.chinhphu.vn/?page- id=27160&docid=204272&classid=509.
+8.
+Nguyễn Anh Khoa, Vũ Thị Quỳnh Hậu, Đặng Thị Phương Duyên.
+Tỷ lệ mắc bệnh COVID-19 của cán bộ y tế và các yếu tố liên quan tại Đắk Lắk, năm 2022.
+Tạp chí Y học Việt Nam.
+2022; 515(1).
+Accessed February 22, 2023. https://tapchiyhocvietnam.vn/index.php/ vmj/article/view/2676/2472.
+4.
+Ung T thi H, Hoang PVM, Nguyen SV, et al.
+Occurrence of the Omicron variant of SARS-CoV-2 in northern Viet Nam in early 2022.
+Western Pacific Surveillance and Response.
+2022; 13(3): 5-5. doi:10.5365/ wpsar.2022.13.3.955.
+9.
+Harith AA, Ab Gani MH, Griffiths R, et al.
+Incidence, Prevalence, and Sources of COVID-19 Infection among Healthcare Workers in Hospitals in Malaysia.
+Int J Environ Res Public Health.
+2022; 19(19): 12485. doi:10.3390/ijerph191912485.
+5.
+COVID-19 infections among Healthcare Workers and Transmission within Households | medRxiv.
+Accessed February 9, 2023. https://www.medrxiv.org/ content/10.1101/2020.06.12.20129619v2.
+10.
+Chou R, Dana T, Buckley DI, Selph S, Fu R, Totten AM.
+Epidemiology of and Risk Factors for Coronavirus Infection in Health Care Workers.
+Ann Intern Med.
+2020; 173(2): 120-136. doi:10.7326/M20-1632.
+6.
+Tỷ lệ mắc bệnh covid-19 của cán bộ y tế và các yếu tố liên quan tại Đắk Lắk, năm 2022.
+Accessed February 9, 2023. https:// tapchiyhocvietnam.vn/index.php/vmj/article/ view/2676/2472.
+11.
+Sirijatuphat R, Leelarasamee A, Horthongkham N. Prevalence and factors associated with COVID-19 among healthcare workers at a university hospital in Thailand.
+Medicine.
+2022; 101(38).
+doi:10.1097/ MD.0000000000030837.
+7.
+COVID-19 Prevalence among Healthcare Workers.
+A Systematic Review and Meta- Analysis - PubMed.
+Accessed February 9, 2023.
+TẠP CHÍ NGHIÊN CỨU Y HỌC
+Summary
+THE RATE OF HEALTHCARE WORKERS INFECTED/SUSPECTED WITH COVID-19 WHILE INVOLVING IN COVID-19 PREVENTION IN 7 PROVINCES AND 3 UNIVERSITIES OF VIETNAM IN 2021 - 2022 AND ASSOCIATED FACTORS
+This study is conducted to identify the rate of healthcare workers infected/suspected with COVID-19 while involving in COVID-19 prevention in 7 provinces and 3 universities of Vietnam in 2021 - 2022 and associated factors.
+The finding is 76.7% (703/917) healthcare workers participating in COVID-19 prevention in 2021 - 2022 have been infected/suspected with COVID-19.
+The rate of COVID-19 infected/suspected cases among healthcare workers was different between the age groups and gender; females were more frequently infected/suspected than males (p value < 0.05).
+Most healthcare workers (410/703; 58.3%) were infected/suspected with COVID-19 when participating in the activities of COVID-19 prevention in their current workplaces.
+Among working professionals, nursing counted for the highest rate of COVID-19 infection (41.7%) (p value < 0.05).
+In general, the rate of vaccination against COVID-19 among health workers reached a high level and there was a statistically significant difference of the rate of health workers infected/suspected with COVID-19 among the group that have not get vaccinated and others.
+Keywords: Infection/suspect rate, COVID-19, healthcare worker, associated factors, Vietnam.

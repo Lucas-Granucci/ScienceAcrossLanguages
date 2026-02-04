@@ -1,0 +1,372 @@
+Transport and Communications Science Journal, Volume 74, Issue 6 (08/2023), 752-763
+Transport and Communications Science Journal
+A SELF-ADAPTIVE CONJUGATE GRADIENT CQ PROJECTION METHOD FOR SPLIT FEASIBILITY PROBLEMS WITH APPLICATIONS
+Nguyen The Vinh*
+University of Transport and Communications, No 3 Cau Giay Street, Hanoi, Vietnam
+ARTICLE INFO
+TYPE: Research Article Received: 21/03/2023 Revised: 20/06/2023 Accepted: 01/07/2023 Published online: 15/08/2023 https://doi.org/10.47869/tcsj.74.6.5
+* Corresponding author Email: thevinhbn@utc.edu.vn; Tel: 0982161132
+Abstract.
+The split feasibility problem is a convex minimization problem.
+It is an active field due to its effective applications in image restoration and signal processing.
+In this paper, by combining the inertial technique and the gradient projection method, we proposed a CQ projection algorithm integrated with the conjugate gradient method to solve the split feasibility problem in Hilbert spaces.
+Polyak’s step size is employed to enhance computational efficiency in large-scale scenarios.
+Unlike existing conjugate gradient projection methods, our new approach is designed so that the algorithm requires only one evaluation of the objective function and one evaluation of the gradient at each iteration.
+Under suitable conditions, we demonstrate that the algorithm converges weakly to a solution of the problem.
+Our method extends and improves upon several recent results in this area.
+As an illustrative application, we evaluate the performance of our method on a signal processing problem using synthetic data.
+The results of numerical simulations in the sparse recovery problem, as well as comparisons with well-known algorithms, demonstrate the effectiveness of the proposed algorithm.
+Keywords: split feasibility problem, conjugate gradient method, Polyak’s step size, CQ method, weak convergence, sparse recovery problem
+© 2023 University of Transport and Communications
+Transport and Communications Science Journal, Vol 74, Issue 6 (08/2023), 752-763
+Transport and Communications Science Journal
+A SELF-ADAPTIVE CQ PROJECTION METHOD WITH CONJUGATE GRADIENT DIRECTION FOR SOLVING SPLIT FEASIBILITY PROBLEMS AND ITS APPLICATIONS
+Nguyen The Vinh*
+University of Transport and Communications, 3 Cau Giay, Hanoi, Vietnam
+ARTICLE INFORMATION
+CATEGORY: Scientific Paper
+Received: 21/03/2023
+Revised: 20/06/2023
+Accepted: 01/07/2023
+Published Online: 15/08/2023
+https://doi.org/10.47869/tcsj.74.6.5
+* Corresponding author
+Email: thevinhbn@utc.edu.vn; Tel: 0982161132
+Abstract.
+The split feasibility problem is a convex optimization problem that has been actively investigated due to its effective applications in image processing and signal processing.
+In this paper, we propose a CQ-type projection algorithm combining the conjugate gradient method to solve split feasibility problems in Hilbert spaces.
+Polyak’s step size is utilized to reduce runtime in high-dimensional cases.
+Our algorithm only requires a single evaluation of the function and its derivative per iteration.
+Under suitable assumptions, we prove that the algorithm converges weakly to a solution of the split feasibility problem.
+Our method extends and improves upon several recent results in this line of research.
+Numerical results on sparse recovery problems and comparisons with existing algorithms demonstrate the effectiveness of the proposed algorithm.
+Keywords: Split feasibility problem, conjugate gradient method, Polyak’s step size, CQ method, weak convergence, sparse recovery problem.
+ 2023 University of Transport and Communications
+1.
+INTRODUCTION
+Let 𝐶 and 𝑄 be nonempty closed convex subsets of real Hilbert spaces ℋ1 and ℋ2, respectively.
+Without loss of generality, in these Hilbert spaces, we denote the inner product by 〈·,·〉.
+, .
+〉, the induced norm is ‖.
+‖, the identity operator is 𝐼, and 𝐴: ℍ₁ → ℍ₂ is a bounded linear operator, 𝐴∗ is the adjoint operator of 𝐴.
+The split feasibility problem (SFP) is the problem of finding a point 𝑥∗∈𝐶 such that 𝐴𝑥∗∈𝑄.
+The solution set of the problem is denoted by 𝛺, that is,
+𝛺 = {𝑥* ∈ 𝐶 : 𝐴𝑥* ∈ 𝑄}.
+The split feasibility problem, first introduced by Censor and Elfving [1] in 1994, has numerous applications in signal processing, image processing, and so on (see, for example, [1–12]).
+Specifically, consider a linear transformation as follows: 𝑦 = 𝐴𝑥, where 𝐴 is a sampling matrix of size 𝑀 × 𝑁, the vector 𝑥 is the original signal of size 𝑁, and 𝑦 is the measured vector of size 𝑀.
+Typically, 𝑀 is much smaller than 𝑁.
+How can we recover 𝑥 knowing 𝑦 and 𝐴?
+It is known that, in this case, there are 𝑀 equations to solve for 𝑁 unknowns, and since 𝑀 is less than 𝑁, there will not be a unique solution.
+This scenario can be illustrated by the Discrete Fourier Transform, in which 𝑦 consists of only 𝑀 frequencies out of the total 𝑁 frequencies from the full Fourier transform.
+The question is whether it is possible to recover the signal 𝑥 from only 𝑀 frequency samples of the measured signal 𝑦.
+Remarkably, E. Candes, J. Romberg, and T. Tao in [13] have shown that the answer is affirmative in the case where 𝑥 is a sparse signal, i.e., 𝑥 of length 𝑁 contains only 𝑙 nonzero elements.
+For such a sparse signal 𝑥 of length 𝑁, in which 𝑙 elements are nonzero and the remaining 𝑁 − 𝑙 elements are considered to be zero, the measurement vector 𝑦 can be obtained via the sampling matrix 𝐴 as follows:
+𝑦 = 𝐴𝑥 + 𝜂,
+where 𝜂 is a Gaussian noise function with zero mean and variance 𝜎².
+To recover the original signal 𝑥̅, the following minimization problem is considered:
+𝑥̅ = argminₓ ||𝑥||₁ subject to ||𝑦 − 𝐴𝑥||₂² ≤ 𝜀.
+(2)
+It is known that problem (2) is equivalent to the following problem:
+𝑥̅ = argminₓ ||𝑦 − 𝐴𝑥||₂² subject to ||𝑥||₁ ≤ 𝑡, (3)
+where 𝑡 is an appropriate positive real number.
+If we set 𝐶 = {𝑥 ∈ ℍ₁ : ||𝑥||₁ ≤ 𝑡}, 𝑄 = {𝑦}, then solving problem (3) can be reduced to solving the SFP (1).
+The split feasibility problem was originally studied by Censor and Elfving in finite-dimensional spaces and was later investigated by many other mathematicians in infinite-dimensional spaces (see, for example, [2,5,6,8,9,11,12,14-19] and the references therein).
+The most common iterative method for solving the SFP is the CQ algorithm proposed by Byrne in [3].
+This method is a special case of the projected gradient algorithm in convex optimization problems with optimal value 0:
+2‖Ax−PQAx‖
+As we know, the function f is convex and differentiable, and ∇f(x) = A*(I−PQ)Ax, x ∈ H₁ is strongly monotone
+with constant 1/‖A‖², that is:
+⟨∇f(x) −∇f(y), x−y⟩ ≥ 1/‖A‖² ‖∇f(x) −∇f(y)‖² for all x, y ∈ H₁.
+However, the CQ algorithm requires knowledge of the norm of the bounded linear operator, which is evidently not easy to compute.
+Therefore, self-adaptive methods have been proposed; see, for example, [9,18,20,21].
+Notably, López et al.
+in [9] developed a step size selection method such that when applying the CQ algorithm, no information about the norm of the operator is required.
+Note that the CQ method only achieves weak convergence in Hilbert spaces.
+For other interesting results related to the split feasibility problem, refer to the survey by Ansari and Rehan [22] and recent results in [5,7,11,15-17,19].
+In 2022, Huang and Liu [7] combined the multi-step gradient algorithm of Kesornprom, Pholasa, and Cholamjiak [8] with the conjugate gradient method of Sakurai and Iiduka [23] to propose a new conjugate gradient algorithm for solving the split feasibility problem (SFP) and presented an application in the field of signal processing.
+However, upon carefully studying this paper, we have identified several shortcomings as follows: The computational load is still quite heavy (requiring two evaluations of the function and the gradient); the convergence proof of the algorithm has a gap after formula (19) (it can only be deduced that the iterative sequence is quasi-Fejér monotone, not Fejér monotone as claimed in the paper); and assumption (C4) is not sufficient to guarantee that the quantities 𝑀 and 𝑀̂ are finite.
+Based on the above analyses, in this paper we propose a new CQ algorithm with a conjugate gradient direction and prove the weak convergence of this algorithm.
+Our algorithm overcomes the limitations of Algorithm 1 in [7], while also providing a unified approach to CQ-type algorithms that use Polyak’s step size, as presented in recent studies such as [9, 18, 24].
+The remainder of the paper is organized as follows: The first part of Section 2 presents some fundamental results used for proving and analyzing the convergence of the CQ algorithm with a conjugate gradient direction in the subsequent part of this section.
+The numerical results for solving the LASSO problem illustrate the effectiveness of our proposed algorithm.
+Section 3 is the conclusion of the paper.
+2.
+MAIN CONTENT
+2.1.
+Preliminary knowledge
+Let {𝑥𝑘} ⊂ ℋ1 and let 𝐶 be a nonempty closed convex subset of ℋ1.
+The strong (respectively, weak) convergence of the sequence {𝑥ₖ} to 𝑥 is denoted by 𝑥ₖ → 𝑥 (respectively, 𝑥ₖ ⇀ 𝑥).
+We denote by 𝜔𝑤(𝑥ₖ) the set of all weak cluster points of {𝑥ₖ}:
+𝜔𝑤(𝑥ₖ) ≔ {𝑥 ∈ ℍ₁ : 𝑥ₖⱼ ⇀ 𝑥 for every subsequence {𝑘ⱼ} of {𝑘}}.
+For every 𝑥 ∈ ℍ₁, there exists a point in 𝐶 closest to 𝑥, denoted by 𝑃𝐶(𝑥), such that
+‖𝑥−𝑃𝐶𝑥‖ = 𝑚𝑖𝑛{‖𝑥−𝑦‖ : 𝑦 ∈ 𝐶}.
+𝑃𝐶 is called the metric projection of ℍ₁ onto 𝐶.
+The fundamental property of 𝑃𝐶 is given in Lemma 2.1.
+Lemma 2.1.
+𝑃𝐶 satisfies the following inequalities:
+(i) ⟨𝑥 − 𝑃𝐶(𝑥), 𝑦 − 𝑃𝐶(𝑥)⟩ ≤ 0, ∀𝑥 ∈ ℍ₁, 𝑦 ∈ 𝐶;
+(ii) ‖𝑃𝐶(𝑥) − 𝑦‖² ≤ ‖𝑥 − 𝑦‖² − ‖𝑥 − 𝑃𝐶𝑥‖², ∀𝑥 ∈ ℍ₁, 𝑦 ∈ 𝐶.
+To prove the convergence of the proposed algorithm, we need the following concept and result.
+Definition 2.1.
+([25]) A sequence {𝑥𝑘} ⊂ ℋ1 is said to be quasi-Fejér monotone with respect to the set 𝑆 if there exists an integer 𝑁1 ∈ ℕ such that for every 𝑧 ∈ 𝑆: ‖𝑥𝑘+1 − 𝑧‖² ≤ ‖𝑥𝑘 − 𝑧‖² + 𝜎𝑘 for all 𝑘 ≥ 𝑁1, where {𝜎𝑘} is a sequence of nonnegative numbers satisfying ∑_{𝑘=0}^∞ 𝜎𝑘 < ∞.
+Lemma 2.2.
+([25]) Let ℍ₁ be a real Hilbert space and let \\(\{x_k\} \subset \mathbb{H}_1\\) be a quasi-Fejér monotone sequence with respect to a nonempty closed convex set \\(S \subset \mathbb{H}_1\\).
+Then
+Journal of Transport and Communications Science, Volume 74, Issue 6 (08/2023), 752-763
+(i) For each \( z \in S \), the limit \( \lim_{k \to \infty} \|x_k - z\| \) exists,
+(ii) If every weak cluster point of \( \{x_k\} \) belongs to \( S \), then there exists \( \bar{x} \in S \) such that \( \{x_k\} \) converges weakly to \( \bar{x} \).
+2.2.
+Algorithm and Convergence 2.2.1.
+Self-adaptive CQ Algorithm with Conjugate Gradient Direction
+In this section, we propose an inertial CQ algorithm with conjugate gradient direction for solving the split feasibility problem (1).
+• Algorithm 2.1.
+(Self-adaptive CQ Algorithm with Conjugate Gradient Direction)
+Initialization step: Choose 𝜀 > 0; 0 ≤ 𝜃 < 1 and positive sequences {𝜌ₖ}, {𝜀ₖ}, {𝛽ₖ}, {𝜃ₖ} such that 0 < 𝜌ₖ < 4, 0 < 𝜃ₖ, 𝛽ₖ < 1 and ∑ₖ₌₀^∞ 𝜀ₖ < ∞, ∑ₖ₌₀^∞ 𝛽ₖ < ∞.
+Choose arbitrary 𝑥₀, 𝑥₁, 𝑑₀ in ℍ₁ and set 𝑘 = 1.
+Step k: Compute
+𝛼ₖ = { min {𝜃, 𝜀ₖ / ‖𝑥ₖ − 𝑥ₖ₋₁‖} if 𝑥ₖ ≠ 𝑥ₖ₋₁,
+𝜃 if 𝑥ₖ = 𝑥ₖ₋₁.
+𝑤ₖ = 𝑥ₖ + 𝛼ₖ(𝑥ₖ − 𝑥ₖ₋₁), (4)
+𝜆ₖ = 𝜌ₖ
+𝑑ₖ₊₁ = −𝜆ₖ∇𝑓(𝑤ₖ) + 𝛽ₖ𝑑ₖ,
+𝑥ₖ₊₁ = 𝑃_C(𝑤ₖ + 𝑑ₖ₊₁).
+(6)
+If 𝑓(𝑥ₖ₊₁) < 𝜀, then stop the algorithm and 𝑥ₖ₊₁ is a solution to the problem.
+Otherwise, increment 𝑘 ≔ 𝑘 + 1 and repeat as in step k.
+Remark 2.1.
+(1) From the definition of 𝛼ₖ in Algorithm 2.1, it immediately follows that
+∑ₖ₌₀^∞ 𝛼ₖ‖𝑥ₖ − 𝑥ₖ₋₁‖ ≤ ∑ₖ₌₀^∞ 𝜀ₖ < ∞.
+(2) In the case 𝛼ₖ = 0 and 𝑑ₖ = 0, the above algorithm reduces to Algorithm 3.1 of López et al.
+[9].
+If 𝑑ₖ = 0, we obtain the inertial CQ method studied in [6,24].
+Our algorithm improves upon that of Huang and Liu [7] in two aspects.
+First, the computational load is reduced, as only the function value and gradient need to be computed once per iteration.
+Second, we employ the inertial method to accelerate the algorithm.
+2.2.2.
+Convergence analysis
+To prove the convergence of Algorithm 2.1, we require the following assumptions: (C1) \(\inf_k \rho_k (4 - \rho_k) > 0\),
+(C2) \(\{x_k\}\) and \(\{(I - P_Q)A w_k\}\) are two bounded sequences.
+Remark 2.2.
+If the set 𝐶 is bounded, then since {𝑥𝑘} ⊂ 𝐶, the first part of condition (C2) is obviously satisfied.
+Note that if the sequence {𝑥𝑘} is bounded, it leads to {𝑤𝑘} being bounded.
+Therefore, if we consider a finite-dimensional Hilbert space, since 𝐼−𝑃𝑄 is a nonexpansive mapping, we also have {(𝐼−𝑃𝑄)𝐴𝑤𝑘} bounded.
+As a result, condition (C2) is not restrictive because in practical examples such as signal processing or sparse image problems, we consider the bounded set 𝐶 to be the 1-norm ball, that is,
+𝐶= \{ x \in ℍ₁ : \|x\|₁ \le t \},
+where t is a positive real number.
+Theorem 2.1.
+Suppose that conditions (C1) and (C2) are satisfied and \\(\{x_k\}\\) is the sequence generated by Algorithm 2.1.
+Then, the sequence \\(\{x_k\}\\) will converge weakly to an element of \\(\Omega\\).
+Proof:
+From the way \\(\beta_k\\) is chosen, it follows that there exists \\(k_0\\) such that \\(\beta_k \leq 2\\) for all \\(k \geq k_0\\).
+Without loss of generality, we may assume that \\(\|\nabla f(w_k)\| \geq \varepsilon\\) for all \\(k \geq k_0\\).
+According to (C2), it follows that there exists \\(M_1 > 0\\) such that
+f(w_k) = \frac{1}{2} \|(I - P_Q)A w_k\|^2 \leq M_1.
+\\] We will show by induction that the sequence \\(\{d_k\}\\) is bounded.
+Indeed, suppose \\(\|d_k\| \leq M\\) for some \\(k \geq k_0\\).
+From (5), we have
+f(w_k)\|\nabla f(w_k)\|
+\lambda_k \|\nabla f(w_k)\| = \rho_k
+\|\nabla f(w_k)\|^2 + \theta_k <
+Therefore,
+\sup \lambda_k \|\nabla f(w_k)\| < \infty.
+M = \max \left\{ \sup_k \lambda_k \|\nabla f(w_k)\|,\; 2\sup_k \|d_k\| \right\} < \infty.
+Then,
+\|d_{k+1}\| = \| -\lambda_k \nabla f(w_k) + \beta_k d_k \| \leq \lambda_k \|\nabla f(w_k)\| + \beta_k \|d_k\| \leq M.
+\] Next, we will prove that for every \( z \in \Omega \), we have:
+\| x_{k+1} - z \|^2 \leq \| w_k - z \|^2 - \rho_k (4 - \rho_k) \langle w_k - \lambda_k \nabla f(w_k) + 2\beta_k d_k - z, d_k \rangle,
+where \( M_2 = \sup \).
+We have
+‖𝑤𝑘−𝜆𝑘∇𝑓(𝑤𝑘) −𝑧‖² = ‖𝑤𝑘−𝑧‖² + 𝜆𝑘²‖∇𝑓(𝑤𝑘)‖² + 2𝜆𝑘⟨𝑧−𝑤𝑘, ∇𝑓(𝑤𝑘)⟩ (7)
+⟨∇𝑓(𝑤𝑘), 𝑤𝑘−𝑧⟩ = ⟨(𝐼−𝑃𝑄)𝐴𝑤𝑘, 𝐴𝑤𝑘−𝐴𝑧⟩
+= ⟨(𝐼−𝑃𝑄)𝐴𝑤𝑘−(𝐼−𝑃𝑄)𝐴𝑧, 𝐴𝑤𝑘−𝐴𝑧⟩
+= 2𝑓(𝑤𝑘).
+(8)
+≥ ‖(𝐼−𝑃𝑄)𝐴𝑤𝑘‖²
+From (7) and (8), we get
+‖𝑤𝑘−𝜆𝑘∇𝑓(𝑤𝑘) −𝑧‖² ≤ ‖𝑤𝑘−𝑧‖² + 𝜆𝑘²‖∇𝑓(𝑤𝑘)‖² − 4𝜆𝑘𝑓(𝑤𝑘)
+= ‖𝑤𝑘−𝑧‖² + (𝜌𝑘 − 𝜌𝑘²)𝑓²(𝑤𝑘)/‖∇𝑓(𝑤𝑘)‖²
+≤ ‖𝑤𝑘−𝑧‖² − 𝜌𝑘(4−𝜌𝑘)𝑓²(𝑤𝑘)/‖∇𝑓(𝑤𝑘)‖²
+Therefore,
+‖𝑥_{k+1} − 𝑧‖² ≤ ‖𝑤𝑘−𝜆𝑘∇𝑓(𝑤𝑘) + 𝛽𝑘𝑑𝑘−𝑧‖²
+= ‖𝑤𝑘−𝜆𝑘∇𝑓(𝑤𝑘) − 𝑧‖² + 2𝛽𝑘⟨𝑤𝑘−𝜆𝑘∇𝑓(𝑤𝑘) − 𝑧, 𝑑𝑘⟩ + 𝛽_{k}^{2}‖𝑑_{k}‖²
+≤ ‖𝑤𝑘−𝑧‖² − 𝜌_{k}(4−𝜌_{k})𝑓²(𝑤_{k})/‖∇𝑓(𝑤_{k})‖² + 2𝛽_{k}⟨𝑤_{k}-𝜆_{k}∇𝑓(𝑤_{k})−𝑧, 𝑑_{k}⟩ + 𝛽_{k}^{2}‖𝑑_{k}‖²
+= ‖𝑤_{k}-𝑧‖² − 𝜌_{k}(4−𝜌_{k})𝑓²(𝑤_{k})/‖∇𝑓(𝑤_{k})‖² + 2⟨𝑤_{k}-𝜆_{k}∇𝑓(𝑤_{k}) + \frac{1}{2}\beta_{k}d_{k} − z, \beta_{k}d_{k}⟩
+≤ ‖𝑤_{k}-𝑧‖² − 𝜌_{k}(4−𝜌_{k})𝑓²(𝑤_{k})/‖∇𝑓(𝑤_{k})‖² + \beta_{k}M_{2},
+where
+\( M_2 = \sup 2⟨w_k-\lambda_k \nabla f(w_k)+\frac{1}{2} \beta_k d_k-z, d_k\rangle \).
+Therefore,
+= (\|x_k - z\| + \alpha_k \|x_k - x_{k-1}\| )^2 - \rho_k(4 - \rho_k)
+Thus,
+\|x_{k+1} - z\|^2 \leq \|x_k - z\|^2 + 2\|x_k - z\| \alpha_k \|x_k - x_{k-1}\| + (\alpha_k \|x_k - x_{k-1}\| )^2 - \rho_k(4 - \rho_k)
+Since the sequence \\(\{x_k\}\\) is bounded, combining this with Remark 2.1 and inequality (9), we see that this sequence is a quasi-Fejér monotone sequence with respect to the solution set.
+Then, according to Lemma 2.2 with
+\\(\sigma_k = 2\|x_k - z\| \alpha_k \|x_k - x_{k-1}\| + (\alpha_k \|x_k - x_{k-1}\|)^2 + \beta_k M^2\\), it follows that \\(\lim_{k \to \infty} \|x_k - z\|\\) exists, and thus, taking the limit in (10), we obtain
+\lim_{k \to \infty} \rho_k (4 - \rho_k) \frac{f^2(w_k)}{\|\nabla f(w_k)\|^2} = 0.
+\] With assumption (C1), we have
+2 = 0.
+(11)
+Since ∇𝑓 is Lipschitz, we have
+‖∇𝑓(𝑤𝑘)‖ = ‖∇𝑓(𝑤𝑘) − ∇𝑓(𝑧)‖ ≤ ‖𝐴‖²‖𝑤𝑘 − 𝑧‖ ∀𝑧 ∈ 𝛺.
+Transport and Communications Science Journal, Vol 74, Issue 6 (08/2023), 752-763
+From this, we deduce that the sequence {∇𝑓(𝑤𝑘)} is bounded (or it can be argued as in the beginning of the proof to obtain ‖∇𝑓(𝑤𝑘)‖ ≤ √2𝑀₁||𝐴*||).
+Combining this with (11), we have
+\lim_{k \to \infty} f(w_k) = 0.
+\tag{12}
+We will show that \( \omega_w(x_k) \subset \Omega \).
+Take any \( \bar{x} \in \omega_w(x_k) \).
+Since the sequence \(\{x_k\}\) is bounded, there exists a subsequence \(\{x_{k_l}\}\) that converges weakly to \(\bar{x}\).
+On the other hand, according to the algorithm, \( w_k = x_k + \alpha_k (x_k - x_{k-1}) \), so
+\|w_k - x_k\| = \|\alpha_k (x_k - x_{k-1})\| \leq \varepsilon_k \to 0.
+\tag{13}
+From (13), it follows that \( w_{k_l} \rightharpoonup \bar{x} \in C \).
+Since \( f(x) \) is weakly lower semicontinuous and convex, and \( w_{k_l} \rightharpoonup \bar{x} \), from (12) we obtain
+f(\bar{x}) \leq \lim_{k \to \infty} \inf f(w_{k_l}) = 0.
+\] Thus, we have \(A\bar{x} \in Q\).
+This leads to \(\bar{x} \in \Omega\).
+Since \(\bar{x}\) was arbitrarily chosen from \(\omega_w(x_k)\), it follows that \(\omega_w(x_k) \subset \Omega\).
+According to Lemma 2.2, the required result is proved.
+Remark 2.3.
+Our convergence results have extended and improved upon those in [6–9, 24].
+The proof of convergence for our proposed algorithm also differs from other results that employ inertial techniques [6,16-19].
+Comment 2.4.
+If 𝛽𝑘 = 0 for all 𝑘, then in the proof of Theorem 2.1, the term 𝛽𝑘〈𝑤𝑘−𝜆𝑘∇𝑓(𝑤𝑘)+2𝛽𝑘𝑑𝑘−𝑧, 𝑑𝑘〉 will no longer appear, thus condition (C2) is no longer necessary.
+2.3.
+Numerical Results
+In this section, we consider the following LASSO problem:
+(14) minimize 𝑥∈ℝⁿ such that ‖𝑥‖₁ ≤ t,
+where 𝑏 ∈ ℝᵐ is the observed signal with noise 𝜂, 𝑥 ∈ ℝⁿ is the signal to be recovered, and 𝐴 (𝑚 × 𝑛) is the sensing matrix.
+In general, 𝐴 is an ill-conditioned matrix.
+Let
+𝐶 ≔ {𝑥 : ‖𝑥‖₁ ≤ t} and 𝑄 = {𝑏}
+then the constrained optimization problem (14) can be reformulated as the split feasibility problem (1).
+We choose the data as follows.
+The vector 𝑥∈𝑅𝑛 is an 𝑙-sparse signal generated from a Gaussian distribution with 𝑙 nonzero entries selected at random.
+The matrix 𝐴 (𝑚×𝑛) is generated from a normal distribution with mean zero and variance one.
+We will compare Algorithm 2.1 (CGCQ) with the CQ algorithm [9] (Lopez et al.
+algorithm), the accelerated algorithm of Gibali-Mai-Vinh (iCQ) [6], Algorithm 1 of Kesornprom et al.
+[8] (CQ-gradient), and Algorithm 1 of Huang-Liu [7] (CGCQ-gradient).
+The observed vector is 𝑏 = 𝐴𝑥 + 𝜂, where 𝜂 is white Gaussian noise with variance equal to 1.
+We take
+Journal of Transport and Communications Science, Volume 74, Issue 6 (08/2023), pp.
+752-763
+𝑚 = 2048, 𝑛 = 4096, 𝑙 = 160 (number of nonzero components),
+𝜖𝑘 = 𝛽𝑘 = 1 / 𝑘^{1.1}, 𝜌𝑘 = 3.9, 𝜃 = 0.6
+and use the same initial point 𝑥₀ = (0, ..., 0) for all three algorithms.
+The inertial parameter in Algorithm 2.1 and Algorithm 1 of Gibali-Mai-Vinh is chosen as follows:
+𝜃, 𝑥𝑘 = 𝑥𝑘−1,
+𝛼𝑘 = {
+min {𝜃, 1⁄(𝑘^{1.1}‖𝑥𝑘−𝑥𝑘−1‖²)}, if 𝑥𝑘 ≠ 𝑥𝑘−1.
+The algorithms stop when the mean squared error
+MSE = (1/n)‖x_k − x‖² < 10⁻⁶
+or when the number of iterations reaches 1000.
+The signal 𝑥 is recovered by solving the LASSO problem (14).
+The numerical results were computed using Matlab 2016a.
+Below, Figures 1 and 2 illustrate the numerical results for the case 𝑚 = 2048, 𝑛 = 4096, 𝑙 = 160; Figures 3 and 4 further illustrate the numerical results for the case 𝑚 = 512, 𝑛 = 1024, 𝑙 = 40.
+Figure 1.
+Original signal and observed signal with 𝑚 = 2048, 𝑛 = 4096, 𝑙 = 160.
+Figure 2.
+Recovered signal and comparison of MSE (computation time (seconds)) in Case 1.
+Transport and Communications Science Journal, Vol 74, Issue 6 (08/2023), 752-763
+Figure 3.
+Original signal and observed signal with 𝑛 = 1024, 𝑚 = 512, 𝑙 = 40.
+Figure 4.
+Recovered signals and MSE comparisons (computation time in seconds) in Case 2.
+Observing the numerical results, we see that all algorithms yield fairly accurate recovery of the original sparse signal.
+With the same error tolerance of 𝜖 = 10⁻⁶, our algorithm achieves the fastest computation time, demonstrating the efficiency of constructing the sequence of vectors {𝑑𝑘}.
+From Figure 4 (Case 2), regarding the MSE comparison, we observe that, except for the CGCQ and CGCQ-gradient algorithms, the remaining algorithms do not reach the error threshold even after completing 1000 iterations.
+We also see that the CGCQ-gradient algorithm is more effective when the dimensionality is small.
+This also allows us to infer that algorithms with multiple computational steps, as well as those requiring frequent evaluations of the function and its derivative, tend to run relatively slowly.
+3.
+CONCLUSION
+In this paper, we proposed an inertial CQ algorithm with conjugate gradient direction to solve the split feasibility problem (1) in Hilbert spaces.
+The step size is computed using Polyak’s formula, a method that is highly effective when the optimal value is known.
+We have shown that the sequence generated by the proposed algorithm converges weakly to a solution of the split feasibility problem.
+Our algorithm has improved and extended several CQ methods with Polyak’s step size presented in recent studies.
+The numerical results demonstrate its effectiveness in comparison with known algorithms.
+Journal of Transport and Communications Science, Volume 74, Issue 6 (08/2023), 752-763
+ACKNOWLEDGEMENTS
+This research was funded by the University of Transport and Communications under project code T2023-CB-001.
+REFERENCES
+[1].
+Y.
+Censor, T. Elfving, A multiprojection algorithm using Bregman projection in a product space, Numer.
+Algor., 8 (1994) 221-239. https://doi.org/10.1007/BF02142692
+[2].
+P.K.
+Anh, N.T Vinh, V.T.
+Dung, A new self-adaptive CQ algorithm with an application to the LASSO problem, J.
+Fixed Point Theory Appl., 20 (2018) 142. https://doi.org/10.1007/s11784-018-0620-8 [3].
+C. Byrne, Iterative oblique projection onto convex sets and the split feasibility problem, Inverse Probl., 18 (2002) 441–453.
+https://doi.org/10.1088/0266-5611/18/2/310
+[4].
+Y.
+Censor, T. Bortfeld, B. Martin, A. Trofimov, A unified approach for inversion problems in intensity modulated radiation therapy, Phys.
+Med.
+Biol., 51 (2003) 2353-2365. https://doi.org/10.1088/0031-9155/51/10/001 [5].
+Q.L.
+Dong, S. He, M.T.
+Rassias, General splitting methods with linearization for the split feasibility problem, J. Glob.
+Optim., 79 (2021) 813–836.
+https://doi.org/10.1007/s10898-020-00963-3 [6].
+A. Gibali, D.T.
+Mai, N.T.
+Vinh, A new relaxed CQ algorithm for solving split feasibility problems in Hilbert spaces and its applications, J. Ind.
+Manag.
+Optim., 15 (2019) 963-984. https://doi.org/10.3934/jimo.2018080 [7].
+P. Huang, K. Liu, A new conjugate gradient algorithm for noise reduction in signal processing and image restoration, Front.
+Phys., 10 (2022) 1053353. https://doi.org/10.3389/fphy.2022.1053353 [8].
+S. Kesornprom, N. Pholasa, P. Cholamjiak, On the convergence analysis of the gradient-CQ algorithms for the split feasibility problem, Numer.
+Algor., 84 (2020) 997-1017. https://doi.org/10.1007/s11075-019-00790-y [9].
+G. Lopez, V. Martin-Marquez, F. Wang, H.-K. Xu, Solving the split feasibility problem without prior knowledge of matrix norms, Inverse Problems, 28(2012) 085004. https://doi.org/10.1088/0266-5611/28/8/085004 [10].
+A. Moudaf, A. Gibali, 𝑙1−𝑙2 regularization of split feasibility problems, Numer.
+Algor., 78 (2018) 739–757.
+https://doi.org/10.1007/s11075-017-0398-6 [11].
+S. Suantai, B. Panyanak, S. Kesornprom, P. Cholamjiak, Inertial projection and contraction methods for split feasibility problem applied to compressed sensing and image restoration, Optim.
+Lett., 16 (2022) 1725–1744.
+https://doi.org/10.1007/s11590-021-01798-x
+[12].
+F. Wang, Polyak’s gradient method for the split feasibility problem constrained by level sets, Numer.
+Algor., 77 (2018) 925-938. https://doi.org/10.1007/s11075-017-0347-4
+[13].
+E. Candes, J. Romberg, T. Tao, Stable signal recovery from incomplete and inaccurate measurements, Comm.
+Pure Appl.
+Math., 59 (2006) 1207-1223. https://doi.org/10.1002/cpa.20124
+[14].
+N. Buong, Iterative algorithms for the multiple-sets split feasibility problem in Hilbert spaces, Numer.
+Algor., 76 (2017) 783–798.
+https://doi.org/10.1007/s11075-017-0282-4 [15].
+Q.L.
+Dong, L. Liu, X. Qin, J.-C. Yao, An alternated inertial general splitting method with linearization for the split feasibility problem, Optimization, (2022).
+https://doi.org/10.1080/02331934.2022.2069567 [16].
+X. Ma, H. Liu, Inertial relaxed CQ algorithm for split feasibility problems with non-Lipschitz gradient operators, Optimization, 72 (2023) 1239-1260.
+Transport and Communications Science Journal, Vol 74, Issue 6 (08/2023), 752-763 [17].
+X. Ma, H. Liu, An inertial Halpern-type CQ algorithm for solving split feasibility problems in Hilbert spaces, J. Appl.
+Math.
+Comput., 68 (2022) 1699-1717. https://doi.org/10.1007/s12190-021-01585-y [18].
+N.T.
+Vinh, P.T.
+Hoai, Some subgradient extragradient type algorithms for solving split feasibility and fixed point problems, Math.
+Meth.
+Appl.
+Sci., 39 (2016) 3808–3823.
+https://doi.org/10.1002/mma.3826 [19].
+Z. Yao, S. Vong, Two inertial-type algorithms for solving the split feasibility problem, Optimization, (2022).
+https://doi.org/10.1080/02331934.2022.2070066 [20].
+B. Qu, N. Xiu, A note on the CQ algorithm for the split feasibility problem, Inverse Prob., 21 (2005) 1655–1665.
+https://doi.org/10.1088/0266-5611/21/5/009 [21].
+Q. Yang, On variable-set relaxed projection algorithm for variational inequalities, J.
+Math.
+Anal.
+Appl., 302 (2005) 166–179.
+https://doi.org/10.1016/j.jmaa.2004.07.048
+[22].
+Q. H. Ansari, A. Rehan, Split feasibility and fixed point problems, in: Nonlinear Analysis, Trends in Mathematics, Springer, (2014) 281-322. https://doi.org/10.1007/978-81-322-1883-8_9
+[23].
+K. Sakurai, H. Iiduka, Acceleration of the Halpern algorithm to search for a fixed point of a nonexpansive mapping, Fixed Point Theory Appl., (2014) 202. https://doi.org/10.1186/1687-1812-2014-202 [24].
+F. Wang, H. Yu, An inertial relaxed CQ algorithm with an application to the LASSO and elastic net, Optimization, 70 (2021) 1101-1119. https://doi.org/10.1080/02331934.2020.1763989
+[25] Ya.I.
+Alber, A.N.
+Iusem, M.V.
+Solodov, On the projected subgradient method for nonsmooth convex optimization in a Hilbert space, Math.
+Program., 81 (1998) 23-35.
+https://doi.org/10.1007/BF01584842

@@ -18,8 +18,6 @@ Giới thiệu Trong những năm gần đây, cùng với sự chuyển đổi 
 Điều này có ý nghĩa phản hồi định tính lẫn định lượng mức độ hiệu quả quá trình học tập của học sinh và dạy học của giáo viên.
 Qua đó, học sinh tìm ra phương hướng điều chỉnh hợp lí để nâng cao chất lượng học tập của bản thân hoặc giáo viên tìm ra những biện pháp giúp học sinh không ngừng tiến bộ, phát triển các năng lực và phẩm chất cần thiết nhằm chuẩn bị cho việc
 Cite this article as: Ta Thanh Trung, Tran Thi Xuan Quynh, Nguyen Phuong Uyen, & Nguyen Thanh Nga (2022).
-Develop and standardize a STEM competency assessment tool for high school students in Ho Chi Minh City.
-Ho Chi Minh City University of Education Journal of Science, 19(8), 1255-1270.
 Tạp chí Khoa học Trường ĐHSP TPHCM Tạ Thanh Trung và tgk
 thích ứng với sự biến động của thế giới, góp phần đảm bảo các mục tiêu giáo dục đã đề ra.
 Nghị quyết Hội nghị Ban Chấp hành Trung ương Đảng lần thứ tám (khóa XI) chỉ rõ: “Việc thi, kiểm tra và đánh giá kết quả giáo dục đào tạo cần tiến hành từng bước theo các tiêu chí tiên tiến được xã hội và cộng đồng giáo dục thế giới tin cậy và công nhận.
@@ -318,103 +316,36 @@ Công cụ sau khi chỉnh sửa bao gồm 3 thành tố của năng lực STEM 
 Thông qua quy trình nghiên cứu được thực hiện nghiêm ngặt gồm ba giai đoạn: thiết kế câu hỏi, phát triển thang đo và đánh giá thang đo, kết quả phân tích CB-SEM đã cho thấy công cụ được xây dựng đã đảm bảo các tiêu chí về độ tin cậy nhất quán nội tại và độ giá trị.
  Tuyên bố về quyền lợi: Các tác giả xác nhận hoàn toàn không có xung đột về quyền lợi.
 TÀI LIỆU THAM KHẢO Arikan, S., Erktin, E., & Pesen, M. (2020).
-Development and validation of a STEM competencies assessment framework.
-International Journal of Science and Mathematics Education, 20(1), 1-24. doi:10.1007/s10763-020-10132-3 Baartman, L. K., Bastiaens, T. J., Kirschner, P. A., & Vleuten, C. P. (2006).
-The wheel of competency assessment: Presenting quality criteria for competency assessment programs.
 Studies in Educational Evaluation, 32(2), 153-170. doi:10.1016/j.stueduc.2006.04.006 Bainton, T. (2001).
-Information literacy and academic libraries: the SCONUL approach.
-United Kingdom: IFLA Council and general conference.
 Boateng, G. O., Neilands, T. B., Frongillo, E. A., Melgar-Quiñonez, H. R., & Young, S. L. (2018).
-Best Practices for Developing and Validating Scales for Health, Social, and Behavioral Research: A Primer.
-Front Public Health, 6: 149, 1-18. doi:10.3389/fpubh.2018.00149 Boon Ng, S. (2019).
-Exploring STEM competences for the 21st century.
-Progress Reflection No.
-30 On Current and Critical Issues in Curriculum, Learning and Assessment.
 UNESCO International Bureau of Education.
-Bryant, F. B., & Yarnold, P. R. (1995).
-Principal-components analysis and exploratory and confirmatory factor analysis.
-In L. G. Grimm, & P. R. Yarnold, Reading and understanding multivariate statistics (pp.
 99-136).
-Washington DC: American Psychological Association.
 Bundy, A.
 (2004).
-Australian and New Zealand Information Literacy Framework.
 Tạp chí Khoa học Trường ĐHSP TPHCM Tập 19, Số 8 (2022): 1255-1270
 Devellis, R., & Thorpe, C. T. (2021).
-Scale Development Theory and Applications (5th ed.).
 Sage Publications.
 English, L. D. (2016).
-Advancing integrated STEM learning through engineering design: sixth-grade students’ design and construction of earthquake resistant buildings.
-The Journal of Educational Research, 110(3), 255-271. doi:10.1080/00220671.2016.1264053 Fornell, C., & Larcker, D. F. (1981).
-Evaluating Structural Equation Models with Unobservable Variables and Measurement Error.
-Journal of Marketing Research, 18(1), 39-50. doi:10.1177/002224378101800104 General Secretary.
 (2013).
-On fundamental and comprehensive renovation of education and training, meeting the requirements of industrialization and modernization in the conditions of socialist- oriented market economy and international integration (Vols.
 29-NQ/TW).
 Ha Noi.
-Gerbing, D. W., & Anderson, J. C. (1988).
-An Updated Paradigm for Scale Development Incorporating Unidimensionality and Its Assessment.
-Journal of Marketing Research, 25(2), 186-192. doi:10.2307/3172650 GSA.
 (2016).
-STEM education framework.
-New York.
-Retrieved from https://www.nyas.org/media/13051/gsa_stem_education_framework_dec2016.pdf Hair, J. F., Black, W. C., Babin, B. J., & Anderson, R. E. (2019).
-Multivariate Data Analysis (8th ed.).
-Cengage Learning, EMEA.
 Hoang, H. B.
 (2015).
-Competence and assessment by competence [Nang luc va danh gia theo nang luc].
-Ho Chi Minh City University of Education Journal of Science, 6(71), 21-32. doi:10.54607/hcmue.js.0.6(71).667.658(2015) Jang, H. (2015).
-Identifying 21st Century STEM Competencies Using Workplace Data.
-Journal of science education and technology, 25, 284-301. doi:10.1007/s10956-015-9593-1 Joppe, M. (2000).
-The research process.
-Retrieved from https://www.uoguelph.ca/hftm/research- process Kline, R. B.
 (2016).
-Principles and Practice of Structural Equation Modeling (4th ed.).
-The Guilford Press.
 Marope, M., Griffin, P., & Gallagher, C. (2017).
-Future Competences and the Future of Curriculum.
 Geneva: UNESCO-IBE.
-Retrieved from http://www.ibe.unesco.org/sites/default/files/resources/future_competences_and_the_future_ of_curriculum.pdf Ministry of Education and Training – MOET.
 (2018).
-General education program [Chuong trinh giao duc pho thong tong the].
 Hanoi.
 Retrieved from https://data.moet.gov.vn/index.php/s/LETzPhj5sGGnDii#pdfviewer Nunnally, J. C., & Bernstein, I. H. (1994).
-The Assessment of Reliability.
 In Psychometric Theory (Vol.
 3, pp.
 248-292).
-New York: McGraw-Hill.
 Sen, C., Ay, Z. S., & Kiray, S. A.
 (2018).
-STEM skills in the 21st-century education.
-In M. Shelley, & S. A. Kiray, Research Highlights in STEM Education (pp.
 81-101).
-ISRES Publishing.
 Shulman, L. (2008).
-Assessment of teaching or assessment for teaching?
 In D. H. Gitomer (Ed.
-), Measurement Issues and Assessment for Teaching Quality (pp.
 234-243).
-Washington DC: Sage Publications.
 Trilling , B., & Fadel, C. (2009).
-21st Century Skills: Learning for Life in Our Times.
 San Francisco: Jossey - Bass .
-Watkins, J., Spencer, K., & Hammer, D. (2014).
-Examining Young Students’ Problem Scoping in Engineering Design.
-Journal of Pre-College Engineering Education Research (J-PEER), 4(1).
-doi:10.7771/2157-9288.1082 Winter, G. (2000).
-A Comparative Discussion of the Notion of 'Validity' in Qualitative and Quantitative Research.
-The Qualitative Report, 4(3), 1-14. doi:10.46743/2160- 3715/2000.2078
-Tạp chí Khoa học Trường ĐHSP TPHCM Tạ Thanh Trung và tgk
-DEVELOP AND STANDARDIZE A STEM COMPETENCY ASSESSMENT TOOL FOR HIGH SCHOOL STUDENTS IN HO CHI MINH CITY Ta Thanh Trung, Tran Thi Xuan Quynh, Nguyen Phuong Uyen, Nguyen Thanh Nga* Ho Chi Minh City University of Education, Vietnam
-*Corresponding author: Nguyen Thanh Nga – Email: nganthanh@hcmue.edu.vn Received: March 31, 2022; Revised: April 04, 2022; Accepted: April 05, 2022
-ABSTRACT
-Nowadays, competency assessment is one of the assessment trends across the globe.
-Accordingly, the development and standardization of competency assessment tools attract much attention from educators.
-For STEM education, a standardized and practical STEM competency assessment tool plays a vital role in guiding development in the future.
-This study aims to develop and standardize a tool for self-assessing STEM competencies of students in Ho Chi Minh.
-To guarantee the reliability and validity of the tool, the research process was strictly carried out in three stages, including questionnaire design, scale development, and scale evaluation.
-Quantitative analysis results show that the tool is reliable, valid, and appropriate to evaluate the STEM competency of students in the region.
-Thereby, this tool is suitable for students to self-assess their competency or a competency framework to support teachers in formulating other assessment tools in STEM learning.
-Keywords: CB-SEM; competency assessment; high school students; STEM competency

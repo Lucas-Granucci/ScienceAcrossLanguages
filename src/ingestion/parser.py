@@ -50,7 +50,9 @@ def process_document(
 
                 doc_name = f"{kept_count:04d}_{content_hash}.txt"
                 doc_path = processed_output_path / doc_name
-                doc_path.write_text(normalize_text(doc_text), encoding="utf-8")
+                doc_path.write_text(
+                    normalize_text(doc_text, ignore_lang="en"), encoding="utf-8"
+                )
                 kept_count += 1
 
                 if kept_count >= target_articles:

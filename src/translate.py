@@ -1,30 +1,43 @@
 from pathlib import Path
-
-from ingestion.downloader import download_pdfs
-from ingestion.metadata import download_metadata
-from ingestion.parser import process_document
-from utils import load_paths, load_config, normalize_text
-from graph.pipeline import build_translation_pipeline
 from dotenv import load_dotenv
+from utils import load_paths, load_config
+from graph.pipeline import build_translation_pipeline, load_graph_state
 
 
 def translate(
-    source_path: Path, language_pair: str, translation_dir: Path, config
+    source_path: Path,
+    language_pair: str,
+    preset: str,
+    output_graph_path: Path,
+    input_json_path: Path,
+    config,
 ) -> None:
-    with source_path.open("r", encoding="utf-8") as fp:
-        source_text = fp.read()
-
-    presets = ["base", "term_only", "rag_and_term"]
-
-    for preset in presets:
+    if input_json_path:
+        preloaded_state = load_graph_state(
+            input_json_path, source_field="translated_txt"
+        )
         app, initial_state = build_translation_pipeline(
-            source_text, language_pair, config, preset=preset
+            None,
+            language_pair,
+            config,
+            graph_save_dir=output_graph_path,
+            preset=preset,
+            preloaded_state=preloaded_state,
         )
-        output = app.invoke(initial_state)
-        translation_dir = translation_dir.parent / (
-            translation_dir.stem + preset + ".txt"
+        _ = app.invoke(initial_state)
+
+    elif source_path:
+        with source_path.open("r", encoding="utf-8") as fp:
+            source_text = fp.read()
+
+        app, initial_state = build_translation_pipeline(
+            source_text,
+            language_pair,
+            config,
+            graph_save_dir=output_graph_path,
+            preset=preset,
         )
-        translation_dir.write_text(output["final_document"], encoding="utf-8")
+        _ = app.invoke(initial_state)
 
 
 def main():
@@ -34,11 +47,25 @@ def main():
     for lang_pair, _ in config["languages"].items():
         lang_data_paths = load_paths(config, lang_pair)
 
-        for source_path in sorted(lang_data_paths["backtranslated_dir"].glob("*.txt")):
-            translated_path = (
-                lang_data_paths["translation_dir"] / f"{source_path.stem}.txt"
+        preset = "base"
+
+        for input_discourse_json_path in sorted(
+            lang_data_paths["graph_dir"].glob("*.json")
+        ):
+            translated_dir = lang_data_paths["translation_dir"] / preset
+            translated_dir.mkdir(exist_ok=True)
+
+            output_graph_path = (
+                translated_dir / f"{input_discourse_json_path.stem}.json"
             )
-            translate(source_path, lang_pair, translated_path)
+            translate(
+                None,
+                lang_pair,
+                preset,
+                output_graph_path,
+                input_discourse_json_path,
+                config,
+            )
 
 
 if __name__ == "__main__":

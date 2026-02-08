@@ -1,0 +1,12 @@
+{
+  "lang_pair": "en-vi",
+  "model": "Unbabel/wmt22-comet-da",
+  "gpus": 1,
+  "batch_size": 8,
+  "n_segments": 841,
+  "systems": {
+    "base": 0.9112722420805841,
+    "google_translate": 0.9002416020128589,
+    "nllb": 0.8447459842588899
+  }
+}

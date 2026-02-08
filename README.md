@@ -2,7 +2,8 @@
 
 Install:
 python3.11 -m venv .venv
-uv pip install openai langgraph pandas selenium tqdm lingua-language-detector requests python-dotenv jinja2 pyyaml pymupdf4llm sonar-space googletrans pymupdf-layout nltk
+uv pip install torch torchvision --index-url https://download.pytorch.org/whl/cu130
+uv pip install openai langgraph pandas selenium tqdm lingua-language-detector requests python-dotenv jinja2 pyyaml pymupdf4llm sonar-space googletrans pymupdf-layout nltk unbabel-comet
 
 ## **Project Summary**
 

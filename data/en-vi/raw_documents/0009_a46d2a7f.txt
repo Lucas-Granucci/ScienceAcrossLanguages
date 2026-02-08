@@ -1,0 +1,262 @@
+Công nghệ sinh học & Giống cây trồng
+Nghiên cứu chiết xuất polysaccharide tổng số từ một số loại nấm Linh chi
+Ganoderma lucidum và đánh giá hoạt tính sinh học của cao chiết
+Nguyễn Như Ngọc*, Nguyễn Thị Hồng Nhung, Kiều Trà My, Nguyễn Hồng Phấn, Vũ Cao Tuyết Ngân
+Trường Đại học Lâm nghiệp
+Extraction of ganoderma lucidum total polysaccharide
+and biologycal activities evaluation of the extracts
+Nguyen Nhu Ngoc*, Nguyen Thi Hong Nhung, Kieu Tra My, Nguyen Hong Phan, Vu Cao Tuyet Ngan Vietnam National University of Forestry *Corresponding author: ngocnn@vnuf.edu.vn
+https://doi.org/10.55250/jo.vnuf.13.5.2024.011-019
+Thông tin chung: Ngày nhận bài: 23/05/2024 Ngày phản biện: 25/06/2024 Ngày quyết định đăng: 14/08/2024
+Từ khóa: Chiết xuất, chống oxi hóa, kháng khuẩn, Linh chi, polysaccharide.
+Keywords: Antibacterial, antioxidant, extraction, Ganoderma lucidum, polysaccharide.
+TÓM TẮT Linh chi là loại nấm dược liệu quý được sử dụng phổ biến ở nhiều quốc gia do tác dụng chống ung thư, chống oxy hóa, kháng viêm, và tăng cường miễn dịch… Trong nấm Linh chi có chứa hàng loạt các chất chuyển hóa có hoạt tính trong đó polysaccharide (PS) được chứng minh là một nhóm chất có hoạt tính sinh học nổi bật nhất.
+Hàm lượng và hoạt tính của các chất phụ thuộc vào điều kiện nuôi trồng, phương pháp chiết xuất và chủng loại… Nghiên cứu này được thực hiện nhằm chiết xuất hợp chất PS và đánh giá hoạt tính của cao chiết từ 04 loại nấm Linh chi thuộc họ Ganoderma lucidum: Linh chi Hàn Quốc (LCH), Linh chi nuôi trồng (LCV), Lim xanh rừng (LXR) và Lim xanh nuôi trồng (LXV).
+Kết quả cho thấy, khi chiết bằng ethanol 80%, hàm lượng PS thu được cao hơn chiết bằng nước và cao nhất ở mẫu LXV với 4,73 mg/g chất khô, cao hơn chiết bằng nước 126% (đạt 3,73 mg/g).
+Hàm lượng PS thấp nhất ở mẫu LCH với 3,42 mg/g chiết nước và 3,53 mg/g chiết ethanol.
+Kết quả hoạt tính chống oxi hóa của cao chiết LXN tốt nhất với chỉ số IC50 đạt 51,35, thấp nhất ở mẫu LCH với IC50 đạt 59,04.
+Hầu hết các mẫu cao chiết đều thể hiện tính kháng với 4 chủng vi khuẩn kiểm định, mạnh nhất tương tương với hiệu quả của streptomycin, vòng kháng khuẩn lớn nhất ở dịch cao chiết từ LXV với vòng kháng khuẩn đạt 8,0 mm với Bacillus, hiệu quả thấp nhất của mẫu LCH chỉ thể hiện tính kháng với shigella sp.
+1.
+ĐẶT VẤN ĐỀ
+Lakshmi và cộng sự (2006), khi cho chuột uống chất chiết của nấm Linh chi với liều 500 mg/kg/ngày trong 30 ngày trước khi gây tổn thương gan chuột bằng benzo(a) pyrene, đã ghi nhận kết quả là chất chiết có tác dụng bảo vệ gan.
+Chiết xuất này đã ngăn chặn sự gia tăng các hoạt động AST, ALT và phosphatase kiềm (ALP) trong huyết thanh do tác động của benzo(a)pyrene và tăng cường mức độ GSH, SOD, GpX, CAT và glutathione S-transferase (GST) [3].
+Gao và cộng sự cũng đã báo cáo trong một nghiên cứu đối với 71 bệnh nhân trưởng thành mắc bệnh đái tháo đường týp 2 (DM).
+Các bệnh nhân này được bổ sung Ganopoly (một số phân đoạn polysaccharide chiết xuất từ nấm linh chi (G. lucidum) bằng đường uống ở mức 1800 mg, ba lần mỗi ngày trong 12 tuần.
+Kết quả cho thấy: Glycosylat hemoglobin (HbA1C) và glucose huyết tương giảm đáng kể sau 12 tuần [4].
+Linh chi là một loại nấm dược liệu được sử dụng như một loại thuốc qúy trong y học cổ truyền của một số quốc gia như Trung Quốc; Hàn Quốc; Nhật Bản; Việt Nam… trong suốt nhiều thế kỷ.
+Linh chi được biết đến có rất nhiều tác dụng đối với sức khỏe con người như: chống ung thư, chống oxy hóa, kháng viêm, ổn định huyết áp; điều chỉnh các rối loạn chuyển hóa tiểu đường, béo phì và tăng cường miễn dịch... Nghiên cứu về chiết xuất G. lucidum cho thấy thành phần hóa học bao gồm 11,1% glucose, 10,2% khoáng chất (bao gồm K, Mg và Ca) và 7,3% protein.
+Trong đó các hoạt chất có hoạt tính sinh học quan trọng bao gồm: polysaccharides, triterpenes, flavonoid, alkaloid, steroid, axit béo không bão hòa, protein, axit amin, enzyme, vitamin và khoáng chất.
+Trong số này, đặc tính chữa bệnh của G. lucidum chủ yếu được cho là do các polysaccharide và triterpenoid của nó, là trọng tâm của nhiều nghiên cứu [1].
+Mendel Friedman đã nghiên cứu về cơ chế tác dụng của hợp chất polysaccharide chiết từ một số nấm dược liệu như nấm Maitake (Grifola frondosa), nấm Hương (lentinus edodes), nấm Linh chi (Ganoderma), nấm Đông trùng hạ thảo (Cordyceps sinensis), kết quả cho thấy polysaccharide thể hiện có tác dụng chống ung thư, điều hòa miễn dịch, chống viêm, chống nhiễm trùng, kháng virus, chống oxy hóa, tác dụng hạ đường huyết và bảo vệ gan, cũng như bảo vệ chống lại căng thẳng mãn tính [2].
+Trong một nghiên cứu lâm sàng thử nghiệm trên chuột của nhóm tác giả
+Với sự phát triển của ngành hóa dược và nhu cầu ngày càng tăng về sử dụng các sản phẩm tự nhiên để chăm sóc sức khỏe, các hoạt chất quý từ nấm dược liệu hiện nay đang được tập trung nghiên cứu và phát triển.
+Một trong những hướng nghiên cứu đang được quan tâm nhất hiện nay về mảng nấm dược liệu là thiết lập các phương pháp chiết xuất hoặc đánh giá hoạt tính của các loại nấm dược liệu để ứng dụng trong sản xuất các loại thuốc, thực phẩm chức năng.
+Vì vậy, mục tiêu của nghiên cứu này là bước đầu nghiên cứu quy trình chiết xuất polysaccharide tổng số, đồng thời đánh giá hoạt tính chống oxy hóa và hoạt tính kháng khuẩn của cao chiết từ một số loại
+12 TẠP CHÍ KHOA HỌC VÀ CÔNG NGHỆ LÂM NGHIỆP TẬP 13, SỐ 5 (2024)
+Công nghệ sinh học & Giống cây trồng
+- Nấm Linh chi Hàn Quốc (LCH) thương mại được thu mua trên địa bàn thành phố Hà Nội
+- Nấm Linh chi nuôi trồng (LCV) và nấm Lim xanh nuôi trồng (LXN) được thu mua trên địa bàn thành phố Hà Nội.
+2.1.2.
+Các chủng vi khuẩn kiểm định
+nấm Linh chi, nhằm bổ sung thêm vào cơ sở dữ liệu về nghiên cứu tách chiết các hợp chất có hoạt tính sinh học của Linh chi ở Việt Nam và cơ sở khoa học cho việc nghiên cứu sâu hơn các cấu trúc cũng như hoạt tính sinh học của Linh chi nhằm định hướng ứng dụng thành các sản phẩm thực phẩm chức năng có giá trị cao về y dược.
+2.
+PHƯƠNG PHÁP NGHIÊN CỨU 2.1.
+Vật liệu 2.1.1.
+Nấm linh chi
+- Nấm Lim xanh rừng (LXR) được thu hái ở huyện Sơn Động, tỉnh Bắc Giang.
+Bốn chủng vi khuẩn kiểm định gồm 1 chủng gram dương: Bacillus cereus và 3 chủng gram âm gồm Escherichia coli, Shigella sp, Salmonella sp là các chủng vi sinh vật chuẩn quốc tế (ATCC), được cung cấp bởi bộ môn Công nghệ Vi sinh – Hóa sinh, Viện Công nghệ Sinh học Lâm nghiệp, Trường Đại học Lâm nghiệp.
+Hình 1.
+Mẫu nấm Linh chi 2.2.
+Phương pháp 2.2.1.
+Xác định độ ẩm của mẫu
+2.2.2.
+Phương pháp tách chiết và xác định hàm lượng polysaccharide
+Các mẫu Nấm Linh chi được sấy khô, cắt lát và xay thành bột để tiến hành xác định độ ẩm, hàm lượng tro toàn phần theo Dược điển Việt Nam V, chuyên luận Linh chi [5].
+Polysaccharide được chiết từ các mẫu nấm theo phương pháp của T.G.
+Pillai và cộng sự [6], có điều chỉnh.
+Cân 1 g mẫu khô, bổ sung nước hoặc ethanol 80% để chiết PS theo tỷ lệ
+TẠP CHÍ KHOA HỌC VÀ CÔNG NGHỆ LÂM NGHIỆP TẬP 13, SỐ 5 (2024) 13
+Công nghệ sinh học & Giống cây trồng
+mẫu có hoạt tính mạnh, ức chế trên 50% tại nồng độ 10 μg/ml được tiếp tục tiến hành thử ở các nồng độ thấp hơn là 5, 2, 1 μg/ml.
+Dựng đường chuẩn acid gallic ở các nồng độ 0, 2, 4, 6, 8, và 10 µg/ml.
+Tất cả thí nghiệm đều được lặp lại 3 lần.
+Hoạt tính chống oxi hóa- hoạt tính quét gốc tự do (Radical scaveging activity- RSA) được tính như sau:
+khối lượng mẫu khô: dung môi là 1/25 (w/v); nhiệt độ chiết 900C trong thời gian 120 phút, chiết 2 lần.
+Dịch chiết được kết tủa với cồn tuyệt đối theo tỷ lệ 1:4, để kết tủa qua đêm ở 4oC, ly tâm thu tủa 8000 vòng/phút trong 30 phút.
+Kết tủa được rửa với cồn 70% v/v, sau đó được sấy khô ở 45oC, 24 giờ để thu polysaccharide thô.
+Hàm lượng polysaccharide được định lượng bằng phương pháp sulfuric phenol [7].
+Theo đó, bổ sung 3000 µl axit H2SO4 98 % vào ống eppendoft chứa 1000 µl dịch mẫu, trộn đều.
+Thêm tiếp 600 µl phenol 5% vào ống.
+Vortex mạnh trong 30 giây.
+Phản ứng thực hiện ở bể ổn nhiệt 95-1000C trong 5 phút.
+Để nguội, đo OD490nm.
+Sử dụng đường chuẩn glucose (0-200 µg/mL) để xác định hàm lượng polysaccharide trong các mẫu [8].
+2.2.3.
+Phương pháp tạo cao chiết
+RSA (%) = (Akc –Atn)/Akc x 100% Trong đó: Akc và Atn lần lượt là giá trị OD517nm của mẫu kiểm chứng âm và mẫu thí nghiệm hoặc kiểm chứng dương.
+Xác định IC50 (nồng độ mẫu có khả năng quét 50% gốc tự do): Từ các nồng độ mẫu xác định được RSA (%) xây dựng phương trình đường chuẩn cho khả năng ức chế gốc tự do của mẫu.
+IC50 được xác định theo công thức:
+X = (50 – b)/a Trong đó: X là nồng độ mẫu quét được 50% gốc tự do; a, b là hệ số của phương trình RSA (%) có dạng y = ax+b được xây dựng từ các nồng độ mẫu khác nhau.
+Giá trị IC50 càng thấp tương ứng với hoạt tính kháng oxy hóa càng cao và ngược lại.
+Bột Linh chi (20 g) được chiết với dung môi ethanol 80% (tỷ lệ rắn/lỏng là 1:40-1:45), ngâm ở nhiệt độ phòng trong thời gian 72 giờ.
+Dung dịch trích ly được lọc và đuổi dung môi bằng hút chân không để thu cao chiết.
+Cao chiết được đem đi xác định hoạt tính chống oxy hóa và hoạt tính kháng khuẩn.
+2.2.4.
+Phương pháp xác định hoạt tính chống oxy hóa
+Việc phân loại khả năng chống oxy hóa của mẫu được chia nhóm theo phương pháp của Tukiran (2016) [10].
+Khảo sát hoạt tính ức chế gốc tự do DPPH (khả năng kháng oxy hóa) của các mẫu được đánh giá thông qua khả năng bắt gốc tự do DPPH theo phương pháp của Chanda và cộng sự [9].
+IC50 < 50 μg/ml: rất hoạt động; 50 μg/ml < IC50 < 100 μg/ml: hoạt động; 100 μg/ml < IC50 < 200 μg/ml: có khả năng chống oxy hóa;
+IC50 > 200 μg/ml: yếu/không có khả năng chống oxy hóa.
+2.2.5.
+Phương pháp xác định hoạt tính kháng khuẩn
+Cân lượng cao chiết vừa đủ, hòa tan trong ethanol 90% và pha loãng tới các nồng độ 100, 50, 25, 10 μg/ml.
+Thêm 1,5 ml dung dịch DPPH 0,1 mM vào 1,5 ml dung dịch mẫu lần lượt có nồng độ 100, 50, 25, 10 μg/ml trong ethanol 90%, sau đó ủ dung dịch trong bóng tối (30 phút).
+Đo độ hấp thụ quang tại 517 nm.
+Các
+Cao chiết được hòa tan với Dimethyl Sulfoxide đến nồng độ 1 mg/ml để tiến hành
+14 TẠP CHÍ KHOA HỌC VÀ CÔNG NGHỆ LÂM NGHIỆP TẬP 13, SỐ 5 (2024)
+Công nghệ sinh học & Giống cây trồng
+2.2.6.
+Phương pháp thu thập và xử lý số liệu
+Các thí nghiệm được lặp lại 3 lần sau đó thu thập kết quả và xử lý bằng phần mềm excel.
+3.
+KẾT QUẢ VÀ THẢO LUẬN 3.1.
+Kết quả về kiểm tra độ ẩm và độ tinh khiết của mẫu 3.1.1 Khảo sát nguyên liệu đầu vào
+thử hoạt tính kháng khuẩn.
+Khả năng ức chế sự phát triển của vi khuẩn được xác định theo phương pháp khuếch tán trên đĩa thạch.
+Sau khi đổ thạch cấy trải các chủng vi khuẩn kiểm định, sử dụng các ống khâu đục 4 giếng, nhỏ lần lượt vào mỗi giếng 100 µl dịch chiết.
+Đặt các đĩa thạch vào tủ mát ở 4°C trong 15 phút rồi đem ủ trong tủ ấm ở 37°C trong 24 giờ.
+Sau đó quan sát và ghi nhận kết quả.
+Đối chứng dương là kháng sinh streptomycine và đối chứng âm là nước.
+Xác định độ ẩm của các mẫu nguyên liệu cho thấy: độ ẩm của các mẫu đạt khoảng 10,8%, độ tro toàn phần khoảng 2,19%.
+Theo như trong Dược điển Việt Nam V thì cả 4 mẫu đều đạt tiêu chuẩn của mẫu dược liệu.
+Do đó có thể dùng để tiến hành chiết xuất và đánh giá hoạt tính ở những nghiên cứu tiếp theo.
+3.1.2.
+Hàm lượng polysaccharide tổng số
+Tác dụng ức chế của vi khuẩn được đánh giá thông qua độ lớn của đường kính vòng vô khuẩn tạo ra xung quanh giếng.
+Tiến hành đo đường kính vòng vô khuẩn (nếu có) tạo ra xung quanh các giếng.
+Mức độ kháng khuẩn của cao chiết được đánh giá theo 4 mức (Faikoh và cộng sự, 2014): D ≥ 15 mm: đối kháng mạnh 15 mm > D ≥ 7,5 mm: đối kháng trung bình D < 7,5 mm: đối kháng yếu D = 0 mm: không đối kháng.
+Trong đó, D: đường kính vòng vô khuẩn tạo thành xung quanh các giếng (không bao gồm đường kính giếng) [11].
+Trong thí nghiệm này, để đánh giá ảnh hưởng của dung môi đến hiệu suất tách chiết polysaccharide, các mẫu được tiến hành khảo sát tách chiết với 2 loại dung môi là nước và ethanol 80%, ở nhiệt độ chiết là 900C trong thời gian là 120 phút, chiết 2 lần.
+Dịch chiết được đem đi xác định hàm lượng polysaccharide tổng số thu được kết quả thể hiện trong biểu đồ Hình 2.
+Hình 2.
+Hàm lượng Polysaccharide trong các mẫu
+TẠP CHÍ KHOA HỌC VÀ CÔNG NGHỆ LÂM NGHIỆP TẬP 13, SỐ 5 (2024) 15
+Công nghệ sinh học & Giống cây trồng
+ly là nước, nhiệt độ trích ly 90oC, kích thước nguyên liệu là 0,4 cm, tỷ lệ nguyên liệu/dung môi là 1/20, thời gian trích ly là 5 giờ cho hàm lượng polysaccharide là 0,92% [13].
+Hoặc trong nghiên cứu của tác giả Trần Nhân Dũng và cộng sự, khi sử dụng dung môi là NaOH 1M, nhiệt độ ly trích 60,90oC, và thời gian ly trích là 73,64 phút, tỉ lệ (v/w) 1:20, siêu âm ở công suất 300 W, 30 phút, thì hiệu suất ly trích polysaccharide đạt 9,2995% [14].
+3.1.3.
+Xác định hoạt tính chống Oxi hóa
+Từ kết quả trên có thể nhận thấy, ở tất cả 4 mẫu nấm, khi chiết bằng dung môi ethanol 80% thì hàm lượng polysaccharide thu được đều cao hơn khi chiết bằng dung môi nước.
+Ở mẫu LXN, khi chiết bằng ethanol 80% thì hàm lượng polysaccharide thu được là 4,73 mg/g chất khô, cao hơn 126% hàm lượng polysaccharide thu được khi chiết bằng nước.
+Kết quả này cũng cho thấy hàm lượng polysaccharides ở mẫu LXN cao nhất, đạt lần lượt là: 3,75 và 4,73 mg/g; mẫu LCH là thấp nhất lần lượt là 3,71 và 3,53 mg/g chất khô.
+Kết quả nghiên cứu này khá tương đồng với kết quả đạt được của nhóm tác giả Lưu Hồng Sơn và cộng sự (2020), đã công bố hàm lượng polysaccharide đạt 5,83 mg/g khi tách chiết bằng sóng siêu âm thời gian 4 phút; nồng độ ethanol 80 %; tỉ lệ nguyên liệu/dung môi là 1/20 (g/ml); thời gian trích ly là 90 phút; nhiệt độ 80oC [12].
+Kết quả của nghiên cứu này có sự khác biệt với kết quả trong công bố của Nguyễn Văn Bình và cộng sự khi chiết xuất polysaccharide từ quả thể nấm Linh chi đỏ.
+Với dung môi trích
+Rất nhiều các nghiên cứu đã công bố rằng: việc sử dụng thực vật giàu chất chống oxy hóa có thể giúp ngăn ngừa ung thư và các bệnh mãn tính khác [15].
+Để xác định hoạt tính chống oxi hóa của một số loại nấm Linh chi, cao chiết ethanol từ quả thể 4 mẫu nấm Linh chi khô được khảo sát hoạt tính ức chế gốc tự do DPPH (khả năng kháng oxy hóa) thông qua khả năng bắt gốc tự do DPPH theo phương pháp của Chanda và cộng sự với axít gallic là mẫu kiểm chứng dương.
+Kết quả khả năng chống oxi hóa của các mẫu Linh chi thí nghiệm được ghi nhận ở Bảng 1.
+Bảng 1.
+Kết quả hoạt tính chống oxy hóa của dịch cao chiết Nồng độ (mg/ml) LCH LCV LXR LXN IC50 59,04 ± 0,04 52,97 ± 0,05 57,22 ± 0,05 51,35 ± 0,03 Kết quả Bảng 1 đã thể hiện rằng: tất cả các mẫu cao chiết từ 4 loại nấm linh chi đều có hoạt tính chống oxy hóa nằm trong khoảng hoạt động tương đương 50 μg/ml < IC50 < 100 μg/ml.
+Giá trị IC50 càng thấp tương ứng với hoạt tính chống oxy hóa càng cao và ngược lại.
+Như vậy, hoạt tính chống oxy hoá của mẫu LXN là cao nhất với 51,35 µg/ml và mẫu LCH là thấp nhất 59,04 µg/ml.
+Về hoạt tính chống ô xi hóa, tác giả Nguyễn Thị Kim Ngân và cộng sự đã công bố rằng: khi trích ly bằng phương pháp enzym kết hợp siêu âm thì khả năng kháng ôxy hóa của dịch chiết cao hơn so với các kỹ thuật
+khác, thông qua phương pháp thử nghiệm khả năng bắt gốc tự do DPPH kết quả đạt 42,334% [16].
+Thêm vào đó,nhóm nghiên cứu Kolniak- Ostek J và cộng sự, đã nghiên cứu hai hoạt tính sinh học là khả năng chống ung thư và chống oxy hóa trong các mẫu nấm Linh chi (Ganoderma lucidum) thu thập ngoài tự nhiên ở nước Ba Lan, chỉ ra hoạt tính chống oxy hóa thu được IC50 khoảng từ 25,38 – 47,90 µg/ml.
+Các kết quả nghiên cứu này khá tương đồng với kết quả về hoạt tính chống ô xy hóa của cao chiết từ cả 4 mẫu nấm linh chi trong nghiên cứu này [17].
+16 TẠP CHÍ KHOA HỌC VÀ CÔNG NGHỆ LÂM NGHIỆP TẬP 13, SỐ 5 (2024)
+Công nghệ sinh học & Giống cây trồng
+3.1.4.
+Xác định hoạt tính kháng khuẩn của cao chiết
+Hoạt tính kháng đối với một số chủng vi khuẩn kiểm định nhằm khẳng định một phần cơ sở rằng các hoạt chất trong cao chiết có thể có các hoạt tính kháng vi sinh vật gây bệnh, kháng viêm.
+Kêt quả kháng khuẩn của các cao
+chiết từ 4 mẫu thu được thể hiện qua đường kính vòng vô khuẩn (nếu có) tạo ra xung quanh các giếng có nhỏ dịch cao chiết với nồng độ 1 mg/ml của các mẫu.
+Với nước cất là đối chứng âm và kháng sinh Streptomycine nồng độ 0,2 mg/ml là đối chứng dương.
+Kết quả thể hiện ở Bảng 2.
+Bảng 2.
+Đường kính vòng kháng khuẩn (mm) của dịch chiết
+Vi khuẩn Dịch chiết cao
+LCH LCV LXR LXN Nước K Gram - Salmonella sp 0,00 ± 0,00 2,0 ± 0,01 5,0 ± 0,01 5,0 ± 0,02 0,00 ± 0,00 7,0 ± 0,01
+Shigella sp 3,0 ±0,01 0,00 ± 0,00 0,00 ± 0,00 6,0 ± 0,02 0,00 ± 0,00 10,0 ± 0,03
+E.coli 0,00 ±0,00 0,00 ± 0,00 0,00 ± 0,00 8,0 ± 0,03 0,00 ± 0,00 10,0 ± 0,04 Gram + Bacillus cereus 0,00 ±0,00 4,0 ± 0,02 0,00 ± 0,00 8,0 ± 0,02 0,00 ± 0,00 8,0 ± 0,01
+Hình 3.
+Đường kính vòng kháng khuẩn của các dịch chiết
+TẠP CHÍ KHOA HỌC VÀ CÔNG NGHỆ LÂM NGHIỆP TẬP 13, SỐ 5 (2024) 17
+Công nghệ sinh học & Giống cây trồng
+TÀI LIỆU THAM KHẢO
+[1].
+Elif Ekiz, Emel Oz, AM Abd El-Aty, Charalampos Proestos, Charles Brennan, Maomao Zeng, Igor Tomasevic, Tahra Elobeid, Kenan Çadırcı & Muharrem Bayrak (2023).
+Foods.
+12(7): 1512.
+[2].
+Mendel Friedman (2016).
+Foods.
+5(4): 80.
+Kết quả về tính kháng khuẩn của cao chiết từ 4 loại nấm Linh chi trong nghiên cứu này khá phù hợp với một kết quả nghiên cứu của tác giả Kairat Mustafin, Nina Bisko, Raushan Blieva, cũng đã công bố năm 2022 rằng chất chiết từ 1 loại nấm Linh chi Ganoderma lucidum 1621 thể hiện tính kháng tốt với đa số loài vi khuẩn gram âm và gram dương với vòng kháng dao động từ 3 – 12 mm sau 14 ngày [18].
+[3].
+B Lakshmi, TA Ajith, Nayana Jose & KK Janardhanan (2006).
+107(2): 297-303.
+[4].
+Yihuai Gao, Jin Lan, Xihu Dai, Jingxian Ye & Shufeng Zhou (2004).
+A phase I/II study of Ling Zhi mushroom Ganoderma lucidum (W.
+Curt.
+: Fr.)
+Lloyd (Aphyllophoromycetideae) extract in patients with type II diabetes mellitus.
+6(1): 33-40.
+R. Radhika cũng đã kết luận rằng, với chất chiết từ Ganoderma Lucidum thể hiện rõ tính kháng đối với một số chủng vi khuẩn Escherichia coli và Pseudomonas aeruginosa với vòng kháng lên tới 19 mm, cao hơn các loại kháng sinh như streptomycin và penicillin.
+Tất cả những nghiên cứu này cho thấy G. lucidum ức chế sự phát triển của các bệnh do vi khuẩn khác nhau [19].
+4.
+KẾT LUẬN
+[5].
+Dược điển Việt Nam V (2017).
+Nxb Y học.
+[6].
+Thulasi G Pillai, Cherupally Krishnan Krishnan Nair & KK Janardhanan (2008).
+26(1): 80-85.
+[7].
+M Dubois, KA Gilles, JK Hamilton, PA Rebers & FAJN Smith (1951).
+Nature.
+168(4265): 167-167.
+[8].
+Hesham A El Enshasy & Rajni Hatti-Kaul (2013).
+31(12): 668-677.
+[9].
+S Chanda & R Dave (2009).
+3(13): 981- 996.
+[10].
+Tukiran Tukiran, Fitriyatul Mahmudah, Nurul Hidayati & Kuniyoshi Shimizu (2016).
+Gallic acid: A phenolic acid and its antioxidant activity from stem bark of chloroform extracts of syzygium litorale (blume) amshoff (myrtaceae).
+Molekul.
+11(2): 180-189.
+[11].
+Mounyr Balouiri, Moulay Sadiki & Saad Koraichi Ibnsouda (2016).
+6(2): 71-79.
+Trong nghiên cứu này, hàm lượng polysaccharide, hoạt tính chống oxy hóa cũng như hoạt tính kháng khuẩn của dịch chiết từ thể quả của 4 loại nấm Linh chi đã được đánh giá.
+Ở tất cả các mẫu dược liệu, khi chiết bằng dung môi ethanol 80% hàm lượng polysaccharide thu được cao hơn khi chiết bằng dung môi nước.
+Ở mẫu LXN, hàm lượng polysaccharide thu được cao nhất là 4,73 mg/g chất khô, cao hơn 126% khi chiết bằng nước, ở mẫu LCH là thấp nhất lần lượt là 3,71 và 3,53 mg/g chất khô khi chiết với nước và ethanol.
+Kết quả nghiên cứu này đã cho thấy tất cả các mẫu cao chiết của quả thể nấm dược liệu được nghiên cứu đều có hoạt tính chống oxy hóa nằm trong khoảng hoạt động tương đương 50 μg/ml < IC50 < 100 μg/ml.
+Hoạt tính chống oxy hoá của mẫu LXN là cao nhất IC50 = 51,35 µg/ml và mẫu LCH là thấp nhất IC50 = 59,04 µg/ml.
+Hoạt tính kháng khuẩn của dịch chiết LXN thể hiện tốt nhất khi kháng với cả 4 chủng vi khuẩn kiểm định với vòng kháng khá tốt.
+Hoạt tính kháng khuẩn của dịch chiết LCH yếu nhất.
+18 TẠP CHÍ KHOA HỌC VÀ CÔNG NGHỆ LÂM NGHIỆP TẬP 13, SỐ 5 (2024)
+Công nghệ sinh học & Giống cây trồng
+[12].
+Lưu Hồng Sơn, Tạ Thị Lượng, Vi Đại Lâm, Nguyễn Thị Tình, Đinh Thị Kim Hoa, Trịnh Thị Chung & Huỳnh Thị Thiệp (2020).
+Nghiên cứu quá trình trích ly Polysaccharides từ nấm lim xanh (Ganoderma Lucidium).
+Tạp chí Khoa học Đại học Tân Trào.
+6(17): 20-25.
+[16].
+Nguyễn Thị Kim Ngân, Ngô Thị Thùy Linh, Trần Đỗ Đạt, Nguyễn Đức Việt, Hoàng Minh Nam, Mai Thanh Phong & Nguyễn Hữu Hiếu (2022).
+Ảnh hưởng của kỹ thuật trích ly đến hoạt tính sinh học cao nấm Linh chi (Ganoderma lucidum) giàu polysaccharide.
+Bản B của Tạp chí Khoa học và Công nghệ Việt Nam.
+64(11): 32-37.
+[13].
+Nguyễn Văn Bình, Phạm Thị Phương & Nguyễn Tá Lợi (2018).
+Nghiên cứu một số yếu tố ảnh hưởng đến quá trình trích ly hàm lượng polysaccharide toàn phần trong nấm linh chi đỏ.
+Tạp chí Khoa học và Công nghệ Đại học Thái Nguyên.
+180(4): 3-8.
+[17].
+J Kolniak-Ostek, J Oszmia nski, A. Szyjka, H Moreira & E Barg (2022).
+Int.
+J. Mol.
+Sci.
+23: 9359.
+[14].
+Trần Nhân Dũng, Nguyễn Tường Vi, Trần Gia Huy & Phạm Bảo Đăng (2019).
+Khảo sát hiệu suất ly trích polysaccharide từ nấm linh chi (Ganoderma lucidum) bằng 5 loại dung môi khác nhau.
+Tạp chí đại học Cần Thơ.
+Chuyên san Nấm và Công nghệ sinh học.
+74-81.
+[18].
+Kairat Mustafin, Nina Bisko, Raushan Blieva, Galeb Al-Maali, Tatyana Krupodorova, Zhanar Narmuratova, Zhazira Saduyeva & Aigerim Zhakipbekova (2022).
+Antioxidant and antimicrobial potential of Ganoderma lucidum and Trametes versicolor.
+47(4): 483- 489.
+[15].
+41(13): 1923-1930.
+[19].
+R Radhika (2021).
+Int.
+J. Mod.
+Agric.
+10(2): 3488-3493.
+TẠP CHÍ KHOA HỌC VÀ CÔNG NGHỆ LÂM NGHIỆP TẬP 13, SỐ 5 (2024) 19

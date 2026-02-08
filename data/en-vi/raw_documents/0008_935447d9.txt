@@ -1,0 +1,182 @@
+JOURNAL OF 108 - CLINICAL MEDICINE AND PHARMACY Vol.18 - No3/2023 DOI: https://doi.org/10.52389/ydls.v18i3.1810
+Đặc điểm dịch tễ các týp huyết thanh của vi rút Dengue gây bệnh sốt xuất huyết Denge ở một số quận/huyện Hà Nội (2017-2019)
+The epidemiological characteristics of the Dengue virus serotyper causing Dengue hemorrhagic fever in some districts of Hanoi (2017-2019)
+Nguyễn Thị Vân*, Lê Trần Anh*, Đỗ Ngọc Ánh*, Đỗ Thị Thùy Dung**, Nguyễn Khắc Lực*
+*Học viện Quân Y, **Trường Đại học Điều dưỡng Nam Định
+Tóm tắt
+Mục tiêu: Xác định đặc điểm dịch tễ týp huyết thanh DENV gây sốt xuất huyết Dengue (SXHD) ở một số quận/huyện Hà Nội từ năm 2017-2019.
+Đối tượng và phương pháp: Hồi cứu số liệu báo cáo 270 bệnh nhân SXHD được xác định týp tại CDC Hà Nội từ 2017-2019.
+Kết quả: Tỷ lệ bệnh nhân nhiễm DENV1; 2; 4 lần lượt là 60%, 38,5%, 1,5%.
+DENV1 ở năm có dịch - 2017 (68,2%) chiếm ưu thế hơn năm không có dịch - 2018, 2019 (5,4%).
+Sự phân bố týp DENV1 theo vùng sinh thái hay theo đặc điểm đối tượng là không có sự khác biệt so với các týp DENV khác.
+Kết luận: Phát hiện 3 týp DENV gây bệnh trong đó týp DENV1 có tỷ lệ cao nhất (60%) sau đó là DENV 2 (38,5%), DENV 4 chiếm tỷ lệ rất thấp (1,5%).
+Phân bố týp DENV khác biệt theo thời gian, tỷ lệ DENV 1 trong năm có dịch - 2017 (68,2%) cao hơn năm không có dịch - 2018, 2019 (45,4%).
+Phân bố týp DENV 1 so với các týp DENV khác theo đối tượng (trẻ em, người lớn, nam và nữ) và khu vực sinh thái (nông thôn, thành thị) không có sự khác biệt.
+Từ khóa: Vi rút Dengue, lưu hành vi rút Dengue, týp vi rút Dengue.
+Ngày nhận bài: 25/12/2022, ngày chấp nhận đăng: 30/3/2023 Người phản hồi: Nguyễn Thị Vân.
+Email: bs.vank61@gmail.com - Học viện Quân Y
+TẠP CHÍ Y DƯỢC LÂM SÀNG 108 Tập 18 - Số 3/2023 DOI: https://doi.org/10.52389/ydls.v18i3.1810
+1.
+Đặt vấn đề
+Cỡ mẫu và phương pháp chọn mẫu: Cỡ mẫu toàn bộ.
+Toàn bộ bệnh nhân sốt xuất huyết Dengue được CDC Hà Nội thống kê báo cáo trong 3 năm 2017 đến 2019 để phân tích dịch tễ học bệnh SXHD, cụ thể là 16.977 bệnh nhân.
+Các bệnh nhân SXHD có kết quả xét nghiệm định týp huyết thanh để phân tích dịch tễ các týp huyết thanh của vi rút Dengue, cụ thể là 270 bệnh nhân.
+Chất liệu nghiên cứu: Báo cáo thống kê bệnh nhân, được thu thập tại Trung tâm Kiểm soát bệnh tật thành phố Hà Nội.
+270 bệnh nhân SXDH được lấy mẫu máu và thực hiện xét nghiệm định týp huyết thanh DENV tại Trung tâm Kiểm soát bệnh tật Hà Nội theo phương pháp PCR.
+Phương pháp xác định biến số và đo lường biên số: Năm có dịch là năm có số ca mắc bệnh SXHD cao đột biến, cao hơn ít nhất 2 lần số ca mắc của các năm khác [7].
+2.3.
+Xử lý số liệu
+Theo phương pháp thống kê y sinh học bằng phần mềm SPSS 22, excel 2016.
+Sử dụng thuật toán kiểm định Chi bình phương (χ2), sự khác biệt có ý nghĩa thống kê khi p<0,05.
+3.
+Kết quả
+Sốt xuất huyết Dengue (SXHD) là bệnh truyền nhiễm gây ra bởi vi rút Dengue.
+Đây là một trong 20 bệnh truyền nhiễm nổi trội được theo dõi, giám sát và báo cáo thường xuyên theo hệ thống giám sát dịch quốc gia hàng tuần [1].
+Vi rút Dengue gồm 4 týp huyết thanh là DENV 1, DENV 2, DENV 3, DENV 4.
+Theo các nghiên cứu trước đây, các týp huyết thanh DENV phân bố khác nhau giữa các vùng địa lý và có sự luân phiên vai trò gây bệnh theo thời gian và theo khu vực [2].
+Biểu hiện lâm sàng do các týp DENV gây ra là tương đối giống nhau [3].
+Tuy nhiên, nguy cơ nhiễm SXHD nặng, SXHD thứ phát là khác nhau giữa các týp DENV [4], [5].
+Ngoài ra, có bằng chứng cho rằng hiện tượng ADE (antibody dependent enhancement) góp phần làm bệnh nặng hơn ở những người bị tái nhiễm SXHD [6].
+Vì vậy, xác định các týp huyết thanh gây bệnh có vai trò quan trọng góp phần hỗ trợ cho việc dự đoán tình hình dịch, từ đó cảnh báo cho cộng đồng chủ động phòng chống bệnh SXHD.
+Ở Hà Nội, có nhiều công trình nghiên cứu về SXHD nhưng chủ yếu tìm hiểu về bệnh và vi rút truyền bệnh, ít có nghiên cứu về phân bố các týp huyết thanh theo thời gian, không gian và đối tượng mắc bệnh.
+Nghiên cứu này nhằm mục tiêu: Mô tả một số đặc điểm dịch tễ học các týp huyết thanh của vi rút Dengue gây bệnh SXHD ở một số quận/huyện thành phố Hà Nội trong 3 năm từ 2017-2019.
+2.
+Đối tượng và phương pháp
+2.1.
+Đối tượng
+Hình 1.
+Số ca mắc sốt xuất huyết theo năm
+Bệnh nhân SXHD được Trung tâm Kiểm soát bệnh tật thành phố Hà Nội (CDC) thống kê báo cáo hàng năm theo hướng dẫn tại quyết định 3711/QĐ- BYT ngày 19/9/2014 của Bộ Y tế.
+Thời gian: Từ 01/01/2017 tới 31/12/2019.
+Địa điểm: 4 quận/huyện ở Hà Nội đại diện cho 2 vùng sinh thái là thành thị (Đống Đa, Hoàng Mai) và nông thôn (Thường Tín, Hoài Đức).
+2.2.
+Phương pháp
+Trong 3 năm có 16.977 trường hợp bệnh SXHD đã được CDC Hà Nội tổng hợp báo cáo.
+Năm 2017 là năm có số trường hợp mắc SXHD nhiều nhất lên tới 12.162 trường hợp.
+Với số mắc như vậy, năm 2017 được gọi là năm có dịch.
+Năm 2018, 2019 có số trường hợp mắc lần lượt là 1.380 và 3.435, như vậy 2 năm này được gọi là năm không có dịch.
+Thiết kế nghiên cứu: Nghiên cứu hồi cứu, mô tả.
+Kết quả phân lập vi rút Dengue
+Thời gian Týp Denv
+2017 2018 2019 Tổng Số lượng Tỷ lệ % Số lượng Tỷ lệ % Số lượng Tỷ lệ % Số lượng Tỷ lệ %
+Trong 3 năm, có 270 trường hợp bệnh được lấy mẫu máu làm xét nghiệm xác định týp vi rút Dengue.
+Kết quả cho thấy, có 3 týp vi rút Dengue là DENV1, DENV2, DENV4 lưu hành ở điểm nghiên cứu.
+Trong đó, DENV1 chiếm tỷ lệ cao nhất (60%).
+DENV4 có tỷ lệ thấp nhất (1,5%).
+Bảng 2.
+Phân bố týp DENV theo đối tượng nghiên cứu
+DENV1 DENV khác p Số lượng Tỷ lệ % Số lượng Tỷlệ%
+Týp DENV Đặc điểm
+Nhóm tuổi ≤ 15 (n = 25) 20 80,0 5 20,0 p=0,054 > 15 (n = 245) 142 58,0 103 42,0
+Giới tính Nữ (n = 147) 89 60,5 58 39,5 p=0,85 Nam (n = 123) 73 59,3 50 40,7 Tổng 162 108
+Tỷ lệ nhiễm DENV 1 ở trẻ em (≤ 15 tuổi) là 80,0% cao hơn so với nhóm người > 15 tuổi (58,0%) tuy nhiên sự khác biệt chưa có ý nghĩa.
+Cơ cấu nhiễm các týp huyết thanh DENV giữa 2 giới là xấp xỉ nhau, sự khác biệt không có ý nghĩa thống kê với p>0,05.
+Bảng 3.
+Phân bố týp DENV theo thời gian
+Năm Týp DENV
+Năm có dịch - 2017 Năm không có dịch - 2018,2019 p Số lượng Tỷ lệ % Số lượng Tỷ lệ % DENV 1 (n = 162) 118 68,2 44 45,4 <0,001 DENV khác (n = 108) 55 31,8 53 54,6% Tổng 173 97
+Sự lưu hành của týp DENV theo thời gian khác biệt có ý nghĩa thống kê với p<0,001.
+Trong năm có dịch (2017) sự lưu hành của týp DEN1 (68,2%) cao hơn năm không có dịch (45,4%).
+Bảng 4.
+Phân bố týp DENV theo vùng sinh thái
+Týp DENV Vùng sinh thái
+DENV1 DENV khác p Số lượng Tỷ lệ % Số lượng Tỷ lệ % Nông thôn (n = 102) 66 64,7 36 35,3 =0,33 Thành thị (n = 168) 96 57,1 72 42,9 Tổng 162 108
+4.
+Bàn luận
+Ở khu vực thành thị, sự lưu hành của týp DENV 1 thấp hơn so với khu vực nông thôn, tuy nhiên sự khác biệt không có ý nghĩa thống kê với p>0,05.
+Sự phân bố týp huyết thanh của vi rút Dengue thay đổi từ năm này sang năm khác, từ miền này
+TẠP CHÍ Y DƯỢC LÂM SÀNG 108 Tập 18 - Số 3/2023 DOI: https://doi.org/10.52389/ydls.v18i3.1810
+sang miền khác [2].
+Kết quả ở Bảng 1 cho thấy, trong 3 năm từ 2017 đến 2019 trên địa bàn thành phố Hà Nội có sự lưu hành của 3 týp huyết thanh là DENV 1, DENV 2, DENV 4.
+thế dần týp huyết thanh gây bệnh trước đó.
+Theo nghiên cứu của Trương Uyên Ninh thì týp vi rút DENV1 có chu kỳ hoạt động khoảng 8 năm: Năm 1989, 1996 và năm 2000 [15].
+Như vậy, năm 2017 là năm đúng với chu kỳ hoạt động của týp huyết thanh này nên có thể vì đó mà góp phần tạo nên vụ dịch SXHD lớn ở Việt Nam.
+Một số nghiên cứu cũng khẳng định vai trò gây dịch năm 2017 là của DENV 1 [9], [10].
+Trong 3 kiểu huyết thanh lưu hành tại điểm nghiên cứu thì DENV1 chiếm tỷ lệ chủ yếu (60%) sau đó là DENV2 (chiếm 38,5%); DENV 4 chiếm tỷ lệ rất thấp.
+Các kết quả giám sát vi rút học trong gần hai thập kỷ qua cũng ghi nhận DENV-1; 2 vẫn là hai týp huyết thanh gây bệnh chiếm ưu thế trên toàn bộ lãnh thổ Việt Nam [8].
+Kết quả của chúng tôi phù hợp với công bố của Đặng Thị Thúy và Takemura trong vụ dịch SXHD năm 2017, ở đó vai trò gây bệnh của týp DENV1 là chủ yếu [9], [10].
+Các nghiên cứu khác ở khu vực châu Á cũng chỉ ra sự lưu hành của các týp vi rút DENV có sự khác nhau ở mỗi khu vực.
+Nghiên cứu của Cao và cộng sự ở Trung Quốc trong năm 2014 - 2015, týp DENV1 chiếm ưu thế ở Quảng Châu, còn DENV 2 chiếm ưu thế ở Xishuangbanna [11].
+Phân bố týp DENV ở Nhật Bản theo nghiên cứu của Ommer và cộng sự công bố năm 2021 thì có sự lưu hành của 3 týp DENV 1; 2; 3 trong đó vai trò gây bệnh chính là của DENV 2 [12].
+Sự khác biệt giữa 4 kiểu huyết thanh DENV trong các triệu chứng lâm sàng là khó xác định vì các biểu hiện là tương đối giống nhau [3].
+Kết quả ở Bảng 2 cho thấy tỷ lệ nhiễm týp DENV không có sự khác biệt ở các nhóm đối tượng, giữa trẻ em và người lớn, nam và nữ.
+Nghiên cứu tại Saudi Arabia cho thấy phân bố các týp DENV không khác biệt giữa hai giới, phân bố týp DENV 2 và DENV 3 khác biệt giữa các nhóm tuổi tuy nhiên phân bố của DENV 1 tương tự nhau giữa các nhóm tuổi [12].
+Trong nghiên cứu này, týp DENV 1 chiếm tỷ lệ chủ yếu do đó kết quả phân bố các týp DENV không có sự khác biệt giữa các nhóm đối tượng cũng là phù hợp.
+Kết quả của chúng tôi phù hợp với kết quả nghiên cứu tại Sri Lanka, sự phân bố của các týp DENV không có sự khác biệt giữa tuổi và giới [16].
+Kết quả trong Bảng 4 cho thấy sự lưu hành týp DENV không có sự khác biệt giữa nông thôn và thành thị.
+Tại Sri Lanka, phân bố týp DENV 1 và DENV 3 có sự khác nhau giữa các vùng, tuy nhiên phân bố týp DENV 2 và DENV 4 lại không có sự khác biệt [16].
+Tại Campuchia, giai đoạn 2012 - 2015 thấy DENV 4 chỉ chiếm 9% và xuất hiện chủ yếu ở khu vực nông thôn, năm 2016 và 2017 DENV 4 chiếm 70% và 67% xuất hiện cả ở vùng thủ đô Vientiane (đô thị) [17].
+Tại Việt Nam, vẫn còn ít nghiên cứu phân tích phân bố týp DENV theo các vùng sinh thái, do đó cần nghiên cứu tiếp theo ở những vùng khác.
+5.
+Kết luận
+Nghiên cứu sự phân bố các týp huyết thanh DENV theo thời gian ở Bảng 3 cho thấy, tỷ lệ týp huyết thanh DENV 1 trong năm có dịch - 2017 (68,2%) cao hơn năm không có dịch (45,4%).
+DENV 1 xuất hiện nhiều ở năm có dịch - 2017 có thể do số lượng vi rút xuất hiện trong huyết thanh của người nhiễm DENV1 cao hơn so với các DENV khác [13] điều này có thể giải thích một phần do hiện tượng ADE (antibody dependent enhancement) là các kháng thể có sẵn trong cơ thể từ nhiễm vi rút SXHD lần đầu liên kết với hạt DENV gây nhiễm trong lần nhiễm tiếp theo với 1 kiểu huyết thanh DENV khác.
+Các kháng thể từ nhiễm lần đầu không thể vô hiệu hóa vi rút.
+Thay vào đó, phức hợp vi rút - kháng thể - gắn vào các thụ thể được gọi là thụ thể Fcy trên các tế bào đơn nhân lưu hành.
+Các kháng thể giúp vi rút lây nhiễm bạch cầu đơn nhân hiệu quả hơn.
+Kết quả là sự gia tăng tổng thể sao chép của vi rút và vì thế số lượng vi rút trong cơ thể cao hơn [6].
+Qua phân tích số liệu trên 270 bệnh nhân SXHD được xác định týp huyết thanh gây bệnh sốt xuất huyết Dengue trong ba năm (2017-2019) tại Hà Nội, chúng tôi đưa ra một số kết luận và kiến nghị như sau:
+Mỗi týp huyết thanh DENV gây bệnh thường hoạt động theo chu kỳ [14] vì sau khi nhiễm DENV nào thì người bệnh sẽ có miễn dịch đặc hiệu với týp DENV đó.
+Vì thế, các týp huyết thanh khác sẽ thay
+Phát hiện được 3 týp DENV gây bệnh, trong đó týp DENV1 có tỷ lệ cao nhất (60%), sau đó là DENV 2 (38,5%), DENV 4 chiếm tỷ lệ rất thấp (1,5%).
+JOURNAL OF 108 - CLINICAL MEDICINE AND PHARMACY Vol.18 - No3/2023 DOI: https://doi.org/10.52389/ydls.v18i3.1810
+Phân bố týp DENV khác biệt theo thời gian, tỷ lệ DENV 1 trong năm có dịch - 2017 (68,2%) cao hơn năm không có dịch - 2018, 2019 (45,4%).
+phía Nam Việt Nam trong giai đoạn 2005-2004.
+Tạp chí Y Học Dự Phòng 5 (165), tr.
+4246.
+9.
+Đặng Thị Thúy (2021) Đặc điểm sinh học phân tử và
+mối liên quan với lâm sàng của týp dengue 1 gây dịch năm 2017.
+Tạp chí Nghiên cứu Y học 139 (3), tr.
+108-116.
+10.
+Takemura T, Nguyen CT, Pham HC et al (2022) The
+Phân bố týp DENV 1 so với các týp DENV khác theo đối tượng (trẻ em, người lớn, nam và nữ) và khu vực sinh thái (nông thôn, thành thị) không có sự khác biệt.
+Kiến nghị: Thực hiện xét nghiệm xác định týp DENV từ đầu mùa dịch trên phạm vi rộng để góp phần dự kiến mức độ dịch của năm trong khu vực.
+11.
+Cao J, Deng H, Ye L et al (2019) Epidemiological
+1.
+Bộ Y tế (2014) Quyết định 3711/QĐ-BYT 2014 hướng
+and clinical characteristics of Dengue virus outbreaks in two regions of China, 2014-2015.
+PLoS One 14: 0213353. https://doi.org/10.1371/ journal.pone.0213353.
+12.
+Ommer D, Abdulaziz H, Elsiddig N et al (2021)
+dẫn giám sát phòng chống bệnh sốt xuất huyết Dengue.
+https://thuvienphapluat.vn/van-ban/The- thao-Y-te/Quyet-dinh-3711-QD-BYT-2014-huong- dan-giam-sat-phong-chong-benh-Sot-xuat-huyet- Dengue-251556.aspx.
+2. WHO (2021) Dengue và sốt xuất huyết Dengue.
+https://doi.org/10.36959/856/520.
+13.
+3.
+Đặng Thị Thúy (2013) Đặc điểm lâm sàng bệnh sốt
+xuất huyết Dengue theo các týp vi rút Dengue gây bệnh.
+Tạp chí Y học Dự phòng số 2 (137), tr.
+30-34.
+4.
+PLoS Negl Trop Dis 5: 1244. https://doi.org/10.1371/journal.
+pntd.0001244.
+14.
+PLoS Negl Trop Dis 4: 617. https://doi.org/10.1371/journal.
+pntd.0000617.
+5.
+Rev Med Virol 29: 2037. https://doi.org/10.1002/ rmv.2037.
+15.
+Trương Uyên Ninh (2002) Giám sát sự lưu hành các
+týp virus Dengue tại Việt Nam, giai đoạn 1987-2001.
+Tạp chí Y học Dự phòng Số 5 (56), tập XII, tr.
+21-26.
+16.
+Jayadas TTP, Kumanan T, Gomes L et al (2021)
+Meta-analysis of dengue severity during infection by different Dengue virus serotypes in primary and secondary infections.
+PLoS One 11:e0154760.
+https://doi.org/10.1371/journal.pone.0154760.
+6.
+Model of antibody-dependent enhancement of
+Regional Variation in Dengue Virus Serotypes in Sri Lanka and Its Clinical and Epidemiological Relevance.
+Diagnostics (Basel) 11: 2084. https://doi.org/10.3390/diagnostics11112084.
+17.
+Calvez E, Pommelet V, Somlor S et al (2020) Trends of
+the Dengue Serotype-4 Circulation with Epidemiological, Phylogenetic, and Entomological Insights in Lao PDR between 2015 and 2019.
+7.
+8.
+Cao Minh Thắng (2015) Giám sát vi rút học bệnh sốt
+xuất huyết dengue trong chương trình mục tiêu quốc gia phòng chống sốt xuất huyết dengue tại khu vực

@@ -1,0 +1,337 @@
+© 2022 University of Transport and Communications
+Transport and Communications Science Journal, Vol 73, Issue 5 (06/2022), 470-485
+Tạp chí Khoa học Giao thông vận tải
+TÍNH TOÁN ỔN ĐỊNH CỦA TẤM NANO CHIỀU DÀY BIẾN ĐỔI
+CÓ VẾT NỨT VÀ CÓ XÉT ĐẾN ẢNH HƯỞNG
+CỦA HIỆU ỨNG FLEXO
+Đoàn Hồng Đức1, Đỗ Văn Thơm2, Phạm Minh Phúc3*
+1Trường Đại học Bách Khoa Hà Nội, số 1 Đại Cồ Việt, Hà Nội, Việt Nam
+2Học viện kỹ thuật quân sự, số 236 Hoàng Quốc Việt, Hà Nội, Việt Nam
+3Trường Đại học Giao thông Vận tải, số 3 Cầu Giấy, Hà Nội, Việt Nam
+THÔNG TIN BÀI BÁO
+CHUYÊN MỤC: Công trình khoa học Ngày nhận bài: 22/02/2022 Ngày nhận bài sửa: 23/05/2022 Ngày chấp nhận đăng: 08/06/2022 Ngày xuất bản Online: 15/06/2022 https://doi.org/10.47869/tcsj.73.5.3 * Tác giả liên hệ: phamminhphuc@utc.edu.vn
+Tóm tắt.
+Việc tính toán ổn định của tấm nano có vết nứt đã nhận được rất nhiều sự quan tâm trong thời gian gần đây, đặc biệt là xét đến tấm có chiều dày biến đổi và hiệu ứng flexo.
+Công thức phần tử hữu hạn được thiết lập dựa vào lý thuyết biến dạng cắt bậc nhất của Mindlin, vết nứt được mô phỏng dựa trên lý thuyết phase-field thông qua tham số phase-field, đây là cách tiếp cận kết cấu có vết nứt rất linh hoạt và có nhiều ưu điểm so với các phương pháp khác.
+Độ tin cậy của lý thuyết tính toán được kiểm chứng thông qua các so sánh với các kết quả đã công bố.
+Trên cơ sở đó, bài báo tiến hành khảo sát ảnh hưởng của một vài tham số vật liệu, hình học đến đáp ứng ổn định của tấm, trong đó chiều dày của tấm biến đổi theo cả quy luật tuyến tính và phi tuyến, đây là các kết quả nghiên cứu thú vị, thể hiện rõ sự ảnh hưởng đồng thời của hiệu ứng flexo, quy luật biến đổi của chiều dày tấm đến tải tới hạn mất ổn định của tấm nano cũng như các dạng mất ổn định của tấm nano.
+Kết quả số chỉ ra rằng, khi tấm nano xuất hiện vết nứt thì nó nhanh bị mất ổn định hơn, ngược lại khi tăng hệ số flexo thì tấm cứng hơn và chịu lực tốt hơn.
+Nghiên cứu này tạo cơ sở khoa học giúp các nhà thiết kế, chế tạo tấm nano đưa ra các khuyến cáo sử dụng khi tấm xuất hiện các vết nứt.
+Từ khóa: Chiều dày biến đổi, flexo, tấm nano, phương pháp phần tử hữu hạn.
+© 2022 Trường Đại học Giao thông vận tải
+Tạp chí Khoa học Giao thông vận tải, Tập 73, Số 5 (06/2022), 470-485
+1.
+ĐẶT VẤN ĐỀ
+Ngày nay, các kết cấu tấm kích thước nano ngày càng được sử dụng nhiều trong thực tế, và để nâng cao hiệu quả sử dụng của các kết cấu kích thước nano, người ta còn xem xét đến ảnh hưởng của hiệu ứng flexo, đây là hiệu ứng kết hợp giữa hiện tượng áp điện với sự phân cực điện tích do ảnh hưởng của sự biến thiên của các thành phần biến dạng.
+Chính vì vậy, cũng đã có nhiều công trình khoa học nghiên cứu ứng xử cơ học của các kết cấu này.
+Zhang và nhóm nghiên cứu của mình [1] đã nghiên cứu ảnh hưởng của hiệu ứng flexo đến đáp ứng đàn hồi-điện và dao động tự do của tấm nano dựa trên lý thuyết biến dạng tấm cổ điển và phương pháp Ritz.
+Yang và các cộng sự [2] cũng sử dụng lý thuyết tấm cổ điển để đưa ra lời giải chính xác đối với bài toán đáp ứng cơ học của tấm nano có xét đến hiệu ứng flexo.
+Shingare và Kundalwal [3] đã nghiên cứu ứng xử của tấm nano có gia cường bởi graphene và xét đến hiệu ứng flexo, các tác giả cũng xuất phát từ lý thuyết tấm cổ điển để dẫn ra lời giải của nghiên cứu này.
+Amir và đồng nghiệp [4] sử dụng lời giải Navier để đưa ra nghiên cứu về tấm nhiều lớp dạng sandwich, trong đó có xét đến ảnh hưởng của hiệu ứng flexo.
+Ghobadi cùng nhóm cộng sự [5] đã trình bày nghiên cứu về ứng xử cơ học phi tuyến của tấm nano có cơ tính biến đổi và kể đến hiệu ứng flexo.
+Arani và nhóm cộng tác [6] đã sử dụng phương pháp cầu phương vi phân để đưa ra lời giải đối với bài toán đáp ứng cơ học của tấm nano dạng vành khăn có thêm hiệu ứng flexo.
+Yue [7] đã nghiên cứu hiệu ứng bề mặt của các điện cực của tấm nano có tính thêm hiệu ứng flexo.
+Wang và Xian-Fang [8] đã dựa trên lý thuyết tấm cổ điển và lời giải dạng giải tích để phân tích ảnh hưởng của cả hiệu ứng tĩnh và động flexo đến đáp ứng của tấm nano.
+Các công trình [9-16, 33-34] cũng thể hiện rõ các đáp ứng cơ học của tấm nano chịu nhiều loại tải trọng cơ, nhiệt, điện và có xem xét ảnh hưởng của hiệu ứng flexo.
+Trong thực tế có thể xuất hiện các kết cấu có chiều dày biến đổi, sử dụng trong các thiết bị như cảm biến, máy phát điện nano….
+Tuy nhiên việc chế tạo có thể xuất hiện các vết nứt, làm thay đổi đáp ứng cơ học của tấm, nên các kết quả nghiên cứu của bài báo có thể làm cơ sở so sánh, kiểm chứng với các phương pháp thực nghiệm để đánh giá tấm có xuất hiện vết nứt hay chưa, và khi xuất hiện vết nứt, thì với chiều dài như nào thì vẫn còn có thể sử dụng được nếu tấm chịu lực nén trong mặt phẳng của tấm.
+Và đây là cũng là nghiên cứu tiền đề để tiếp tục các nghiên cứu khác để dự đoán sự phát triển của vết nứt trong quá trình chịu tải.
+Để mô phỏng vết nứt, có nhiều phương pháp được sử dụng, như phương pháp phần tử hữu hạn, phương pháp phần tử hữu hạn mở rộng, phương pháp đẳng tham số, phương pháp phần tử hữu hạn kết hợp lý thuyết phase-field, phương pháp đẳng hình học,.... Trong đó phương pháp phần tử hữu hạn kết hợp lý thuyết phase-field là phương pháp tiếp cận mới và có nhiều ưu điểm, như tính linh hoạt cao, có thể mô tả được vết nứt với hình dạng phức tạp.
+Việc sử dụng phương pháp này để giải các bài toán cơ học đã được trình bày trong các công trình [19-28], các công trình này cũng thể hiện rõ ưu điểm của lý thuyết phase-field và khả năng ứng dụng của lý thuyết này đối với các bài toán tấm, vỏ có vết nứt.
+2.
+CÔNG THỨC PHẦN TỬ HỮU HẠN TÍNH TOÁN TẤM NANO CÓ CHIỀU DÀY
+BIẾN ĐỔI VÀ CÓ VẾT NỨT VÀ CÓ KỂ ĐẾN ẢNH HƯỞNG CỦA HIỆU ỨNG FLEXO
+Xét tấm nano có chiều dày biến đổi và có vết nứt như trên hình 1, tấm có chiều dài và chiều rộng là a và b, tấm có chiều dày biến đổi tuyến tính và phi tuyến, trong đó chiều dày tấm tại gốc tọa độ là h0.
+Transport and Communications Science Journal, Vol 73, Issue 5 (06/2022), 470-485
+crack
+b. Chiều dày biến đổi tuyến tính c. Chiều dày biến đổi phi tuyến
+Hình 1.
+Mô hình tấm có vết nứt và chiều dày biến đổi.
+Bài báo sử dụng lý thuyết biến dạng cắt bậc nhất của Mindlin, các thành phần chuyển vị được viết ở dạng sau:
+0 0 0 ; ; x x y y z u u z u v z u w   = + = + = (1)
+trong đó 0u , 0v , và 0 w là các thành phần chuyển vị dọc theo các trục x, y, z trong mặt phẳng
+trung bình của tấm, và x , y  là các góc xoay quanh các trục y và x.
+Tấm được chia thành các phần tử hữu hạn 3 điểm nút, mỗi nút có 5 bậc tự do chuyển vị cơ và một thành phần là biến phase-field s. Các thành phần này được nội suy theo phương pháp phần tử hữu hạn như sau
+i i i i x i xi i i i u N u v N v N  
+= = = = = =    ;
+s s y i yi i i i i N s N s  
+= = = = =   N s (2)
+trong đó n = 3 là số nút của phần tử, Ni,
+s i N là các hàm nội suy tương ứng với các thành phần chuyển vị cơ và biến phase-field.
+Trường biến dạng uốn của tấm
+ε= ε ε = 0 1 e e z + B d Bd (3)
+u y v x z u x
+     +         =  +   = +          +  +  +        
+e x y u ,v ,w , ,  = d là véc tơ chuyển vị nút phần tử, và các ma trận vi phân
+trong đó   0 0 0
+hàm dạng
+Tạp chí Khoa học Giao thông vận tải, Tập 73, Số 5 (06/2022), 470-485
+= =
+N N x x N N ; y y N N N N y x y x
+                      = =                              
+Trường biến dạng cắt của tấm:
+γ= = s e B d ;
+=
+   +        =          +     
+        =          B (5)
+Giả thiết điện trường chỉ tác dụng theo phương chiều dày của tấm, bỏ qua điện trường trong mặt phẳng xy.
+Do vậy, sự biến thiên của biến dạng lúc này có dạng:
+x x xxz
+η = e  B d ;
+=
+y y yyz
+        =          B (6)
+    = =       =       = =      
+Tấm nano có xét đến ảnh hưởng của hiệu ứng flexo, do vậy ứng suất và các thành phần chuyển vị điện tích có thể biểu diễn như sau [2]:
+; ; ij ijkl kl kij k ijm kijm k i ijk jk ij k ijkl jkl c e E f E P e E f       = − = − = + + (7)
+trong đó ij  là tensor ứng suất, Ek là điện trường; ijm  là tensor mô men ứng suất hoặc tensor
+ứng suất bậc cao; Pi là véc tơ chuyển vị điện; ijkl c , kij e , kijm f , and ij  là các thành phần liên
+quan đến vật liệu, áp điện, flexo và hằng số điện môi, được trình bày cụ thể như trong tài liệu [2].
+Thành phần thứ ba trong biểu thức của Pi ( ijkl jkl f  ) thể hiện sự phân cực điện tích do ảnh
+hưởng của hiệu ứng flexo [2].
+Biểu thức (7) được viết cụ thể như sau:
+; τ γ=F γ xz 66
+       = =          
+          = − =              
+; ( ) ( ) 31 33 14 z x y z xxz yyz P e E f      = + + + + (9)
+      = = −        
+trong đó f14 = f3113, f14 = f3223 [17] và
+Transport and Communications Science Journal, Vol 73, Issue 5 (06/2022), 470-485
+  =    
+      = =         
+Theo định luật Gauss trong tĩnh điện, thành phần chuyển vị điện tích được tính thông qua quan hệ sau / 0 zP z  =
+Trong điều kiện mạch hở, biểu thức điện trường được biểu diễn như sau
+( ) ( )   ( ) 31 14 0 0 1 1 33 33 z x y x y xxz yyz e f E z         = − + + + − + (11)
+Hoặc viết ở dạng cụ thể như sau   31 14 0 1 1 33 33 z xy e xy e xy e e f E z   = − + − B d B d B d (12)
+trong đó
+0 1 1 1 0 0 0 0 0 0 n n i i i i xy xy i i N N N N ; x y x y = =         = =               B B (13)
+= 1 = 0
+0.5lc -0.5lc
+Hình 2.
+Mô hình phần tử hữu hạn tấm có vết nứt.
+Để mô phỏng vết nứt, bài báo sử dụng lý thuyết phase-field [18-27], trong đó sử dụng biến phase-field s biến đổi trơn liên tục từ 0 đến 1, khi s = 1 có nghĩa là vật liệu chưa bị phá hủy, và khi s = 0 có nghĩa là vật liệu bị phá hủy hoàn toàn.
+Khi 0 < s < 1 thì vật liệu ở trạng thái mềm hóa, tức là nó đang trong quá trình biến đổi ở trạn thái phá hủy ở phạm vi rất nhỏ.
+Vì vậy, bằng việc sử dụng biến s, vết nứt được mô tả bởi vùng hẹp và liên tục, bề rộng vùng hẹp này được mô tả bởi tham số lc, và năng lượng của kết cấu sẽ được nhân với biến s2 để thể hiện sự suy giảm của năng lượng khi vết nứt xuất hiện.
+Lúc này, năng lượng của tấm nano có xét đến ảnh hưởng của hiệu ứng flexo và chịu nén trong mặt phẳng trung bình của tấm có dạng như sau
+T T T T T e
+s w w z dV    = + + + +   ε σ γ τ η χ σ σ ) )
+ε F ε ε F ε ε F ε ε F ε γ F γ =
+z z z s dV w w z
+Tạp chí Khoa học Giao thông vận tải, Tập 73, Số 5 (06/2022), 470-485
+T T x y x y x y x y V
+f e f e s z dV      
+T T x y x y V
+f e f e s z dV      
+T T x y x y V
+f s dV   
+s G l s dzd l 
+trong đó   0 0 0 0 0 , ; ,   = σ ) là lực nén tác dụng trong mặt phẳng trung bình của tấm, GC là hệ
+số giải phóng năng lượng tới hạn, được chỉ ra theo lý thuyết Griffith, và
+; w w    =  = B d B d
+ = =
+N N x x ; N N
+w w i i i i
+                = =                
+Viết lại biểu thức (14) theo chuyển vị nút phần tử, ta thu được
+B F B B F B D F D d d B F B B F B +B F B B σ B B σ B ) )
+z z s dV z z
+T T T T e e e T T T T T V s s w w
+    + +   =       + + + +       
+f e f e s z dV  
+T T T e xy xy e V
+Transport and Communications Science Journal, Vol 73, Issue 5 (06/2022), 470-485
+s G l s dzd l 
+2 T 2 e e C c c V V
+1 s 1 s dV G l s dzdV 2 4l        −     = + +                      d d d (16)
+Để tìm phương trình cân bằng của phần tử, ta tiến hành lấy vi phân của hàm ( ) e e,s  d
+như sau
+ =  = 
+Và viết ở dạng ma trận:
+N s s N N s s N d N s s B B (18a)
+T T s e e s s e T T T T e s s e C e c sp sp c 2 dz d 2G l d 0 4l 
+      −   + + =      
+( ) e e cr G e 0  + = K K d (18b)
+trong đó sp e s = B s
+Sau khi tập hợp ma trận và khử biên, phương trình cân bằng của toàn bộ kết cấu có dạng:
+N s s N N s s N u N s s B B (19a)
+T T s e qe s s e T T T T qe s q s e C e c sp sp e c 2 dz d 2G l d 0 4l 
+        −     + + =            
+0  + =  K K d (19b)
+( )   e e cr G e e
+Như vậy rõ ràng ma trận độ cứng của phần tử phụ thuộc vào hệ số f14, do vậy hiệu ứng flexo (thông qua hệ số f14) rõ ràng ảnh hưởng đến khả năng chịu tải của tấm, tức là ảnh hưởng tới khả năng ổn định của tấm.
+Giải phương trình (19a), ta sẽ thu được biến phase-field s, sau đó thay vào phương trình (19b) ta sẽ thu được tải tới hạn mất ổn định cũng như các dạng mất ổn định tương ứng của tấm nano.
+Và để tìm được giá trị của biến phase-field s, thì vết nứt cần được thiết lập trước để biết rõ bề rộng và chiều dài vết nứt.
+Lúc này, biểu thức năng lượng giải phóng qua vết nứt được viết như sau [19-21]
+( ) ( ) ( ) / .
+c c s G B G 4l H x = d (20)
+c c l l y   , còn H(x) = 0 trong trường hợp còn lại.
+trong đó, Hs(x) nhận giá trị 1 khi x c và -
+Tham số c là chiều dài vết nứt, B là hằng số, theo công trình [18] thì B = 1000.
+Trong trường hợp tổng quát Gc là hằng số vật liệu, xác định theo [19-21].
+Còn bề rộng vết nứt lc được chọn theo sự khuyến cáo như trong công trình [24], ở đây bài báo chọn giá trị lc =a/200.
+Tạp chí Khoa học Giao thông vận tải, Tập 73, Số 5 (06/2022), 470-485
+3.
+VÍ DỤ TÍNH TOÁN
+3.1.
+Ví dụ kiểm chứng
+Ví dụ 1: Phần này kiểm chứng tải tới hạn mất ổn định của tấm có vết nứt bằng cách so sánh với các kết quả thực nghiệm như trong công trình [29], tấm vuông cạnh 240 mm, chiều dày tấm 12 mm, hệ số Poisson 0,33.
+Tấm bị nén dọc theo hai cạnh đối diện bị ngàm, hai cạnh còn lại tự do.
+Kết quả tính toán và so sánh được chỉ ra như trong bảng 1.
+Người đọc có thể thấy rõ sự sai lệch lớn nhất với kết quả thực nghiệm là 0,559%, điều này chứng tỏ lý thuyết tính toán như bài báo đề xuất đảm bảo độ chính xác cần thiết.
+Bảng 1.
+So sánh tải tới hạn mất ổn định của tấm có vết nứt, = 0.
+Thực nghiệm
+Tỷ lệ chiều dài vết
+% Sai lệch
+nứt (c/a) Số lượng phần tử Bài báo (N)
+Ví dụ 2: Ví dụ này kiểm chứng tải tới hạn mất ổn định của tấm có chiều dày biến đổi theo phương trục x, và lực nén cũng tác dụng theo phương trục x. Tấm có chiều dài a, rộng b, chiều dày biến đổi theo quy luật h = h0(1+ / x a  ) với 0 / 1 ah h = − và h0 = a/100 tại x =0, h = ha tại x = a. Tải tới hạn mất ổn định không thứ nguyên được định nghĩa
+2 2 0 / ( ) cr M N b D   = % (với ( ) 3 2 /12 1 M M D Eh  = − và ( ) 0 / 2 M a h h h = + ).
+Bảng 2 thể hiện sự so
+sánh kết quả tải tới hạn mất ổn định được tính bằng lý thuyết bài báo với kết quả đã công bố [30-32].
+Dễ dàng thấy các kết quả rất gần nhau, chứng tỏ độ tin cậy của lý thuyết tính toán trong bài báo này là hợp lý.
+Bảng 2.
+So sánh tải tới hạn mất ổn định của tấm có chiều dày biến đổi tuyến tính.
+a/b Lời giải
+Semianalytical solution [30] 3,970 3,878 3,720 3,560 3,317
+3.2.
+Khảo sát số
+Tấm nano có vết nứt dài c, tâm vết nứt tại chính giữa tấm và song song với cạnh a của tấm.
+Tấm có chiều dày biến đổi với các tham số hình học như sau: chiều dài a =100 nm, chiều rộng b có thể thay đổi; vật liệu tấm là PZT-5H có các tham số vật liệu [2]: c11=102 Gpa, c12=31 Gpa, c33=35,50 Gpa, e31=-17,05 C/m2, k33=1,76.10-8 C/(Vm).
+Tấm có chiều dày biến đổi theo bốn quy luật như sau: Tấm có chiều dày chỉ biến đổi tuyến tính theo trục x: h = h0(1-
+/ x a  ) với h0 = a/100, h = h0 tại x =0.
+Tấm có chiều dày biến đổi theo cả trục x và y: h =
+Transport and Communications Science Journal, Vol 73, Issue 5 (06/2022), 470-485
+h0(1- / x a  )(1- / y b  ) với h0 = a/100, h = h0 tại x =0, y = 0.
+Tấm có chiều dày biến đổi phi
+tuyến dạng I: ( ) ( ) 2 0 1 / h h x a  = − với h0 = a/100, h = h0 tại x =0.
+Tấm có chiều dày biến đổi
+phi tuyến dạng II: ( ) ( ) ( ) 2 0 / 2 / 1 h h x a x a   = − + với h0 = a/100, h = h0 tại x =0.
+Tham số
+khảo sát là tải tới hạn mất ổn định không thứ nguyên được định nghĩa:
+N b k D  = ; 3 11 0 0.1 M D c h = (21)
+- Ảnh hưởng của hệ số f14
+Để thấy rõ ảnh hưởng của hệ số f14 đến đáp ứng ổn định tĩnh của tấm, giá trị của hệ số này biến đổi sao cho * 14 f nhận giá trị từ 0 đến 4 (giá trị f14 = 0 tương ứng với bỏ qua hiệu ứng flexo), tấm chịu liên kết tựa đơn tất cả các cạnh, chiều dài vết nứt c = 0,2a.
+Kết quả tính toán tải tới hạn mất ổn định của tấm được cho như trong bảng 3, kết quả chỉ ra rằng hệ số f14 càng lớn thì tải tới hạn càng tăng, có nghĩa là hệ số f14 làm tăng độ cứng của tấm, điều này có nghĩa rằng hiệu ứng flexo làm tăng khả năng chịu tải của tấm nano.
+Ngoài ra, dễ thấy rằng tấm chiều dày biến đổi phi tuyến dạng I có khả năng chịu tải trọng nén tốt nhất.
+Bảng 3.
+Sự phụ thuộc của tải tới hạn mất ổn định kb của tấm nano vào hệ số * 14 f , c =0,2a.
+Quy luật biến đổi chiều dày tấm
+Chiều dày biến
+Chiều dày biến
+Chiều dày biến
+đổi tuyến tính
+Chiều dày biến đổi theo cả trục x
+đổi phi tuyến
+đổi phi tuyến
+theo trục x
+dạng I
+dạng II
+Tạp chí Khoa học Giao thông vận tải, Tập 73, Số 5 (06/2022), 470-485
+- Khảo sát ảnh hưởng của chiều dài vết nứt
+Phần này sẽ xem xét ảnh hưởng của chiều dài vết nứt c đến đáp ứng ổn định tĩnh của tấm nano, tấm tựa đơn tất cả các cạnh, * 14 f = 1, giá trị của c tăng dần để tỷ số c/a tăng dần từ 0 đến 0,6, c/a = 0 có nghĩa là tấm không bị nứt.
+Kết quả tính toán tải tới hạn được chỉ ra như trong bảng 4, người đọc dễ dàng thấy rằng khi tăng chiều dài vết nứt, tấm trở lên mềm hơn, tấm chịu tải kém hơn, nên tải tới hạn có giá trị nhỏ hơn.
+Dạng mất ổn định của tấm nano trong trường hợp vết nứt có chiều dài c/a = 0,5 được vẽ như trên Hình 3, có thể thấy rằng mặc dù vết nứt xuất hiện, nhưng do ảnh hưởng của flexo nên dạng mất ổn định của tấm không thay đổi nhiều với các dạng biến đổi của chiều dày tấm, nhưng khi bỏ qua ảnh hưởng của flexo thì quy luật biến đổi của chiều dày ảnh hưởng lớn đến dạng mất ổn định của tấm nano.
+Bảng 4.
+Sự phụ thuộc của tải tới hạn mất ổn định kb của tấm nano phụ thuộc vào c, * 14 f = 1.
+Quy luật biến đổi chiều dày tấm
+Chiều dày biến
+Chiều dày biến
+Chiều dày biến
+đổi tuyến tính
+Chiều dày biến đổi theo cả trục x
+đổi phi tuyến
+đổi phi tuyến
+theo trục x
+dạng I
+dạng II
+* 14 f =
+Transport and Communications Science Journal, Vol 73, Issue 5 (06/2022), 470-485
+* 14 f =
+Chiều dày biến đổi
+Chiều dày biến đổi
+Chiều dày biến đổi
+Chiều dày biến đổi tuyến tính theo trục x
+theo cả trục x và y
+phi tuyến dạng I
+phi tuyến dạng II
+Hình 3.
+Dạng mất ổn định của tấm nano phụ thuộc hệ số * 14 f , = 0,5, c/a = 0,5.
+- Khảo sát ảnh hưởng của điều kiện biên
+Để thấy rõ sự ảnh hưởng của điều kiện biên đến đáp ứng ổn định tĩnh của tấm, phần này tính toán tấm với năm điều kiện biên khác nhau: tấm tựa đơn bốn cạnh (SSSS), ngàm bốn cạnh (CCCC), hai cạnh đối diện tựa đơn và hai cạnh còn lại ngàm (CSCS), hai cạnh liên tiếp ngàm và hai cạnh còn lại tựa đơn (CCSS), hai cạnh đối diện ngàm và hai cạnh còn lại tự do (CFCF), các kết quả tính toán được thể hiện như trong Bảng 5.
+Các kết quả tính toán chỉ ra rằng tấm ngàm tất cả các cạnh sẽ có tải tới hạn mất ổn định lớn nhất, tấm chịu liên kết tựa đơn tất cả các cạnh sẽ có tải tới hạn mất ổn định bé nhất, điều này chứng tỏ điều kiện biên có ảnh hưởng đáng kể đến tải tới hạn mất ổn định của tấm.
+Dạng mất ổn định của tấm được thể hiện như trong Hình 4, dễ dàng thấy rằng điều kiện biên ảnh hưởng rất lớn đến hình dạng mất ổn định của tấm nano, tấm SSSS ít thay đổi dạng mất ổn định khi quy luật biến đổi của chiều dày khác nhau, điều này chứng tỏ quy luật biến đổi chiều dày và điều kiện biên có ảnh hưởng rõ rệt đến dạng mất ổn định tĩnh của tấm nano khi có kể đến ảnh hưởng của hiệu ứng flexo.
+Bảng 5.
+Sự phụ thuộc của tải tới hạn kb của tấm nano phụ thuộc điều kiện biên,
+* 14 f = 1.
+Quy luật biến đổi chiều dày tấm
+Chiều dày biến
+Chiều dày biến
+Chiều dày biến đổi phi
+đổi tuyến tính
+Chiều dày biến đổi theo cả trục x
+đổi phi tuyến
+kiện biên
+tuyến dạng
+theo trục x
+dạng I
+Tạp chí Khoa học Giao thông vận tải, Tập 73, Số 5 (06/2022), 470-485
+Transport and Communications Science Journal, Vol 73, Issue 5 (06/2022), 470-485
+Chiều dày biến đổi
+Chiều dày biến đổi
+Chiều dày biến đổi
+Chiều dày biến đổi tuyến tính theo trục x
+theo cả trục x và y
+phi tuyến dạng I
+phi tuyến dạng II
+Hình 4.
+Dạng mất ổn định của tấm nano phụ thuộc vào điều kiện biên, = 0,5, c/a = 0,5.
+5.
+KẾT LUẬN
+Bài báo trình bày nghiên cứu về ổn định tĩnh của tấm nano có vết nứt và có tính đến ảnh hưởng của flexo.
+Các công thức phần tử hữu hạn được xây dựng dựa trên lý thuyết biến dạng cắt bậc nhất và lý thuyết phase-field, chiều dày tấm giả thiết biến đổi theo cả quy luật tuyến tính và phi tuyến.
+Các kết quả so sánh được thực hiện nhằm kiểm chứng độ tin cậy của lý thuyết tính toán.
+Trên cơ sở đó, bài báo tiến hành khảo sát ảnh hưởng của một số yếu tố như ảnh hưởng của flexo, chiều dài vết nứt và điều kiện biên đến đáp ứng ổn định tĩnh của tấm nano.
+Các kết quả tính toán chỉ ra rằng khi tăng hệ số f14 thì tấm nano trở lên cứng hơn, và tấm chịu lực tốt hơn.
+Chiều dài vết nứt càng tăng thì tấm càng trở lên mềm hơn, và khả năng chịu lực của tấm nano sẽ giảm xuống.
+Điều kiện biên có ảnh hưởng lớn đến cả giá trị tải tới hạn mất ổn định của tấm nano, và ảnh hưởng đến các dạng mất ổn định của tấm.
+Các kết quả tính toán này là tài liệu tham khảo có giá trị khi thiết kế, chế tạo và sử dụng tấm nano trong thực tế.
+LỜI CẢM ƠN
+Nghiên cứu này được tài trợ bởi quỹ NAFOSTED mã số 107.02-2020.18.
+https://doi.org/10.1007/s00707-015-1373-8 [3] K.B.
+Shingare, S.I.
+Kundalwal, Static and dynamic response of graphene nanocomposite plates with flexoelectric effect, Mechanics of Materials, 134 (2019) 69-84. https://doi.org/10.1016/j.mechmat.2019.04.006 [4] S. Amir, H.B.A.
+Zarei, M. Khorasani, Flexoelectric vibration analysis of nanocomposite sandwich plates, Mechanics Based Design of Structures and Machines: An International Journal, 48 (2020) 146- 163. https://doi.org/10.1080/15397734.2019.1624175 [5] A. Ghobadi, Y.T.
+https://doi.org/10.1007/s00419-020-01708-0
+Tạp chí Khoa học Giao thông vận tải, Tập 73, Số 5 (06/2022), 470-485
+[6] A.G. Arani, A.H.S.
+Beni, K.K.
+Zur, M. Arefi, J. Kim, J.N.
+Shu, X.Y.
+Wei, T. Pang, X. Yao, C.L.
+Wang, Symmetry of flexoelectric coefficients in crystalline medium.
+Journal of Applied Physics, 110 (2011) 104106. https://doi.org/10.1063/1.3662196 [18] B. Zaouagui, S.A. Belalia, A. Boukhalfa, h-p finite element vibration analysis of side cracked rectangular nano-plates based on nonlocal elasticity theory, The European Physical Journal Plus, 134 (2019).
+https://doi.org/10.1140/epjp/i2019-12724-9 [19] K. Josef, A. Marreddy, L.D.
+Francfort, J.J. Marigo, The variational approach to fracture, Journal of Elasticity, 91 (2008) 5–148.
+https://doi.org/10.1007/s10659-007-9107-3
+Transport and Communications Science Journal, Vol 73, Issue 5 (06/2022), 470-485
+[21] J.B. Michael, V.V.
+Clemens, A.S. Michael, J.R.H.
+Thomas, M.L.
+https://doi.org/10.1016/j.cma.2012.01.008 [22] V.D.
+Thom, H.D.
+Duc, N.D. Duc, Q.B.
+Duc, Q.B.
+Duc, V.D.
+Truong, V.D.
+Thom, H.D.
+Nam, H.D.
+Nguyen, V.D.
+Thom, T.T.
+Wittrik, C.H.
+Nerantzaki, J.T.
+Thai, D.T.
+Luat, V.B.
+Phung, P.V.
+Minh, D.V.
+https://doi.org/10.1007/s00419-021-02048-3.
+[34] D.H. Doan, A.M. Zenkour, D.V.

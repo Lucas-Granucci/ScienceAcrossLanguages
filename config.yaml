@@ -15,9 +15,9 @@ languages:
 
 data:
   root: "data"
-  unprocessed_dir: "unprocessed"
-  processed_dir: "processed"
-  backtranslated_dir: "backtranslated"
+  raw_pdfs_dir: "raw_pdfs"
+  raw_documents_dir: "raw_documents"
+  graph_dir: "graphs"
   translation_dir: "translation"
   baseline_dir: "baseline"
 

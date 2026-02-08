@@ -1,4 +1,5 @@
 from typing import Any, Dict, List, Optional, TypedDict
+from pathlib import Path
 
 
 class DiscourseUnit(TypedDict):
@@ -25,3 +26,4 @@ class GraphState(TypedDict):
     current_index: int  # Pointer to current discourse being processed
 
     final_document: str
+    graph_save_dir: Path

@@ -5,6 +5,7 @@ from agents import (
     TerminologyAgent,
     RAGAgent,
 )
+import json
 from langgraph.graph import END, StateGraph
 from graph.state import DiscourseUnit, GraphState
 from utils import document_to_sentences
@@ -61,6 +62,16 @@ class GraphBuilder:
         dep_agent = self.dep_agent
 
         def node(state: GraphState):
+            if state["discourses"]:
+                print(
+                    f"dependency_graph: using preloaded {len(state['discourses'])} discourses"
+                )
+                return {
+                    "discourses": state["discourses"],
+                    "edges": state["edges"],
+                    "current_index": 0,
+                }
+
             sentences = document_to_sentences(state["source_document"])
             discourses, edges = dep_agent.generate_dependency_graph(sentences)
 
@@ -80,7 +91,11 @@ class GraphBuilder:
             print(
                 f"dependency_graph: created {len(discourse_units)} discourses and {len(edges)} edges"
             )
-            return {"discourses": discourse_units, "edges": edges, "current_index": 0}
+            return {
+                "discourses": discourse_units,
+                "edges": edges,
+                "current_index": 0,
+            }
 
         return node
 
@@ -156,8 +171,27 @@ class GraphBuilder:
     def _finalize_node(self):
         def node(state: GraphState):
             translations = [d["target_text"] for d in state["discourses"]]
+
             translations = list(filter(None, translations))
             full_doc = " ".join(translations)
+
+            output = {
+                "language_pair": state["language_pair"],
+                "source_document": state["source_document"],
+                "final_document": full_doc,
+                "discourses": [
+                    {
+                        "idx": d["id"],
+                        "source_txt": d["source_text"],
+                        "translated_txt": d["target_text"],
+                    }
+                    for d in state["discourses"]
+                ],
+                "edges": state["edges"],
+            }
+            with open(state["graph_save_dir"], "w", encoding="utf-8") as f:
+                json.dump(output, f, indent=4, ensure_ascii=False)
+
             print(f"finalize: concatenated {len(translations)} segments")
             return {"final_document": full_doc}
 

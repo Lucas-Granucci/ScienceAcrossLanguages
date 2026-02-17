@@ -1,0 +1,410 @@
+{"text": "Tạp chí Khoa học Trường Đại học Cần Thơ   Tập 59, Số Chuyên đề: Môi trường và Biến đổi khí hậu (2023): 42-53\n\nDOI:10.22144/ctu.jvn.2023.105\nĐÁNH ĐỔI PHÁT THẢI KHÍ NHÀ KÍNH ĐỂ ĐẠT ĐƯỢC HIỆU QUẢ TÀI  CHÍNH TỪ MÔ HÌNH CANH TÁC ỚT VÀ CẢI XANH TẠI HUYỆN HÒN ĐẤT,  TỈNH KIÊN GIANG\nNguyễn Thị Kim Phước1 và Lê Trần Thanh Liêm2*\n1Khoa Tài nguyên – Môi trường, Trường Đại học Kiên Giang\n2Khoa Phát triển Nông thôn, Trường Đại học Cần Thơ  *Người chịu trách nhiệm về bài viết: Lê Trần Thanh Liêm (email: lttliem@ctu.edu.vn)\nABSTRACT\nThông tin chung:  Ngày nhận bài: 15/12/2022  Ngày nhận bài sửa: 12/02/2023  Ngày duyệt đăng: 04/04/2023    Title:   Greenhouse gases emission  tradeoffs to achieve financial  efficiency value from chili and  green mustard cultivation in  Hon Dat District, Kien Giang  Province, Vietnam\nTừ khóa:   Cải xanh, hiệu quả tài chính,  khí nhà kính, ớt, phát thải từ  trồng trọt\nThe research evaluated the greenhouse gases (GHGs) emission tradeoff for  financial efficiency gained from chili and green mustard cultivation based on  the emissions and the cultivation models’ profit."}
+{"text": "TÓM TẮT\nKeywords:  Chili, emission from  horticulture, financial  efficiency, greenhouse gases,  green mustard\nNghiên cứu này được thực hiện nhằm đánh giá lượng phát thải cần đánh đổi  để đạt giá trị hiệu quả tài chính trong canh tác ớt và cải xanh dựa trên sự  phát thải khí nhà kính và lợi nhuận đạt được."}
+{"text": "Phương pháp đánh giá vòng đời  với cách tiếp cận “cradle-to-gate” và khung đánh giá 100-năm bằng phần  mềm MiLCA được sử dụng để ước lượng khí nhà kính phát thải thông qua  hoạt động sản xuất vật tư nông nghiệp đầu vào."}
+{"text": "Mô hình trồng cải xanh phát  thải 11.249,7 kg-CO2e ha−1 năm−1, cao hơn mô hình trồng ớt (7.455,5 kg-CO2e  ha−1 năm−1)."}
+{"text": "Tuy nhiên, tính trên khối lượng sản phẩm, ớt có mức phát thải  cao hơn cải xanh thương phẩm (246,5 kg-CO2e t−1 và 107,4 kg-CO2e t−1)."}
+{"text": "Ở  thời điểm nghiên cứu và ước tính cho năm 2022, canh tác ớt đạt lợi nhuận  (535,676 ± 101.118 triệu đồng ha−1 năm−1) cao hơn 1,37 lần so với canh tác  rau cải xanh (392,386 ± 124.570 triệu đồng ha−1 năm−1)."}
+{"text": "Trong thực tế canh  tác, để đạt được 1.000 đồng lợi nhuận, trồng cải xanh đã phát thải 28.67  g-CO2e, cao hơn 2,1 lần so với trồng ớt (13,92 g-CO2e đồng−1)."}
+{"text": "42\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 59, Số Chuyên đề: Môi trường và Biến đổi khí hậu (2023): 42-53\n1."}
+{"text": "GIỚI THIỆU\nNông nghiệp có vai trò vô cùng quan trọng đối  với kinh tế − xã hội của Việt Nam khi đóng góp 24%  GDP, sử dụng hơn 47% lực lượng lao động của quốc  gia (Lâm, 2020)."}
+{"text": "Trồng trọt là một trong những lĩnh  vực quan trọng hàng đầu của ngành nông nghiệp."}
+{"text": "Giá trị sản xuất của ngành trồng trọt chiếm từ 64 đến  68% giá trị sản xuất của toàn ngành nông nghiệp  (Tổng cục Thống kê [GSO], 2022)."}
+{"text": "Trong đó, các  mặt hàng rau quả có đóng góp quan trọng khi chiếm  13,1% tổng giá trị xuất khẩu của các mặt hàng nông  nghiệp và chỉ đứng sau giá trị xuất khẩu lúa gạo  (GSO, 2022)."}
+{"text": "Tốc độ tăng trưởng trung bình xuất  khẩu rau quả của Việt Nam trong giai đoạn  2013−2019 là 24%, cao gấp đôi so với tốc độ tăng  trưởng xuất khẩu trung bình của Việt Nam trong  cùng giai đoạn (Huệ & Trang, 2021)."}
+{"text": "Tốc độ xuất  khẩu hàng rau quả đã qua chế biến của Việt Nam  đều tăng trưởng ở mức hai con số (Bộ Công Thương  Việt Nam, 2021)."}
+{"text": "Do đó, diện tích trồng rau quả liên  tục tăng trong những năm gần đây, tốc độ tăng  trưởng bình quân khoảng 6%/năm (Huệ & Trang,  2021)."}
+{"text": "phát thải từ 10 đến 20% tổng lượng khí nhà kính  nhân tạo vào bầu khí quyển (Malyan  et  al.,  2021;  Tubiello et al., 2020)."}
+{"text": "Trong các loại khí nhà kính,  ngành nông nghiệp phát thải 42% tổng lượng khí  CH4 và 75% tổng lượng khí N2O trên toàn cầu trong  1 năm (Tubiello et al., 2020)."}
+{"text": "Theo kết quả kiểm kê  khí nhà kính của Việt Nam năm 2016, tổng lượng  phát thải trong lĩnh vực nông lâm nghiệp là 98,6  triệu tấn CO2e, chiếm trên 30% tổng lượng phát  (Hinh, 2022)."}
+{"text": "Với tỉ lệ tăng trưởng trung bình 9,3%   trong giai đoạn từ năm 1991 đến năm 2018 (Food  and Agriculture Organization of the United Nations  [FAO], 2021), ngành nông nghiệp Việt Nam vẫn  được coi là nguồn phát thải khí nhà kính quan trọng."}
+{"text": "Phát thải khí nhà kính trong sản xuất nông nghiệp  tập trung chủ yếu ở các lĩnh vực: trồng lúa nước,  chăn nuôi và quản lý đất canh tác, sử dụng phân bón,  quản lý chất thải và đốt sinh khối thực vật (Hinh,  2022)."}
+{"text": "Như vậy, việc tăng cường tiêu thụ vật tư nông  nghiệp để đáp ứng quá trình thâm canh như hiện nay  có khả năng làm tăng nguy cơ phát thải khí nhà kính."}
+{"text": "Ở Việt Nam, các công trình nghiên cứu và các giải  pháp giảm thiểu phát thải trong trồng trọt chủ yếu  tập trung vào mô hình canh tác lúa nước (Tín và ctv.,  2012; Hà & Chung, 2014; Nguyễn, 2020; Văn và  ctv., 2020; Thuận, 2022)."}
+{"text": "Những đối tượng cây  trồng khác còn rất hạn chế, đặc biệt là rau màu."}
+{"text": "Tại COP26, Việt Nam đã cùng gần 150 quốc gia  cam kết đưa mức phát thải ròng về “0” vào năm  2050."}
+{"text": "Bên cạnh đó, Thủ tướng Chính phủ đã phê  duyệt Chiến lược phát triển nông nghiệp và nông  thôn bền vững giai đoạn 2021 – 2030, tầm nhìn đến  năm 2050 (Thủ tướng Chính phủ, 2022)."}
+{"text": "Để thực  hiện được những mục tiêu này, những nghiên cứu  đánh giá về mối quan hệ giữa các yếu tố kinh tế, xã  hội và môi trường cần phải được thực hiện trước  tiên."}
+{"text": "Cụ thể là những nghiên cứu đánh giá sự chi trả  (đánh đổi) phát thải để đạt hiệu quả tài chính trong  các mô hình sản xuất nông nghiệp."}
+{"text": "Từ những vấn đề  đã được phân tích trên, nghiên cứu này được thực  hiện nhằm đóng góp cơ sở khoa học để đưa ra các  quyết định về quy hoạch sản xuất nông nghiệp ở các  địa phương trên địa bàn tỉnh Kiên Giang và các tỉnh  ở ĐBSCL có điều kiện sản xuất tương tự."}
+{"text": "2."}
+{"text": "PHƯƠNG PHÁP NGHIÊN CỨU  2.1."}
+{"text": "Thu thập số liệu sơ cấp\nTheo thống kê của Bộ Nông nghiệp và Phát triển  Nông thôn (2019), Đồng bằng sông Cửu Long  (ĐBSCL) là vùng có diện tích trồng rau quả lớn nhất  cả nước, chiếm gần 48,2% tổng diện tích trồng rau  cả nước."}
+{"text": "Riêng tỉnh Kiên Giang có 9.410 ha diện  tích trồng rau màu, chiếm hơn 48% diện tích gieo  trồng cây hàng năm (trừ lúa) (Cục Thống kê tỉnh  Kiên Giang, 2020)."}
+{"text": "Để thực hiện chủ trương của  Chính phủ về đa dạng hóa cây trồng trên đất lúa và  thích ứng với biến đổi khí hậu, tỉnh Kiên Giang đã  có nhiều chủ trương chuyển đổi diện tích trồng lúa  kém hiệu quả sang các mô hình như tôm − lúa, lúa –  màu, đặc biệt là mô hình chuyên màu."}
+{"text": "Do vậy, năm  2020 tỉnh Kiên Giang có diện tích trồng rau các loại  đạt 3.189 ha, tăng 3,34% so với năm 2019 và có xu  hướng tiếp tục tăng trong những năm tiếp theo (Cục  Thống kê tỉnh Kiên Giang, 2021)."}
+{"text": "Huyện Hòn Đất  là huyện đứng thứ 5 của tỉnh Kiên Giang về hiệu quả  sử dụng đất trồng trọt (Phòng Nông nghiệp và Phát  triển nông thôn huyện Hòn Đất, 2020)."}
+{"text": "Ngoài các  loại rau lấy củ, rau ăn lá (như cải xanh) đã được canh  tác nhiều năm, trong những năm gần đây, nông dân  huyện Hòn Đất đã chuyển sang trồng ớt vì đây được  đánh giá là mô hình mang lại hiệu quả kinh tế cao  (Lộc và ctv., 2015; An & Lộc, 2017)."}
+{"text": "Hoạt động sản xuất nông nghiệp lại là nguồn  phát thải khí nhà kính quan trọng (Praveen, 2019)."}
+{"text": "Cụ thể, các hoạt động này đã trực tiếp hoặc gián tiếp\nỞ Huyện Hòn Đất, xã Mỹ Thuận và Mỹ Thái lần  lượt là hai xã tập trung canh tác rau cải xanh  (Brassica juncea L.) và ớt chỉ thiên (Capsicum  annuum L.)."}
+{"text": "Do đó, xã Mỹ Thuận và Mỹ Thái đã  được lựa chọn trở thành địa điểm nghiên cứu trong  nghiên cứu này."}
+{"text": "Nông hộ có diện tích sản xuất từ\n43\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 59, Số Chuyên đề: Môi trường và Biến đổi khí hậu (2023): 42-53\nbằng hoặc lớn hơn 1.000 m2 được lựa chọn tham gia  nghiên cứu."}
+{"text": "Trong quá trình nghiên cứu, các chủ hộ  hoặc người tham gia sản xuất chính được phỏng vấn  mà không phân biệt về giới, thâm niên, độ tuổi, hay  sự khác biệt trong quan điểm về mối quan hệ giữa  phát triển kinh tế và bảo vệ môi trường của người  tham gia nghiên cứu."}
+{"text": "Số liệu nghiên cứu được thu  thập từ 30 nông hộ trồng cải xanh (chiếm 93,7%  tổng số nông hộ canh tác cải xanh) và 30 nông hộ  trồng ớt (chiếm 83,3% tổng số nông hộ canh tác ớt)  đủ điều kiện về diện tích canh tác để tham gia nghiên  cứu."}
+{"text": "Nông dân tham gia nghiên cứu được phỏng vấn  trực tiếp theo biểu phỏng vấn với các câu hỏi đã  được chuẩn bị sẵn trong khoảng thời gian từ tháng  02 đến tháng 7 năm 2022."}
+{"text": "Biểu phỏng vấn bao hàm  các câu hỏi nhằm thu thập thông tin về nguồn lực  của nông hộ, thông tin chi tiết về quá trình canh tác  như: Lượng và chi phí của từng loại vật tư nông  nghiệp; Lượng và chi phí các loại hình năng lượng;  Chi phí công lao động; Năng suất và giá bán sản  phẩm."}
+{"text": "Các thông tin về sản xuất được thu thập trong  vụ canh tác gần nhất."}
+{"text": "Vì canh tác ớt và cải xanh có  số ngày canh tác trong một vụ trồng khác nhau."}
+{"text": "Chính vì vậy, các phép so sánh đã được đồng nhất  khi quy về tổng số vụ canh tác trong 1 năm trên cùng  1 đơn vị diện tích (ha)."}
+{"text": "Cụ thể, trong 1 năm nông  dân trồng ớt canh tác 02 vụ và nông dân trồng cải  xanh canh tác 06 vụ."}
+{"text": "Trong đó, 1 vụ canh tác ớt được  xác định từ thời điểm gieo trồng đến khi kết thúc quá  trình thu hoạch để sản xuất vụ trồng mới."}
+{"text": "MiLCA."}
+{"text": "Với cách tiếp cận “cradle-to-gate”,  “cradle” được hiểu là nơi sản xuất ra các nguyên vật  liệu phục vụ canh tác và “gate” là trang trại nơi sử  dụng các vật tư nông nghiệp đó."}
+{"text": "Tuy nhiên, phạm vi  nghiên cứu đã được giới hạn bằng việc bỏ qua giai  đoạn vận chuyển nguyên liệu từ nơi sản xuất đến nơi  các nông trại."}
+{"text": "Như vậy, lượng khí khí nhà kính phát  thải từ quá trình khai thác nguyên liệu thô đến sản  xuất ra các sản phẩm thương mại đã được ước lượng  trong nghiên cứu này."}
+{"text": "Trong quá trình kiểm toán vật  tư nông nghiệp sử dụng, thông tin của các nguyên  vật liệu phục vụ sản xuất được thu thập bao gồm  trọng lượng nguyên chất của các loại phân bón  (phân đạm được tính bằng kg-N, phân lân được tính  bằng kg-P2O5 và phân kali kg-K2O), trọng lượng  thuốc bảo vệ thực vật (tính theo hoạt chất), lượng  nhiên liệu/điện dùng trong làm đất, tưới tiêu và phun  xịt thuốc bảo vệ thực vật."}
+{"text": "Các dữ liệu được sử dụng  làm dữ liệu đầu vào cho phân tích bằng phần mềm  MiLCA  phiên  bản  2.3  (Toray  Industries  incorporated and Japan Environmental Management  Association for Industry (JEMAI), Tokyo, Japan)."}
+{"text": "MiLCA là phần mềm hỗ trợ đánh giá vòng đời được  phát triển bởi tổ chức Thúc đẩy quản lý phát triển  bền vững của Nhật Bản (Sustainable Management  Promotion Organization – SuMPO)."}
+{"text": "MiLCA có thể  đáp ứng các yêu cầu tính toán cần thiết cho nghiên  cứu đánh giá vòng đời, bao gồm kiểm toán đầu vào  và đánh giá tác động."}
+{"text": "Ngoài ra, một cơ sở dữ liệu  kiểm toán tiêu chuẩn được cung cấp cho phân tích  trong nghiên cứu (SuMPO, 2014)."}
+{"text": "2.2."}
+{"text": "Phương pháp phân tích  2.2.1."}
+{"text": "Phương pháp phân tích số liệu\nPhương pháp thống kê mô tả bằng phần mềm  SPSS phiên bản 22.0 đã được sử dụng để tính toán  lượng vật tư nông nghiệp đầu vào, các khoản mục  chi phí, doanh thu, lợi nhuận, chỉ số tài chính và  được thể hiện dưới giá trị trung bình, độ lệch chuẩn."}
+{"text": "Chi phí đầu tư cho mô hình bao gồm: Tổng của  các khoản mục chi cho hoạt động sản xuất như:  chuẩn bị đất, giống, phân bón, nông dược, chăm sóc,  nhiên liệu và thu hoạch."}
+{"text": "Thu nhập từ mô hình được  tính toán bằng tích số giữa năng suất thương phẩm  và giá bán sản phẩm (tại ruộng hoặc cơ sở thu mua)."}
+{"text": "Lợi nhuận của mô hình bằng thu nhập trừ tổng chi  phí."}
+{"text": "Bên cạnh đó, một số chỉ số như thu nhập/chi  phí, lợi nhuận/chi phí, lợi nhuận/thu nhập cũng được  tính toán."}
+{"text": "2.2.2."}
+{"text": "Phương pháp ước lượng phát thải GHGs\nĐể tính toán lượng phát thải khí nhà kính, phần  mềm MiLCA sử dụng mô hình đánh giá 100-year  GWP (IPCC, 2013) theo cơ sở các kết quả nghiên  cứu đã công bố và dữ liệu được tổng hợp từ các quy  trình sản xuất công nghiệp."}
+{"text": "Các dữ liệu đầu vào của  phần mềm MiLCA là lượng vật tư nông nghiệp được  sử dụng cho canh tác."}
+{"text": "Phần mềm sẽ lượng hóa các  tác động và đưa ra các kết quả đánh giá tác động  dưới dạng tổng hợp cuối cùng của tất cả các đầu vào."}
+{"text": "Trong nghiên cứu này, kết quả sau khi phân tích là  tổng lượng phát thải khí nhà kính tương ứng với  lượng vật tư nông nghiệp đầu vào đã sử dụng được  thể hiện dưới dạng lượng khí nhà kính phát thải trên  1 đơn vị diện tích canh tác (kg-CO2e ha-1) hoặc  lượng GHGs phát thải khi sản xuất ra 1 khối lượng  sản phẩm thương mại của cải xanh và ớt (kg-CO2e  t-1)."}
+{"text": "Các loại vật tư nông nghiệp khác như hạt giống  và các loại phân bón lót dạng hữu cơ thông thường  (phân chuồng và tro trấu) đã không được tính toán,  vì những giới hạn trong cơ sở dữ liệu của phần mềm."}
+{"text": "Phương pháp đánh giá vòng đời (Life Cycle  Assessment – LCA) với cách tiếp cận “cradle-to- gate” và khung đánh giá 100-năm bằng phần mềm\nTrong lĩnh vực trồng trọt, phần mềm MiLCA đã  được sử dụng để đánh giá phát thải khí nhà kính của\n44\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 59, Số Chuyên đề: Môi trường và Biến đổi khí hậu (2023): 42-53\ncác hệ thống sau đây: Trồng cọ dầu trên đất than bùn  (Agusta et al., 2022), chanh không hạt (Liem et al.,  2022), trồng mía (Nakashima & Ishikawa, 2016),  lúa gạo (Myo et al., 2017)."}
+{"text": "2.2.3."}
+{"text": "Phân tích đánh đổi phát thải – hiệu quả\ntài chính\ncòn khả năng tiếp thu những kiến thức sản xuất, các  tiến bộ khoa học kỹ thuật."}
+{"text": "Số lao động gia đình khá  ít, ở cả hai mô hình số lao động này trung bình  khoảng 2 – 3 người trong một hộ, nhiều nhất là 4  người và số lao động nữ trung bình chỉ khoảng 1  người/hộ."}
+{"text": "Điều này cho thấy, trong quá trình sản  xuất, nhu cầu thuê mướn lao động của nông hộ là  khá cao."}
+{"text": "Thâm niên canh tác trung bình của chủ hộ  ở mô hình trồng cải xanh là 16 năm (cao nhất là 36  năm và thấp nhất là 4 năm) và ở mô hình trồng ớt là  3,5 năm (cao nhất là 4 năm và thấp nhất là 1 năm),   do mô hình ớt ở huyện Hòn Đất chỉ mới được người  dân đưa vào sản xuất một vài năm gần đây."}
+{"text": "3.2."}
+{"text": "Lượng khí nhà kính phát thải thông qua\nsử dụng vật tư đầu vào trong canh tác ớt  và cải xanh\nNhu cầu sử dụng vật tư đầu vào có ảnh hưởng  trực tiếp và gián tiếp đến sự phát thải khí nhà kính  trong canh tác nông nghiệp."}
+{"text": "Vì vậy, việc phân tích  hiện trạng sử dụng vật tư đầu vào phục vụ quá trình  canh tác ớt và cải xanh xanh là cần thiết."}
+{"text": "Từ đó, tổng  lượng khí nhà kính phát thải trong quy trình canh tác  có thể được ước lượng."}
+{"text": "Trong mô hình canh tác hạnh nhân, Martin- Gorriz et al."}
+{"text": "(2020) đã sử dụng chỉ số lợi nhuận/ phát  thải (€ kg-CO2e−1) để so sánh hiệu quả canh tác của  các giải pháp canh tác khác nhau thông qua sự khác  biệt trong cách thức quản lý đất trồng."}
+{"text": "Eskander and  Nitschke (2021) đã sử dụng chỉ số phát thải trên tổng  thu nhập từ tất cả các hoạt động kinh tế (kg-CO2e  £−1) như là một trong những biến quan sát để đánh  giá tiến độ hoàn thành mục tiêu phát thải ròng bằng  0 của các trường đại học ở Vương quốc Anh."}
+{"text": "Nghiên  cứu này được thực hiện bằng cách sử dụng chỉ số  đánh đổi phát thải (g-CO2e) để đạt được hiệu quả tài  chính (lợi nhuận, 1.000 đồng) với đơn vị g-CO2e  1.000 đồng lợi nhuận−1; so sánh mức phát thải cho  các hạng mục đầu tư phục vụ sản xuất như: năng  lượng, phân bón hóa học, nông dược và tổng chi phí  cũng sẽ được tính toán (g-CO2e 1.000 đồng đầu  tư−1)."}
+{"text": "3.2.1."}
+{"text": "Hiện trạng sử dụng vật tư đầu vào trong\ncanh tác ớt và cải xanh\n3."}
+{"text": "KẾT QUẢ VÀ THẢO LUẬN  3.1."}
+{"text": "Thông tin chung về nông hộ\nTrong quá trình sản xuất ớt và cải xanh, vật tư  đầu vào được nông hộ sử dụng bao gồm các loại vật  tư nông nghiệp (giống, phân hữu cơ, phân vô cơ,  nông dược), các loại nhiên liệu (xăng, dầu) và điện."}
+{"text": "Tuy nhiên, vì giới hạn trong cơ sở dữ liệu của phần  mềm MiLCA nên hạt giống và các loại phân bón lót  dạng hữu cơ sản xuất theo quy mô hộ gia đình đã  không được tính toán."}
+{"text": "Do đó, các vật tư nông nghiệp  đầu vào được tập trung phân tích và đánh giá bao  gồm: Khối lượng các loại phân bón vô cơ, nông  dược; Thể tích của xăng và dầu; Số Kw điện."}
+{"text": "Ở cả hai mô hình canh tác, đại diện nông hộ –  người tham gia sản xuất chính – chủ yếu là nam giới  (chiếm trên 80%) với độ tuổi trung bình là 50 tuổi  (thấp nhất là 36 tuổi và cao nhất là 75 tuổi) ở mô  hình trồng ớt và 42 tuổi (thấp nhất là 25 tuổi và cao  nhất là 67 tuổi) ở mô hình trồng cải xanh, trong đó,  tập trung nhiều nhất ở nhóm tuổi từ 30 đến 60 tuổi."}
+{"text": "Đây là nhóm tuổi còn trong tuổi lao động nên có thể  đáp ứng các điều kiện về sức khỏe cũng như kinh  nghiệm trong quá trình sản xuất."}
+{"text": "Đồng thời, họ vẫn\nBảng 1."}
+{"text": "Lượng vật tư nông nghiệp sử dụng trong canh tác ớt và cải xanh\nĐVT: kg ha−1 năm−1\nPhân bón (tính theo dạng nguyên chất)  Nông dược (tính theo hoạt chất)  Đạm   Lân   Kali  Diệt cỏ  Trừ sâu   Nấm bệnh  Ớt  579,85 ± 88,47 901,57 ± 200,62  297,21 ± 75,7  9,46 ± 2,08 0,62 ± 0,21 18,02 ± 5,62  Cải xanh  1.212 ± 208,87  725,34 ± 151,44  KSD 9,16 ± 2,29 30,06 ± 7,2  KSD\nGhi chú: KSD: Không sử dụng\nphát triển hệ rễ của cây."}
+{"text": "Từ đó, cây hấp thụ được  nước và dinh dưỡng dễ dàng hơn."}
+{"text": "Bên cạnh đó, một  hệ thống rễ phát triển tốt còn có thể giúp cây hạn chế  được đỗ ngã khi mang trái, có thể gây ảnh hưởng  năng suất."}
+{"text": "Thêm vào đó, việc bón phân lân còn hỗ  trợ quá trình ra hoa ở cây ớt và làm tăng năng suất\nBảng 1 cho thấy trong canh tác ớt, nhu cầu sử  dụng phân lân cao nhất (901,57 kg ha−1 năm−1) trong  các loại phân bón và nhu cầu sử dụng thuốc phòng  trừ nấm bệnh cao nhất (18,02 kg ha−1 năm−1) trong  các loại nông dược."}
+{"text": "Theo kinh nghiệm sản xuất của  nông dân, trong canh tác ớt việc bón phân lân sẽ giúp\n45\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 59, Số Chuyên đề: Môi trường và Biến đổi khí hậu (2023): 42-53\nthu hoạch ở những lần thu hoạch sau trong vòng đời  khai thác của cây ớt."}
+{"text": "Trong khi đó, cải xanh có nhu  cầu sử dụng đạm (1.212 kg ha−1 năm−1) và các loại  thuốc trừ sâu (30,06 kg ha−1 năm−1) cao nhất."}
+{"text": "Nông  hộ không sử dụng phân kali và hoạt chất phòng trừ  nấm bệnh trong sản xuất cải xanh."}
+{"text": "Lượng phân lân  sử dụng trong sản xuất ớt cao hơn 1,24 lần so với  sản xuất cải xanh."}
+{"text": "Tuy nhiên, lượng phân đạm và  hoạt chất thuốc trừ sâu trong sản xuất cải xanh được  sử dụng cao hơn nhiều lần so với sản xuất ớt."}
+{"text": "Trong  đó, lượng thuốc trừ sâu sử dụng trong mô hình cải  xanh cao gấp 48,48 lần so với mô hình trồng ớt."}
+{"text": "Riêng nhu cầu sử dụng thuốc diệt cỏ ở cả hai mô  hình tương đương nhau (khác biệt không có ý nghĩa  thống kê, mức ý nghĩa 5%)."}
+{"text": "2,8 đến 7,1 lần, phân lân cao hơn  từ 4,6 đến 11 lần  và lượng kali cao hơn từ 1,9 đến 2,8 lần;  ở mô hình  trồng rau cải xanh, lượng phân đạm cao hơn từ 2,5  đến 10 lần, phân lân cao hơn từ 3 – 9 lần và hàm  lượng kali sử dụng cao hơn từ 1,3 – 2,5 lần."}
+{"text": "Tuy  nhiên, liều lượng phân bón ở mô hình trồng cải xanh  tương đương với mô hình trồng rau ăn lá trong cùng  khu vực nghiên cứu (223,87 kg-N, 189,24 kg-P2O5,  38,0 kg-K2O) (Liêm & Phước, 2021) và thấp hơn ở  Trung Quốc (Zhang et al., 2021)."}
+{"text": "Như vậy, để hướng  đến một nền sản xuất thân thiện hơn với môi trường  và an toàn cho người sử dụng, các cơ quan khuyến  nông và hội nông dân địa phương cần tích cực tuyên  truyền và hướng dẫn nông dân sử dụng hóa nông  theo nguyên tắc 4 đúng: Đúng thuốc, đúng liều  lượng, đúng lúc và đúng cách."}
+{"text": "Nhiên liệu và điện năng được dùng trong các  công đoạn lên liếp và phun xịt hóa chất bảo vệ thực  vật cũng như tưới tiêu."}
+{"text": "Nhu cầu sử dụng các loại  nhiên liệu và điện năng được trình bày trong   Bảng 2."}
+{"text": "Lượng phân bón theo từng loại sử dụng ở mô  hình trồng cải xanh và ớt cao hơn nhiều lần so với  khuyến cáo (Quyền và ctv., 2000; Dật, 2003; Chinh  & Nghĩa, 2007; Cúc, 2007; Giao, 2009; Thi và ctv.,  2009; Phương và ctv., 2010; Huyền, 2016)."}
+{"text": "Trong  đó, mô hình trồng ớt có lượng phân đạm cao hơn từ\nBảng 2."}
+{"text": "Lượng nhiên liệu, điện tiêu thụ trong canh tác ớt và cải xanh\nTổng tiêu thụ năng lượng\nDầu   (L ha−1 năm−1)\nXăng   (L ha−1 năm−1)\nĐiện   (Kwh ha−1 năm−1)\n(MJ ha−1 năm−1)  Ớt   54,67 ± 7,42  404,37 ± 115,46  1.528 ± 309,48   29.981,56  Cải xanh  KSD  112,93 ± 15,49  3.221 ± 512,21  28.196,55\nGhi chú: KSD: Không sử dụng\nTrong canh tác ớt, dầu diesel được sử dụng cho  hoạt động lên liếp, xăng được dùng vào hoạt động  phun xịt hóa chất bảo vệ thực vật và tưới tiêu, do đó  mức tiêu thụ xăng cao hơn dầu 7,4 lần."}
+{"text": "Trong khi  đó, sản xuất cải xanh không tiêu thụ dầu, chỉ sử dụng  xăng cho hoạt động phun xịt và lên liếp."}
+{"text": "Điện được  nông hộ chọn sử dụng cho hoạt động tưới tiêu ở cả  hai mô hình canh tác."}
+{"text": "Nhu cầu tiêu thụ nhiên liệu  hóa thạch trong sản xuất ớt cao hơn sản xuất cải  xanh 3,3 lần và đều cao hơn sản xuất lúa ở ĐBSCL  [88,6 – 184,3 L-xăng dầu ha−1 năm−1 (Phong & Lợi,  2012; 104,94 – 151,95 L-dầu ha−1 năm−1 (Phong &  Tâm, 2015)]."}
+{"text": "Tuy nhiên, nhu cầu cần được tưới  nước của cải xanh cao hơn ớt nên lượng điện tiêu  thụ trong sản xuất cải xanh cao gấp 2 lần sản xuất  ớt."}
+{"text": "Tổng nhu cầu tiêu thụ khi chuyển đổi lượng  nhiên liệu và điện năng sang MJ tương đương bằng  phần mềm MiLCA, kết quả cho thấy canh tác ớt cần  nhiều năng lượng hơn so với cải xanh (29.981,56 MJ  ha−1 năm−1 so với 28.196,55 MJ ha−1 năm−1)."}
+{"text": "3.2.2."}
+{"text": "Sự phát thải khí nhà kính trong canh tác\nphần mềm MiLCA nhằm ước tính lượng khí nhà  kính đã phát thải trong quá trình sản xuất cải xanh  và ớt."}
+{"text": "Nhìn chung, nhu cầu tiêu thụ vật tư đầu vào  trong sản xuất ớt cao hơn cải xanh, chỉ có nhu cầu  sử dụng phân đạm, thuốc trừ sâu và điện ở mô hình  cải xanh cao hơn mô hình ớt."}
+{"text": "Tuy nhiên, kết quả  phân tích cho thấy trong một năm sản xuất, tổng  lượng khí nhà kính phát thải trên 1 ha đất canh tác  cải xanh là 11.249,7 kg-CO2e ha−1 năm−1, cao hơn  1,5 lần trên cùng diện tích canh tác ớt (7.455,5 kg- CO2e ha−1 năm−1)."}
+{"text": "Điều này có thể được giải thích  rằng phân đạm có hệ số đóng góp lượng phát thải  nhà kính cao hơn các loại phân bón khác (Phong &  Lợi, 2012; Trang và ctv., 2021; Zhang et al., 2021;  Zhu & Huo, 2022) và nhóm hoạt chất thuốc trừ sâu  có tỉ lệ phát thải cao hơn các hoạt chất nông dược  còn lại (Reicosky et al., 2000; Audsley et al., 2009)."}
+{"text": "Tuy nhiên, khi xét trên 1 tấn sản phẩm được tạo ra,  mô hình trồng ớt phát thải 246,5 kg-CO2e t−1, cao  hơn 2,3 lần so với sản xuất 1 tấn cải xanh (107,4 kg- CO2e t−1)."}
+{"text": "Điều này được giải thích do năng suất của  cải xanh cao hơn của ớt 3,46 lần (kết quả được trình  bày ở Bảng 3)."}
+{"text": "ớt và cải xanh  Từ kết quả về hiện trạng tiêu thụ các loại vật tư  nông nghiệp đầu vào, dữ liệu được phân tích bởi\n46\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 59, Số Chuyên đề: Môi trường và Biến đổi khí hậu (2023): 42-53\nBảng 3."}
+{"text": "Lượng khí nhà kính phát thải trong canh tác ớt và cải xanh\nkg-CO2e\nkg-CO2e\nkg-CO2e\nkg-CO2e\nNăng lượng  Phân bón  Nông dược  Tổng phát thải    kg-CO2e  ha−1 năm−1\ntấn−1\nkg-CO2e  ha−1 năm−1\ntấn−1\nkg-CO2e  ha−1 năm−1\ntấn−1\nkg-CO2e  ha−1 năm−1\n2015), trồng chanh không hạt (273 kg-CO2e t−1) ở  Hậu Giang (Liem et al., 2022), trồng bưởi (1.009 kg- CO2e t−1) và xoài (748,7 kg-CO2e t−1) ở ĐBSCL  (Phong & Lợi, 2014), trồng cà phê (935 − 1220 kg- CO2e t−1) ở Đắk Lắk và Lâm Đồng (Nab & Maslin,  2020; Trinh et al., 2020)."}
+{"text": "3.3."}
+{"text": "Phân tích và so sánh hiệu quả tài chính\ncủa mô hình trồng ớt và cải xanh\nHiệu quả tài chính của hai mô hình trồng ớt và  cải xanh được phân tích và so sánh trên 1 ha đất canh  tác trong thời gian một năm."}
+{"text": "Trong một năm canh  tác, nông hộ tại khu vực nghiên cứu có thể trồng  được 2 vụ ớt hoặc 6 vụ rau cải xanh."}
+{"text": "tấn−1  Ớt  1.150,0  38,0  5.957,0  197,0  348,5  11,5  7.455,5  246,5  Cải xanh  1.969,7  18,8  8.713,8  83,2  566,3  5,4  11.249,7  107,4  Cường độ phát thải khí nhà kính tính trên 1 ha  đất canh tác trong một vụ của sản xuất ớt (3.727,8  kg-CO2e ha−1) và cải xanh (1.875 kg-CO2e ha−1) đều  thấp hơn so với sản xuất rau màu ở Trung Quốc 1,5  – 3,3 lần (Zhang et al., 2021) và ở Úc 2,3 – 4,9 lần  (Maraseni et al., 2010), nhưng cao hơn sản xuất rau  màu ở Nam Phi 1,2 – 2,7 lần (Tongwane et al.,  2016)."}
+{"text": "Mô hình trồng cải xanh phát thải khí nhà kính  tương đương mô hình trồng xà lách ở Hy Lạp  (Foteinis & Chatzisymeon, 2016) và mô hình trồng  ớt phát thải khí nhà kính tương đương mô hình trồng  dưa leo ở Paskitan (Ali & Khan, 2019)."}
+{"text": "Khi xét trên  khối lượng sản phẩm, lượng khí nhà kính phát thải  trong sản xuất 1 tấn ớt (246,5 kg-CO2e t−1) cao hơn  sản xuất rau ở Trung Quốc (116 kg-CO2e t−1)."}
+{"text": "Lượng phát thải của ớt và cải xanh (107,4 kg-CO2e  t−1) đều cao hơn rau vụ Đông không sử dụng hệ  thống sưởi ở Úc (90 kg-CO2e t−1), sản xuất dưa leo  ở Paskitan (19,63 kg-CO2e t−1) và thấp hơn nhiều so  với sản xuất xà lách ở Hy Lạp (2.170 kg-CO2e t−1)  (Theurl et al., 2017; Ali & Khan, 2019; Barla et al.,  2020; Zhang et al., 2021)."}
+{"text": "Bảng 4 cho thấy hầu hết các khoản mục chi phí  của mô hình trồng ớt đều cao hơn so với mô hình  trồng cải xanh (trừ chi phí chuẩn bị đất và chăm sóc)."}
+{"text": "Chi phí năng lượng trong nghiên cứu này được định  nghĩa là chi phí sử dụng các loại nhiên liệu (xăng,  dầu) và chi phí sử dụng điện trong hoạt động tưới  nước, phun xịt thuốc bảo vệ thực vật."}
+{"text": "Chi phí thu  hoạch có sự chênh lệch lớn nhất khi mô hình trồng  ớt gấp 22 lần so với mô hình trồng cải xanh."}
+{"text": "Điều  này có thể được giải thích do ớt được thu hoạch  trung bình 32 đợt vụ−1, trong khi đó cải xanh chỉ thu  hoạch 1 đợt vụ−1."}
+{"text": "Do đó, chi phí thu hoạch ớt cao  hơn nhiều lần so với chi phí thu hoạch cải xanh."}
+{"text": "Ngoài ra, các loại chi phí khác như chi phí giống,  chi phí nông dược, chi phí chăm sóc của mô hình  trồng ớt cũng cao hơn nhiều lần so với mô hình trồng  cải xanh."}
+{"text": "Khi đối sánh thải lượng khí nhà kính trên 1 tấn  sản phẩm của mô hình trồng ớt (246,5 kg-CO2e t−1)  và cải xanh (107,4 kg-CO2e t−1) với một số mô hình  trồng trọt ở Việt Nam cho thấy cả hai mô hình này  thấp hơn các mô hình sản xuất lúa theo phương pháp  truyền thống (1.091 kg-CO2e t−1), cánh đồng mẫu  lớn hay sản xuất theo tiêu chuẩn thực hành nông  nghiệp tốt (Good Agricultural Practice – GAP)  (1.008 kg-CO2e t−1) ở ĐBSCL (Phong & Tâm,\nBảng 4."}
+{"text": "Các khoản mục chi phí trong sản xuất ớt và cải xanh\nĐVT: 1.000 đồng ha−1 năm−1\nKhoản mục  Ớt  Cải xanh  Chênh lệch (lần)  Chi phí chuẩn bị đất  29.595 ± 11.724  95.834 ± 28.999  3,24  Chi phí giống  10.271 ± 2.956  2.931 ± 741.926  3,5  Chi phí phân bón  34.764 ± 11.661  28.779 ± 8.220  1,21  Chi phí nông dược  101.488 ± 29.663   23.770 ± 5.318  4,27  Chi phí chăm sóc  40.200 ± 3.662  94.900 ± 9.136  2,36  Chi phí thu hoạch  332.791 ± 103.094  15.067 ± 3.697  22,09  Chi phí năng lượng  10.288 ± 6.447  8.407 ± 1.160  1,27\n47\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 59, Số Chuyên đề: Môi trường và Biến đổi khí hậu (2023): 42-53\nKết quả phân tích tỉ lệ các khoản mục chi phí so  với tổng chi phí (Hình 1) cho thấy mô hình sản xuất  ớt (Hình 1A) có chi phí thu hoạch chiếm tỉ lệ cao  nhất (59,5%), tiếp đến là chi phí nông dược (18,1%),  các khoản mục chi phí khác chiếm tỉ lệ không đáng  kể (thấp hơn 8%)."}
+{"text": "Tuy nhiên, ở mô hình sản xuất cải\nxanh (Hình 1B), chi phí thu hoạch lại thuộc nhóm  chiếm tỉ lệ thấp (thấp hơn 6%)."}
+{"text": "Khoản mục chi phí  có tỉ lệ cao nhất là chi phí chăm sóc và chi phí chuẩn  bị đất (hơn 35%), tiếp đến là chi phí phân bón  (10,7%)."}
+{"text": "Chi phí giống và chi phí năng lượng đều là  các loại chi phí có tỉ lệ thấp nhất đối với cả hai mô  hình ớt và cải xanh."}
+{"text": "1B\n1A\nHình 1."}
+{"text": "Tỉ lệ % các khoản mục chi phí của mô hình ớt (1A)\nvà mô hình cải xanh (1B) trong tổng chi phí\nđồng ha−1 năm−1, cao hơn 1,51 lần so với lợi nhuận  mô hình trồng cải xanh (392.386 ± 124.570 nghìn  đồng ha−1 năm−1)."}
+{"text": "Tuy nhiên, lợi nhuận/chi phí của  mô hình trồng ớt lại thấp hơn mô hình trồng cải  xanh."}
+{"text": "Cụ thể, 1 đồng vốn đầu tư vào mô hình trồng  ớt thu được 1,02 đồng lợi nhuận thấp hơn so với 1  đồng vốn đầu tư vào mô hình trồng cải xanh là 1,49  đồng."}
+{"text": "Ngoài ra, các chỉ số thu nhập/chi phí, lợi  nhuận/thu nhập của mô hình trồng cải xanh đều cao  hơn mô hình trồng ớt."}
+{"text": "Như vậy, nếu nông dân có  nhiều vốn thì đầu tư vào mô hình trồng ớt để có đạt  được thu nhập cao hơn trên một đơn vị diện tích  canh tác so với đầu tư vào mô hình trồng cải xanh."}
+{"text": "Năng suất của mô hình trồng ớt thấp hơn mô  hình trồng cải xanh 3,46 lần nhưng giá bán ớt cao  hơn giá bán cải xanh 5,78 lần."}
+{"text": "Do đó, thu nhập trong  một năm của mô hình trồng ớt (1.095.072 nghìn  đồng ha−1) cao hơn 1,65 lần so với mô hình trồng cải  xanh (662.072 nghìn đồng ha−1)."}
+{"text": "Cả hai mô hình ớt  và cải xanh đều mang lại lợi nhuận để nâng cao thu  nhập cho nông hộ."}
+{"text": "Giá trị lợi nhuận của hai mô hình  đều cao hơn giá trị sản phẩm trung bình thu được từ  1 ha đất trồng trọt ở Kiên Giang (75,18 triệu đồng  năm−1) năm 2020 và ở Việt Nam (103,6 triệu đồng  năm−1) năm 2021 (Tổng cục Thống kê, 2021)."}
+{"text": "Lợi  nhuận mô hình trồng ớt là 535.676 ± 101.118 nghìn\nBảng 5."}
+{"text": "Hiệu quả tài chính của mô hình ớt và cải xanh trong một năm canh tác\nĐVT: 1.000 đồng ha−1 năm−1\nKhoản mục  Ớt  Cải xanh  Chênh lệch (lần)  Tổng chi phí  559.396 ± 122.406  269.686 ± 28.034  2,09  Năng suất (kg/ha/năm)  30.244 ± 3.618  104.761 ± 17.796  3,46  Giá bán (1.000 đ/kg)  36,33 ± 2,25  6,37 ± 0,73  5,78  Thu nhập  1.095.072 ± 112.546  662.072 ± 113.282  1,65  Lợi nhuận  535.676 ± 101.118  392.386 ± 124.570  1,51  Thu nhập/chi phí  2,02 ± 0,33  2,49 ± 0,56  1,23  Lợi nhuận/chi phí  1,02 ± 0,33  1,49 ± 0,56  1,46  Lợi nhuận/thu nhập  0,49 ± 0,09  0,58 ± 0,09  1,18  Khi so sánh với các mô hình canh tác nông  nghiệp trong tỉnh Kiên Giang, cả hai mô hình ớt và  cải xanh đều có lợi nhuận/chi phí cao hơn các mô  hình chuyên canh lúa 2 – 3 vụ, luân canh  lúa – dưa\nlê (Linh và ctv., 2021), mô hình lúa – tôm (Trang và  ctv., 2018), mô hình rau ăn lá (Liêm & Phước,  2021), nhưng thấp hơn mô hình nuôi cua – tôm  (Danh & Trúc, 2021)."}
+{"text": "Nhìn chung, lợi nhuận/thu\n48\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 59, Số Chuyên đề: Môi trường và Biến đổi khí hậu (2023): 42-53\nnhập của các mô hình kể trên đều thấp hơn hoặc  tương đương với chỉ số lợi nhuận/thu nhập của hai  mô hình ớt và cải xanh."}
+{"text": "Ngoài ra, mô hình trồng ớt  ở khu vực nghiên cứu có lợi nhuận/chi phí thấp hơn  nhưng lợi nhuận/thu nhập cao hơn so với mô hình  trồng ớt ở ĐBSCL (An & Lộc, 2017)."}
+{"text": "3.4."}
+{"text": "Đánh đổi phát thải để đạt được hiệu quả\ntài chính trong canh tác ớt và cải xanh\nphạm sẽ bị xử lý hành chính theo Nghị định xử lý vi  phạm hành chính trong lĩnh vực bảo vệ môi trường  hoặc truy cứu trách nhiệm hình sự theo quy định tại  Bộ Luật hình sự."}
+{"text": "Trong khi đó, chi trả dịch vụ môi  trường thường được hiểu như là chi phí được xác  định thu nhằm phục vụ công tác bảo tồn và phục hồi  tài nguyên."}
+{"text": "Theo nguyên tắc này, người sử dụng  dịch vụ phải trả tiền cho các lợi ích về môi trường  mà họ được thụ hưởng."}
+{"text": "Trong nghiên cứu này, chỉ  số đánh đổi phát thải khí nhà kính để đạt được lợi  nhuận được thực hiện nhằm phân tích mối quan hệ  giữa đánh đổi một khía cạnh môi trường để đạt được  một mục tiêu lợi ích cụ thể của người sản xuất."}
+{"text": "Giá  trị này không chỉ giúp các nhà nghiên cứu và nhà  hoạch định chính sách kinh tế nông nghiệp có góc  nhìn chi tiết về hiện trạng sản xuất trong bối cảnh  xây dựng nền canh tác nông nghiệp đa mục tiêu và  phát triển bền vững."}
+{"text": "Trong lĩnh vực môi trường, 2 nguyên tắc cơ bản  xác định phí chi trả bao gồm nguyên tắc người gây  ô nhiễm phải trả tiền và người hưởng lợi phải trả tiền  (chi trả dịch vụ môi trường)."}
+{"text": "Trong đó, ở Việt Nam,  các chủ thể khai thác và sử dụng tài nguyên thiên  nhiên, các yếu tố liên quan đến môi trường phải trả  các loại thuế, phí theo quy định của pháp luật."}
+{"text": "Ngoài  ra, các hành vi gây ô nhiễm hoặc gây tác động tiêu  cực đến môi trường được quy định trong Luật Bảo  vệ môi trường và tùy theo hậu quả của hành vi vi\nBảng 6."}
+{"text": "Đánh đổi phát thải khí nhà kính trong canh tác ớt và cải xanh\nĐơn vị tính  Ớt  Cải xanh  Đánh đổi phát thải cho đầu tư năng lượng\ng-CO2e 1.000\nđồng−1\n111,78  234,30  Đánh đổi phát thải cho đầu tư phân bón hóa học  123,76  302,76  Đánh đổi phát thải cho đầu tư nông dược  3,43  23,82  Đánh đổi phát thải cho tổng đầu tư phục vụ sản xuất*  13,33  41,71  Đánh đổi phát thải để đạt được thu nhập từ mô hình canh tác  6,81  16,99  Đánh đổi phát thải để đạt được lợi nhuận từ mô hình canh tác  13,92  28,67\nGhi chú: * bao gồm cả chi phí công lao động như đã trình bày ở Hình 1."}
+{"text": "Nghiên cứu này được thực hiện nhằm làm rõ  khía cạnh về đánh đổi phát thải khí nhà kính để đạt  được những lợi ích về hiệu quả tài chính và chi trả  cho các khoản mục đầu tư từ mô hình canh tác."}
+{"text": "Một  cách tổng quan, kết quả từ Bảng 6 đã trình bày đánh  đổi phát thải đối với các khoản mục đầu tư có phát  sinh khí nhà kính bao gồm năng lượng, phân bón  hóa học và nông dược."}
+{"text": "Trong đó, đối với mô hình  canh tác ớt, khi đầu tư 1.000 đồng cho phân hóa học  thì nông dân đã phát thải 123,76 g-CO2e, đây là hạng  mục đánh đổi phát thải cao nhất trong mô hình."}
+{"text": "Để  đầu tư cho năng lượng phục vụ bơm tưới và phun xịt  thuốc, với mỗi 1.000 đồng đầu tư, nông dân trồng ớt  đã phát thải 111,78 g-CO2e, theo sau là nông dược  với 3,43 g-CO2e 1.000 đồng đầu tư−1."}
+{"text": "Đối với mô  hình canh tác cải xanh, đánh đổi phát thải cho các  khoản mục đầu tư có tính khuynh hướng như canh  tác ớt."}
+{"text": "Trong đó, để có thể sử dụng phân bón hóa  học, canh tác cải xanh đã phải đánh đổi phát thải khí  nhà kính ở mức cao nhất so với đầu tư cho năng  lượng và nông dược (thấp nhất); lần lượt là 302,76,  234,30 và 23,82 g-CO2e 1.000 đồng đầu tư−1."}
+{"text": "Tuy  nhiên, khi xét trên tổng đầu tư bao gồm cả chi phí  thuê mướn lao động cho các khâu chuẩn bị đất, phun\nxịt hóa chất bảo vệ thực vật và thu hoạch thì đánh  đổi phát thải sẽ ở mức thấp hơn, dao động từ 6,81    g-CO2e 1.000 đồng−1 đối với canh tác ớt và 16,99    g-CO2e 1.000 đồng−1 đối với cải xanh."}
+{"text": "Trong nghiên  cứu này, chỉ số thể hiện mối quan hệ giữa phát thải  và lợi nhuận đạt được từ hai mô hình canh tác đã  được phân tích."}
+{"text": "Trong đó, để đạt được 1.000 đồng  lợi nhuận, canh tác cải xanh đã phát thải 28,67 g- CO2e vào khí quyển, cao hơn so với canh tác ớt với  13,92 g-CO2e."}
+{"text": "Trên thế giới, các nghiên cứu về môi  trường trong mối quan hệ với kinh tế của một số mô  hình trồng trọt đã được thực hiện."}
+{"text": "Ghasemi- Mobtaker et al."}
+{"text": "(2020) đã đánh giá về năng lượng  phục vụ cho sản xuất lúa mì và mối quan hệ tổng chi  phí."}
+{"text": "Kết quả cho thấy, nông dân ở miền Tây Iran  phải bỏ ra 1 USD để đạt được 117,44 MJ năng lượng  phục vụ sản xuất."}
+{"text": "Trong canh tác hữu cơ hạnh nhân,  với điều kiện làm đất thông thường để đạt được 1  Euro lợi nhuận, nông dân ở Tây Ban Nha đã phát  thải từ 0,06 đến 2,04 kg-CO2e."}
+{"text": "Jirapornvaree et al."}
+{"text": "(2021) đã nghiên cứu về phát thải và chi phí trong  canh tác lúa hữu cơ và hóa học tại Thái Lan."}
+{"text": "Trong  kết quả của nghiên cứu này, canh tác hóa học đạt lợi  nhuận từ 2990,3 đến 3337,5 THB/ha và canh tác hữu\n49\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 59, Số Chuyên đề: Môi trường và Biến đổi khí hậu (2023): 42-53\ncơ đạt lợi nhuận từ 4900,3 đến 9361,3 THB/ha."}
+{"text": "Để  đạt được giá trị lợi nhuận cao hơn, canh tác lúa hữu  cơ đã phát thải khí nhà kính nhiều hơn so với canh  tác hóa học khi tính trên 1 đơn vị lúa thương phẩm,  lần lượt là 4,02 và 3,07 kg-CO2e kg–1."}
+{"text": "Falcone et al."}
+{"text": "(2016) đã đánh giá tác động môi trường theo vòng  đời và phân tích chi phí theo vòng đời sản phẩm đối  với canh tác nho tại Ý với các kịch bản khác nhau."}
+{"text": "Kết quả đã cho thấy, đối với 1 kg nho thương phẩm,  mức phát thải cao nhất là 0,329 kg-CO2e kg–1."}
+{"text": "Lợi  nhuận đạt được từ canh tác nho dao động từ 0,028  đến 0,104  Euro kg–1."}
+{"text": "dưỡng của cây trồng."}
+{"text": "Quản lý dinh dưỡng đất trồng  có sự hỗ trợ của vi sinh vật là một lựa chọn bền  vững, tiết kiệm chi phí và thân thiện với môi trường  trong các hệ thống nông nghiệp bao gồm: hệ thống  thâm canh, đa canh hoặc hữu cơ."}
+{"text": "Dựa vào kết quả  đánh giá tổng quan các công trình nghiên cứu trước  đây, Sarkar et al."}
+{"text": "(2021) kết luận rằng: Ứng dụng vi  sinh vật trong canh tác nông nghiệp sẽ góp phần  tránh thất thoát chất dinh dưỡng (rửa trôi, khử nitơ)  và các hiện tượng ô nhiễm môi trường như: phú  dưỡng hóa và thoái hóa đất."}
+{"text": "Elhaissoufi et al."}
+{"text": "(2022)  đã dựa trên tổng quan các nghiên cứu về sử dụng vi  khuẩn hòa tan lân và cho thấy tiềm năng ứng dụng  cao trong canh tác nông nghiệp thông qua tăng  cường hiệu suất sử dụng phân bón."}
+{"text": "Mô hình trồng ớt và cải xanh hiện nay đã cho  thấy rằng, mặc dù canh tác ớt đòi hỏi chi phí đầu tư  cao, thời gian xoay vòng vốn dài nhưng lợi nhuận  mang lại cao và lượng phát thải khí nhà kính là thấp  hơn hơn so với canh tác cải xanh."}
+{"text": "Vì thế, mô hình  trồng ớt tại huyện Hòn Đất, tỉnh Kiên Giang có sự  đánh đổi phát thải/lợi nhuận trong năm 2022 là thấp  hơn mô hình trồng cải xanh."}
+{"text": "4."}
+{"text": "KẾT LUẬN\nKết quả nghiên cứu mô hình sản xuất ớt và cải  xanh ở huyện Hòn Đất, tỉnh Kiên Giang trong năm  2022 đã cho thấy: Mô hình cải xanh phát thải  11.249,7 kg-CO2e ha−1 năm−1, cao hơn mô hình  trồng ớt (7.455,5 kg-CO2e ha−1 năm−1)."}
+{"text": "Tuy nhiên,  tính trên khối lượng sản phẩm, ớt trái có mức phát  thải cao hơn 2,30 lần cải xanh thương phẩm (246,5  kg-CO2e t−1  và 107,4 kg-CO2e t−1)."}
+{"text": "Canh tác ớt đạt  lợi nhuận (535,676 ± 101.118 triệu đồng ha−1 năm−1)  cao hơn 1,37 lần so với canh tác rau cải xanh  (392,386 ± 124.570 triệu đồng ha−1 năm−1)."}
+{"text": "Tuy  nhiên, các chỉ số tài chính (lợi nhuận/chi phí, lợi  nhuận/thu nhập, thu nhập/chi phí) của mô hình trồng  cải xanh đều cao hơn mô hình trồng ớt."}
+{"text": "Lợi nhuận  của hai mô hình ớt và cải xanh đều cao hơn giá trị  sản phẩm trung bình thu được từ 1 ha đất trồng trọt  ở Kiên Giang và Việt Nam trong năm 2020 và 2021."}
+{"text": "Để đạt được 1.000 đồng lợi nhuận từ canh tác, trồng  cải xanh đã phát thải 28,67 g-CO2e cao hơn 2,06 lần  so với trồng ớt (13,92 g-CO2e)."}
+{"text": "LỜI CẢM TẠ\nKết quả nghiên cứu dựa trên phát thải và đánh  đổi để đạt được hiệu quả đầu tư được thể hiện qua  Bảng 3 và Bảng 6 đã cho thấy vai trò vô cùng quan  trọng của việc giảm thiểu sử dụng phân bón hóa học  trong canh tác."}
+{"text": "Các giải pháp nâng cao hiệu quả sử  dụng phân bón sẽ góp phần giảm thiểu lượng phân  bón hóa học được sử dụng cho cây trồng."}
+{"text": "Tuy nhiên,  các giải pháp này thường phải được đặt trong mối  quan hệ với mục tiêu ổn định năng suất cây trồng."}
+{"text": "Mặc dù vậy, trong bối cảnh nông nghiệp toàn cầu  đang chuyển dịch theo hướng canh tác giảm phát  thải và phát triển bền vững thì sự suy giảm năng suất  cây trồng ở một giới hạn nhất định thì vẫn có tính  khả thi để áp dụng."}
+{"text": "Trong nghiên cứu này, lượng  phát thải khí nhà kính từ quá trình canh tác đã được  đặt trong mối quan hệ với giá trị hiệu quả tài chính  đạt được từ mô hình."}
+{"text": "Chỉ số phát thải/ lợi nhuận càng  thấp thì mô hình canh tác càng thân thiện với môi  trường và đảm bảo lợi ích kinh tế cho nông dân."}
+{"text": "Để  cải thiện chỉ số này, trong trường hợp năng suất  giảm thì giá bán sản phẩm phải được tăng cường."}
+{"text": "Như vậy, về mặt chính sách, Chính phủ cần có giải  pháp để khuyến khích nông dân áp dụng các giải  pháp canh tác giảm phát thải và các doanh nghiệp  tiêu thụ các mặt hàng nông sản thân thiện với môi  trường, phải tăng giá thu mua so với các sản phẩm  thông thường."}
+{"text": "Trong ngắn hạn, việc tăng hiệu quả  sử dụng phân bón nhằm giảm thiểu tiêu thụ phân  bón hóa học có thể được thực hiện."}
+{"text": "Dựa vào các  nghiên cứu trên thế giới đối với nhóm rau màu, các  giải pháp sinh học sau đây đã được đề xuất."}
+{"text": "Thứ  nhất, ứng dụng than sinh học."}
+{"text": "Amin and Eissa  (2017) đã ứng dụng than sinh học làm từ thân cây  bắp trong thí nghiệm trồng bí xanh trên giá thể từ  đất cát."}
+{"text": "Kết quả cho thấy, sử dụng than sinh học làm  tăng đáng kể chất hữu cơ của đất, năng suất quả tươi,  hiệu quả sử dụng đạm và hiệu quả nông học của cây  bí xanh."}
+{"text": "Thứ hai, sử dụng các tác nhân sinh học."}
+{"text": "Sarkar et al."}
+{"text": "(2021) đã nhấn mạnh vai trò của việc  ứng dụng các nhân tố sinh học như vi sinh vật và  nấm trong việc tăng cường hiệu suất sử dụng dinh\nCác tác giả xin được trân trọng cám ơn PGS.TS."}
+{"text": "Yukihiro Tashiro – Phòng Thí nghiệm Đất và Vi  sinh vật Môi trường, Khoa Nông nghiệp, Trường  Đại học Kyushu, Nhật Bản – đã tài trợ bản quyền  của phần mềm MiLCA nhằm phục vụ cho nghiên  cứu này."}
+{"text": "50\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 59, Số Chuyên đề: Môi trường và Biến đổi khí hậu (2023): 42-53\nTÀI LIỆU THAM KHẢO\nAgusta, H., Handoyo, G. C., & Tambunan, A. H.\nGiang và Cà Mau."}
+{"text": "Tạp chí Khoa học và Công  nghệ - Đại học Đà Nẵng, Số 19."}
+{"text": "20-24."}
+{"text": "Dật, Đ. H. (2003)."}
+{"text": "Kỹ thuật trồng rau ăn lá, rau ăn\nhoa và gia vị."}
+{"text": "NXB Lao động – Xã hội."}
+{"text": "15-18."}
+{"text": "Elhaissoufi, W., Ghoulam, C., Barakat, A., Zeroual, Y., &\n(2022)."}
+{"text": "doi:10.1088/1755-1315/974/1/012137  Ali, Q., Yaseen, M. R., & Khan, M. T. I."}
+{"text": "(2019)."}
+{"text": "Bargaz, A."}
+{"text": "(2022)."}
+{"text": "https://doi.org/10.1016/j.jare.2021.08.014  Eskander, S. M. S. U., & Nitschke, J."}
+{"text": "(2021)."}
+{"text": "Scientia Horticulturae, 250."}
+{"text": "168-173.  https://doi.org/10.1016/j.scienta.2019.02.045  An N. T. T., & Lộc, V. T. T. (2017)."}
+{"text": "Journal of  Cleaner Production, 309(March), 127199.  https://doi.org/10.1016/j.jclepro.2021.127199  Falcone, G., De Luca, A. I., Stillitano, T., Strano, A.,\nquả tài chính của nông hộ trồng ớt vùng Đồng  Bằng Sông Cửu Long."}
+{"text": "Tạp chı́ Khoa học Trường  Đại học Cần Thơ, tập 48, Phần D. 87-95.  doi:10.22144/jvn.2017.633."}
+{"text": "Amin, A. E. E. A."}
+{"text": "Z., & Eissa, M. A."}
+{"text": "(2017)."}
+{"text": "Biochar\nRomeo, G., & Gulisano, G. (2016)."}
+{"text": "(2021)."}
+{"text": "FAOSTAT."}
+{"text": "https://www.fao.org/faostat/en/#data/QV (2021)."}
+{"text": "Foteinis, S., & Chatzisymeon, E. (2016)."}
+{"text": "Life cycle\nWilliams, A. G. (2009)."}
+{"text": "Barla, SA., Salachas, G. & Abeliotis, K. (2020)."}
+{"text": "2462-2471.  https://doi.org/10.1016/j.jclepro.2015.09.075  Ghasemi-Mobtaker, H., Kaab, A., & Rafiee, S. (2020)."}
+{"text": "Euro- Mediterr J Environ Integr 5, 29 (2020)."}
+{"text": "https://doi.org/10.1007/s41207-020-00168-w  Bộ Công Thương Việt Nam."}
+{"text": "(2021)."}
+{"text": "Energy, 193, 116768.  https://doi.org/10.1016/j.energy.2019.116768  Giao, N. X."}
+{"text": "(2009)."}
+{"text": "Kỹ thuật trồng rau ở hộ gia đình."}
+{"text": "biến của Việt Nam còn nhiều tiềm năng tăng  trưởng xuất khẩu."}
+{"text": "https://moit.gov.vn/tin-tuc/thi-truong-trong- nuoc/rau-qua-che-bien-cua-viet-nam-con-nhieu- tiem-nang-tang-truong-xuat-khau.html."}
+{"text": "Ngày  đăng: 15/11/2021."}
+{"text": "Chinh, N. M., & Nghĩa, N. Đ."}
+{"text": "(2007)."}
+{"text": "Bác sĩ cây\nNXB Khoa học tự nhiên và Công nghệ."}
+{"text": "Hà Nội."}
+{"text": "46-48."}
+{"text": "Hinh, N. T. (2022)."}
+{"text": "Một số giải pháp nhằm giảm\ntrồng, quyển 30: Trồng chăm sóc và phòng trừ  sâu bệnh rau gia vị."}
+{"text": "NXB Nông nghiệp."}
+{"text": "Hồ Chí  Minh."}
+{"text": "62-68."}
+{"text": "Cục Thống kê tỉnh Kiên Giang."}
+{"text": "(2020)."}
+{"text": "Niên Giám\nphát thải khí nhà kính trong nông nghiệp Việt  Nam."}
+{"text": "Tạp chí Môi Trường số 2/2022: Giải pháp  và Công nghệ."}
+{"text": "48-50."}
+{"text": "Huệ, N. M., & Trang, N. T. T. (2021)."}
+{"text": "Cẩm nang\nthống kê năm 2020."}
+{"text": "NXB Thống Kê."}
+{"text": "Hà Nội."}
+{"text": "Cục Thống kê tỉnh Kiên Giang."}
+{"text": "(2021)."}
+{"text": "Tình hình kinh\ndoanh nghiệp EVFTA và ngành rau quả Việt  Nam."}
+{"text": "NXB Công Thương."}
+{"text": "Hà Nội."}
+{"text": "128tr."}
+{"text": "Huyền, T. (2016)."}
+{"text": "Kỹ thuật trồng ớt đạt hiệu quả\ncao."}
+{"text": "NXB Hồng Đức."}
+{"text": "Hà Nội."}
+{"text": "103tr."}
+{"text": "(2013)."}
+{"text": "Climate Change 2013: The Physical\ntế - xã hội tháng 02 năm 2021 tỉnh Kiên Giang."}
+{"text": "Cổng thông tin điện tử Bộ Kế hoạch và Đầu tư."}
+{"text": "https://www.mpi.gov.vn/Pages/tinbai.aspx?idTin= 50081&idcm=504    Cúc, T. T. (2007)."}
+{"text": "Kỹ thuật trồng rau sạch: Trồng\nrau ăn lá."}
+{"text": "NXB Phụ nữ."}
+{"text": "Hà Nội."}
+{"text": "84-85."}
+{"text": "Danh, L. N., & Trúc, N. T. T. (2021)."}
+{"text": "So sánh hiệu\nquả kỹ thuật mô hình nuôi cua-tôm ở tỉnh Kiên\nScience Basis."}
+{"text": "https://doi.org/https://doi.org/10.1017/CBO9781 107415324  Jirapornvaree, I., Suppadit, T., & Kumar, V. (2021)."}
+{"text": "M., Boix-Fayos, C., & Martínez-Mena, M.  (2020)."}
+{"text": "Carbon emissions and economic  assessment of farm operations under different  tillage practices in organic rainfed almond  orchards in semiarid Mediterranean conditions."}
+{"text": "Scientia Horticulturae, 261(July 2019), 108978.  https://doi.org/10.1016/j.scienta.2019.108978  Myo, L. C., Nogi, A., & Hashimoto, S. (2017)."}
+{"text": "Journal of Cleaner Production, 303, 127079.  https://doi.org/10.1016/j.jclepro.2021.127079  Lâm, H. X."}
+{"text": "(2020)."}
+{"text": "Thực trạng tăng trưởng xanh\nefficiency assessment of material use: The case  of phosphorus fertilizer usage in Japan’s rice  sector."}
+{"text": "Life cycle assessment\ntrong nông nghiệp của Việt Nam."}
+{"text": "Tạp chí Tài  chính, kỳ 2-Tháng 6/2020."}
+{"text": "https://tapchitaichinh.vn/thuc-trang-tang-truong- xanh-trong-nong-nghiep-cua-viet-nam.html   Liêm, L. T. T., & Phước, N. T. K. (2021)."}
+{"text": "https://doi.org/10.1002/geo2.96  Nakashima, T., & Ishikawa, S. (2016)."}
+{"text": "Energy inputs\ncứu hiện trạng tiêu thụ năng lượng thông qua vật  tư nông nghiệp đầu vào và hiệu quả tài chính của  mô hình trồng rau ăn lá tại xã Mỹ Thuận, huyện  Hòn Đất, tỉnh Kiên Giang."}
+{"text": "Tạp chí Khoa học  Trường Đại học Cần Thơ, 57 (CĐ Môi trường &  Biến đổi khí hậu)."}
+{"text": "43-53.  https://doi.org/10.1016/j.njas.2015.11.003  Nguyễn, L. T. (2020)."}
+{"text": "Nghiên cứu sự phát thải khí\nK. (2022)."}
+{"text": "Sustainability, 14(10),  6102.  https://doi.org/10.3390/su14106102  Linh, T. T., Khôi, C. M., Hoàng, L. M., Chánh, T.\nnhà kính trong canh tác lúa nước tại Nam Định  và đề xuất các giải pháp giảm thiểu."}
+{"text": "Luận án tiến  sỹ, Đại học Quốc gia Hà Nội."}
+{"text": "Việt Nam."}
+{"text": "Phòng Nông nghiệp và Phát triển nông thôn huyện\nHòn Đất, 2020."}
+{"text": "Báo cáo kết quả sản xuất nông,  lâm, ngư nghiệp năm 2020, kế hoạch năm 2021."}
+{"text": "Tài liệu không xuất bản."}
+{"text": "Phong, L. T., & Lợi, P. T. (2012)."}
+{"text": "Đánh giá tác động\nT., & My, H. M. T. (2021)."}
+{"text": "Đánh giá hiệu quả tài  chính của một số hệ thống canh tác chủ yếu trên  đất nhiễm mặn tại huyện Thạnh Phú, tỉnh Bến  Tre và huyện U Minh Thượng, tỉnh Kiên  Giang."}
+{"text": "Tạp chí Khoa học Trường Đại học Cần  Thơ, 57(6)."}
+{"text": "213-223.  https://doi.org/10.22144/ctu.jvn.2021.188  Lộc, V. T. T., An, N. T. T., Son, N. P., Thọ, H. H.,\nmôi trường của sản xuất lúa ở Đồng Bằng Sông  Cửu Long."}
+{"text": "Tạp chí Khoa học Trường Đại học  Cần Thơ, Số 24A."}
+{"text": "106-116."}
+{"text": "Phong, L. T., & Lợi, P. T. (2014)."}
+{"text": "Đánh giá tác động\nKiệt, T. H. V. T., Huôn, L., & Giang, L. T.  (2015)."}
+{"text": "Phân tích chuỗi giá trị ớt tỉnh Đồng  Tháp."}
+{"text": "Tạp Chí Khoa Học Trường Đại Học Cần  Thơ, 38 (Phần D: Khoa học Chính trị, Kinh tế và  Pháp luật), 107–119."}
+{"text": "Malyan, S. K., Bhatia, A., Tomer, R., Harit, R. C.,\nmôi trường trong canh tác bưởi (Citrus maxima  Merr.)"}
+{"text": "và xoài (Mangifera indica L.) ở Đồng  bằng sông Cửu Long."}
+{"text": "Tạp chí Khoa học Trường  Đại học Cần Thơ, (31)."}
+{"text": "39-50."}
+{"text": "Phong, L. T., & Tâm, H. M. (2015)."}
+{"text": "Ảnh hưởng môi\nJain, N., Bhowmik, A., & Kaushik, R. (2021)."}
+{"text": "Maraseni, T. N., Cockfield, G., Maroulis, J., & Chen,\ntrường của ba mô hình canh tác lúa cánh đồng  mẫu lớn, GAP và truyền thống ở Đồng Bằng  Sông Cửu Long."}
+{"text": "Tạp chí Khoa học Trường Đại  học Cần Thơ, Phần B: Nông nghiệp, Thủy sản và  Công nghệ Sinh học."}
+{"text": "64-75."}
+{"text": "Phương, N. T. M., Xuân, N. T., & Anh, N. T. V.\n(2010)."}
+{"text": "Trồng rau gia vị, rau ăn sống an toàn."}
+{"text": "NXB Hà Nội."}
+{"text": "Hà Nội."}
+{"text": "83-85."}
+{"text": "Praveen, B., & Sharma, P. (2019)."}
+{"text": "J."}
+{"text": "Public Aff., 19, e1960."}
+{"text": "https://doi.org/10.1002/pa.1960\n52\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 59, Số Chuyên đề: Môi trường và Biến đổi khí hậu (2023): 42-53\nQuyền, M. V., Nhi, L. T. V., Vinh, N. Q., Hòa, N.\nwww.gso.gov.vn/du-lieu-va-so-lieu-thong- ke/2022/01/thanh-tuu-cua-nganh-trong-trot-mot- nam-nhin-lai/."}
+{"text": "Ngày đăng: 11/01/2022  Tongwane, M., Mdlambuzi, T., Moeletsi, M., Tsubo,\nT., & Kiệt, N. T. (2000)."}
+{"text": "Những cây rau gia vị  phổ biến ở Việt Nam."}
+{"text": "NXB Nông nghiệp."}
+{"text": "Hồ Chí  Minh."}
+{"text": "63-65."}
+{"text": "Reicosky, D. C., Hatfield, J. L., & Sass, R. L. (2000)."}
+{"text": "37-55."}
+{"text": "Sarkar, D., Rakshit, A., Al-Turki, A. I., Sayyed, R.\nM., Mliswa, V., & Grootboom, L. (2016)."}
+{"text": "23-35.  https://doi.org/10.1016/j.envdev.2016.06.004  Trang, B. T. T., Huân, C. S., Trịnh, M. V., & Hưng,\nZ., & Datta, R. (2021)."}
+{"text": "Đánh giá độ nhạy các thông số và  hiệu chỉnh mô hình DNDC phục vụ tính toán  phát thải khí nhà kính từ hoạt động canh tác lúa  nước."}
+{"text": "Tạp chí Khoa học và Công nghệ Việt Nam."}
+{"text": "doi: 10.31276/VJST.63(6).11-17."}
+{"text": "Trang, B. T. T., Loan, B. T. P., Thêm, L. T. T., &\nSuMPO."}
+{"text": "(2014)."}
+{"text": "MiLCA Guidebook."}
+{"text": "https://milca- milca.net/downloadfiles/MiLCAguidebook_En.pdf  Theurl, M. C., Hörtenhuber, S. J., Lindenthal, T., &\nHằng, V. T. (2019)."}
+{"text": "Nghiên cứu phát thải khí  oxít nitơ (N2O) trên một số loại đất trồng ngô  việt nam."}
+{"text": "Tạp chí Khí tượng Thủy văn, số tháng  10 – 2019."}
+{"text": "Trang, N. T., Hải, T. M., Tú, V. H., & Khải, H. V.\nPalme, W. (2017)."}
+{"text": "134-144.   https://doi.org/10.1016/j.jclepro.2017.03.016."}
+{"text": "Thi, T. K., Hà, T. T. T., Tình, L. T., Hiền, N. T., &\n(2018)."}
+{"text": "Phân tích hiệu quả kinh tế mô hình lúa –  tôm tại huyện An Biên, tỉnh Kiên Giang."}
+{"text": "Tạp chí  Khoa học Trường Đại học Cần Thơ, 54(9)."}
+{"text": "149-156.   https://doi.org/10.22144/ctu.jvn.2018.191  Trinh, L. T. K., Hu, A. H., Lan, Y. C., & Chen, Z. H.\nLinh, P. M. (2009)."}
+{"text": "Rau ăn lá và hoa: Trồng rau  an toàn – năng suất – chất lượng cao."}
+{"text": "NXB  Khoa học tự nhiên và Công nghệ."}
+{"text": "133-135."}
+{"text": "Thủ tướng Chính phủ, 2022."}
+{"text": "Quyết định Phê duyệt\n(2020)."}
+{"text": "Chiến lược phát triển nông nghiệp và nông thôn bền  vững giai đoạn 2021 - 2030, tầm nhìn đến năm 2050  (số 150/QĐ-TTg)."}
+{"text": "https://chinhphu.vn/?pageid=27160&docid=205277."}
+{"text": "Thuận, N. C. (2022)."}
+{"text": "FAOSTAT Analytical Brief Series No 1.  https://doi.org/10.13140/RG.2.2.26571.62241  Văn."}
+{"text": "K. Đ, Hoàng, T., Anh, L. H., & Rotter, V. S.\nnước, giảm phát thải khí nhà kính và thích ứng  biến đổi khí hậu."}
+{"text": "Tạp chí Khoa học Trường Đại  học Cần Thơ, Tập 58, Số Chuyên đề  SDMD(2022)."}
+{"text": "231 - 238.  doi:10.22144/ctu.jvn.2022.209  Tín, H. Q., Cúc, N. H., Sánh, N. V., Anh, N. V.,\n(2020)."}
+{"text": "Ứng dụng mô hình DNDC tính toán phát  thải khí nhà kính từ hoạt động canh tác lúa nước  tại huyện Cái Bè - Tiền Giang."}
+{"text": "Tạp chí Khoa học  và Công nghệ, số 44, 2020."}
+{"text": "118-131.  https://doi.org/10.46242/jst-iuh.v44i02.577  Zhang, F., Liu, F., Ma, X., Guo, G., Liu, B., Cheng,\nHughes, J., Hòa, T. T., & Hà, T. T. (2012)."}
+{"text": "Canh  tác lúa ít khí thải nhà kính tỉnh An Giang vụ  Đông Xuân 2010-2011."}
+{"text": "Tạp Chí Khoa học  Trường Đại học Cần Thơ, 23a, 31–41."}
+{"text": "Tổng cục Thống kê."}
+{"text": "(2022)."}
+{"text": "Xuất nhập khẩu hàng hóa\nViệt Nam 2020."}
+{"text": "NXB Thống kê."}
+{"text": "Hà Nội."}
+{"text": "49 – 51."}
+{"text": "Tổng cục Thống kê."}
+{"text": "(2021)."}
+{"text": "Niên Giám Thống kê\nT., Liang, T., Tao, W., Chen, X., & Wang, X."}
+{"text": "(2021)."}
+{"text": "The impact of agricultural\nnăm 2021."}
+{"text": "NXB Thống kê."}
+{"text": "Hà Nội."}
+{"text": "Tr.509."}
+{"text": "Tổng cục Thống kê."}
+{"text": "(2022)."}
+{"text": "Thành tựu của ngành\ntrồng trọt – một năm nhìn lại."}
+{"text": "Energies, 15(12), 4464.   https://doi.org/10.3390/en15124464\n53"}

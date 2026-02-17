@@ -1,0 +1,200 @@
+{"text": "Keywords: split feasibility problem, conjugate gradient method, Polyak’s step size, CQ  method, weak convergence, sparse recovery problem\n 2023 University of Transport and Communications\n\n\n\n\n752\nTransport and Communications Science Journal, Vol 74, Issue 6 (08/2023), 752-763\nTạp chí Khoa học Giao thông vận tải\n\nPHƯƠNG PHÁP CHIẾU CQ TỰ THÍCH ỨNG VỚI HƯỚNG  GRADIENT LIÊN HỢP GIẢI BÀI TOÁN CHẤP NHẬN TÁCH VÀ\nỨNG DỤNG\nNguyễn Thế Vinh*\nTrường Đại học Giao thông vận tải, Số 3 Cầu Giấy, Hà Nội, Việt Nam\nTHÔNG TIN BÀI BÁO\nCHUYÊN MỤC: Công trình khoa học  Ngày nhận bài: 21/03/2023  Ngày nhận bài sửa: 20/06/2023   Ngày chấp nhận đăng: 01/07/2023  Ngày xuất bản Online: 15/08/2023  https://doi.org/10.47869/tcsj.74.6.5  * Tác giả liên hệ  Email: thevinhbn@utc.edu.vn; Tel: 0982161132\nTóm tắt."}
+{"text": "Bài toán chấp nhận tách là bài toán tối ưu lồi."}
+{"text": "Bài toán này đang được nghiên cứu  mạnh vì những ứng dụng hiệu quả của nó trong xử lý ảnh và xử lý tín hiệu."}
+{"text": "Trong bài báo  này, chúng tôi đề xuất một thuật toán dạng chiếu CQ kết hợp với phương pháp gradient liên  hợp để giải bài toán chấp nhận tách trong không gian Hilbert."}
+{"text": "Cỡ bước Polyak được sử dụng  để giảm thời gian chạy trong trường hợp bài toán có số chiều lớn."}
+{"text": "Thuật toán của chúng tôi  chỉ cần tính một lần giá trị của hàm và đạo hàm trong mỗi bước lặp."}
+{"text": "Với các giả thiết phù  hợp, chúng tôi đã chứng minh được rằng thuật toán hội tụ yếu đến một nghiệm của bài toán  chấp nhận tách."}
+{"text": "Phương pháp của chúng tôi mở rộng và cải tiến một số kết quả gần đây theo  hướng nghiên cứu này."}
+{"text": "Các kết quả số trong bài toán khôi phục thưa và sự so sánh với các  thuật toán đã biết chỉ ra tính hữu hiệu của thuật toán đề xuất."}
+{"text": "Từ khóa: Bài toán chấp nhận tách, phương pháp gradient liên hợp, cỡ bước Polyak, phương  pháp CQ, hội tụ yếu, bài toán khôi phục thưa."}
+{"text": " 2023 Trường Đại học Giao thông vận tải\n1."}
+{"text": "ĐẶT VẤN ĐỀ\nCho 𝐶, 𝑄 lần lượt là các tập con lồi đóng khác rỗng của các không gian Hilbert thực ℋ1, ℋ2."}
+{"text": "Không mất tính tổng quát, trong các không gian Hilbert này, ta ký hiệu tích vô hướng là 〈."}
+{"text": ", ."}
+{"text": "〉,  chuẩn cảm sinh là ‖."}
+{"text": "‖, toán tử đồng nhất là 𝐼, và 𝐴: ℋ1 → ℋ2 là toán tử tuyến tính bị chặn, 𝐴∗  là toán tử liên hợp của 𝐴. Bài toán chấp nhận tách (Split feasibility problems, viết tắt là bài toán  SFP) là bài toán\n753\nTạp chí Khoa học Giao thông vận tải, Tập 74, Số 6 (08/2023), 752-763\ntìm điểm 𝑥∗∈𝐶 sao cho 𝐴𝑥∗∈𝑄."}
+{"text": "(1)\nKý hiệu tập nghiệm của bài toán là 𝛺, tức là\n𝛺= {𝑥∗∈𝐶: 𝐴𝑥∗∈𝑄}."}
+{"text": "Bài toán chấp nhận tách do Censor và Elfving [1] đưa ra lần đầu tiên vào năm 1994, có nhiều  ứng dụng trong xử lý tín hiệu, xử lý ảnh,… (ví dụ xem trong [1-12])."}
+{"text": "Cụ thể, xét một phép biến  đổi tuyến tính như sau: 𝑦= 𝐴𝑥, với 𝐴 là ma trận lấy mẫu kích thước 𝑀× 𝑁, véc tơ 𝑥 là tín hiệu  gốc có kích thước 𝑁, và 𝑦 là véc tơ đo đạc được có kích thước là 𝑀. Thông thường, 𝑀 nhỏ hơn  𝑁 rất nhiều, làm thế nào để khôi phục lại 𝑥 khi biết 𝑦 và 𝐴?"}
+{"text": "Ta biết rằng, trong trường hợp này,  ta có 𝑀 phương trình để tìm 𝑁 nghiệm, nhưng 𝑀 nhỏ hơn 𝑁 nên sẽ không có nghiệm duy nhất."}
+{"text": "Ta có thể minh họa trường hợp trên bằng phép biến đổi Fourier rời rạc (Discrete Fourier  Transform) với 𝑦 chỉ lấy 𝑀 tần số trong số 𝑁 tần số từ phép biến đổi Fourier đầy đủ."}
+{"text": "Câu hỏi  đặt ra là liệu có thể khôi phục lại được tín hiệu 𝑥 chỉ từ 𝑀 tần số của tín hiệu 𝑦 đo được?"}
+{"text": "Điều  thú vị là E. Candes, J. Romberg và T. Tao trong công trình [13] đã cho thấy câu trả lời cho câu  hỏi trên là khẳng định trong trường hợp 𝑥 là tín hiệu thưa (sparse), tức là 𝑥 có độ dài 𝑁 chỉ chứa  𝑙 phần tử khác không."}
+{"text": "Cho tín hiệu thưa 𝑥 có chiều dài 𝑁, trong đó bao gồm 𝑙 phần tử khác  không và 𝑁−𝑙 phần tử còn lại, được xem như là bằng không."}
+{"text": "Thông qua phép chiếu với ma  trận lấy mẫu 𝐴 ta có véc tơ đo đạc 𝑦:\n𝑦 =  𝐴. 𝑥 +  𝜂,\ntrong đó 𝜂 là hàm nhiễu Gauss có trung bình bằng không và phương sai 𝜎2."}
+{"text": "Để khôi phục tín hiệu gốc 𝑥̅, vấn đề được đưa ra là giải quyết bài toán tối ưu hóa cực tiểu:\n𝑥̅ = min\n2 ≤ 𝜀."}
+{"text": "(2)\n𝑥 ||𝑥||1    với   ||𝑦 − 𝐴𝑥||2\nTa biết rằng bài toán (2) tương đương với bài toán sau:\n𝑥̅ = min\n2  với ||𝑥||1 ≤𝑡,                      (3)\n𝑥 ||𝑦 − 𝐴𝑥||2\nvới 𝑡 là số thực dương thích hợp."}
+{"text": "Nếu ta đặt 𝐶= {𝑥∈ℋ1: ||𝑥||1 ≤𝑡}, 𝑄= {𝑦} thì việc giải bài toán (3) có thể quy về  giải bài toán SFP (1)."}
+{"text": "Bài toán chấp nhận tách ban đầu được Censor và Elfving nghiên cứu trong  không gian hữu hạn chiều, sau đó được nhiều nhà toán học khác nghiên cứu trong không gian vô  hạn chiều (chẳng hạn xem trong các bài báo cùng các trích dẫn liên quan [2,5,6,8,9,11,12,14-19])."}
+{"text": "Phương pháp lặp phổ biến nhất để giải bài toán SFP là thuật toán CQ do Byrne đề xuất  trong [3]."}
+{"text": "Phương pháp này là trường hợp đặc biệt của thuật toán chiếu gradient trong bài toán  tối ưu lồi với giá trị tối ưu 0:\n1\n2.\nmin\n2 ‖𝐴𝑥−𝑃𝑄𝐴𝑥‖\n𝑥∈𝐶𝑓(𝑥) ≔\nNhư ta đã biết hàm 𝑓 là lồi khả vi và ∇𝑓(𝑥) = 𝐴∗(𝐼−𝑃𝑄)𝐴𝑥, 𝑥 ∈ℋ1 là đơn điệu mạnh\nngược với hằng số\n1 ‖𝐴‖2 , nghĩa là:\n〈∇𝑓(𝑥) −∇𝑓(𝑦), 𝑥−𝑦〉≥ 1 ‖𝐴‖2 ‖∇𝑓(𝑥) −∇𝑓(𝑦)‖2        ∀𝑥, 𝑦∈ℋ1."}
+{"text": "Tuy nhiên, thuật toán CQ đòi hỏi phải biết chuẩn của toán tử tuyến tính bị chặn, điều này  rõ ràng không dễ trong tính toán."}
+{"text": "Vì vậy, các phương pháp tự thích ứng đã được đề xuất, xem  chẳng hạn trong [9,18,20,21]."}
+{"text": "Đáng chú ý là López và cộng sự trong bài báo [9] đã xây dựng\n754\nTransport and Communications Science Journal, Vol 74, Issue 6 (08/2023), 752-763\nmột phương pháp chọn cỡ bước sao cho khi áp dụng thuật toán CQ thì không yêu cầu thông  tin về chuẩn của toán tử."}
+{"text": "Lưu ý rằng phương pháp CQ chỉ thu được hội tụ yếu trong không  gian Hilbert."}
+{"text": "Về các kết quả thú vị khác liên quan đến bài toán chấp nhận tách, có thể xem  trong bài khảo cứu của Ansari và Rehan [22] và các kết quả gần đây trong [5,7,11,15-17,19]."}
+{"text": "Năm 2022, Huang và Liu [7] đã kết hợp thuật toán gradient đa bước của Kesornprom,  Pholasa và Cholamjiak [8] và phương pháp gradient liên hợp của Sakurai và Iiduka [23] để đề  xuất một thuật toán gradient liên hợp mới giải bài toán SFP và đưa ra một ứng dụng trong lĩnh  vực xử lý tín hiệu."}
+{"text": "Tuy nhiên qua nghiên cứu kỹ bài báo này chúng tôi thấy có một số nhược  điểm như sau: Khối lượng tính toán còn khá lớn (tính hai lần giá trị của hàm và gradient);  phần chứng minh sự hội tụ của thuật toán có lỗ hổng từ sau công thức (19) (chỉ có thể suy ra  dãy lặp là đơn điệu tựa Féjer chứ không thể đơn điệu Féjer như bài báo đã chỉ ra); giả thiết  (C4) không đủ để đảm bảo các đại ượng 𝑀 và 𝑀̂ là hữu hạn."}
+{"text": "Dựa trên những phân tích đó,  trong bài báo này chúng tôi đề xuất một thuật toán CQ với hướng gradient liên hợp mới và  chứng minh sự hội tụ yếu của thuật toán đó."}
+{"text": "Thuật toán của chúng tôi khắc phục được các  hạn chế của Thuật toán 1 trong [7], đồng thời cho một phương pháp hợp nhất các thuật toán  dạng CQ sử dụng cỡ bước Polyak được trình bày trong các nghiên cứu gần đây, như trong  [9,18,24]."}
+{"text": "Phần còn lại của bài báo được tổ chức như sau: Phần đầu của Mục 2 trình bày một số kết  quả cơ bản để sử dụng cho việc chứng minh, phân tích hội tụ của thuật toán CQ với hướng  gradient liên hợp trong phần sau của mục này."}
+{"text": "Kết quả số giải bài toán LASSO minh họa tính  hiệu quả của thuật toán do chúng tôi đề xuất."}
+{"text": "Phần 3 là kết luận của bài báo."}
+{"text": "2."}
+{"text": "NỘI DUNG CHÍNH\n2.1."}
+{"text": "Kiến thức chuẩn bị\nCho dãy {𝑥𝑘} ⊂ℋ1 và 𝐶 là tập con lồi đóng khác rỗng của ℋ1."}
+{"text": "Sự hội tụ mạnh (tương  ứng, yếu) của dãy {𝑥𝑘} tới 𝑥 được kí hiệu là 𝑥𝑘→𝑥 (tương ứng 𝑥𝑘⇀𝑥)."}
+{"text": "Ta kí hiệu 𝜔𝑤(𝑥𝑘)  là tập tất cả các điểm tụ yếu của {𝑥𝑘}:\n𝜔𝑤(𝑥𝑘)  ≔{𝑥∈ ℋ1:  𝑥𝑘𝑗 ⇀𝑥 với mỗi dãy con {𝑘𝑗} của  {𝑘}}."}
+{"text": "Với mỗi 𝑥∈ℋ1, tồn tại một điểm gần 𝑥 nhất trong 𝐶, kí hiệu 𝑃𝐶(𝑥) sao cho\n‖𝑥−𝑃𝐶𝑥‖ = 𝑚𝑖𝑛{‖𝑥−𝑦‖:  𝑦∈𝐶}."}
+{"text": "𝑃𝐶 được gọi là phép chiếu metric của ℋ1 lên 𝐶. Tính chất cơ bản của 𝑃𝐶 được cho trong  Bổ đề 2.1."}
+{"text": "Bổ đề 2.1."}
+{"text": "𝑃𝐶 thỏa mãn các bất đẳng thức sau:\n(i) 〈𝑥−𝑃𝐶(𝑥),   𝑦−𝑃𝐶(𝑥)〉≤0 , ∀𝑥∈ℋ1, 𝑦 ∈𝐶;  (ii) ‖𝑃𝐶(𝑥) −𝑦‖2 ≤‖𝑥−𝑦‖2 −‖𝑥−𝑃𝐶𝑥‖2,   ∀𝑥∈ℋ1, 𝑦∈𝐶."}
+{"text": "Để chứng minh sự hội tụ của thuật toán đề xuất, ta cần khái niệm và kết quả sau."}
+{"text": "Định nghĩa 2.1."}
+{"text": "([25]) Dãy {𝑥𝑘} ⊂ℋ1 gọi là đơn điệu tựa Féjer đối với tập 𝑆 nếu tồn tại số  𝑁1 ∈ℕ sao cho với mọi 𝑧∈𝑆: ‖𝑥𝑘+1 −𝑧‖2 ≤‖𝑥𝑘−𝑧‖2 + 𝜎𝑘 với mọi 𝑘≥𝑁1, trong đó 𝜎𝑘 là  dãy số dương sao cho ∑ 𝜎𝑘< ∞ ∞ 𝑘=0 ."}
+{"text": "Bổ đề 2.2."}
+{"text": "([25]) Cho ℋ1 là không gian Hilbert thực và {𝑥𝑘} ⊂ℋ1 là đơn điệu tựa Féjer  đối với tập lồi đóng khác rỗng 𝑆⊂ℋ1."}
+{"text": "Khi đó\n755\nTạp chí Khoa học Giao thông vận tải, Tập 74, Số 6 (08/2023), 752-763\n(i) Với mỗi 𝑧 ∈𝑆, tồn tại giới hạn lim\n𝑘→∞‖𝑥𝑘−𝑧‖,\n(ii) Nếu mỗi điểm tụ yếu của {𝑥𝑘} thuộc 𝑆 thì tồn tại 𝑥̅  ∈𝑆 sao cho {𝑥𝑘} hội tụ yếu đến\n𝑥̅."}
+{"text": "2.2."}
+{"text": "Thuật toán và sự hội tụ  2.2.1."}
+{"text": "Thuật toán CQ tự thích ứng với hướng gradient liên hợp\nTrong phần này chúng tôi sẽ đề xuất thuật toán CQ quán tính với hướng gradient liên hợp  để giải bài toán chấp nhận tách (1)."}
+{"text": "•  Thuật toán 2.1."}
+{"text": "(Thuật toán CQ tự thích ứng với hướng gradient liên hợp)\nBước khởi tạo: Lấy 𝜀> 0; 0 ≤𝜃< 1 và các dãy dương {𝜌𝑘}, {𝜀𝑘}, {𝛽𝑘}, {𝜃𝑘} sao cho  0 < 𝜌𝑘< 4, 0 < 𝜃𝑘, 𝛽𝑘< 1 và ∑ 𝜀𝑘< ∞ ∞ 𝑘=0 ,  ∑ 𝛽𝑘< ∞ ∞ 𝑘=0 ."}
+{"text": "Lấy tùy ý 𝑥0, 𝑥1, 𝑑0 trong ℋ1 và  đặt 𝑘= 1."}
+{"text": "Bước k: Tính\n\n𝛼𝑘= {  min {𝜃, 𝜀𝑘 ‖𝑥𝑘−𝑥𝑘−1‖}    nếu 𝑥𝑘≠𝑥𝑘−1,\n𝜃                                        nếu 𝑥𝑘= 𝑥𝑘−1."}
+{"text": "𝑤𝑘= 𝑥𝑘+ 𝛼𝑘(𝑥𝑘−𝑥𝑘−1),                                                (4)\n𝑓(𝑤𝑘)\n𝜆𝑘= 𝜌𝑘\n||𝛻𝑓(𝑤𝑘)||2+𝜃𝑘,                      (5)\n𝑑𝑘+1 = −𝜆𝑘∇𝑓(𝑤𝑘) + 𝛽𝑘𝑑𝑘,\n𝑥𝑘+1 = 𝑃𝐶(𝑤𝑘+ 𝑑𝑘+1)."}
+{"text": "(6)\nNếu  𝑓(𝑥𝑘+1) < 𝜀 thì dừng thuật toán và 𝑥𝑘+1 là nghiệm của bài toán."}
+{"text": "Trái lại, tăng 𝑘≔ 𝑘+ 1 và tính như bước 𝑘.\nNhận xét 2.1."}
+{"text": "(1) Từ cách xác định 𝛼𝑘 trong Thuật toán 2.1 ta suy ngay ra rằng\n∑ 𝛼𝑘‖𝑥𝑘−𝑥𝑘−1‖ ≤𝜀𝑘< ∞ ∞ 𝑘=0 ."}
+{"text": "(2) Trường hợp 𝛼𝑘= 0 và 𝑑𝑘= 0 thì thuật toán trên quy về Thuật toán 3.1 của López và  cộng sự [9]."}
+{"text": "Nếu 𝑑𝑘= 0 thì ta nhận được phương pháp CQ quán tính đã nghiên cứu trong  [6,24]."}
+{"text": "Thuật toán của chúng tôi cải tiến của Huang và Liu [7] thể hiện ở hai điểm."}
+{"text": "Một là khối  lượng tính toán giảm, chỉ phải tính giá trị của hàm và gradient một lần trên mỗi bước lặp."}
+{"text": "Hai  là chúng tôi dùng phương pháp quán tính để tăng tốc thuật toán."}
+{"text": "2.2.2."}
+{"text": "Phân tích sự hội tụ\nĐể chứng minh sự hội tụ của Thuật toán 2.1 ta cần các giả thiết sau:  (C1)  inf\n𝑘𝜌𝑘(4 −𝜌𝑘) > 0,\n(C2) {𝑥𝑘} và {(𝐼−𝑃𝑄)𝐴𝑤𝑘} là hai dãy bị chặn."}
+{"text": "Nhận xét 2.2."}
+{"text": "Nếu tập 𝐶 là tập bị chặn thì do {𝑥𝑘} ⊂𝐶 nên vế trước của điều kiện (C2)  hiển nhiên thỏa mãn."}
+{"text": "Chú ý nếu dãy {𝑥𝑘} bị chặn thì dẫn đến {𝑤𝑘} bị chặn."}
+{"text": "Vì thế nếu xét  không gian Hilbert hữu hạn chiều thì vì 𝐼−𝑃𝑄 là ánh xạ không giãn nên ta cũng có  {(𝐼−𝑃𝑄)𝐴𝑤𝑘} bị chặn."}
+{"text": "Do đó, điều kiện (C2) không hề khiên cưỡng vì trong các ví dụ thực tế  như bài toán xử lý tín hiệu, hình ảnh thưa, ta xét tập bị chặn 𝐶 là quả cầu chuẩn 1, tức là\n756\nTransport and Communications Science Journal, Vol 74, Issue 6 (08/2023), 752-763\n𝐶= {𝑥∈ℋ1: ||𝑥||1 ≤𝑡},\ntrong đó 𝑡 là số thực dương."}
+{"text": "Định lý 2.1."}
+{"text": "Giả sử các điều kiện (C1) và (C2) được thỏa mãn và {𝑥𝑘} là dãy sinh bởi  Thuật toán 2.1."}
+{"text": "Khi đó dãy {𝑥𝑘} sẽ hội tụ yếu đến một phần tử của 𝛺.   Chứng minh:\n1\nTừ cách chọn 𝛽𝑘 ta suy ra tồn tại 𝑘0 sao cho 𝛽𝑘≤\n2 với mọi 𝑘≥𝑘0."}
+{"text": "Không giảm tổng  quát, ta có thể coi ||∇𝑓(𝑤𝑘)|| ≥𝜀 với mọi 𝑘≥𝑘0."}
+{"text": "Theo (C2) ta suy ra tồn tại 𝑀1 > 0 sao cho\n1\n𝑓(𝑤𝑘) =\n2 ||(𝐼−𝑃𝑄)𝐴𝑤𝑘||2 ≤𝑀1."}
+{"text": "Ta sẽ chỉ ra bằng quy nạp rằng dãy {𝑑𝑘} bị chặn."}
+{"text": "Thật vậy, giả sử ||𝑑𝑘|| ≤𝑀 với 𝑘 nào đó  (𝑘≥𝑘0)."}
+{"text": "Từ (5) ta thấy\n𝑓(𝑤𝑘)‖∇𝑓(𝑤𝑘)‖\n4𝑀1√2𝑀1\n𝜆𝑘‖∇𝑓(𝑤𝑘)‖ = 𝜌𝑘\n𝜀 ||𝐴∗||."}
+{"text": "||𝛻𝑓(𝑤𝑘)||2+𝜃𝑘<\nVì thế sup\n𝜆𝑘‖∇𝑓(𝑤𝑘)‖ < ∞."}
+{"text": "Đặt\n𝑘\n𝑀= max\n𝜆𝑘‖∇𝑓(𝑤𝑘)‖} < ∞."}
+{"text": "𝑘 {||𝑑𝑘||,2 sup\n𝑘\nKhi đó\n||𝑑𝑘+1|| = || −𝜆𝑘∇𝑓(𝑤𝑘) + 𝛽𝑘𝑑𝑘|| ≤𝜆𝑘||∇𝑓(𝑤𝑘)|| + 𝛽𝑘||𝑑𝑘|| ≤𝑀."}
+{"text": "Tiếp theo ta chứng minh rằng với mọi 𝑧∈𝛺 ta có:\n𝑓2(𝑤𝑘)\n‖𝑥𝑘+1 −𝑧‖2 ≤‖𝑤𝑘−𝑧‖2 −𝜌𝑘(4 −𝜌𝑘)\n2 + 𝛽𝑘𝑀2,\n‖∇𝑓(𝑤𝑘)‖\n1\n2 〈𝑤𝑘−𝜆𝑘∇𝑓(𝑤𝑘)+\ntrong đó 𝑀2 = sup\n2 𝛽𝑘𝑑𝑘−𝑧, 𝑑𝑘〉."}
+{"text": "𝑘\nTa có\n‖𝑤𝑘−𝜆𝑘∇𝑓(𝑤𝑘) −𝑧‖2 = ‖𝑤𝑘−𝑧‖2 + 𝜆𝑘\n2‖∇𝑓(𝑤𝑘)‖2  +2𝜆𝑘〈𝑧−𝑤𝑘, ∇𝑓(𝑤𝑘)〉           (7)\nvà\n〈 ∇𝑓(𝑤𝑘), 𝑤𝑘−𝑧〉= 〈(𝐼−𝑃𝑄)𝐴𝑤𝑘, 𝐴𝑤𝑘−𝐴𝑧〉\n= 〈(𝐼−𝑃𝑄)𝐴𝑤𝑘−(𝐼−𝑃𝑄)𝐴𝑧, 𝐴𝑤𝑘−𝐴𝑧〉\n2 = 2𝑓(𝑤𝑘)."}
+{"text": "(8)\n≥ ‖(𝐼−𝑃𝑄)𝐴𝑤𝑘‖\nTừ (7), (8) ta có\n2‖∇𝑓(𝑤𝑘)‖2 −4𝜆𝑘𝑓(𝑤𝑘)\n‖𝑤𝑘−𝜆𝑘∇𝑓(𝑤𝑘) −𝑧‖2 ≤‖𝑤𝑘−𝑧‖2 + 𝜆𝑘\n2\n𝑓(𝑤𝑘)\n𝑓2(𝑤𝑘)\n2\n= ‖𝑤𝑘−𝑧‖2+(𝜌𝑘\n−4𝜌𝑘\n‖∇𝑓(𝑤𝑘)‖)\n‖∇𝑓(𝑤𝑘)‖\n𝑓2(𝑤𝑘)\n2 ."}
+{"text": "≤‖𝑤𝑘−𝑧‖2 −𝜌𝑘(4 −𝜌𝑘)\n‖∇𝑓(𝑤𝑘)‖\nTừ đó\n‖𝑥𝑘+1 −𝑧‖2 ≤‖𝑤𝑘−𝜆𝑘∇𝑓(𝑤𝑘) + 𝛽𝑘𝑑𝑘−𝑧‖2\n757\nTạp chí Khoa học Giao thông vận tải, Tập 74, Số 6 (08/2023), 752-763\n2||𝑑𝑘||2\n= ‖𝑤𝑘−𝜆𝑘∇𝑓(𝑤𝑘) −𝑧‖2 + 2𝛽𝑘〈𝑤𝑘−𝜆𝑘∇𝑓(𝑤𝑘) −𝑧, 𝑑𝑘〉+  𝛽𝑘\n2||𝑑𝑘||2\n≤‖𝑤𝑘−𝑧‖2 −𝜌𝑘(4 −𝜌𝑘) 𝑓2(𝑤𝑘) ‖∇𝑓(𝑤𝑘)‖2 + 2𝛽𝑘〈𝑤𝑘−𝜆𝑘∇𝑓(𝑤𝑘) −𝑧, 𝑑𝑘〉+  𝛽𝑘\n= ‖𝑤𝑘−𝑧‖2 −𝜌𝑘(4 −𝜌𝑘) 𝑓2(𝑤𝑘) ‖∇𝑓(𝑤𝑘)‖2 + 2 〈𝑤𝑘−𝜆𝑘∇𝑓(𝑤𝑘)+ 1\n2 𝛽𝑘𝑑𝑘−𝑧, 𝛽𝑘𝑑𝑘〉\n= ‖𝑤𝑘−𝑧‖2 −𝜌𝑘(4 −𝜌𝑘) 𝑓2(𝑤𝑘) ‖∇𝑓(𝑤𝑘)‖2 + 2𝛽𝑘〈𝑤𝑘−𝜆𝑘∇𝑓(𝑤𝑘)+ 1\n2 𝛽𝑘𝑑𝑘−𝑧, 𝑑𝑘〉\n≤‖𝑤𝑘−𝑧‖2 −𝜌𝑘(4 −𝜌𝑘) 𝑓2(𝑤𝑘) ‖∇𝑓(𝑤𝑘)‖2 + 𝛽𝑘𝑀2,\n1\n2 〈𝑤𝑘−𝜆𝑘∇𝑓(𝑤𝑘)+\ntrong đó 𝑀2 = sup\n2 𝛽𝑘𝑑𝑘−𝑧, 𝑑𝑘〉."}
+{"text": "𝑘\nDo vậy\n𝑓2(𝑤𝑘)\n‖𝑥𝑘+1 −𝑧‖2 ≤‖𝑤𝑘−𝑧‖2 −𝜌𝑘(4 −𝜌𝑘)\n2 + 𝛽𝑘𝑀2,\n‖∇𝑓(𝑤𝑘)‖\n𝑓2(𝑤𝑘)\n= (‖𝑥𝑘−𝑧‖ + 𝛼𝑘‖𝑥𝑘−𝑥𝑘−1‖)2 −𝜌𝑘(4 −𝜌𝑘)\n2 + 𝛽𝑘𝑀2."}
+{"text": "‖∇𝑓(𝑤𝑘)‖\nDo đó\n‖𝑥𝑘+1 −𝑧‖2 ≤‖𝑥𝑘−𝑧‖2 + 2‖𝑥𝑘−𝑧‖𝛼𝑘‖𝑥𝑘−𝑥𝑘−1‖ +(𝛼𝑘‖𝑥𝑘−𝑥𝑘−1‖ )2\n𝑓2(𝑤𝑘)\n−𝜌𝑘(4 −𝜌𝑘)\n2 + 𝛽𝑘𝑀2,                   (9)\n‖∇𝑓(𝑤𝑘)‖\nvà\n𝑓2(𝑤𝑘)\n𝜌𝑘(4 −𝜌𝑘)\n2 ≤‖𝑥𝑘−𝑧‖2 −‖𝑥𝑘+1 −𝑧‖2 + 2‖𝑥𝑘−𝑧‖𝛼𝑘‖𝑥𝑘−𝑥𝑘−1‖\n‖∇𝑓(𝑤𝑘)‖\n+(𝛼𝑘‖𝑥𝑘−𝑥𝑘−1‖ )2 + 𝛽𝑘𝑀2."}
+{"text": "(10)\nVì dãy {𝑥𝑘} bị chặn nên kết hợp với Nhận xét 2.1, bất đẳng thức (9) ta thấy rằng dãy này  là dãy đơn điệu tựa Féjer đối với tập nghiệm."}
+{"text": "Khi đó theo Bổ đề 2.2 với\n𝜎𝑘= 2‖𝑥𝑘−𝑧‖𝛼𝑘‖𝑥𝑘−𝑥𝑘−1‖+(𝛼𝑘‖𝑥𝑘−𝑥𝑘−1‖ )2 + 𝛽𝑘𝑀2,  ta suy ra tồn tại lim\n𝑘→∞‖𝑥𝑘−𝑧‖ và khi đó chuyển qua giới hạn trong (10) ta được\nlim 𝑘→∞𝜌𝑘(4 −𝜌𝑘) 𝑓2(𝑤𝑘) ‖∇𝑓(𝑤𝑘)‖2 = 0."}
+{"text": "Với giả thiết (C1) ta suy ra\n𝑓2(𝑤𝑘)\n2 = 0."}
+{"text": "(11)\nlim 𝑘→∞\n‖∇𝑓(𝑤𝑘)‖\nVì ∇𝑓 là Lipschitz nên ta có\n‖∇𝑓(𝑤𝑘)‖ = ‖∇𝑓(𝑤𝑘) −∇𝑓(𝑧)‖ ≤‖𝐴‖2‖𝑤𝑘−𝑧‖  ∀𝑧∈𝛺."}
+{"text": "758\nTransport and Communications Science Journal, Vol 74, Issue 6 (08/2023), 752-763\nTừ đây ta suy ra dãy {∇𝑓(𝑤𝑘)} bị chặn (hoặc có thể lập luận như phần đầu của chứng minh  để suy ra ‖∇𝑓(𝑤𝑘)‖ ≤√2𝑀1||𝐴∗||)."}
+{"text": "Từ đó kết hợp với (11) ta đi đến\nlim 𝑘→∞𝑓(𝑤𝑘) = 0."}
+{"text": "(12)\nTa sẽ chỉ ra rằng 𝜔𝑤(𝑥𝑘) ⊂𝛺 ."}
+{"text": "Lấy tùy ý  𝑥̅  ∈𝜔𝑤(𝑥𝑘) ."}
+{"text": "Do dãy {𝑥𝑘} bị chặn nên tồn tại  một dãy con {𝑥𝑘𝑙} hội tụ yếu đến 𝑥̅."}
+{"text": "Mặt khác theo thuật toán thì 𝑤𝑘= 𝑥𝑘+ 𝛼𝑘(𝑥𝑘−𝑥𝑘−1)  nên\n‖𝑤𝑘−𝑥𝑘‖ = ‖𝛼𝑘(𝑥𝑘−𝑥𝑘−1)‖ ≤𝜀𝑘→0."}
+{"text": "(13)\nTừ (13) suy ra 𝑤𝑘𝑙⇀𝑥 ̅ ∈𝐶."}
+{"text": "Do  𝑓(𝑥) là hàm lồi nửa liên tục dưới yếu và 𝑤𝑘𝑙⇀𝑥̅, từ  (12) suy ra\n𝑓(𝑥̅) ≤lim\n𝑘→∞inf 𝑓( 𝑤𝑘𝑙) = 0."}
+{"text": "1\nVậy ta có 𝐴𝑥 ̅ ∈𝑄."}
+{"text": "Điều này dẫn đến  𝑥̅ ∈𝛺."}
+{"text": "Vì 𝑥̅ được chọn bất kỳ thuộc 𝜔𝑤(𝑥𝑘)  nên𝜔𝑤(𝑥𝑘) ⊂𝛺."}
+{"text": "Theo Bổ đề 2.2 ta có điều cần chứng minh."}
+{"text": "Nhận xét 2.3."}
+{"text": "Kết quả hội tụ trên của chúng tôi đã mở rộng và cải tiến các kết quả trong [6- 9,24]."}
+{"text": "Chứng minh sự hội tụ của thuật toán đề xuất của chúng tôi cũng khác với các kết quả  khác có sử dụng kỹ thuật quán tính [6,16-19]."}
+{"text": "Nhận xét 2.4."}
+{"text": "Nếu 𝛽𝑘= 0 với mọi 𝑘 thì trong chứng minh của Định lý 2.1 sẽ không còn xuất  hiện số hạng 𝛽𝑘〈𝑤𝑘−𝜆𝑘∇𝑓(𝑤𝑘)+\n2 𝛽𝑘𝑑𝑘−𝑧, 𝑑𝑘〉, vì thế điều kiện (C2) là không cần thiết  nữa."}
+{"text": "2.3."}
+{"text": "Kết quả số\nTrong phần này, chúng tôi xét bài toán LASSO sau đây:\n1\n2  sao cho   ‖𝑥‖1 ≤𝑡,    (14)\n2 ‖𝐴𝑥−𝑏‖2\nmin 𝑥∈𝑅𝑛\ntrong đó 𝑏∈𝑅𝑚 là tín hiệu quan sát được với nhiễu 𝜂,  𝑥∈𝑅𝑛 là tín hiệu cần khôi phục,  𝐴 (𝑚× 𝑛) là ma trận lấy mẫu."}
+{"text": "Nói chung 𝐴 là ma trận điều kiện xấu."}
+{"text": "Đặt\n𝐶≔{𝑥:    ‖𝑥‖1 ≤𝑡} và 𝑄= {𝑏}\nthì bài toán tối ưu có ràng buộc (14) quy về bài toán chấp nhận tách (1)."}
+{"text": "Ta chọn dữ liệu như sau."}
+{"text": "Véc tơ 𝑥∈𝑅𝑛 là một 𝑙-tín hiệu thưa được sinh ra từ phân phối  Gauss với 𝑙 phần tử khác 0 được chọn ngẫu nhiên."}
+{"text": "Ma trận 𝐴 (𝑚× 𝑛) được sinh ra từ phân  phối chuẩn với giá trị kỳ vọng bằng 0, phương sai bằng 1."}
+{"text": "Chúng ta sẽ so sánh Thuật toán 2.1  (CGCQ) với thuật toán CQ [9] (Lopez et al."}
+{"text": "algorithm), thuật toán gia tốc của Gibali-Mai-Vinh  (iCQ) [6], Thuật toán 1 của Kesornprom et al."}
+{"text": "[8] (CQ-gradient) và Thuật toán 1 của Huang- Liu [7] (CGCQ-gradient)."}
+{"text": "Véc tơ quan sát được 𝑏= 𝐴𝑥+ 𝜂, với nhiễu Gauss trắng 𝜂 có  phương sai bằng 1."}
+{"text": "Ta lấy\n759\nTạp chí Khoa học Giao thông vận tải, Tập 74, Số 6 (08/2023), 752-763\n𝑚 = 2048, 𝑛 =  4096 , 𝑙= 160  (số thành phần khác 0),\n1\n𝜖𝑘= 𝛽𝑘=\n𝑘1.1 , 𝜌𝑘= 3.9,   𝜃= 0.6\nvà cùng điểm khởi tạo 𝑥0 = (0, … ,0) cho cả 3 thuật toán."}
+{"text": "Tham số quán tính trong Thuật toán 2.1 và Thuật toán 1 của Gibali-Mai-Vinh được chọn  như sau:\n𝜃,                                                       𝑥𝑘= 𝑥𝑘−1,\n𝛼𝑘= {\nmin {𝜃, 1 𝑘1.1‖𝑥𝑘−𝑥𝑘−1‖2} , 𝑥𝑘≠𝑥𝑘−1  ."}
+{"text": "Các thuật toán dừng khi sai số bình phương trung bình\nMSE = 1\n𝑛‖𝑥𝑘−𝑥‖2 < 10−6\nhoặc khi số bước lặp đạt đến 1000."}
+{"text": "Tín hiệu 𝑥 được khôi phục bằng cách giải bài toán LASSO  (14)."}
+{"text": "Các kết quả số được tính toán trên ngôn ngữ Matlab 2016a."}
+{"text": "Dưới đây, Hình 1 và Hình 2  minh họa kết quả số cho trường hợp 𝑚 = 2048, 𝑛 =  4096, 𝑙= 160; Hình 3 và Hình 4 minh  họa thêm kết quả số cho trường hợp 𝑚 = 512, 𝑛 =  1024, 𝑙= 40."}
+{"text": "Hình 1."}
+{"text": "Tín hiệu gốc và tín hiệu quan sát được với 𝑚= 2048, 𝑛= 4096, 𝑙= 160."}
+{"text": "Hình 2."}
+{"text": "Tín hiệu khôi phục và so sánh MSE (thời gian tính toán (giây)) trong trường hợp 1."}
+{"text": "Tín hiệu gốc và tín hiệu quan sát được với 𝑛= 1024, 𝑚= 512, 𝑙= 40."}
+{"text": "Hình 4."}
+{"text": "Tín hiệu khôi phục và so sánh MSE (thời gian tính toán (giây)) trong trường hợp 2."}
+{"text": "Quan sát các kết quả số chúng tôi thấy rằng các thuật toán đều cho kết quả khôi phục khá  chính xác tín hiệu thưa ban đầu."}
+{"text": "Với cùng một mức sai số 𝜖= 10−6, thuật toán của chúng tôi  cho thời gian tính toán nhanh nhất, điều này cho thấy tính hiệu quả của việc xây dựng dãy véc  tơ {𝑑𝑘}."}
+{"text": "Từ Hình 4 (trường hợp 2), trong sự so sánh MSE chúng ta thấy ngoài thuật toán CGCQ  và CGCQ-gradient, các thuật toán còn lại chưa đạt đến mức sai số mặc dù đã chạy hết 1000  bước lặp."}
+{"text": "Chúng ta cũng thấy rằng thuật toán CGCQ-gradient hiệu quả hơn khi số chiều nhỏ."}
+{"text": "Điều này cũng cho phép ta nhận định rằng với các thuật toán có nhiều bước tính toán cũng như  phải tính giá trị hàm, đạo hàm nhiều lần thì thuật toán chạy tương đối chậm."}
+{"text": "3."}
+{"text": "KẾT LUẬN\nTrong bài báo này chúng tôi đã đề xuất một thuật toán CQ quán tính với hướng gradient  liên hợp để giải bài toán chấp nhận tách (1) trong không gian Hilbert."}
+{"text": "Cỡ bước được tính bằng  công thức Polyak, một phương pháp rất hiệu quả khi biết giá trị tối ưu."}
+{"text": "Chúng tôi chỉ ra rằng  dãy sinh bởi thuật toán đề xuất hội tụ yếu đến nghiệm của bài toán chấp nhận tách."}
+{"text": "Thuật toán  của chúng tôi đã cải tiến và mở rộng một số phương pháp CQ với cỡ bước Polyak được trình  bày trong các nghiên cứu gần đây."}
+{"text": "Các kết quả số cho thấy tính hiệu quả khi so sánh với các  thuật toán đã biết."}
+{"text": "761\nTạp chí Khoa học Giao thông vận tải, Tập 74, Số 6 (08/2023), 752-763\nLỜI CẢM ƠN\nNghiên cứu này được tài trợ bởi Trường Đại học Giao thông Vận tải trong đề tài mã số T2023- CB-001."}
+{"text": "TÀI LIỆU THAM KHẢO\n[1]."}
+{"text": "Y."}
+{"text": "Algor., 8 (1994) 221-239. https://doi.org/10.1007/BF02142692\n[2]."}
+{"text": "P.K."}
+{"text": "Anh, N.T Vinh, V.T."}
+{"text": "https://doi.org/10.1088/0266-5611/18/2/310\n[4]."}
+{"text": "Y."}
+{"text": "Med."}
+{"text": "Biol., 51 (2003) 2353-2365.  https://doi.org/10.1088/0031-9155/51/10/001  [5]."}
+{"text": "Q.L."}
+{"text": "Dong, S. He, M.T."}
+{"text": "Optim., 79 (2021) 813–836."}
+{"text": "https://doi.org/10.1007/s10898-020-00963-3  [6]."}
+{"text": "A. Gibali, D.T."}
+{"text": "Mai, N.T."}
+{"text": "Manag."}
+{"text": "Optim., 15 (2019) 963-984.   https://doi.org/10.3934/jimo.2018080  [7]."}
+{"text": "Phys., 10 (2022) 1053353. https://doi.org/10.3389/fphy.2022.1053353  [8]."}
+{"text": "Algor.,  84  (2020)  997-1017.  https://doi.org/10.1007/s11075-019-00790-y  [9]."}
+{"text": "Algor., 78 (2018)  739–757."}
+{"text": "https://doi.org/10.1007/s11075-017-0398-6  [11]."}
+{"text": "Lett.,  16 (2022) 1725–1744."}
+{"text": "https://doi.org/10.1007/s11590-021-01798-x\n[12]."}
+{"text": "Algor., 77 (2018) 925-938. https://doi.org/10.1007/s11075-017-0347-4\n[13]."}
+{"text": "Pure Appl."}
+{"text": "Math., 59 (2006) 1207-1223. https://doi.org/10.1002/cpa.20124\n[14]."}
+{"text": "Algor., 76 (2017) 783–798."}
+{"text": "https://doi.org/10.1007/s11075-017-0282-4  [15]."}
+{"text": "Q.L."}
+{"text": "https://doi.org/10.1080/02331934.2022.2069567  [16]."}
+{"text": "Math."}
+{"text": "Comput., 68 (2022) 1699-1717. https://doi.org/10.1007/s12190-021- 01585-y  [18]."}
+{"text": "N.T."}
+{"text": "Vinh, P.T."}
+{"text": "Meth."}
+{"text": "Sci., 39 (2016) 3808–3823."}
+{"text": "https://doi.org/10.1002/mma.3826  [19]."}
+{"text": "https://doi.org/10.1080/02331934.2022.2070066  [20]."}
+{"text": "https://doi.org/10.1088/0266-5611/21/5/009\n[21]."}
+{"text": "Math."}
+{"text": "Anal."}
+{"text": "https://doi.org/10.1016/j.jmaa.2004.07.048\n[22]."}
+{"text": "Alber, A.N."}
+{"text": "Iusem, M.V."}
+{"text": "Program., 81 (1998) 23-35.\nhttps://doi.org/10.1007/BF01584842\n763"}

@@ -1,0 +1,17 @@
+You are an expert scientific terminologist.
+Identify complex, domain-specific technical concepts in the {{ source_lang }} text.
+
+Criteria for extraction:
+1. Include specific chemical names, biological species, physical constants, or mathematical concepts.
+2. Include technical verbs or nouns specific to the scientific domain (e.g., "titrate", "supernatant", "stochastic").
+3. IGNORE common words (e.g., "experiment", "results", "study") unless used in a highly specific technical sense.
+4. IGNORE standard proper nouns unless they are part of a scientific law or effect.
+
+Requirements:
+- Return a JSON object with a "terms" array.
+- Output ONLY the JSON.
+
+Source Discourse ({{ source_lang }}):
+{{ source_discourse }}
+
+Output:

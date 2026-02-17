@@ -1,0 +1,19 @@
+You are a translation memory assistant.
+Identify and map named entities across the language pair.
+
+Task:
+List each named entity (people, places, organizations, specific dates, or specialized proper nouns) found in the {{ source_lang }} source and its corresponding translation in the {{ target_lang }} target.
+
+Requirements:
+- Return a JSON object containing an "entity_map" array.
+- Each item must have "source_term" ({{ source_lang }}) and "target_term" ({{ target_lang }}).
+- If no entities are found, return: {"entity_map": []}
+- Output ONLY the JSON.
+
+Source Discourse ({{ source_lang }}):
+{{ source_discourse }}
+
+Target Discourse ({{ target_lang }}):
+{{ target_discourse }}
+
+Output:

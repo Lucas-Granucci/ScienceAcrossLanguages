@@ -1,0 +1,534 @@
+{"text": "Tạp chí Khoa học Trường Đại học Cần Thơ   Tập 57, Số chuyên đề Công nghệ thực phẩm (2021): 32-47\n\nDOI:10.22144/ctu.jsi.2021.004\nỨNG DỤNG CÔNG NGHỆ TIÊN TIẾN ĐỂ KÉO DÀI THỜI GIAN BẢO QUẢN  TRÁI CÂY\nLê Thị Bích Phương1, Tô Nguyễn Phước Mai2, Nguyễn Văn Ây1 và Nguyễn Văn Mười1*\n1Khoa Nông nghiệp, Trường Đại học Cần Thơ\n2Học viên cao học Khoa Nông nghiệp, Trường Đại học Cần Thơ\n*Người chịu trách nhiệm về bài viết: Nguyễn Văn Mười (email: nvmuoi@ctu.edu.vn)\nABSTRACT\nThông tin chung:  Ngày nhận bài: 23/02/2021  Ngày nhận bài sửa: 11/03/2021  Ngày duyệt đăng: 28/04/2021    Title:   The advanced food  preservation techniques for  increased shelf life of fruits: A  review\nThe Mekong Delta is one of the largest tropical fruit producing regions in  Viet Nam."}
+{"text": "TÓM TẮT\nTừ khóa:   Chất lượng, giảm thiểu, làm  lạnh, sau thu hoạch, trái cây\nKeywords:  Chilling, fruit, minimal  processing, post-harvest,  quality\nĐồng bằng sông Cửu Long là một trong những vùng trái cây nhiệt đới lớn  nhất Việt Nam."}
+{"text": "Tuy nhiên, hơn 50% trái cây được tiêu thụ tươi."}
+{"text": "Tổn thất  sau thu hoạch về số lượng và chất lượng của các loại trái cây này thường  rất cao, đặc biệt ở giai đoạn vận chuyển đường dài đến thị trường hoặc  xuất khẩu."}
+{"text": "Trong phạm vi nghiên cứu, các yếu tố ảnh hưởng đến chất  lượng trái cây, tập trung vào các biến đổi và công nghệ sau thu hoạch sẽ  được đề cập."}
+{"text": "Các vấn đề liên quan đến từng sản phẩm cụ thể được thảo  luận, điển hình như sinh lý sau thu hoạch, xử lý cận thu hoạch ảnh hưởng  đến chất lượng quả, duy trì chất lượng sau thu hoạch và phát triển các  sản phẩm chế biến giá trị gia tăng."}
+{"text": "1."}
+{"text": "GIỚI THIỆU\nbưởi có 4 loại gồm Da Xanh, Năm Roi, Thanh Kiều,  Lông Cổ Cò; cam có 3 loại gồm cam xoàn, cam  sành, cam mật; sầu riêng có 4 giống như: khổ qua,  cơm vàng hạt lép, Ri 6, Monthong, ... Hệ quả song  song của các sự đa dạng về tính chất hoá lý và sinh  lý dẫn đến việc không thể xác lập một quá trình xử  lý và bảo quản cụ thể cho các loại trái cây nhiệt đới  nói chung và ĐBSCL nói riêng."}
+{"text": "Điều này làm chậm  quá trình phát triển các công nghệ sau thu hoạch ở  các nước nhiệt đới, vốn đã phát triển chậm hơn các  nước ôn đới và gây lãng phí thực phẩm."}
+{"text": "Lãng phí  xảy ra ở tất cả các khâu từ thu hoạch đến khi tiêu\nĐồng bằng sông Cửu Long (ĐBSCL) hiện có  khoảng 307.000 ha trồng cây ăn trái, chiếm gần 40%  diện tích trồng của cả nước, cung cấp cho thị trường  khoảng 4.000.000 tấn quả."}
+{"text": "Theo số liệu của Cục  Trồng trọt, tính đến năm 2020, có 12 loài cây ăn quả  chủ lực được liệt kê bao  gồm: thanh long, xoài,  chôm chôm, sầu riêng, vú sữa, bưởi, nhãn, chuối,  dứa, cam, mãng cầu và quýt, với tổng diện tích trồng  lên đến 257.000 ha."}
+{"text": "Với lợi thế này, các loại cây ăn  quả nhiệt đới phát triển, đa dạng từ hương vị, kết  cấu, hình dạng và cả các giá trị sinh học."}
+{"text": "Chẳng hạn,\n32\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 57, Số chuyên đề Công nghệ thực phẩm (2021): 32-47\nthụ, đòi hỏi các kỹ thuật bảo quản thực phẩm tiên  tiến."}
+{"text": "Lãng phí chủ yếu do tác động của độ ẩm và sự  hiện diện của các vi sinh vật có trong thực phẩm,  trong đó các sản phẩm được tiêu thụ tươi như trái  cây là nguồn nguyên liệu chính (Sridhar et al.,  2020)."}
+{"text": "Nhìn chung, sự phát triển của kỹ thuật sau  thu hoạch các loại trái cây thường gặp các trở ngại  như: (i) thiếu nghiên cứu cụ thể về chỉ số thu hoạch  quả; (2) tổn thất trong quá trình thu hoạch và sau thu  hoạch còn khá lớn (ước khoảng 25% về khối lượng,  chưa kể đến tổn thất về chất lượng); (3) công nghệ  thu hoạch, sau thu hoạch (xử lý, bảo quản, vận  chuyển,...) lạc hậu; (4) thiếu đầu tư cơ sở vật chất  kèm theo (kho lạnh chuyên dùng có kiểm soát khí  quyển tồn trữ, thiết bị rửa, xử lý, buồng ủ chín, bao\nbì, đóng gói, vận chuyển,…)."}
+{"text": "Phát triển kỹ thuật sau  thu hoạch trái cây không chỉ đòi hỏi việc ứng dụng  kỹ thuật tiên tiến riêng biệt mà cần phải có sự kết  hợp nhiều giải pháp đồng bộ để đạt hiệu quả tốt nhất."}
+{"text": "Điều này đòi hỏi việc tham khảo kết quả của nghiên  cứu tiền đề, về các giải pháp kỹ thuật và các yếu tố  ảnh hưởng đến chất lượng trái cây vùng nhiệt đới,  trong đó cần tập trung cụ thể hơn vào sự thay đổi  sinh lý và xử lý cận thu hoạch, sự duy trì chất lượng  quả sau thu hoạch và khả năng phát triển các sản  phẩm chế biến giá trị gia tăng thích hợp tùy theo đặc  tính sinh lý của từng loại trái cây."}
+{"text": "Đây cũng là nội  dung được nghiên cứu quan tâm tìm hiểu và triển  khai thực hiện."}
+{"text": "Định hướng nghiên cứu được thể  hiện như Hình 1."}
+{"text": "Trái cây\nXử lý cận thu hoạch\nThu hoạch\nPhân loại, rửa  Không chế biến\nChế biến\nBao màng\nChế biến  giảm thiểu  Bao gói  Phân tách,\nXử lý nhiệt\nxử lý  Nguyên tắc tiềm sinh\nNguyên tắc triệt sinh  Bảo quản   lạnh đông\nBảo quản lạnh  (có thể kết hợp MAP, CP)\nHình 1."}
+{"text": "Quy trình tổng hợp ứng dụng các công nghệ tiên tiến trong bảo quản trái cây sau thu hoạch\n2."}
+{"text": "ĐẢM BẢO CHẤT LƯỢNG TRÁI CÂY\nSAU THU HOẠCH\nĐối với nhóm quả có hô hấp đột phát  (climacteric fruits): thời điểm thuần thục là thời  điểm mà các chất dinh dưỡng tích luỹ ở hàm lượng  cao nhất (khối lượng quả lớn nhất, hàm lượng tinh  bột cao nhất, ...) do trái cây có khả năng tiếp tục chín  trong quá trình bảo quản do có đỉnh hô hấp sau thu  hoạch."}
+{"text": "Hai điều kiện kiểm soát chất lượng trái trước thu  hoạch được Kader and Yahia (2011) đề nghị là:  kiểm soát chỉ số thu hoạch và kiểm soát các xử lý  cận thu hoạch."}
+{"text": "Ngoài ra, các nhân tố ảnh hưởng khác  có thể kể đến như: phương pháp thu hoạch, điều kiện  thu hoạch, ...\n2.1."}
+{"text": "Chỉ số thu hoạch quả\nĐối với nhóm quả không có hô hấp độ phát (non- climacteric fruits): thời điểm thuần thục là thời điểm  khi trái vừa chín (hàm lượng đường/acid là nhỏ nhất,  ...) do trái cây không có khả năng tiếp tục chín trong  quá trình bảo quản."}
+{"text": "Phân loại trái cây có và không có hô hấp đột phát  có thể tham khảo theo Kader (2002):\nTrong quá trình bảo quản, sự sống của trái cây  vẫn diễn ra."}
+{"text": "Trái cây tiếp tục tiêu hao các chất dinh  dưỡng dự trữ để duy trì các hoạt động sống."}
+{"text": "Quá  trình bảo quản tiềm sinh chỉ làm chậm chứ không  triệt tiêu các hoạt động này."}
+{"text": "Do đó, trái cây thu  hoạch cần phải ở trạng thái phát triển tốt nhất để đảm  bảo thời gian bảo quản có thể kéo dài lâu nhất."}
+{"text": "Thời  điểm này gọi là trạng thái thuần thục của trái (Kader,  2002):\n Loại trái cây có hô hấp đột phát: bơ, chuối,  sa-kê, sầu riêng, sung, ổi, mít, kiwi, xoài, măng cụt,  dưa lưới, đu đủ, chanh dây, hồng, chuối, chôm  chôm, hồng xiêm, mãng cầu xiêm, quả na."}
+{"text": "33\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 57, Số chuyên đề Công nghệ thực phẩm (2021): 32-47\n Loại trái cây không có hô hấp đột phát: khế,  đào lộn hột, dừa, chà là, bưởi, bưởi chùm, táo tàu,  quất, chanh, chanh tây, nhãn, lô quất, vải, quýt,  olive, cam, dứa, lựu, lê xương rồng, hồng táo, vú  sữa, cà chua, me."}
+{"text": " Một số loại trái cây đặc sản ĐBSCL khác như  thốt nốt, dừa nước, thanh long, mận, dâu Hạ Châu  đều được xếp vào loại không có hô hấp đột phát."}
+{"text": "Sơ- ri thuộc nhóm có hô hấp đột phát."}
+{"text": "Quả ổi nằm trong  nhóm đặc biệt do phân biệt nhóm còn tuỳ thuộc vào  đặc điểm giống."}
+{"text": "như trên quả chuối (Kader, 1996)."}
+{"text": "Nghiên cứu của  Aurore et al."}
+{"text": "(2009), Falade and Oyeyinka (2015),  Dwivany et al."}
+{"text": "(2020) đều đề xuất sử dụng đồ thị xác  định mức độ chín của chuối theo sự biến đổi màu, từ  đó xây dựng mối tương quan giữa màu sắc với đặc  tính cấu trúc, hàm lượng đường, tinh bột có trong  quả."}
+{"text": "Với chuối, 7 độ chín của quả có thể được nhận  diện (Hình 2a) từ xanh hoàn toàn (độ chín 1) đến  vàng hoàn toàn và có một số đốm nâu (độ chín 7)."}
+{"text": "Đối với khóm Queen, độ chín cũng được xác định  theo sự tương quan về màu sắc của vỏ, với 5 mức độ  chín phổ biến theo sự chuyển vàng của vỏ quả (Tran  et al., 2008)."}
+{"text": "Độ chín của quả xoài, hạt sen (Nguyễn  Văn Mười và ctv., 2009) có thể được xây dựng  tương quan với sự thay đổi khối lượng riêng, trong  khi đó tỷ lệ TSS/acid lại thông số chính để xác định  độ chín thu hoạch của quả thanh trà (Tô Nguyễn  Phước Mai và ctv., 2017, Hình 2b) và các loại quả  thuộc họ citrus như cam, chanh, bưởi (Ladaniya,  2008)."}
+{"text": "Tổng hợp một số chỉ tiêu sử dụng thông dụng  tương ứng thể hiện trong Bảng 1."}
+{"text": "Để xác định thời điểm thu hoạch phù hợp, các  chỉ số thu hoạch được sử dụng."}
+{"text": "Về cơ bản các chỉ  tiêu như kích cỡ, hình dạng, màu sắc vỏ và thịt, cấu  trúc cần phải được đo đạc."}
+{"text": "Một số chỉ số thu hoạch  đặc biệt như: khối lượng riêng (áp dụng cho các loại  dưa), hàm lượng dịch quả (trái cây có múi), hàm  lượng dầu (trái bơ), hàm lượng chất đắng (tanin –  trái khế) (Kader, 2002; Kader & Yahia, 2011)."}
+{"text": "Song  song đó, việc xây dựng bảng màu để đánh giá độ  chín của rau quả luôn rất được quan tâm, điển hình\n\nHình 2."}
+{"text": "Độ chín của chuối theo màu sắc vỏ (Hình (a), Kader, 1996) và quả thanh trà\ntheo hàm lượng đường/acid (Hình (b), Tô Nguyễn Phước Mai và ctv., 2017)\nBảng 1."}
+{"text": "Tổng hợp một số phương pháp dùng để xác định chỉ số thu hoạch\nChỉ tiêu  Áp dụng  Phương pháp  Kích thước  Nhiều loại trái cây3,5,6,7  Đo đạc khối lượng hoặc kích cỡ\nĐo góc không gian hoặc biểu đồ tỉ lệ kích thước\nHình dạng  Góc cạnh của trái chuối trên buồng1  Độ dày của phần má quả xoài3\nBên ngoài  Nhiều loại trái cây1,3,5,6.7  Ngoại quan, bảng so màu  Bên trong  Nhiều loại trái cây1,3,5,6.7  Ngoại quan, bảng so màu  Khả năng rụng cuốn Ổi và một số loại dưa3  Ngoại quan, đo lực tác động  Khối lượng riêng  Các loại dưa3, xoài3, hạt sen5  Tính nổi trong dung dịch có khối lượng thay đổi  Cấu trúc  Nhiều loại trái cây3,5,7  Thiết bị đo cấu trúc  Hàm lượng tinh bột  Xoài3  Chuẩn độ thuốc thử KI  Hàm lượng đường  Các loại nho3  Chiết quang kế, chuẩn độ  Hàm lượng acid  Nho3, trái cây chi Citrus4  Chuẩn độ acid (NaOH)  Tỉ lệ đường/acid  Lựu3, các loại dưa3, kiwi3, thanh trà6   Hàm lượng dầu  Bơ2,3  Phương pháp Soxhlet  Vị chát đắng (tanin) Khế2,3  Chuẩn độ (thước thử FeCl3)\n(Chú thích: Các chữ số giống nhau được sử dụng trích dẫn nguồn tài liệu tham khảo."}
+{"text": "Theo đó, nguồn: 1Kader, 1996,  2Kader, 2002; 3Kader & Yahia, 2011; 4Ladaniya, 2008; 5Nguyễn Văn Mười và ctv., 2009; 6Tô Nguyễn Phước Mai và  ctv., 2017; 7Tran et al., 2008.)"}
+{"text": "34\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 57, Số chuyên đề Công nghệ thực phẩm (2021): 32-47\n\n2.2."}
+{"text": "Xử lý cận thu hoạch\n(Peng & Rabe, 1996), …đều có ảnh hưởng quyết  định đến chất lượng và đặc tính ngoại quan của trái."}
+{"text": "Đối với cây ăn quả, xử lý cận thu hoạch là nhân  tố rất quan trọng ảnh hưởng đến giá trị cảm quan và  chất lượng hóa lý của trái."}
+{"text": "Tuy nhiên hiện nay, điều  kiện này chưa được quan tâm đúng mức."}
+{"text": "Vấn đề xử  lý cận thu hoạch còn thuộc chuyên môn của ngành  trồng trọt và chưa được nhắc đến ở hầu hết các tài  liệu của công nghệ sau thu hoạch hay công nghệ  thực phẩm."}
+{"text": "Một số điều kiện xử lý cận thu hoạch đã được  quan tâm và áp dụng tại Việt Nam trong thời gian  gần đây, điển hình như chăm sóc cận thu hoạch bưởi  bằng cách sử dụng thuốc kích thích tăng trưởng GA3,  phân bón lá TM 5-C và TM-siêu canxi khi quả bắt  đầu chuyển màu."}
+{"text": "Chế độ này giúp giảm tỷ lệ quả bị  rụng khi thu hoạch, đồng thời sự biến đổi chất lượng,  tổn thất khối lượng tự nhiên và tỷ lệ thối hỏng của  quả thu hái muộn diễn ra chậm và ít hơn so với  những cây không được chăm sóc (Nguyễn Duy Lâm  & Phạm Cao Thăng, 2010)."}
+{"text": "Xử lý CaCl2 và GA3 ở  thời điểm 1 tháng và Ethephon ở thời điểm 1 tuần  trước khi thu hoạch trên quả quýt đường (Châu  Thành, Hậu Giang)."}
+{"text": "Các nghiệm thức xử lý hóa chất  đều giúp giảm hao hụt trọng lượng trái so với đối  chứng, màu sắc trái, độ Brix và pH trái (Nguyễn Thị  Tuyết Mai và ctv., 2011)."}
+{"text": "Xử lý CaCl2 1% hoặc  GA3 10 ppm ở quả cam soàn 2 tháng trước thu  hoạch giúp giảm tỷ lệ hao hụt khối lượng và tăng hàm  lượng vitamin C trong trái, kéo dài thời gian tồn trữ  đến 4 tuần trong điều kiện phòng thí nghiệm."}
+{"text": "Xử lý  ethephon nồng độ 200 ppm 1 tuần trước thu hoạch  giúp tăng biến đổi màu vỏ (Lê Văn Hòa & Phan Thị  Xuân Thủy, 2010)."}
+{"text": "3."}
+{"text": "XỬ LÝ BẢO QUẢN TRÁI CÂY\nCác nghiên cứu từ rất sớm đã cho thấy vai trò  của các chất điều hòa sinh trưởng thực vật được áp  dụng vào giai đoạn cận thu hoạch có thể góp phần  cân bằng hormone trong vỏ, làm giảm hoặc duy trì  sự lão hóa sớm và những tổn thất khi thu hoạch  (Primo, 1966)."}
+{"text": "Việc phun các chất điều hòa sinh  trưởng đã ngăn chặn sự rụng của quả cây bằng cách  ngăn chặn sự tổng hợp các enzyme thủy phân như  cellulose, phân hủy các thành tế bào (Monselise,  1979)."}
+{"text": "Ứng dụng gibberellic acid (GA3) được sử  dụng cơ bản nhất để làm giảm sự rụng quả, làm  chậm quá trình làm mềm và lão hóa của vỏ, từ đó  giúp kéo dài thời gian thu hoạch."}
+{"text": "Gibberellic acid đã  có tác dụng làm chậm quá trình suy giảm diệp lục tố  và ức chế sự tổng hợp carotenoids trong vỏ quả cam  quýt và sử dụng GA3 để kiểm soát màu sắc quả thể  hiện vai trong quan trọng khi lưu thông trái trên thị  trường (Coggins, 1992; Goldschmidt & Eilati,  1970)."}
+{"text": "KHÔNG CHẾ BIẾN\nĐây là biện pháp xử lý bảo quản thông dụng nhất  và được áp dụng lâu đời nhất."}
+{"text": "Các giải pháp sơ chế,  bảo quản trái sau khi thu hoạch đều theo các bước  chính: rửa, vệ sinh quả → làm ráo bề mặt → phân  loại → bao màng phù hợp để ngăn cản sự mất ẩm,  điều chỉnh quá trình hô hấp, ức chế sự sản xuất  ethylen trước khi chuyển sang bảo quản lạnh (Gobet  et al., 2014; Strano et al., 2017)."}
+{"text": "Trong đó, lạnh là  điều kiện tiên quyết khi áp dụng bảo quản ở nguyên  lý tiềm sinh, theo nguyên lý căn bản là giảm 10C,  tốc độ sinh trưởng của quả giảm từ 2 đến 4 lần (tính  toán cơ bản theo dựa trên việc áp dụng phương trình  Arrhenius)."}
+{"text": "3.1."}
+{"text": "Phân loại, phân cỡ\nViệc phân loại quả có thể được thực hiện ngay  sau khi thu hái hay trong hệ thống vệ sinh quả."}
+{"text": "Thông thường, ở giai đoạn chính vụ, quả thường  được phân loại chủ yếu theo màu sắc, trong khi ở  giai đoạn đầu và cuối vụ thường được phân loại theo  khối lượng và kích thước quả (Iglesias et al., 2007)."}
+{"text": "Chất dinh dưỡng đóng vai trò quan trọng trong  sự phát triển và tăng trưởng của các tế bào mới trong  mô phân sinh thực vật."}
+{"text": "Các muối canxi được biết là  có liên quan đến chức năng, hoạt động của enzyme  và đặc biệt là sự phát triển thành tế bào (White &  Broadley, 2003)."}
+{"text": "Canxi có khả năng trì hoãn quá  trình chín và lão hóa của quả, duy trì chất lượng  cũng như kéo dài thời gian tồn trữ của sản phẩm."}
+{"text": "Các quy trình khác nhau đã được sử dụng thành  công để xử lý canxi sau thu hoạch đối với quả cây  tươi và chế biến."}
+{"text": "Tuy nhiên, cung cấp canxi trước  khi thu hoạch bằng cách phun trực tiếp trên lá sẽ  giúp tăng hàm lượng canxi trong quả hơn bón vào  đất (Ferguson & Boyd, 2002)."}
+{"text": "Boron được biết như  là một chất ức chế sự hoá nâu của quả sau thu hoạch  đặc biệt trong điều kiện bảo quản lạnh có kiểm soát  do giảm sự rò rỉ màng tế bào và tăng hàm lượng  ascorbic acid, chất chống oxy hóa bảo vệ mô quả  (Xuan et al., 2001)."}
+{"text": "Ngoài ra, các yếu tố   cận thu hoạch khác cũng cần được quan tâm như  khác như sự phát triển của rễ (Rabe &Von  Broembsen, 1995), ánh sáng (Sites & Reitz, 1949),  kích thước tán (Krajewski, 1996) hoặc nước tưới\nPhân loại, phân cỡ là công đoạn hỗ trợ cho quá  trình chế biến và bảo quản do:\n35\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 57, Số chuyên đề Công nghệ thực phẩm (2021): 32-47\n Các loại trái cây có các chỉ số vật lý khác  nhau có thông số kỹ thuật khác nhau."}
+{"text": "bằng nước, quả thường được rửa trong dung dịch có  có tính khử trùng hay hóa chất diệt nấm, hoặc sử  dụng nước nóng (37-60C, thời gian phù hợp), tác  động bằng tia UV để ngăn cản sự phát triển của nấm  mốc gây hư hỏng (Kassim et al., 2020; Wan et al.,  2020)."}
+{"text": " Các loại trái cây có các chỉ số hoá lý khác  nhau có tính chất (khả năng chịu lạnh, khả năng sinh  ethylene, tốc độ hô hấp, ...) khác nhau nên cần phải  được xử lý và bảo quản khác nhau."}
+{"text": "Trong khi việc phân cỡ có thể được thực hiện dễ  dàng bằng các tính chất vật lý như đường kính và  khối lượng, vấn đề phân loại khó thực hiện hơn và  cần các hệ thống mô hình hoá xử lý bằng máy tính."}
+{"text": "Ở hầu hết các quốc gia, ngay cả các nước đang phát  triển, trái cây vẫn được phân loại bằng tay, được chất  trong các dụng cụ chứa (dạng thùng giấy, thùng  nhựa) và vận chuyển đến nhà sơ chế (Gutiérrez- Martínez et al., 2012)."}
+{"text": "Tổng các hoạt động từ thu hái  và sơ chế nguyên liệu hiện nay thường chiếm đến  50% chi phí sản xuất."}
+{"text": "3.2."}
+{"text": "Rửa và vệ sinh trái\nChlorine hiện nay vẫn là hoá chất có tính khử  trùng thường được sử dụng."}
+{"text": "Rouissi et al."}
+{"text": "(2009) đề  xuất sử dụng chlorine (nồng đồ 100–150 ppm) phun  trên bề mặt quả, chà sạch bề mặt quả bằng bàn chải  và rửa lại bằng nước sạch để loại bỏ hoàn toàn nấm  mốc xanh."}
+{"text": "Baruah and Kotoky (2018) cũng đề nghị  xử lý chanh bằng cách ngâm trong dung dịch  chlorine 4% trước khi bao gói và bảo quản lạnh."}
+{"text": "Việc sử dụng chlorine vẫn có nhiều nhược điểm như  cần điều chỉnh liên tục hàm lượng clor và theo dõi  độ pH của dung dịch để điều trị đúng."}
+{"text": "Hơn nữa, các  hợp chất giải phóng clor có thể tạo ra các sản phẩm  phụ phân hủy độc hại (halogen hóa) khi phản ứng  với vật liệu hữu cơ."}
+{"text": "Tuy nhiên, sử dụng chlorine vẫn  là giải pháp phổ biến, được áp dụng rộng rãi nhờ giá  thành thấp, dễ sử dụng."}
+{"text": "Việc sử dụng các hóa chất có tính khử trùng khác  chlorine như acid peroxyacetic (PAA), ozone, nước  điện giải (electrolyzed water, EW), sodium  bicarbornate  cũng  được  chú  trọng."}
+{"text": "Acid  peroxyacetic là một chất oxy hóa mạnh được hình  thành từ hydro peroxide và acid acetic, có tác dụng  chống lại một loạt các vi sinh vật."}
+{"text": "Sản phẩm phân  hủy của PAA là acid acetic và oxy, không độc hại  và không cần bước rửa sạch."}
+{"text": "Các ứng dụng PAA ở  mức 800 μg/mL trong 1 phút làm giảm đáng kể tỉ lệ  nấm mốc xanh trên chanh (Strano et al., 2017)."}
+{"text": "Ozone là một tác nhân oxy hóa tự nhiên mạnh, có  hiệu quả tiêu diệt nhiều vi sinh vật gây bệnh khác  nhau (vi khuẩn, virus và bào tử nấm)."}
+{"text": "Hơn nữa, một  lợi thế đáng kể của ozone là sự phân hủy nhanh  chóng của phân tử ozone trong nước thành oxy,  không có dư lượng."}
+{"text": "Nước điện giải, được tạo ra bằng  cách điện phân dung dịch muối pha loãng đang được  sử dụng rất phổ biến nhờ hiệu quả giảm dân số mầm  bệnh của các vi khuẩn gây bệnh, ngay cả trong nước  rửa quả."}
+{"text": "Năm 2014, Gobet et al."}
+{"text": "đã công bố sáng chế  sử dụng nước điện giải để xử lý thu hoạch, giúp kéo  dài thời gian bảo quản và hạn chế tồn dư hóa chất."}
+{"text": "Trái cây sau thu hoạch thường không sạch."}
+{"text": "Smilanick et al."}
+{"text": "(2006) và Gobet et al."}
+{"text": "(2014) đều  khẳng định sự nhiễm nấm và vi khuẩn là các tác  nhân thúc đẩy quá trình hư hỏng."}
+{"text": "Các tác nhân lây  nhiễm trong hoạt động chăm sóc trước thu hoạch có  thể kể đến như bệnh thối nâu (Phytophthora spp."}
+{"text": "),  bệnh thối nhũn (Alternaria spp."}
+{"text": "), bệnh thối thân  (Trinidadia atalensis Pole-Evan, Phomopsis citri  Fawcet), hay nhiễm nấm mốc xám (Botrytis cinerea  Pers.),..."}
+{"text": "Trong khi đó, quả sau thu hoạch vẫn có khả  năng bị hư hỏng do hoạt động của nấm mốc với 2  dòng nấm mốc xanh thường được tìm thấy là  Penicillium digitatum Sacc."}
+{"text": "(tạo mốc xanh lá) và P.  italicum Weh."}
+{"text": "(mốc xanh dương), ngoài ra  Geotrichum andidum Link gây bệnh thối rữa cũng  có khả năng hoạt động, gây hư hỏng quả trong điều  kiện bao gói kín."}
+{"text": "Ngoài ra, các nghiên cứu còn cho  thấy có sự hiện diện của rất nhiều loài nấm trên bề  mặt quả có thể gây hư hỏng, điển hình như Aleme  and Guta (2017) đã nhận diện được 7 dòng nấm trên  bề mặt vỏ quả cam, bao gồm Aspergilluss pp.,  (13,46%) Penicillium spp."}
+{"text": "(19,2%), Rhizopus spp."}
+{"text": "(1,92%) Mucor spp."}
+{"text": "(5,76%) Fusarium spp."}
+{"text": "(3,84%),  Byssochlamys  spp."}
+{"text": "(3,84%)  và  Cladosporium spp."}
+{"text": "(1,92%)."}
+{"text": "Dư lượng chất bảo vệ  thực vật trên bề mặt trái được quan tâm do ảnh  hưởng đến sức khoẻ cộng đồng."}
+{"text": "Công đoạn rửa không chỉ được phát triển để loại  bỏ các tạp chất vật lý (đất, cát, lá, cành khô, ...) mà  còn đóng vai trò quan trọng trong việc làm sạch bề  mặt cả về tác nhân hoá học và vi sinh."}
+{"text": "Một hệ thống  rửa thường được sử dụng kết hợp băng chuyền di  chuyển quả qua các công đoạn xử lý, vệ sinh bề mặt,  làm khô, nhúng màng, làm ráo."}
+{"text": "Sau khi rửa sơ bộ\nSong song đó, ngâm nước nóng (hot water  dipping - HWD) hay rửa bằng chổi trong nước nóng  (short hot water brushing - SHWB) trong thời gian  ngắn, sử dụng hơi nóng hay không khí nóng (Fallik,  2004; Strano et al., 2017) là những biện pháp xử lý  vật lý, thường được áp dụng cho cây trồng hữu cơ  hay áp dụng cho sản phẩm được xuất khẩu/tiêu thụ  ở các thị trường có yêu cầu nghiêm ngặt về sử dụng\n36\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 57, Số chuyên đề Công nghệ thực phẩm (2021): 32-47\nnhất là nghiên cứu của Nguyễn Duy Lâm (2011) về  chế độ rửa trước xử lý tạo màng cho một số loại rau  quả, đã ứng dụng các kỹ thuật cơ bản như: sử dụng  phụ gia cho phép như thiabendazole, imazalil; sử  dụng nước nóng, điều chỉnh pH và điện tích, …  Song song đó, mặc dù không trực tiếp nghiên cứu cụ  thể về chế độ rửa và vệ sinh trái, một số nghiên cứu  gần đây cũng đã công nhận kết quả và sử dụng chế  độ rửa theo quy trình có sẵn để áp dụng vào các loại  trái cây đặc sản ở ĐBSCL có cùng tính chất (Nguyễn  Văn Mười và ctv., 2005a, 2005b, 2005c, 2005d)."}
+{"text": "Nhìn chung, kỹ thuật rửa và vệ sinh trái là hiệu quả  và tương đối dễ thực hiện khi đã có sẵn nền tảng  thiết bị công nghệ và thiết bị cho sản xuất chế biến."}
+{"text": "3.3."}
+{"text": "Xử lý bao màng\nSau quá trình rửa, loại bỏ chất bẩn, bào tử nấm  mốc và mầm bệnh trên bề mặt quả, một công đoạn  đang được áp dụng rất rộng rãi trong bảo quản quả  có múi sau thu hoạch là phủ màng (coating) lên bề  mặt quả."}
+{"text": "Đây là một kỹ thuật được áp dụng từ rất  sớm và sử dụng thương mại hóa hơn 30 năm qua ở  nhiều quốc gia."}
+{"text": "Lớp màng phủ trái cây phổ biến nhất  là màng phủ tổng hợp – các vi nhũ tương anion có  chứa nhựa và/hoặc sáp (phổ biến nhất là sáp shellac,  sáp từ gỗ thông, candelilla, carnauba, sáp ong,  polyethylen và dầu mỏ)."}
+{"text": "Việc bao màng các sản  phẩm trái cây thường được thực hiện theo nhiều  cách: (1) ngâm, nhúng quả ngập trong dung dịch bao  màng; (2) phun dung dịch tạo màng lên bề mặt quả;  (3) chuẩn bị lớp phim để bao gói quả."}
+{"text": "Trong đó,  phương pháp ngâm nhúng là đơn giản và thường  được áp dụng nhất."}
+{"text": "Thiết bị nhúng màng công  nghiệp được thiết kế cơ bản bao gồm: một phễu chứa  đầy lớp phủ nhũ tương và có các ngạnh để ngăn trái  cây chất đống; một băng tải mang trái cây qua máy  sấy và làm mát; một máy sấy là một đường hầm mà  chuỗi băng tải đi qua có không khí nóng ở 40C  được thổi từ một chiếc quạt gắn dưới đáy của nó lên  trái cây."}
+{"text": "Sau khi sấy khô, băng tải đi vào một đường  hầm khác, nơi không khí lạnh được thổi để giảm  nhiệt độ sản phẩm (Hình 4)."}
+{"text": "hóa chất, phụ gia."}
+{"text": "Kassim et al."}
+{"text": "(2020) đã tổng hợp  nhiều nghiên cứu để minh chứng cho tác dụng của  xử lý nhiệt trong kiểm soát sự thối rữa ở nhiều loại  trái cây khác nhau, từ bơ, ớt đến quả có múi."}
+{"text": "Xử lý  nhiệt có khả năng làm bất hoạt các mầm bệnh trên  bề mặt hoặc bên dưới bề mặt, bằng cách tạo ra sức  đề kháng của quả để ức chế sự phát triển của mầm  bệnh (Irtwange, 2006)."}
+{"text": "Mặc dù có nhiều nghiên cứu  cho thấy việc xử lý nước nóng có thể gây trở ngại  cho các loại quả có chứa nhiều túi tinh dầu như quả  có múi (Palou et al., 2002), tuy nhiên các minh  chứng tích cực của việc xử lý nước nóng trên nhóm  quả này cũng đã được ghi nhận."}
+{"text": "Strano et al."}
+{"text": "(2017)  đã tổng hợp một số kết quả xử lý quả có múi bằng  nước nóng, điển hình như hiệu quả giảm sự thối quả  có múi khi ngâm quả ngập hoàn toàn trong nước ở  nhiệt độ trên 40C, thời gian 2 đến 3 phút; quả cam  Tarocco được xử lý trong nước nóng ở nhiệt độ 56C,  20 giây giúp ức chế hiệu quả sự phát triển của bào tử  nấm P. digitatum khi so sánh với điều kiện xử lý  nước nóng ở 52C trong thời gian dài hơn."}
+{"text": "Chế độ  nhiệt 37C trong thời gian kéo dài từ 36 đến 60 giờ,  hiệu  quả  nhất  là  48  giờ  đã  được   Wan et al."}
+{"text": "(2020) áp dụng cho cam (Citrus sinensis  L. Osbeck cv."}
+{"text": "Phương pháp rửa bằng chổi  trong nước nóng được sử dụng kết hợp trên hệ thống  rửa và phân loại quả."}
+{"text": "Quả được rửa lần một khi được  di chuyển trên băng chuyền qua vòi phun trực tiếp  nước sạch, có hệ thống chổi rửa làm sạch bề mặt,  rửa tiếp lần 2 với nước nóng (60C), thời gian phun  rửa 20 đến 60 giây, sau đó quả được sấy khô bằng  không khí nóng (đối lưu cưỡng bức)."}
+{"text": "So sánh với  phương pháp HWD, xử lý theo SHWB cho hiệu quả  cao hơn do loại bỏ các bùn bẩn, bào tử nấm bám sâu  trên bề mặt vỏ quả, nhất là các quả có múi có bề mặt  hơi sần sùi, nhưng vẫn duy trì chất lượng quả."}
+{"text": "Strano  et al."}
+{"text": "(2017) đã khẳng định hiệu quả của xử lý bằng  nước nóng (60C, 20 giây) theo phương pháp  SHWB giúp giảm đáng kể sự phát triển của nấm  mốc xanh lá."}
+{"text": "Phương pháp này đã được ứng dụng  trong sản xuất thương mại ở nhiều quốc gia như  Israel, Ai Cập, Indonesia và Morocco cho nhiều loại  quả khác như dưa (Cucumis melo L.), xoài  (Mangifera indica L.) và một loại quả có múi thuộc  nhóm bưởi (grapefruit, Citrus paradisi M.)."}
+{"text": "Việc xử  lý nước nóng quả cũng có thể giúp gia tăng khả năng  kháng lại sự tổn thương lạnh (Fallik, 2004)."}
+{"text": "Các  nghiên cứu sử dụng tia cực tím, chiếu xạ cũng được  đề xuất như một giải pháp ngăn sự phát triển của  nấm mốc và vi sinh vật gây bệnh (Strano et al.,  2017)."}
+{"text": "Nhìn chung, mục đích chính của lớp màng phủ  là để giảm sự mất khối lượng quả, hạn chế sự tổn  thương lạnh và ngăn cản sự co rút lớp vỏ bề mặt nhờ  vào hiệu quả làm giảm sự thoát hơi nước và hô hấp,  cung cấp độ bóng trên bề mặt quả."}
+{"text": "Lớp màng phủ  trên bề mặt quả có vai trò cung cấp một rào cản nửa  kín đối với hơi nước, oxy và carbon dioxide giữa  quả và không khí xung quanh, ngăn ngừa thiệt hại  vật lý, suy thoái hóa học và ngăn chặn sự phát triển  của vi sinh vật gây bệnh, kéo dài thời hạn sử dụng  của quả (Palou et al., 2015)."}
+{"text": "Tại Việt Nam, định hướng rửa và vệ sinh bề mặt  vỏ cũng đã và được triển khai thực hiện."}
+{"text": "Điển hình\n37\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 57, Số chuyên đề Công nghệ thực phẩm (2021): 32-47\n\nHình 4."}
+{"text": "Sơ đồ một hệ thống nhúng màng cơ bản\n(Nguồn: Maftoonazad & Ramaswamy, 2019)\nHayat et al."}
+{"text": "(2017) đã đề xuất sử dụng màng phủ  được tạo thành từ resins 18%, imazalil 0,3%,  thiabendazloe 0,5% để bảo quản chanh (nhiệt độ bảo  quản 10C, độ ẩm không khí 90%, thời gian bảo  quản tăng đến 45 ngày)."}
+{"text": "Chen et al."}
+{"text": "(2019) đã đề xuất  sử dụng kết hợp dịch chiết của quả sung (Ficus hirta  Vahl.)"}
+{"text": "và chitosan để kéo dài thời gian bảo quản  quýt."}
+{"text": "Maftoonazad and Ramaswamy (2019) cũng đề  nghị sử dụng màng phủ kết hợp của pectin, sáp ong  và monoglyceride để bảo quản chanh."}
+{"text": "Kết quả cho  thấy sự giảm khối lượng của quả sau 8 ngày bảo quản  ở nhiệt độ lần lượt 10, 15 và 20C là 2%, 4% và  17%, trong khi mẫu đối chứng có tỷ lệ giảm khối  lượng ở mức 6%, 10%, và 24%."}
+{"text": "Việc nghiên cứu sử  dụng các màng ăn được (edible coating, edible film)  đã được phát triển trong vài thập niên gần đây như  một công nghệ thân thiện với môi trường."}
+{"text": "Các màng  ăn được này thường có nguồn gốc là polymer, phổ  biến là màng polysaccharide như pectin, chitosan,  methylcellulose  (MC),  hydroxypropyl  methylcellulose (HPMC), carboxymethyl cellulose  (CMC) hay cả màng tinh bột (El-Mohamedy et al.,  2015; Limchoowong et al., 2016; Maftoonazad &  Ramaswamy, 2019)."}
+{"text": "Thành phần màng phủ, lớp  phim phức hợp có hiệu quả nhất được tạo thành nhờ  sự kết hợp của polysaccharide hay protein và lipid,  giúp màng phủ có đặc tính đàn hồi, khả năng chịu  được giãn nở tốt (Palou et al., 2015)."}
+{"text": "Một điểm cần lưu ý là yêu cầu về màng bao gói  là khác nhau, không chỉ khác biệt do phân loại theo  loài mà còn bị quy định bởi trạng thái sinh trưởng  (kích thước, độ chín, …)."}
+{"text": "Do đó, màng nghiên cứu  thường áp dụng trong phạm vi hẹp khi cho đặc tính  phù hợp với đối tượng."}
+{"text": "Để phát triển ứng dụng  phương pháp xử lý bao màng rộng rãi, cần thiết phải  nghiên cứu cụ thể hơn cho mỗi đối tượng áp dụng."}
+{"text": "Đây là hướng nghiên cứu đã và đang được triển khai  trên các loại trái cây đặc sản tại Việt Nam."}
+{"text": "Nguyễn  Duy Lâm (2011) đã nghiên cứu sản xuất thành công  chế phẩm CEFORES-CP10-01 (gọi tắt là chế phẩm  CP-01) và chế phẩm CEFORES-CP10-02 (gọi tắt là  CP-02) dùng cho bảo quản các loại quả có múi (cam,  bưởi, quýt) với thành phần chính là sáp carnauba,  sáp polyethylen (sáp PE) và nhựa cánh kiển đỏ."}
+{"text": "Các  chế phẩm này ở dạng lỏng vi nhũ tương dùng phủ  trực tiếp lên bề mặt của quả."}
+{"text": "Hai chế phẩm đã được  thử nghiệm trên trên các đối tượng như cam sành Hà  Giang, cam sành Hàm Yên, cam Vinh, bưởi Diễn,  bưởi Năm Roi, bưởi Đoan Hùng,… đều cho hiệu  quả bảo quản tốt, thời gian bảo quản tăng lên từ 2-3  lần tùy thuộc vào đối tượng và điều kiện môi trường  bảo quản và hoàn toàn tương đương với chế phẩm  BQE-15 (chế phẩm bảo quản nhập khẩu từ Hoa Kỳ)."}
+{"text": "Ở khu vực ĐBSCL, quả họ citrus nói chung và bưởi  nói riêng là cây trồng chủ đạo, có sản lượng cao và  tiềm năng xuất khẩu lớn."}
+{"text": "Tuy nhiên, các nghiên cứu\n38\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 57, Số chuyên đề Công nghệ thực phẩm (2021): 32-47\nvề sau thu hoạch cho các sản phẩm này còn hạn chế  và chưa được ứng dụng thực tế tại doanh nghiệp."}
+{"text": "Một số nghiên cứu từ rất sớm của nhóm nghiên cứu  thuộc Trường Đại học Cần Thơ đã cho thấy có thể sử  dụng màng chitosan kết hợp sử dụng bao bì LDPE  đục lỗ và bảo quản lạnh để kéo dài thời gian bảo quản  cam sành (Nguyễn Văn Mười & Phan Thị Anh Đào,  2003a, 2003b; Nguyễn Văn Mười và ctv., 2005a,  2005b, 2005c, 2005d)."}
+{"text": "Nhìn chung, dù đã được triển  khai thực hiện, tuy nhiên số lượng các nghiên cứu  hiện nay vẫn chưa tương xứng với tiềm năng về cây  ăn quả hiện đang có."}
+{"text": "3.4."}
+{"text": "Xử lý bao gói\nTrong trường hợp không bao màng, bao gói là  bao bì sơ cấp tiếp xúc trực tiếp với trái cây."}
+{"text": "Trong  trường hợp có bao màng, bao gói là bao bì thứ cấp."}
+{"text": "Bao gói có thể không có (i) hoặc có (ii, iii) tính chất  hỗ trợ bảo quản trái cây (i); tuy nhiên, bao gói luôn  ảnh hưởng trực tiếp đến ngoại hình trái và đơn vị sử  dụng, giúp cho quá trình vận chuyển và buôn bán sản  phẩm được diễn ra dễ dàng hơn (Kader &  Yahia,  2011)."}
+{"text": "(i) Các dạng bao bì hở như bao lưới, bao lưới xốp  không làm ảnh hưởng đến hoạt động sinh lý của trái,  có tác dụng phân chia đơn vị, hạn chế tổn thương vật  lý và hỗ trợ vận chuyển."}
+{"text": "vật liệu bao gói được sử dụng để duy trì tỷ lệ này mà  không làm thay đổi tính thấm của màng thực vật."}
+{"text": "Khi có điều kiện thiết bị, kỹ thuật MAP thay đổi  thành phần khí ban đầu (chủ động) có thể được áp  dụng."}
+{"text": "Kỹ thuật cải biến khí quyển thụ động cũng có  thể được áp dụng trong trường hợp không có các điều  kỹ thuật cần thiết; trái cây tự thay đổi khí quyển theo  thời gian trong bao bì kín do kết quả của quá trình  hô hấp."}
+{"text": "Ngoài ra, việc loại bỏ O2, CO2 và ethylene  có thể được thực hiện bằng các phụ gia hoá học như  các tác nhân kháng oxy hoá, các tác nhân kiềm tính,  KMnO4 hoặc than hoạt tính, với thứ tự tương ứng."}
+{"text": "Yahia et al."}
+{"text": "(2011) đã tổng hợp các một số loại bao  bì thích hợp cho MAP như: Polyolefin (giấy thấm  dầu) cho bảo quản MAP quả ổi; PE và PS cho bảo  quản MAP quả sung; bơ và quả lô quất có thể bảo  quản bằng bao bì PE và PVC; loại bỏ ethylene tạo  điều kiện thích hợp để bảo quản chuối, trái kiwi và  nho."}
+{"text": "Các biện pháp xử lý bao gói và bao màng cũng  có thể được sử dụng kết hợp."}
+{"text": "Sử dụng màng chitosan  kết hợp bao bì LDPE đục lỗ và bảo quản lạnh để kéo  dài thời gian bảo quản cam sành (Nguyen & Phan,  2003; Nguyễn Văn Mười và ctv., 2005a, 2005b,  2005c, 2005d; Nguyễn Văn Mười & Phan Thị Anh  Đào, 2003)."}
+{"text": "Cam mật được xử lý 4 giai đoạn: (1) xử  lý ozone, (2) bao màng CMC); (3) bao gói PE hoặc  PP không đục lỗ và (4) tồn trữ ở 10C có thời gian  tồn trữ cam đến 9 tuần (Nguyễn Minh Thủy &  Nguyễn Thị Mỹ Tuyền, 2011)."}
+{"text": "3.5."}
+{"text": "Bảo quản lạnh trái cây\n(ii) Các dạng bao bì có khả năng hút nước như  bao bì giấy, bao bì carton có khả năng tự hút nước và  điều hoà độ ẩm cho trái cây."}
+{"text": "Các bao bì có khả năng  ngăn sự thấm hơi nước cũng được sử dụng với mục  đích hạn chế và điều hòa sự thoát ẩm."}
+{"text": "Bao bì PE,  PET đục lỗ cũng được xếp vào phân nhóm này."}
+{"text": "Làm lạnh/bảo quản lạnh cũng rất được quan tâm."}
+{"text": "Đây là nhân tố chính đảm bảo duy trì trạng thái tiềm  sinh của trái cây."}
+{"text": "Có hai nguyên tắc vàng cần được  tuân thủ trong một kho bảo quản lạnh:\n(iii) Các bao bì có khả năng trao đổi khí chọn lọc  như LDPE, PVC, PP, PS, PVDC và PET hoặc các  bao bì màng kết hợp được sử dụng như các bao bì  MAP."}
+{"text": "Bao bì có khả năng thấm khí thấp như PA để  bảo quản ở trạng thái chân không một phần."}
+{"text": "(1) Nhiệt độ và độ ẩm tương phải được giữ ổn  định."}
+{"text": "Đây là được coi là yếu tố chính trong việc kiểm  soát tốc độ suy giảm trong chuỗi xử lý sau thu hoạch  của trái cây có múi."}
+{"text": "Mỗi loại trái cây khác nhau cần  được tồn trữ ở những chế độ khác nhau (Bảng 2)."}
+{"text": "Nhìn chung, MAP cần điều kiện khí quyển với  hàm lượng O2 thấp và CO2 cao tỷ lệ nghịch, và các\n\n39\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 57, Số chuyên đề Công nghệ thực phẩm (2021): 32-47\nBảng 2."}
+{"text": "Điều kiện bảo quản cho một loại trái cây nhiệt đới\nMức độ\nĐộ ẩm\nĐiểm đóng\nTrái cây  Tên khoa học  Nhiệt độ\nThời gian\nMức  nhạy cảm\nbăng (⁰C)\n(C)\n(%)\nsinh  ethylen\nethylene\nSơ-ri  Malpighia glabra  0  85–95  −1,4      6–8 tuần\nChuối  Musa paradisiaca var."}
+{"text": "Sapientum  13–15  90–95  −0,8  M  H  1–4 tuần\nSa-kê  Artocarpus altilis  13–15  85–90        2–4 tuần  Khế  Averrhoa carambola  9–10  85–90  −1,2      3–4 tuần  Mãng cầu ta  Annona cherimola  13  90–95  −2,2  H  H  2–4 tuần  Dừa  Cocos nucifera  0–2  85–90  −0,9      4–6 tuần  Chà là  Phoenix dactylifera  −18–0  75  −15,7  VL  L  6–12 tháng  Sầu riêng  Durio zibethinus  4–6  85–90        6–8 tuần  Nho  Vitis vinifera  0–5  90–95  −2,7  VL  L  1–6 tháng  Ổi  Psidium guajava  5–10  90    L  M  2–3 tuần  Mít  Artocarpus heterophyllus  13  85–90    M  M  2–6 tuần  Bòn bon  Aglaia sp."}
+{"text": "; Lansium sp."}
+{"text": "11–14  85–90        2 tuần\nNhãn  Dimocarpus longan,  Euphria longan  4–7  90–95  −2,4      2–4 tuần\nCalocarpum mammosum  13–15  90–95    H  H  2–3 tuần\nMamey sapote  (chi Lêkima)\nXoài  Mangifera indica  13  85–90  − 1,4  M  M  2–3 tuần  Măng cục  Garcinia mangostana  13  85–90    M  M  2–4 tuần  Đu đủ  Carica papaya  7–13  85–90        1–3 tuần  Khóm  Ananas comosus  7–13  85–90  − 1,1  L  L  2–4 tuần\nChuối mễ  Musa paradisiaca var."}
+{"text": "Paradisiaca  13–15  90–95  −0,8  L  H  1–5 tuần\nAnnona muricata  13  85–90        1–2 tuần\nLựu  Punica granatum  5–7,2  90–95  −3  VL  L  2–3 tháng  Chôm chôm  Nephelium lappaceum  12  90–95    H  H  1–3 tuần  Hồng xiêm  Achras sapota  15–20  85–90    H  H  2 tuần  Mãng cầu  xiêm\nCóc  Spondias spp."}
+{"text": "13  85–90        1–2 tuần\nVL: rất thấp; L: thấp; M: trung bình; H: cao; Nguồn: Kader, 2002\nsinh khí ethylene phân biệt bởi nhóm trái cây có hô  hấp đột phát và không hô hấp đột phát."}
+{"text": "Các trái cây  bị tổn thương (vật lý, sinh lý) cũng có tốc độ sinh  ethylene lớn hơn rất nhiều lần, do đó cần được loại  bỏ trong quá trình xử lý bảo quản."}
+{"text": "Trong một vài  trường hợp, việc loại bỏ ethylene trong kho cũng là  điều cần thiết."}
+{"text": "Nhìn chung, đối với các loại cây ăn trái nhiệt đới,  trái cây quen với điều kiện ẩm nên độ ẩm tương đối  cần được giữ cao (RH 85-95%)."}
+{"text": "Khoảng nhiệt độ có  thể chịu đựng cũng dao động rất lớn, từ 0-15C."}
+{"text": "Trái  cây nhiệt đới thường không chịu được nhiệt độ thấp  (thường trên 10C), nên thời gian bảo quản lạnh  nhìn chung thường rất ngắn."}
+{"text": "(2) Các loại cây ăn quả có mức độ sinh khí  ethylene khác nhau cần được bảo quản ở các khu vực  khác nhau (Bảng 2)."}
+{"text": "Việc tiếp xúc với nồng độ  ethylene cao mức độ nhạy cảm làm gia tăng quá trình  chín, trong nhiều trường hợp có thể gây rối loạn sinh  lý và tăng khả năng tổn thương lạnh trái."}
+{"text": "Đặc điểm\nViệc điều khiển nhiệt độ quá thấp là một vấn đề  không mong muốn trong bảo quản trái cây, nguyên  nhân do sự tổn thương lạnh (chilling injury, CI)."}
+{"text": "Nhìn  chung, trái cây nhiệt đới có điểm nhiệt độ tổn thương  lạnh ở mức rất cao."}
+{"text": "Trái cây bị tổn thương lạnh gây  rối loạn các hoạt động sinh lý; do đó các biểu hiện hư  hỏng do tổn thương lạnh thường đa dạng và không\n40\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 57, Số chuyên đề Công nghệ thực phẩm (2021): 32-47\ngiống nhau."}
+{"text": "Một số biểu hiện được liệt kê ở Bảng 3."}
+{"text": "Mức độ tổn thương lạnh phụ thuộc vào loài, giống,  giai đoạn trưởng thành và vị trí của cây trồng\n(Lafuente & Zacarias, 2006)."}
+{"text": "Theo lý thuyết, điểm  bảo quản lạnh tốt nhất nằm ở cận trên nhiệt độ tổn  thương lạnh của trái."}
+{"text": "Bảng 3."}
+{"text": "Dấu hiệu bị tổn thương lạnh của một số loại quả nhiệt đới\nDấu hiệu\nTrái cây  Điểm tổn thương\nlạnh (⁰ C)\nChuối  12,8\nNâu dưới biểu bì, mủ trong, mất mùi, chín muộn, cứng trung tâm,  tích tụ tannin, da đổi màu, tạo đường chậm, giảm nồng độ ascorbic  acid, chảy nước sẫm màu, tạo vị đắng  Xoài  4,4  Giảm vị ngọt, da xỉn màu, chín không đúng, mảng nâu ngoài da  Đu đủ  6,1  Không chín, rỗ da, tách nước, không thể thủy phân sucrose\nKhóm  6,1  Không chín, màu vỏ nâu hoặc xỉn, tách nước, héo hoặc xuất vòng  cuốn, đốm xanh, mất mùi\n(Nguồn: Yahia et al., 2011)\n3.6."}
+{"text": "Khái niệm chuỗi làm lạnh và ý nghĩa\ncủa công đoạn làm lạnh sơ bộ\nNguyên tắc vàng trong chuỗi làm lạnh là: (i) xử  lý làm lạnh các loại trái cây trong thời gian sớm nhất  và (ii) không có các điểm gián đoạn trong chương  trình quản lý nhiệt độ."}
+{"text": "Ở khái niệm chuỗi làm lạnh,  công đoạn xử lý lạnh sơ bộ được đánh giá với vai trò  quan trọng, bằng thậm chí hơn so với bảo quản lạnh."}
+{"text": "Việc trễ làm lạnh dẫn đến sự suy giảm chất lượng  quả do 4 nguyên nhân chính: (1) việc tăng tốc độ hô  hấp và trao đổi chất làm mất đi đường, acid, vitamin  và các thành phần khác; (2) mất khối lượng do thoát  ẩm; (3) gia tăng sự hư hỏng do thối rữa; (4) gia tăng  sự hư hỏng do tiếp xúc ethylene."}
+{"text": "Nguyên tắc vàng  là 1 giờ trễ làm lạnh tương ứng với 1 ngày mất đi  trong quá trình bảo quản."}
+{"text": "Đối với một số loại trái  cây nhạy cảm, 1 giờ trễ làm lạnh có thể làm mất đi  10% số lượng và chất lượng trái."}
+{"text": "Mỗi phút trễ làm  lạnh cần được tính toán vào giá trị thương mại  (Yahia et al., 2011)."}
+{"text": "Chuỗi làm lạnh được đề cập chung đến tất cả các  giai đoạn quản lý liên quan đến việc giảm nhiệt độ và  duy trì nhiệt độ thấp để bảo quản và phân phối sản  phẩm đạt chất lượng."}
+{"text": "Một định nghĩa khác của chuỗi  làm lạnh là quá trình loại bỏ nhiệt dần dần khỏi sản  phẩm, bắt đầu càng sớm càng tốt sau khi thu hoạch  (Yahia, 2010)."}
+{"text": "Quản lý chuỗi lạnh nên bắt đầu ngay  sau khi thu hoạch và sau đó tiếp tục trong suốt chuỗi  xử lý."}
+{"text": "Chuỗi lạnh bao gồm các bước cơ bản: làm  lạnh nhanh (làm lạnh sơ bộ), làm lạnh tới nhiệt độ  bảo quản, bảo quản lạnh, vận chuyển lạnh, phân phối  lạnh (tại nhà, trong nhà hàng, ...)."}
+{"text": "Cần phải phân biệt  thiết bị bảo quản lạnh và các thiết bị làm lạnh sơ bộ  và vận chuyển lạnh, do thiết bị bảo quản chỉ cho hiệu  quả trong duy trì nhiệt độ thấp nhưng tốc độ làm  lạnh không cao."}
+{"text": "Bảng 4."}
+{"text": "Yêu cầu làm lạnh nhanh của một số loại trái cây\nTrái cây  Thời gian trễ lạnh\ncho phép (giờ)  Nhược điểm trễ lạnh  Ưu điểm  trễ lạnh  Ghi chú\nDưa lưới ruột cam  8  Mất nước  Không    Dưa lưới ruột xanh  16  Mềm thịt và chín sớm  Không  −1,2\nBưởi  24  Mất nước, khuyết tật và  thối vỏ  Không  Xử lý thối hỏng trong 24 giờ\nChanh  24  Tăng thối hỏng  Không  Xử lý thối hỏng trong 24 giờ\nQuýt  8  Mất nước, khuyết tật và  thối vỏ  Không  Xử lý thối hỏng trong 24 giờ\nCam  16  Mất nước, khuyết tật và  thối vỏ  Không  Xử lý thối hỏng trong 24 giờ\nLựu  16  Mất nước  Không\n(Nguồn: Yahia et al., 2011)\nĐiều quan trọng là tránh hoặc giảm việc phơi trái  sau khi thu hoạch dưới ánh nắng mặt trời và nhiệt độ  cao trong thời gian dài."}
+{"text": "Che mát trái cây trên ruộng  vườn sau khi thu hoạch, trong quá trình vận chuyển\nđến cơ sở đóng gói và trong thời gian chờ đợi tại cơ  sở đóng gói là công đoạn cần thiết."}
+{"text": "Khi đã có điều  kiện, cần tiến hành làm lạnh nhanh nhất về nhiệt độ  cho phép."}
+{"text": "Các loại trái cây khác nhau có các yêu cầu\n41\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 57, Số chuyên đề Công nghệ thực phẩm (2021): 32-47\nlàm lạnh khác nhau (Bảng 4)."}
+{"text": "Nho yêu cầu cần được  làm lạnh tức thì về gần điểm đóng băng ngay sau khi  thu hoạch."}
+{"text": "Trong khi đó, xoài, chuối và dưa lưới rất  dễ bị tổn thương lạnh nên không yêu cầu làm lạnh  nhanh để tránh các tổn thương không mong muốn."}
+{"text": "Làm lạnh bằng nước đá hoặc bằng nước có ưu  điểm là cho hệ số truyền nhiệt tốt nhưng trong một  số trường hợp sẽ gây ra tác động phụ không mong  muốn."}
+{"text": "Sử dụng nước đá cho một số loại quả mọng  gây nguy cơ làm tổn thương cơ học."}
+{"text": "Trong khi đó,  rửa bằng môi trường nước cũng có thể gây tác động  tiêu cực khi loại bỏ đi phấn bao phủ bên ngoài, đây  là lớp màng bảo vệ tự nhiên giúp chống các loài vi  sinh vật tấn công gây hư hại (Nguyễn Nhật Minh  Phương và ctv., 2006)."}
+{"text": "Tổn tương do nhiễm nước  cũng là không mong muốn trong trường hợp nguyên  liệu đã bị tổn thương vật lý trước khi xử lý."}
+{"text": "Trong  các trường hợp này, làm lạnh bằng đối lưu không  khí nên được ưu tiên lựa chọn."}
+{"text": "4."}
+{"text": "XỬ LÝ BẢO QUẢN TRÁI CÂY THEO\nbảo quản lạnh."}
+{"text": "Nhìn chung, điều kiện bảo quản này  đã giúp khống chế tốt sự hư hỏng tự nhiên do các  hoạt động sinh hóa, về gần với trái tương khi so sánh  theo lý thuyết (Arte´s & Allende, 2014)."}
+{"text": "Vì vậy, so  với mối nguy hư hỏng sinh hoá, mối nguy vi sinh  trong trường hợp này lại cần được xem xét với thứ  tự ưu tiên hơn."}
+{"text": "So với loại trái cây tương thông  thường, trái cây chế biến giảm thiểu dễ bị các vi sinh  vật xâm nhập và có điều kiện phát triển thuận lợi  hơn, nhất là ở vị trí tổn thương sau phân tách."}
+{"text": "Đây  vừa là nguy nhân gây mất an toàn thực phẩm, đồng  thời là nguyên nhân gây hư hỏng chính."}
+{"text": "Trên thực  tế, các vi sinh vật thông thường trong đất, nước và  các nguồn ô nhiễm   như Listeria monocytogenes,  Escherichia  coli  O157:H7,  Shigella  spp.,  Salmonella spp., Aeromonas hydrophila, Bacillus  cereus, Yersinia enterocolitica và Campylobacter  spp., ký sinh và virus thường được phát hiện và là  nguyên nhân gây mất an toàn ở trên các sản phẩm chế  biến giảm thiểu (Warrine et al., 2009)."}
+{"text": "Do đó, khống  chế sự phát triển vi sinh vật lúc này đóng vai trò  quyết định trong vấn đề bảo quản dạng thực phẩm  này."}
+{"text": "NGUYÊN TẮC CHẾ BIẾN GIẢM  THIỂU\nQuy trình chế chế biến giảm thiểu thường kinh  điển bao gồm: Trái cây → Rửa 1, vệ sinh trái →  Phân tách/Cắt nhỏ → Rửa 2 → Làm khô (để ráo hoặc  ly tâm) → Bao gói → Bảo quản lạnh (Arte´s and  Allende, 2014)."}
+{"text": "Phân tích sâu vào quy trình, các rào  cản đã được áp dụng gồm:\nKhái niệm thực phẩm chế biến giảm thiểu  (minimal processing) hiện chỉ mới được đề cập  trong thời gian gần đây."}
+{"text": "Hiện tại, có thể định nghĩa  quá trình chế biến giảm thiểu là quá trình chế biến  thực phẩm nhưng vẫn đảm bảo các thuộc tính chất  lượng, theo nguyên tắc áp dụng ít công đoạn nhất có  thể nhưng cần phải đủ các công đoạn cần thiết."}
+{"text": "Chế  biến thực phẩm giảm thiểu cần phải thỏa mãn hai  mục đích: (1) cung cấp sản phẩm tươi đảm bảo chất  lượng dinh dưỡng và (2) đảm bảo chất lượng sản  phẩm trong thời gian phân phối cần thiết (Arte´s &  Allende, 2014)."}
+{"text": "Đối với sản phẩm trái cây ở  ĐBSCL, các dạng chế biến giảm thiểu có thể được  gặp như: dạng lột vỏ sẵn (mít, chôm chôm); dạng  phân tách sẵn (cây có múi, sầu riêng); dạng fresh- cut (đu đủ, dưa lưới, ...)."}
+{"text": "+ Công đoạn rửa 1 nhằm loại bỏ bớt bụi bẩn và  các vi sinh vật nhằm hạn chế nhiễm chéo và   công đoạn rửa 2 được thực hiện để loại bỏ dịch quả  và đảm bảo tính tiệt trùng."}
+{"text": "Trên cơ sở này, các cải  tiến theo hướng khống chế mối nguy vi sinh có thể  được áp dụng."}
+{"text": "Các biện pháp vô hoạt vi sinh vật trên  nguyên tắc vật lý hiện đại đang được nghiên cứu  thực hiện như: sử dụng áp suất cao, xung ánh sáng,  dòng diện cao tần, tia cực tím,... (Ahvenainen,  1996)."}
+{"text": "Các tác nhân hoá học có thể được thực hiện  như: sử dụng chlorine, H2O2 và sử dụng ozone trong  nước rửa  (Arte´s & Allende, 2014; Gonzalez- Aguilar et al., 2011)."}
+{"text": "Việc làm khô sau rửa 2 được  thực hiện bắt buộc, giúp loại nước nhanh từ đó hạn  chế sự thay đổi sinh hoá."}
+{"text": "Tổn thương gây trên trái là không thể tránh khỏi  khi thực hiện chế biến giảm thiểu."}
+{"text": "Đây là nhân tố  làm mất cân bằng quá trình sinh hoá bình thường  của trái đồng thời làm gia tăng các hư hỏng theo các  con đường khác."}
+{"text": "Do đó thông thường, ứng dụng chế  biến giảm thiểu chỉ được thực hiện trên một số loại  trái cây với đặc tính đặc biệt giúp hạn chế các tổn  thương vật lý trong quá trình chế biến như: có cấu  trúc cứng chắc; các hoạt động sinh hoá trên trái diễn  ra chậm; hoặc/và có thể dễ dàng phân tách các bộ  phận của trái."}
+{"text": "Điều kiện bảo quản trái cây chế biến giảm thiểu  thông thường đều có ứng dụng bao màng và\n+ Lạnh và MAP là rào cản thường được ứng  dụng do đặc tính đa hiệu, vừa là rào cản giúp hạn  chế hư hỏng sinh hoá, vừa giúp hạn chế hư hỏng do  vi sinh vật."}
+{"text": "Chế độ lạnh và rào cản của trái cây sau  chế biến có thể tham khảo ở quá trình bảo quản  thông thường."}
+{"text": "Thời gian bảo quản của các sản phẩm  chế biến giảm thiểu thường ngắn, từ 2-3 ngày và tối  đa thường không quá một tuần (Arte´s & Allende,\n42\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 57, Số chuyên đề Công nghệ thực phẩm (2021): 32-47\n2014; Gonzalez-Aguilar et al., 2011)."}
+{"text": "Rào cản này  mang tính chất bắt buộc ở các sản phẩm chế biến  giảm thiểu."}
+{"text": "Ở Việt Nam, khái niệm chế biến giảm thiểu chỉ  xuất hiện trong khoảng thời gian gần đây."}
+{"text": "Sản phẩm  chế biến giảm thiểu được xếp vào dạng sản phẩm  mang giá trị gia tăng, cho hiệu quả kinh tế cao  (Nguyễn Minh Thủy & Nguyễn Thị Mỹ Tuyền,  2017)."}
+{"text": "Hướng tiếp cận vấn đề chính từ tập trung từ  khía cạnh cải thiện tính chất màng bao, điển hình  nhất như nghiên cứu của Lê Phạm Tấn Quốc và  Nguyễn Văn Mười (2016) đã ứng dụng dịch trích từ  củ hà thủ ô đỏ trong bảo quản đu đủ dạng fresh-cut."}
+{"text": "Mặc dù vậy, số lượng các nghiên cứu khoa học về  chế biến giảm thiểu phát triển hiện còn rất ít."}
+{"text": "5."}
+{"text": "XỬ LÝ CHẾ BIẾN VÀ BẢO QUẢN\nTRÁI CÂY THEO NGUYÊN TẮC  TRIỆT SINH\nphẩm."}
+{"text": "Quá trình chần ở các nhiệt độ từ 60-90C hay  thanh trùng (80-90C) thường được áp dụng tùy  thuộc vào từng loại nguyên liệu giúp vô hoạt  enzyme gây hóa nâu (Dauthy, 1995; Skrede, 1996)."}
+{"text": "Đối với sản phẩm purée, điều chỉnh pH đến dưới 4,  phổ biến là 3 và 3,5 (Wan Saidatul et al., 2013) hay  bổ sung đường đến 30-60% khối lượng purée (có độ  Brix ban đầu 14-16%) để ngăn cản sự biến đổi mùi  vị của quả, điển hình là purée xoài (Avena & Luh,  2006)."}
+{"text": "(2001) cũng đã đề nghị giải pháp  ngăn cản sự biến đổi hương vị và màu sắc của xoài  bằng cách gia nhiệt nhanh sản phẩm đến 90°C trong  vòng 1 phút, làm lạnh xuống 30°C trước khi lạnh  đông."}
+{"text": "Trong một sản phẩm đông lạnh hỗn hợp,  Sistrunk et al."}
+{"text": "(2006) đã đề xuất ý tưởng mới là phối  trộn purée từ dâu tây xanh và dâu tây chín vào dâu  tây chín cắt lát để giúp điều chỉnh pH tự nhiên, đồng  thời gia tăng hàm lượng acid ascorbic trong sản  phẩm."}
+{"text": "Về nguyên tắc, cũng có thể áp dụng nguyên lý  tiềm sinh để bảo quản các loại trái cây chín hoặc bị  tổn thương vật lý."}
+{"text": "Tuy nhiên, do tốc độ chuyển hoá  của các loại trái cây này rất cao, thời gian bảo quản  thường không dài và cho giá trị kinh tế thấp."}
+{"text": "Nguyên  tắc triệt sinh (tức dừng hẳn quá trình sinh trưởng)  được phát triển cho những loại nguyên liệu này, giúp  khai thác được giá trị gia tăng thay vì phải bỏ đi ở  dạng thành phẩm."}
+{"text": "Hai loại sản phẩm thường gặp ở  dạng xử lý này là: trái cây lạnh đông và purée thịt  quả được xếp vào dạng bán thành phẩm, đã qua các  quy trình xử lý nhưng chưa triệt để và vẫn còn giữ  được một số đặc tính ban đầu của trái (Wan Saidatul  et al., 2013)."}
+{"text": "Về cơ bản, trái cây lạnh đông được chế biến theo  cách bước: Xử lý nguyên liệu (tách vỏ, cắt nhỏ) →  Chần → Làm lạnh nhanh → Lạnh đông."}
+{"text": "Trong khi  đó, purée trái cây được chuẩn bị với các bước đơn  giản: Xử lý nguyên liệu (chỉ lấy thịt quả) → Thịt quả  được xay nhuyễn hay chà để tạo thành khối đồng  nhất → Chần → Làm lạnh nhanh → Lạnh đông."}
+{"text": "Quá  trình chần và bảo quản lạnh đông là 2 rào cản kết  hợp ức hoàn toàn sự sống của nguyên liệu."}
+{"text": "Thời gian  bảo quản có thể đạt đến 6 tháng, thậm chí 12 tháng  hay 2 năm tùy thuộc từng loại sản phẩm (Avena &  Luh, 2006; Bates et al., 2001; Paltrinieri et al., 1997;  Wan Saidatul et al., 2013)."}
+{"text": "Các phụ gia có tác dụng chống đông cũng được  để nghị bổ sung vào purée."}
+{"text": "Conceição et al."}
+{"text": "(2012)  đề nghị bổ sung sucrose và pectin vào purée trước  khi lạnh đông."}
+{"text": "Downey (2002) cũng nghiên cứu về  chất lượng của purée sau lạnh đông và tan giá thay  đổi bởi khi bổ sung các chất chống đông khác nhau,  bao gồm hydrocolloid, gum và bột sữa."}
+{"text": "Nghiên cứu  cũng khẳng định rằng việc bổ sung các  cryoprotectant nêu trên làm giảm tổn thương về lạnh  đông và tan giá, đồng thời tùy thuộc vào loại nguyên  liệu mà chất lượng, bao gồm cả giá trị cảm quan, có  thể được duy trì hoặc tăng trưởng khi sử dụng chất  chống đông phù hợp."}
+{"text": "Đối với các sản phẩm lạnh  đông, việc xử lý thẩm thấu tách nước giúp hạn chế  thay đổi cấu trúc sản phẩm trong quá trình lạnh  đông."}
+{"text": "Môi trường thẩm thấu thường được sử dụng  là các loại đường hữu cơ (sucrose, glucose, fructose,  hỗn hợp đường nghịch đảo) nhằm mục đích lấy đi  một phần nước trong nguyên liệu."}
+{"text": "Xử lý bằng ion  Ca2+ bằng cách bổ sung CaCl2 từ 0,5-2% trong hoặc  sau quá trình chần cũng được thực hiện giúp duy  trình tính chất của màng tế bào."}
+{"text": "Trong một số trường  hợp (như xử lý khóm, bắp non) cấu trúc của sản  phẩm có thể đạt bằng hoặc hơn so với nguyên liệu  ban đầu."}
+{"text": "Sản phẩm hỗn hợp dâu tây chín cắt lát với  việc bổ sung 40% purée (tỷ lệ dâu tây xanh và chín  tương ứng là 60%:40%) giúp sản phẩm có độ nhớt và  hàm lượng acid ascorbic cao hơn, tổng lượng  anthocyanin ít hơn cũng như sắc đỏ nhạt hơn so với  sản phẩm được chế biến từ 100% dâu tây chín cắt lát."}
+{"text": "Đặc biệt là sản phẩm ổn định màu sắc khi thời gian  bảo quản dài."}
+{"text": "Hai vấn đề rất được quan tâm trong nguyên tắc  chế biến này là sự mất hương vị đặc trưng của sản  phẩm và sự biến đổi màu sắc do phản ứng hóa nâu  có và không có enzyme (Skrede, 1996)."}
+{"text": "Chính vì  vậy, nguyên liệu thường được áp dụng các biện pháp  tiền xử lý giúp duy trì và ổn định chất lượng của sản\n43\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 57, Số chuyên đề Công nghệ thực phẩm (2021): 32-47\nLỜI CẢM ƠN\nNghiên cứu được thực hiện thông qua sự tài trợ  kinh phí từ đề tài nghiên cứu khoa học cấp Bộ (Bộ  Giáo dục và Đào tạo) “Nghiên cứu cơ sở khoa học  và thực tiễn để ứng dụng phát triển công nghệ tiên  tiến trong bảo quản, chế biến nông thủy sản vùng  Đồng  bằng  sông  Cửu  Long”  (mã  số:  CT2020.01.TCT.01) thuộc Chương trình KH&CN  “Nghiên cứu ứng dụng và phát triển công nghệ tiên  tiến trong bảo quản, chế biến nông thủy sản vùng  Đồng bằng Sông Cửu Long”."}
+{"text": "TÀI LIỆU THAM KHẢO\nCác phụ gia bảo quản cũng có thể được sử dụng  để gia tăng tính ổn định của sản phẩm."}
+{"text": "Nghiên cứu  Durrani et al."}
+{"text": "(2011) cho thấy purée xoài được bảo  quản bằng cách kết hợp kali sorbate với natri  benzoate và acid citric cho chất lượng tốt hơn hẳn về  màu sắc, hương vị trong 45 đến 60 ngày bảo quản."}
+{"text": "Tương tự, Wan Saidatul et al."}
+{"text": "(2013) cũng đã đề xuất  chế biến purée bí đao (Benincasa hispida) không sử  dụng nhiệt."}
+{"text": "Kết quả khảo sát cũng cho thấy, purée bí  đao được bổ sung đường fructose để điều chỉnh độ  hoạt động của nước là 0,96 kết hợp với điều chỉnh  pH đến 3,0 hay 3,5 bằng acid citric, sử dụng kali  sorbate là chất bảo quản có tác động tích cực trong  việc cải thiện chất lượng purée."}
+{"text": "Ahvenainen, R. (1996)."}
+{"text": "Aleme, M. & Guta, M. (2017)."}
+{"text": "Arte´s , F. & Allende, A."}
+{"text": "(2014)."}
+{"text": "583-597)."}
+{"text": "Academic Press."}
+{"text": "Aurore, G., Parfait, B."}
+{"text": "& Fahrasmane, L. (2009)."}
+{"text": "Avena, R.J. & Luh, P.S."}
+{"text": "(2006)."}
+{"text": "Sweetened Mango\nHướng xử lý bảo quản trái cây theo phương pháp  triệt sinh cũng đã được áp dụng phổ biến ở Việt  Nam."}
+{"text": "Tuy nhiên, các nghiên cứu thông thường tập  trung ở hướng nghiên cứu tiền xử lý nhiệt độ, điển  hình như các nghiên cứu về ảnh hưởng về đặc tính  của enzyme hóa nâu hoặc về enzyme PME và cấu  trúc thực phẩm sau chần (Nguyễn Minh Chơn và  Nguyễn Phương Thúy, 2006; Trần Thanh Trúc và  ctv., 2006; Binh Ly Nguyen 2008a, 2008b, 2008c;  Nguyễn Văn Mười & Trần Thanh Trúc, 2014)."}
+{"text": "Các  nghiên cứu theo hướng tiếp cận sử dụng phụ gia và  chất bảo quản cho phép ít phổ biến hơn, điển hình  nhất có nghiên cứu của Tran and To (2017)."}
+{"text": "Mặc dù  vậy, dạng sản phẩm trái cây đông lạnh, có hoặc  không qua chế biến là dạng sản phẩm xuất khẩu chủ  lực của một số nhà máy xử lý trái cây sau thu hoạch."}
+{"text": "Điều này cho thấy khả năng áp dụng các kết quả  nghiên cứu sẵn có cho một số loại trái cây có tính  chất tương tự."}
+{"text": "Baruah, S. R. & Kotoky, U."}
+{"text": "(2018)."}
+{"text": "Studies on\n6."}
+{"text": "(2001)."}
+{"text": "146."}
+{"text": "226 pp."}
+{"text": "Binh Ly Nguyen."}
+{"text": "(2008a)."}
+{"text": "Binh Ly Nguyen."}
+{"text": "(2008b)."}
+{"text": "ĐBSCL là vùng đất giàu phù sa và chịu ảnh  hưởng của khí hậu nhiệt đới gió mùa nên rất thuận  lợi cho các loại trái cây nhiệt đới phát triển quanh  năm."}
+{"text": "Duy trì chất lượng tươi của trái cây trên nền  tảng áp dụng nhiệt độ thấp là yêu cầu bắt buộc nhằm  giảm tổn thất sau thu hoạch và kéo dài thời gian bảo  quản."}
+{"text": "Vấn đề tổn thương lạnh của trái cây nhiệt đới  là trở ngại lớn trong việc hạ thấp nhiệt độ nguyên liệu  sau thu hoạch."}
+{"text": "Do đó, sau khi tiến hành làm sạch sơ  bộ, việc kết hợp làm lạnh và bảo quản lạnh ở nhiệt  độ thích hợp cho từng loại trái cây với các biện pháp  hỗ trợ khác như nhúng màng, bao gói có kiểm soát  là điều cần được quan tâm."}
+{"text": "Điều kiện kỹ thuật và  khả năng đầu tư luôn là yếu tố quan trọng trong việc  xây dựng quy trình xử lý và bảo quản trái cây đạt  hiệu quả."}
+{"text": "44\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 57, Số chuyên đề Công nghệ thực phẩm (2021): 32-47\nBinh Ly Nguyen."}
+{"text": "(2008c)."}
+{"text": "Purification of pectin\nGobet, J., Zavanella, C., Hermant, N., Comninellis,\nC. & Ippolito, A."}
+{"text": "(2014)."}
+{"text": "U.S. Patent Application  No."}
+{"text": "14/118,295."}
+{"text": "Goldschmidt, E. E. & Eilati, S. K. (1970)."}
+{"text": "Chen, C., Nie, Z., Wan, C. & Chen, J."}
+{"text": "(2019)."}
+{"text": "Gonzalez-Aguilar, G. A., Kader, A."}
+{"text": "Biomolecules, 9(2), 46."}
+{"text": "Italy: Proc."}
+{"text": "Int."}
+{"text": "Soc."}
+{"text": "Citric."}
+{"text": "Conceição, M.C.,  Fernandes, T.N., Prado, M. E.T."}
+{"text": "and Toivonen, P. M. A."}
+{"text": "(2011)."}
+{"text": "381-419e)."}
+{"text": "Gutiérrez-Martínez, P., Osuna-López, S. G.,\n& Vilela de Resende, J."}
+{"text": "(2012)."}
+{"text": "Dauthy, M.E."}
+{"text": "(1995)."}
+{"text": "Fruit and vegetable\nCalderón-Santoyo, M., Cruz-Hernández, A."}
+{"text": "&  Bautista-Baños, S. (2012)."}
+{"text": "Hayat, F., Khan, M. N., Zafar, S. A., Balal, R. M.,\nprocessing."}
+{"text": "382pp."}
+{"text": "& Saleem, B."}
+{"text": "A."}
+{"text": "(2017)."}
+{"text": "Durrani, Y., Zeb, A., Ayub, M., Ullah, W. &\nNaranjo, M. A., Ríos, G., Carrera, E. & Talon, M.  (2007)."}
+{"text": "Irtwange, S. V. (2006)."}
+{"text": "(2011)."}
+{"text": "Sarhad J. Agric,  27(3), 471-475."}
+{"text": "Kader, A."}
+{"text": "A."}
+{"text": "(2002)."}
+{"text": "Postharvest technology of\nhorticultural crops (Vol."}
+{"text": "3311)."}
+{"text": "Kader, A."}
+{"text": "A., & Yahia, E. M. (2011)."}
+{"text": "Postharvest\nSukriandi, N. (2020)."}
+{"text": "79-111)."}
+{"text": "Kassim, A., Workneh, T. S. &Laing, M. D. (2020)."}
+{"text": "R. T. (2015)."}
+{"text": "Int."}
+{"text": "J.  Curr."}
+{"text": "Microbiol."}
+{"text": "Sci, 4, 629-643."}
+{"text": "Falade, K. O."}
+{"text": "& Oyeyinka, S. A."}
+{"text": "(2015)."}
+{"text": "Kader, A."}
+{"text": "A."}
+{"text": "(1996)."}
+{"text": "Fallik, E. (2004)."}
+{"text": "http://postharvest."}
+{"text": "Krajewski, A. J."}
+{"text": "& Krajewski, S. A."}
+{"text": "(2010)."}
+{"text": "Postharvest  Biol."}
+{"text": "Technol."}
+{"text": "32, 125–134."}
+{"text": "Ferguson, I."}
+{"text": "B."}
+{"text": "& Boyd, L. M. (2002)."}
+{"text": "In  International Symposium on  Tropical Horticulture 894 (pp."}
+{"text": "65-76)."}
+{"text": "Ladaniya, M. S. (2008)."}
+{"text": "Commercial fresh citrus\nVăn Mười."}
+{"text": "(2006)."}
+{"text": "Ảnh hưởng của nhiệt độ và  bao bì đến chất lượng và thời gian bảo quản xoài  cát Hòa Lộc."}
+{"text": "Tạp chí Nghiên cứu Khoa học  trường Đại học Cần Thơ, 6, 9-17."}
+{"text": "Nguyễn Thị Tuyết Mai, Nguyễn Thị Mỹ An &\ncultivars and producing countries."}
+{"text": "Lafuente, M. T. & Zacarias, L. (2006)."}
+{"text": "Lê Phạm Tấn Quốc & Nguyễn Văn Mười."}
+{"text": "(2016)."}
+{"text": "Nguyễn Bảo Vệ."}
+{"text": "(2012)."}
+{"text": "Ảnh hưởng của xử lý  calci đến chất lượng và khả năng bảo quản trái  quýt đường (Citrus reticulata Blanco var."}
+{"text": "Duong) sau thu hoạch."}
+{"text": "Tạp chí Khoa học trường  Đại học Cần Thơ, 23a, 193-202."}
+{"text": "Nguyễn Văn Mười & Trần Thanh Trúc."}
+{"text": "(2014)."}
+{"text": "Ảnh\nhưởng của tiền xử lý và phương thức bảo quản  đến sự ổn định màu sắc và đặc tính cấu trúc của  ngó sen sau thu hoạch."}
+{"text": "Tạp chí Khoa học Trường  Đại học Cần Thơ, số Nông nghiệp, 116-123."}
+{"text": "Nguyễn Văn Mười & Trần Thanh Trúc."}
+{"text": "(2016)."}
+{"text": "Giáo\nNghiên cứu ảnh hưởng của màng bao alginat và  dịch chiết polyphenol từ củ hà thủ ô đỏ trong bảo  quản đu đủ dạng fresh-cut."}
+{"text": "Tạp chí Nông Nghiệp  và Phát Triển Nông Thôn, Chuyên đề Nông  nghiệp xanh: 175-181."}
+{"text": "Lê Văn Hòa & Phan Thị Xuân Thủy."}
+{"text": "(2010)."}
+{"text": "Cải\ntrình Các quá trình nhiệt độ thấp trong chế biến  thực phẩm."}
+{"text": "Nhà xuất bản Đại học Cần Thơ, 380 tr."}
+{"text": "Nguyễn Văn Mười, Châu Trần Diễm Ái,  Nguyễn\nthiện màu sắc và phẩm chất trái cam soàn   (Citrus sinensis (L.) cv."}
+{"text": "Soan) bằng biện pháp xử  lý hóa chất trước thu hoạch, Tạp chí Khoa học  trường Đại học Cần Thơ, 16a, 178-187."}
+{"text": "Limchoowong, N., Sricharoen, P., Techawongstien, S. &\nNhật Minh Phương, Phan Thị Anh Đào & Lâm  Thị Việt Hà."}
+{"text": "(2005a)."}
+{"text": "Ảnh hưởng của nhiệt độ  đến thời gian bảo quản và chất lượng của cam  sành."}
+{"text": "Kỷ yếu Hội thảo quốc gia “Cây có múi,  xoài và khóm”, NXB Nông nghiệp, 135-140."}
+{"text": "Nguyễn Văn Mười, Châu Trần Diễm Ái,  Nguyễn\nChanthai, S. (2016)."}
+{"text": "Maftoonazad, N. & Ramaswamy, H. S. (2019)."}
+{"text": "Monselise, S. P. (1979)."}
+{"text": "The use of growth\nNhật Minh Phương, Phan Thị Anh Đào &  Lâm  Thị Việt Hà."}
+{"text": "(2005b)."}
+{"text": "Ảnh hưởng của các loại  bao bì đến chất lượng cam sành trong quá trình  tồn trữ."}
+{"text": "Kỷ yếu Hội thảo quốc gia “Cây có múi,  xoài và khóm”, NXB Nông nghiệp, 141-148."}
+{"text": "Nguyễn Văn Mười, Châu Trần Diễm Ái,  Nguyễn\nregulators in citriculture; a review."}
+{"text": "Scientia  Horticulturae, 11(2), 151-162."}
+{"text": "Nguyễn Duy Lâm & Phạm Cao Thăng."}
+{"text": "(2010)."}
+{"text": "Ảnh\nNhật Minh Phương, Phan Thị Anh Đào & Lâm  Thị Việt Hà."}
+{"text": "(2005c)."}
+{"text": "Khảo sát khả năng sử dụng  bao bì LDPE đục lỗ trong quá trình tồn trữ cam."}
+{"text": "Kỷ yếu Hội thảo quốc gia “Cây có múi, xoài và  khóm”, NXB Nông nghiệp, 149-155."}
+{"text": "Nguyễn Văn Mười, Đỗ Thị Tuyết Nhung & Lâm Văn\nhưởng của chăm sóc cận thu hoạch và thời gian  thu hái tới chất lượng và khả năng bảo quản quả  bưởi Bằng Luân - Đoan Hùng."}
+{"text": "Tạp chí Khoa học  và Phát triển, 8(1), 25 – 32."}
+{"text": "Nguyễn Duy Lâm."}
+{"text": "(2011)."}
+{"text": "Báo cáo tổng kết đề tài\nMềnh."}
+{"text": "(2005d)."}
+{"text": "Phân lập sơ bộ nấm mốc hiện diện  ở cam sành sau thu hoạch và biện pháp kiểm soát  chúng trong bảo quản."}
+{"text": "Kỷ yếu Hội thảo quốc gia  “Cây có múi, xoài và khóm”, NXB Nông nghiệp,  156-161."}
+{"text": "Nguyen Van Muoi & Phan Thi Anh Dao."}
+{"text": "(2003)."}
+{"text": "cấp Nhà nước."}
+{"text": "Nghiên cứu và ứng dụng công  nghệ và thiết bị sản xuất chế phẩm bảo quản (chế  phẩm tạo màng) dùng trong bảo quản một số rau  quả tươi."}
+{"text": "Bộ Khoa học và Công nghệ Việt Nam."}
+{"text": "Nguyễn Minh Chơn & Nguyễn Phương Thúy."}
+{"text": "Nguyễn Văn Mười & Phan Thị Anh Đào."}
+{"text": "(2003a)."}
+{"text": "(2006)."}
+{"text": "Ảnh hưởng của pH và nhiệt độ lên sự  hóa nâu gây ra bởi enzyme peroxidase từ hột sen.  Tạp chí Khoa học Trường Đại học Cần Thơ, 6,  24-32."}
+{"text": "Nguyễn Minh Thủy & Nguyễn Thị Mỹ Tuyền."}
+{"text": "(2011)."}
+{"text": "Khảo sát sự tổn thất khối lượng và sự thay đổi giá  trị cảm quan của cam sành trong bảo quản lạnh,  Tạp chí khoa học Đại học Cần Thơ, 352-357."}
+{"text": "Nguyen Van Muoi & Phan Thi Anh Dao."}
+{"text": "(2003b)."}
+{"text": "Bảo quản cam mật bằng phương pháp MAP  (Modified atmosphere packaging)."}
+{"text": "Tạp chí Khoa  học, Trường Đại học Cần Thơ, 17a, 229-238."}
+{"text": "Nguyễn Minh Thủy & Nguyễn Thị Mỹ Tuyền."}
+{"text": "(2017)."}
+{"text": "Kỹ thuật chế biến rau quả."}
+{"text": "Nhà xuất bản  Đại học Cần Thơ, 282 tr."}
+{"text": "Xuân Minh Đăng, Lý Nguyễn Bình & Nguyễn\n46\nTạp chí Khoa học Trường Đại học Cần Thơ   Tập 57, Số chuyên đề Công nghệ thực phẩm (2021): 32-47\nNguyễn Văn Mười, Trần Thanh Trúc & Trịnh Đạt\nSkrede."}
+{"text": "(1996)."}
+{"text": "Fruit."}
+{"text": "In: Jeremiah L.E."}
+{"text": "(Ed."}
+{"text": "Marcel Dekker, New York, 247-298."}
+{"text": "Smilanick, J. L., Mansour, M. F., Gabler, F. M. &\nTân."}
+{"text": "(2009)."}
+{"text": "Sự thay đổi tính chất hóa lý của hạt  sen theo độ tuổi thu hoạch."}
+{"text": "Tạp chí khoa học  trường Đại học Cần Thơ, 11b, 327-334  Palou, L., Usall, J., Munoz, J."}
+{"text": "A., Smilanick, J. L. &\nGoodwine, W. R. (2006)."}
+{"text": "The effectiveness of  pyrimethanil to inhibit germination of  Penicillium digitatum and to control citrus green  mold after harvest."}
+{"text": "Postharvest Biology and  Technology, 42(1), 75-85."}
+{"text": "Sridhar, A., Ponnuchamy, M. & Kumar, P.S."}
+{"text": "(2020)."}
+{"text": "Vinas, I."}
+{"text": "(2002)."}
+{"text": "Hot water, sodium carbonate,  and sodium bicarbonate for the control of  postharvest green and blue molds of clementine  mandarins."}
+{"text": "Postharvest biology and Technology,  24(1), 93-96."}
+{"text": "Palou, L., Valencia-Chamorro, S. & Pérez-Gago, M.\n(2015)."}
+{"text": "Paltrinieri, G., Figuerola, F. & Rojas, L. (1997)."}
+{"text": "https://doi.org/10.1007/s10311-020-01126-2."}
+{"text": "169 pp."}
+{"text": "Peng, Y. H. & Rabe, E. (1996)."}
+{"text": "Citrus Pathology."}
+{"text": "10.5772/66518."}
+{"text": "Intech Open."}
+{"text": "Tô Nguyễn Phước Mai, Nguyễn Hải Âu, Lê Ngọc\ntrunk girdling on fruit quality, maturation, yield,  fruit size and tree performance in  ‘Mihowase’satsumas."}
+{"text": "Primo, E. (1966)."}
+{"text": "2,4-D y 2,4,5-T, Revista de\nDương & Trần Thanh Trúc."}
+{"text": "(2017)."}
+{"text": "Sự thay đổi  tính chất hóa lý của quả thanh trà theo độ tuổi thu  hoạch."}
+{"text": "Tạp chí Khoa học Trường Đại học Cần Thơ,  49B, 27-34."}
+{"text": "Tran Thanh Truc, Ly Nguyen Binh & Nguyen Van\nAgroquimica y Tecnologia de Alimentos, 6,  360-365."}
+{"text": "Rabe, E. & Von Broembsen, L.A. (1995)."}
+{"text": "Reitz, H. J."}
+{"text": "& Koo, R. C. (1960)."}
+{"text": "(2008)."}
+{"text": "Rouissi, W., Cherif, M., Ligorio, A., Ippolito, A."}
+{"text": "&\nKhairusy, S.Z."}
+{"text": "& Nurain, A."}
+{"text": "(2013)."}
+{"text": "Wan, C., Kahramanoğlu, İ., Chen, J., Gan, Z., &\nSanzani, S.M."}
+{"text": "(2009)."}
+{"text": "Sistrunk, K., Wang M. C. & Morris J. R. (2006)."}
+{"text": "Chen, C. (2020)."}
+{"text": "Plants, 9(2), 170."}
+{"text": "Calcium in\nplants."}
+{"text": "Annals of botany, 92(4), 487-511."}
+{"text": "Sites, J. W., & Reitz, H. J."}
+{"text": "(1949)."}
+{"text": "Yahia, E. M. (2011)."}
+{"text": "1."}
+{"text": "Elsevier."}
+{"text": "47"}

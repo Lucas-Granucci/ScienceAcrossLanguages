@@ -1,0 +1,30 @@
+language:
+  source: "English"
+  target: "Vietnamese"
+  source_code: "en"
+  target_code: "vi"
+  lang_pair: "en-vi"
+
+paths:
+  base_dir: "data"
+  raw_data: "raw_documents"
+  processed_data: "processed"
+  backtranslated: "backtranslated"
+  translated: "translated"
+
+processing:
+  base_url: "http://localhost:11434/v1"
+  api_key: "ollama"
+  model_name: "qwen2.5:7b-instruct"
+
+translation:
+  base_url: None
+  model_name: "gpt-4.1-2025-04-14"
+  api_key: ${OPENAI_API_KEY}
+
+# translation:
+#   base_url: "https://api.groq.com/openai/v1"
+#   model_name: "openai/gpt-oss-120b"
+#   api_key: ${GROQ_API_KEY}
+
+modules: []

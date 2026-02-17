@@ -1,0 +1,289 @@
+{"text": "Tạp chí Khoa học Đại học Huế: Kinh tế và Phát triển; ISSN 2588–1205\nTập 127, Số 5A, 2018, Tr."}
+{"text": "213–231; DOI: 10.26459/hueuni-jed.v127i5A.5075\n\n\nNGHIÊN CỨU VỀ CƠ CHẾ QUẢN TRỊ, CHẤT LƯỢNG\nKIỂM TOÁN VÀ QUẢN TRỊ LỢI NHUẬN: TRƯỜNG HỢP\nCÁC CÔNG TY NIÊM YẾT VIỆT NAM\nHồ Thị Thúy Nga*, Phạm Thị Bích Ngọc\nTrường Đại học Kinh tế, Đại học Huế, 99 Hồ Đắc Di, Huế, Việt Nam\nTóm tắt: Nghiên cứu này phân tích sự tác động của cơ chế quản trị công ty và chất lượng kiểm\ntoán lên mức quản trị lợi nhuận của các công ty niêm yết Việt Nam."}
+{"text": "Số liệu được thu thập từ cơ\nsở dữ liệu FiinPro, báo cáo thường niên, báo cáo tài chính và báo cáo quản trị của 221 công ty\nniêm yết trên hai sở giao dịch chứng khoán Hồ Chí Minh và Hà Nội từ năm 2015 đến 2017."}
+{"text": "Kết\nquả kiểm định cho thấy mô hình tác động ngẫu nhiên là phù hợp nhất với loại dữ liệu bảng của\nnghiên cứu này (663 biến quan sát của 221 công ty cho ba năm)."}
+{"text": "Kết quả nghiên cứu cũng cho\nthấy các yếu tố thuộc về cơ chế quản trị bao gồm: tỷ lệ sở hữu của cổ đông nhà nước, tỷ lệ sở\nhữu của cổ đông nước ngoài và số lượng thành viên ban kiểm soát không phải là cổ đông có tác\nđộng đến mức quản trị lợi nhuận, trong khi đó tỷ lệ thành viên độc lập trong hội đồng quản trị\nlại không có ảnh hưởng."}
+{"text": "Ngoài ra, những công ty thuê kiểm toán độc lập với chất lượng cao\nhơn để kiểm toán báo cáo tài chính cho công ty mình có mức quản trị lợi nhuận thấp hơn những\ncông ty thuê kiểm toán với chất lượng thấp."}
+{"text": "Nghiên cứu này bổ sung vào số lượng hạn chế các\nnghiên cứu trước về quản trị lợi nhuận của các công ty niêm yết Việt Nam và có nhiều đóng\ngóp cho thực tiễn quản lý nhằm nâng cao vai trò cơ chế quản trị công ty trong việc giám sát\nhoạt động công ty, từ đó hạn chế việc quản trị lợi nhuận và nâng cao tính minh bạch thông tin\ntài chính của các công ty niêm yết Việt Nam."}
+{"text": "Từ khóa: cơ chế quản trị công ty, chất lượng kiểm toán, quản trị lợi nhuận, công ty niêm yết\nViệt Nam\n1  Đặt vấn đề\nTrong các công ty cổ ph n, các cổ đông (principal) thuê ho c uỷ quyền lại cho ban giám\nđốc (   cutiv s) ho c người quản lý thực hiện việc điều hành doanh nghiệp."}
+{"text": "Th o lý thuyết đại\ndiện [22]sự tách biệt giữa quyền sở hữu và quyền quản lý đã nảy sinh  ung đột lợi ích khi ban\ngiám đốc lại không hành động và đưa ra các quyết định dựa trên lợi ích của người sở hữu hay\ncổ đông."}
+{"text": "Ban giám đốc có thể quản trị lợi nhuận ( arnings manag m nt) để làm sai lệch thông\ntin về tình hình tài chính của công ty nhằm mang lại lợi ích cá nhân của ban giám đốc như đảm\n* Liên hệ: httnga@hce.edu.vn\nNhận bài: 10–12–2018; Hoàn thành phản biện: 23–12–2018; Ngày nhận đăng: 26–12–2018\n\nHồ Thị Thúy Nga, Phạm Thị Bích Ngọc  Tập 127, Số 5A, 2018\n\nbảo được mức thưởng mà các cổ đông đưa ra và đảm bảo được vị trí việc làm ho c để đạt được\nmức lợi nhuận mục tiêu để đáp ứng sự mong đợi của thị trường [20]."}
+{"text": "Tuy nhiên, việc quản trị\nlợi nhuận của ban giám đốc công ty làm cho nhận định của người sử dụng thông tin (bao gồm\ncác cổ đông) bị sai lệch và gây thiệt hại cho các cổ đông."}
+{"text": "Chính vì vậy, c n  ây dựng một cơ chế\nquản trị công ty (corporat  gov rnanc ) hiệu quả để đảm bảo quyền lợi của các cổ đông/nhà\nđ u tư trong việc có được những thông tin trung thực và hợp lý về tình hình tài chính của công\nty để đưa ra các quyết định kinh tế đúng đắn."}
+{"text": "Nhận thức vai trò quan trọng của cơ chế quản trị, Chính phủ Việt Nam đã ban hành\nnhiều văn bản pháp luật nhằm nâng cao hiệu quả của cơ chế quản trị trong các công ty, đ c biệt\nlà các công ty có niêm yết trên thị trường chứng khoán Việt Nam."}
+{"text": "Tuy nhiên, Việt Nam có thị\ntrường chứng khoán tương đối trẻ so với các nước trong khu vực và các công ty niêm yết Việt\nNam vẫn có cơ chế quản trị công ty tương đối kém so với các nền kinh tế mới nổi ho c tiên tiến\nkhác [21], [33]."}
+{"text": "Ban giám đốc có quyền lực tập trung, trong khi các cổ đông và ủy ban kiểm soát\nkhông đóng vai trò kiểm soát đáng kể trong các công ty của họ [21]."}
+{"text": "Với quyền lực tập trung,\nban giám đốc có thể sử dụng quyền lực này để đưa ra các thông tin tài chính không trung thực\nvà hợp lý để giúp bảo vệ lợi ích của họ nhưng ảnh hưởng lợi ích của các cổ đông [13]."}
+{"text": "Trong khi đó, kiểm toán độc lập (một cơ chế quản trị công ty bên ngoài) đóng vai trò làm\ngiảm  ung đột lợi ích giữa các cổ đông và ban giám đốc bằng cách đảm bảo thông tin tài chính\ncủa công ty phải trung thực và hợp lý."}
+{"text": "Tuy nhiên, tính độc lập của kiểm toán viên đang còn là\nmột vấn đề ở Việt Nam."}
+{"text": "Th o Nghị định 71/2017/NĐ-CP, (2017), [30], Ủy ban kiểm toán phải\ngiám sát hoạt động của kiểm toán viên bên ngoài."}
+{"text": "Tuy nhiên, trên thực tế kiểm toán viên bên\nngoài thường làm việc trực tiếp với ban giám đốc."}
+{"text": "Hơn nữa, các cổ đông thường trao quyền cho\nban giám đốc để chỉ định kiểm toán viên bên ngoài và đàm phán với kiểm toán viên [21]."}
+{"text": "Do\nđó, mối quan hệ ch t chẽ giữa kiểm toán viên và ban giám đốc làm ảnh hưởng đến tính độc lập\ncủa kiểm toán viên và có thể ảnh hưởng đến vai trò của kiểm toán viên trong việc đảm bảo\nthông tin tài chính của công ty được công bố phải trung thực và hợp lý [21]."}
+{"text": "Với những đ c thù trên, Việt Nam trở thành bối cảnh nghiên cứu thú vị để khám phá mối\nquan hệ giữa cơ chế quản trị bên trong (gồm hội đồng quản trị, ban kiểm soát, thành ph n sở\nhữu), bên ngoài (kiểm toán độc lập) và quản trị lợi nhuận trong các công ty niêm yết."}
+{"text": "M c dù\nvậy, đến nay vẫn có rất ít nghiên cứu [27], [32] nghiên cứu về vấn đề này tại Việt Nam."}
+{"text": "Nghiên\ncứu trước đây [27] chỉ dừng lại nghiên cứu ảnh hưởng của đ c điểm của hội đồng quản trị với\nmức quản trị lợi nhuận của 130 công ty niêm yết trên sở giao dịch Hồ Chí Minh."}
+{"text": "Trong khi đó\nPhạm và cộng sự [32] tìm hiểu mối quan hệ giữa đ c điểm công ty kiểm toán (ví dụ danh tiếng,\ngiá phí kiểm toán, quy mô công ty kiểm toán) và mức quản trị lợi nhuận của các công ty niêm\nyết ở Việt Nam."}
+{"text": "Nghiên cứu này của chúng tôi tập trung vào tìm hiểu các yếu tố ảnh hưởng đến\n214\nJos.hueuni.edu.vn                                                            Tập 127, Số 5A, 2018\n\nmức quản trị lợi nhuận của các công ty niêm yết Việt Nam, bao gồm các yếu tố thuộc về cơ chế\nquản trị công ty bên trong công ty (số lượng các thành viên độc lập trong hội đồng quản trị, số\nlượng ủy viên ban kiểm soát không phải là cổ đông, tỷ lệ sở hữu của cổ đông nước ngoài và nhà\nnước) và cơ chế quản trị công ty bên ngoài (chất lượng kiểm toán)."}
+{"text": "Vì vậy, nghiên cứu này đóng\ngóp vào lý thuyết nghiên cứu về cơ chế quản trị và quản trị lợi nhuận tại các công ty niêm yết\nViệt Nam."}
+{"text": "2  Cơ sở lý thuyết\n2.1   Quản trị lợi nhuận\nQuản trị lợi nhuận là một đề tài được nghiên cứu rất rộng rãi trên thế giới."}
+{"text": "Tuy nhiên,\nđịnh nghĩa thế nào là quản trị lợi nhuận vẫn chưa thống nhất."}
+{"text": "Th o Schipper [35], quản trị lợi\nnhuận là việc can thiệp trực tiếp có tính toán kỹ lưỡng trong quá trình cung cấp thông tin tài\nchính nhằm đạt được những mục đích cá nhân."}
+{"text": "Còn th o H aly và Wahl n [20], quản trị lợi\nnhuận  ảy ra khi “các nhà quản lý sử dụng  ét đoán khi lập và trình bày báo cáo tài chính ho c\nthay đổi cấu trúc hoạt động của doanh nghiệp nhằm làm cho người sử dụng thông tin hiểu sai\nvề hiệu quả kinh doanh của công ty ho c tác động đến các hợp đồng mà có cam kết dựa trên chỉ\ntiêu lợi nhuận kế toán” [16, Tr."}
+{"text": "368]."}
+{"text": "Th o Watt và Zimm rman [38], động cơ của hành vi quản\ntrị lợi nhuận có thể  uất phát từ nhu c u huy động vốn (báo cáo tài chính c n được làm đẹp để\nthu hút nhà đ u tư), có thể do ban giám đốc muốn thăng tiến ho c tăng lương thưởng từ cổ\nđông nhờ kết quả kinh doanh tốt, ho c do phí tổn chính trị (political cost hypoth sis), các công\nty có thể quản trị số liệu lợi nhuận được báo cáo nhằm tránh sự can thiệp của chính phủ ho c\nhưởng ưu đãi thuế."}
+{"text": "H u hết trong các nghiên cứu đã được công bố, mức độ quản trị lợi nhuận thường được\nđánh giá dựa trên biến kế toán dồn tích (Discr tionary accruals) [12]."}
+{"text": "Th o Chuẩn mực kế toán\nViệt Nam, báo cáo kết quả hoạt động kinh doanh được hạch toán kế toán dựa trên phương\npháp kế toán dồn tích."}
+{"text": "Như vậy, doanh thu và chi phí được ghi nhận căn cứ vào thời điểm phát\nsinh giao dịch chứ không phụ thuộc vào dòng tiền."}
+{"text": "Thu nhập ròng là chênh lệch giữa doanh\nthu và chi phí."}
+{"text": "Tuy nhiên, báo cáo lưu chuyển tiền tệ được lập dựa trên dòng tiền, nghĩa là kế\ntoán chỉ được phép ghi nhận doanh thu và chi phí khi thực sự chi ra ho c được thanh toán,\nkhông phải tại thời điểm phát sinh giao dịch."}
+{"text": "Do đó, khoản dồn tích là chênh lệch giữa thu\nnhập ròng trong báo cáo kết quả hoạt động kinh doanh và dòng tiền ròng trong báo cáo lưu\nchuyển tiền tệ, được biểu diễn trong phương trình (1):\nTổng khoản dồn tích (TA) = Thu nhập ròng – Lưu chuyển tiền tệ ròng\nNói cách khác, các khoản dồn tích là thành ph n của thu nhập không được phản ánh\ntrong dòng tiền hiện tại [41]."}
+{"text": "Tổng biến dồn tích bao gồm các yếu tố có thể điều chỉnh (DA) và\nkhông thể điều chỉnh (NDA)."}
+{"text": "215\nHồ Thị Thúy Nga, Phạm Thị Bích Ngọc  Tập 127, Số 5A, 2018\n\nPhương trình như sau:\nTAit = DAit + NDAit\ntrong đó, TAit là tổng biến kế toán dồn tích trong năm t của công ty i; DAit là biến kế toán dồn\ntích có thể điều chỉnh trong năm t của công ty i; NDAit là biến kế toán dồn tích không thể điều\nchỉnh trong năm t của công ty i.\nTừ phương trình (2), các khoản dồn tích có thể điều chỉnh được  ác định như sau:\nDAit = TAit − NDAit\nTh o mô hình của D Ang lo [11], các biến kế toán dồn tích không thể điều chỉnh của kỳ\nnày là tổng biến kế toán dồn tích của kỳ trước:\nNDAit = TAit − 1\ntrong đó, TAit – 1 là tổng biến kế toán dồn tích của công ty i trong năm t – 1."}
+{"text": "Bởi vì mô hình này\nkiểm tra sự tăng trưởng của công ty nên tổng biến kế toán dồn tích được chia cho tổng tài sản\ncủa kỳ trước (TAit – 1)."}
+{"text": "Vì vậy, biến kế toán dồn tích có thể điều chỉnh được tính là\n\n−\n\nMô hình này dựa trên giả định rằng các khoản tích luỹ không thể điều chỉnh là cố định."}
+{"text": "Nếu DAit = 0: thu nhập không bị điều chỉnh; DAit > 0: thu nhập được điều chỉnh lên; DAit < 0: thu\nnhập được điều chỉnh  uống."}
+{"text": "Nói cách khác, nếu DAit khác 0 thì có thể kết luận rằng có hành vi\nquản trị lợi nhuận."}
+{"text": "Giá trị tuyệt đối của DAit thể hiện mức độ quản trị lợi nhuận của doanh\nnghiệp."}
+{"text": "Nghiên cứu này sử dụng công thức (5) để đo lường mức quản trị lợi nhuận tại các công\nty niêm yết Việt Nam."}
+{"text": "2.2   Cơ chế quản trị công ty\nCơ chế quan trọng để giảm thiểu hành vi quản trị lợi nhuận là cơ chế quản trị công ty [5],\n[14]."}
+{"text": "Th o Tổ chức Hợp tác và Phát triển Kinh tế [ 31], cơ chế quản trị công ty chỉ được coi là\nhiệu quả nếu khuyến khích được ban giám đốc và hội đồng quản trị th o đuổi mục tiêu vì lợi\ních của công ty và các cổ đông, đồng thời tạo điều kiện thuận lợi cho việc giám sát hoạt động\ncông ty một cách có hiệu quả."}
+{"text": "Vai trò quan trọng của cơ chế quản trị công ty có thể được giải\nthích th o lý thuyết đại diện của [22]."}
+{"text": "Th o lý thuyết này, sự tách biệt giữa quyền sở hữu và\nquyền quản lý đã làm nảy sinh  ung đột lợi ích giữa ban giám đốc (ag ncy) với người sở hữu\nhay cổ đông (principal)."}
+{"text": "Các cổ đông thuê ho c uỷ quyền lại cho ban giám đốc ho c người quản\nlý thực hiện việc điều hành doanh nghiệp."}
+{"text": "Tuy nhiên, ban giám đốc có thể không hành động và\nđưa ra các quyết định dựa trên lợi ích của người sở hữu."}
+{"text": "Ngược lại, họ có thể cố tình quản trị lợi\nnhuận để báo cáo thông tin tài chính sai lệch nhằm đạt được các lợi ích cá nhân."}
+{"text": "Trong thực tế,\nnhiều hợp đồng thuê giám đốc sử dụng lợi nhuận để  ác định mức thưởng phạt, và điều này có\n216\nJos.hueuni.edu.vn                                                            Tập 127, Số 5A, 2018\n\nthể thúc đẩy nhà quản lý quản trị lợi nhuận nhằm mục tiêu tăng tiền thưởng."}
+{"text": "Ngoài ra, vì sự\nthăng tiến, một số nhà quản lý mới được bổ nhiệm có thể quản trị lợi nhuận giảm trong năm\nthay đổi nhân sự và quản trị lợi nhuận tăng lên trong năm tiếp th o để tạo nên hình ảnh bản\nthân tốt hơn trong thị trường việc làm."}
+{"text": "Những nghiên cứu trước đây cũng chỉ ra được vai trò quan trị của cơ chế quản trị tốt\ntrong việc hạn chế quản trị lợi nhuận của các công ty."}
+{"text": "Th o gợi ý của OECD [31] công ty có cơ\nchế quản trị tốt khi các thành viên hội đồng quản trị chủ yếu là người bên ngoài không kiêm\nnhiệm chức năng quản lý trong công ty và một hội đồng hai t ng (two-ti r board) (sử dụng một\nban giám sát để th o dõi một hội đồng quản trị của giám đốc)."}
+{"text": "Loại hình hội đồng quản trị này\nhạn chế được việc quản trị tại công ty [1][24][40]."}
+{"text": "Các nghiên cứu khác [7][40] thì lấy các tiêu chí\nnhư tính độc lập của ban kiểm soát, quy mô ban kiểm soát, số l n họp của ban quản trị, chất\nlượng kiểm toán và cấu trúc sở hữu để đánh giá một cơ chế quản trị tốt trong việc hạn quản trị\nlợi nhuận của ban giám đốc."}
+{"text": "2.3   Chất lượng kiểm toán\nKiểm toán độc lập có chức năng  ác minh và bày tỏ ý kiến về tính trung thực của các báo\ncáo tài chính."}
+{"text": "Dựa trên lý thuyết người đại diện, kiểm toán độc lập làm giảm sự bất đối  ứng\nthông tin giữa chủ sở hữu (principal) với người đại diện (ag nts), do đó, giảm thiểu  ung đột\nlợi ích [37]."}
+{"text": "Nếu báo cáo tài chính được kiểm toán, những người sử dụng thông tin có thể cho\nrằng báo cáo tài chính đáng tin cậy hơn, cũng như giảm thiểu được những rủi ro có tồn tại các\ngian lận và sai phạm trọng yếu (một trong số đó là việc quản trị lợi nhuận của doanh nghiệp)."}
+{"text": "Các nghiên cứu trước đây về mối quan hệ giữa kiểm toán với quản trị lợi nhuận tập trung vào\ncác yếu tố như sự thành lập của ủy ban kiểm toán, thành viên ban kiểm toán, chuyên môn của\nkiểm toán viên, danh tiếng của công ty kiểm toán."}
+{"text": "Th o [17], sự khác biệt về chất lượng kiểm\ntoán sẽ dẫn đến sự thay đổi về độ tin cậy của các tài liệu được cung cấp bởi các kiểm toán viên\nvà tính hữu ích của các báo cáo kiểm toán."}
+{"text": "Nói cách khác, chất lượng kiểm toán sẽ tỉ lệ nghịch\nvới mức quản trị lợi nhuận."}
+{"text": "Trên thế giới và Việt Nam, có 4 công ty kiểm toán có danh tiếng nhất gọi là Big4 bao gồm\nKPMG, Coopers Price Water House, Akintola Williams & D lloit  và Ern st and Young."}
+{"text": "Các\nnghiên cứu trước đây [2][15][26] đã chỉ ra giá trị trung bình và giá trị tuyệt đối của biến kế toán\ndồn tích (quản trị lợi nhuận) trên báo cáo tài chính của khách hàng thuộc Big4 thấp hơn so với\ncác khách hàng của nhóm non-Big4."}
+{"text": "Ngoài ra, nghiên cứu của Ch n và cộng sự [8] cũng  ác\nnhận mức quản trị lợi nhuận thấp hơn tại các công ty do kiểm toán viên thuộc Big4 kiểm toán."}
+{"text": "Điều này là do kiểm toán viên Big4 luôn cẩn trọng để bảo vệ danh tiếng thương hiệu của họ\ncũng như hạn chế những rủi ro pháp lý và rủi ro danh tiếng có thể phát sinh từ các báo cáo tài\nchính gây nh m lẫn của khách hàng và đ c biệt từ việc khai khống mức lợi nhuận của công ty\n[10]."}
+{"text": "Vì vậy, cho đến nay Big4 là một tiêu chí được sử dụng rộng rãi để đo lường chất lượng\n217\nHồ Thị Thúy Nga, Phạm Thị Bích Ngọc  Tập 127, Số 5A, 2018\n\nkiểm toán độc lập."}
+{"text": "Nghiên cứu này của chúng tôi cũng sử dụng biến Big4 để đo lường chất\nlượng kiểm toán, trong đó cuộc kiểm toán thực hiện bởi bốn công ty thuộc nhóm Big4 thì có\nchất lượng cao hơn cuộc kiểm toán do các công ty kiểm toán không thuộc nhóm Big4."}
+{"text": "3  Phát triển giả thuyết và xây dựng mô hình\nDựa trên nền tảng lý thuyết được tập hợp, nghiên cứu này của chúng tôi đưa ra giả\nthuyết là cơ chế quản trị và chất lượng kiểm toán có ảnh hưởng đến mức quản trị lợi nhuận của\ncác công ty."}
+{"text": "Trong đó, cơ chế quản trị bao gồm các yếu tố: i) tỉ lệ thành viên độc lập trong hội\nđồng quản trị, ii) tỷ lệ sở hữu của cổ đông nước ngoài, iii) tỷ lệ sở hữu của cổ đông nhà nước,\niv) số lượng thành viên thuộc ban kiểm soát không phải là cổ đông (số lượng này tỷ lệ nghịch\nvới số lượng thành viên là cổ đông vì các công ty trong mẫu điều tra đều có ban kiểm soát gồm\n5 thành viên)."}
+{"text": "Bên cạnh đó, các yếu tố về quy mô của công ty, khả năng sinh lời, hệ số vòng\nquay tài sản và đòn bẩy tài chính của công ty cũng được đưa vào làm biến kiểm soát cho mô\nhình."}
+{"text": "Các giả thuyết được cụ thể hoá như sau:\nThành viên hội đồng quản trị là những người đại diện bảo vệ quyền lợi cho cổ đông và\ncác nhà đ u tư."}
+{"text": "Hội đồng quản trị có chức năng giám sát kết quả hoạt động quản lý của ban\ngiám đốc, nhưng không phải tất cả các thành viên hội đồng quản trị có thể thực hiện chức năng\nnày một cách khách quan và có hiệu quả."}
+{"text": "Những thành viên tham gia quản lý trong công ty sẽ\nkhông có đủ sự độc lập khi họ vừa là người giám sát vừa là người thực hiện quản lý trong cùng\nmột công ty."}
+{"text": "Chỉ có những thành viên độc lập không tham gia quản lý thì mới khách quan thực\nhiện chức năng này [6]."}
+{"text": "Do đó, sự độc lập cao của hội đồng quản trị sẽ nâng cao được hiệu quả\nquản trị và chất lượng của báo cáo tài chính."}
+{"text": "Hội đồng quản trị có tính độc lập cao (hội đồng\nquản trị có tỷ lệ thành viên độc lập cao) sẽ kiểm soát hiệu quả hơn hoạt động quản lý và từ đó\nhạn chế việc ban giám đốc thực hiện quản trị lợi nhuận [24][40]."}
+{"text": "Vì vậy, giả thuyết được đưa ra\nlà tỉ lệ thành viên độc lập trong hội đồng quản trị càng cao thì mức quản trị lợi nhuận càng\nthấp."}
+{"text": "H1: Tỉ lệ thành viên độc lập trong hội đồng quản trị tỉ lệ nghịch với mức quản trị lợi\nnhuận\nTỷ lệ sở hữu của cổ đông nước ngoài và tỉ lệ sở hữu của nhà nước là hai biến thể hiện cơ\ncấu sở hữu của tổ chức."}
+{"text": "Th o Widigdo [39], tỉ lệ sở hữu của tổ chức (institutional own rship),\ntức là tỉ lệ cổ ph n được nắm giữ của nhà nước và các tổ chức đ u tư tài chính hay nhà đ u tư\nnước ngoài được   m là có ý nghĩa tích cực trong việc tạo nên cơ chế quản trị tốt."}
+{"text": "Các thành\nph n này có nhiều kỹ năng trong việc phát hiện gian lận trong công ty và không dễ bị ban giám\nđốc công ty đánh lừa, từ đó hạn chế được các hành vi quản trị lợi nhuận."}
+{"text": "Hơn nữa, sở hữu từ\n218\nJos.hueuni.edu.vn                                                            Tập 127, Số 5A, 2018\n\ncác tổ chức thường cao hơn so với số cổ ph n sở hữu của các cá nhân."}
+{"text": "Vì vậy, các nhà đ u tư tổ\nchức có nhiều ảnh hưởng đến công ty hơn là các nhà đ u tư cá nhân."}
+{"text": "Sharma [36] nhận thấy\nrằng khi tỷ lệ sở hữu độc lập của tổ chức tăng lên, khả năng gian lận thông tin tài chính của\ncông ty sẽ giảm  uống."}
+{"text": "Những phát hiện này cho thấy rằng nhà đ u tư tổ chức có thể đóng một\nvai trò tích cực trong giám sát và kiểm soát việc lập báo cáo tài chính, làm giảm những gian lận\ntừ ban giám đốc và thúc đẩy ban giám đốc công bố thông tin tài chính trung thực hơn."}
+{"text": "Do đó,\nhai giả thuyết liên quan đến cơ cấu sở hữu được đưa ra là:\nH2: Tỷ lệ sở hữu của cổ đông nước ngoài tỉ lệ nghịch với mức quản trị lợi nhuận\nH3: Tỷ lệ sở hữu của cổ đông nhà nước tỉ lệ nghịch với mức quản trị lợi nhuận\nTh o quy định của Luật Doanh nghiệp Việt Nam, ban kiểm soát có chức năng thực hiện\nviệc giám sát hội đồng quản trị và ban giám đốc trong việc quản lý và điều hành công ty, kiểm\ntra tính hợp lý, hợp pháp, tính trung thực cũng như mức độ cẩn trọng trong quản lý, điều hành\nhoạt động kinh doanh, trong tổ chức công tác kế toán, thống kê và lập báo cáo tài chính."}
+{"text": "Ngoài\nra, ban kiểm soát còn có chức năng thẩm định báo cáo tình hình kinh doanh, báo cáo tài chính\nhàng năm và sáu tháng của công ty, báo cáo đánh giá công tác quản lý của hội đồng quản trị."}
+{"text": "Theo Davidson và cộng sự [9], bên cạnh kiểm toán độc lập thì ban kiểm soát nội bộ cũng có\nchức năng phát hiện hành vi quản trị lợi nhuận."}
+{"text": "Với những chức năng như vậy, tính độc lập của\ncác thành viên ban kiểm soát sẽ có ảnh hưởng lớn đến chất lượng công việc mà họ thực hiện."}
+{"text": "Những thành viên ban kiểm soát không nắm giữ cổ ph n sẽ ít có sự ràng buộc về lợi ích kinh tế\nvới các hành vi gian lận trong công ty."}
+{"text": "Nói cách khác, những thành viên ban kiểm soát vừa là\ncác cổ đông sẽ giám sát hoạt động quản lý của công ty hiệu quả hơn vì việc giám sát ch t chẽ\ncòn giúp cho bảo vệ quyền lợi của chính họ."}
+{"text": "Do đó, giả thuyết được đưa ra là số lượng thành\nviên ban kiểm soát không phải là cổ đông càng cao thì mức quản trị lợi nhuận càng tăng."}
+{"text": "H4: Số lượng thành viên ban kiểm soát không phải là cổ đông tỉ lệ thuận với mức quản trị\nlợi nhuận\nChất lượng của hoạt động kiểm toán có ảnh hưởng tích cực đến tính minh bạch và đáng\ntin cậy cho các báo cáo tài chính."}
+{"text": "Dù có nhiều tiêu thức khác nhau để lượng hoá chất lượng\nkiểm toán, việc báo cáo tài chính được kiểm toán bởi Big4 được coi là một sự cam kết về tính\nphù hợp của nó với các thông lệ kế toán."}
+{"text": "Các nghiên cứu trước đây [2], [15], [25] đều chứng\nminh được rằng báo cáo tài chính được kiểm toán bởi các kiểm toán viên thuộc nhóm Big4 có\nmức quản trị lợi nhuận thấp hơn so với các báo cáo được kiểm toán bởi non-Big4."}
+{"text": "Các kiểm\ntoán viên thuộc nhóm Big4 được cho là cung cấp chất lượng kiểm toán tốt hơn so với các kiểm\ntoán viên non-Big4 [3]."}
+{"text": "Vì vậy, giả thuyết được đưa ra là công ty được kiểm toán bởi kiểm toán\nviên có chất lượng cao hơn (Big4) thì mức quản trị thấp hơn so với công ty được kiểm toán bởi\nkiểm toán viên có chất lượng thấp hơn (non-big4)."}
+{"text": "219\nHồ Thị Thúy Nga, Phạm Thị Bích Ngọc  Tập 127, Số 5A, 2018\n\nH5: Chất lượng kiểm toán cao hơn (khi cuộc kiểm toán thực hiện bởi Big4) thì mức quản\ntrị lợi nhuận thấp hơn."}
+{"text": "4  Phương pháp nghiên cứu\n4.1  Thu thập số liệu\nCác công ty niêm yết trên hai sở giao dịch chứng khoán Hồ Chí Minh (Hos ) và Hà Nội\n(HNX) được đưa vào mẫu nghiên cứu."}
+{"text": "Các công ty này phải thỏa mãn các yêu c u sau: thứ\nnhất, công ty đó vẫn còn niêm yết trên hai sở giao dịch trên từ năm 2015 đến 2017; thứ hai, công\nty đó phải có đ y đủ các thông tin các biến để kiểm định mô hình nghiên cứu và công ty đó\nkhông bao gồm các công ty hoạt động trong lĩnh vực tài chính, ngân hàng và đ u tư vì những\ncông ty hoạt động trong lĩnh vực này sử dụng chế độ và chuẩn mực kế toán đ c thù khác với\nchế độ kế toán thông thường áp dụng cho các lĩnh vực khác."}
+{"text": "Thông tin tài chính và tổng tỷ lệ cổ ph n sở hữu của cổ đông nhà nước và nhà đ u tư\nnước ngoài được thu thập từ cơ sở dữ liệu FiinPro của Sto Plus – đây là nhà cung cấp thông tin\ncủa các công ty niêm yết lớn nhất của Việt Nam."}
+{"text": "Các thông tin về cơ chế quản trị khác được thu\nthập từ báo cáo thường niên và báo cáo quản trị công ty của các công ty niêm yết được tìm thấy\ntrên trang w b vi tstock.vn."}
+{"text": "Có tổng cộng 757 công ty niêm yết trên hai sở giao dịch cuối năm 2017, trong đó có 141\ncông ty hoạt động trong lĩnh vực tài chính, ngân hàng và đ u tư được loại khỏi mẫu nghiên\ncứu."}
+{"text": "Chúng tôi  chọn 221 công ty từ 613 công ty còn lại."}
+{"text": "Đây là cỡ mẫu đủ lớn để có thể chạy mô\nhình hồi quy để kiểm định mô hình nghiên cứu."}
+{"text": "Việc chọn mẫu này được thực hiện ngẫu nhiên\nth o phân tổ th o từng lĩnh vực kinh doanh của công ty."}
+{"text": "4.2  Phân tích số liệu\nSố liệu thu thập được là th o hình thức dữ liệu bảng, trong đó thông tin về các biến được\nthu thập cho các công ty niêm yết trong thời gian từ năm 2015 đến 2017."}
+{"text": "Thông tin được thu\nthập từ 221 công ty cho 3 năm, nên có tổng cộng 663 biến quan sát th o công ty và năm [16]."}
+{"text": "Với\nđ c điểm là dữ liệu bảng, c n kiểm định để tìm mô hình nghiên cứu phù hợp."}
+{"text": "Có ba mô hình\nnghiên cứu được áp dụng đối với dữ liệu bảng, đó là mô hình ước lượng OLS thô (Pool d OLS),\nmô hình tác động cố định (FE) và mô hình tác động ngẫu nhiên (RE) [6]."}
+{"text": "Mô hình OLS giả định\ntất cả các hệ số trong mô hình không thay đổi qua thời gian và giữa các đơn vị."}
+{"text": "Mô hình FE giả\nthiết sự biến động giữa các đơn vị (công ty) có tương quan đến biến độc lập."}
+{"text": "Trong khi đó mô\nhình RE giả thiết sự biến động giữa các đơn vị là ngẫu nhiên và không tương quan đến các biến\ngiải thích."}
+{"text": "Nghiên cứu này sẽ sử dụng kiểm định Hausman [19] để kiểm tra   m mô hình FE\n220\nJos.hueuni.edu.vn                                                            Tập 127, Số 5A, 2018\n\nhay RE là phù hợp hơn."}
+{"text": "Nếu mô hình FE phù hợp hơn thì sẽ sử dụng mô hình FE để chạy mô\nhình để kiểm định các giả thuyết trên."}
+{"text": "Nếu mô hình RE phù hợp hơn th o kiểm định Hausman\nthì tiếp tục sử dụng kiểm định Bru sch – Pagan [4] để   m mô hình RE hay mô hình Pool d\nOLS là phù hợp hơn."}
+{"text": "Mô hình phù hợp nhất sẽ được dùng để kiểm định các giả thuyết."}
+{"text": "4.3  Mô hình nghiên cứu\nMô hình sau đây được sử dụng để kiểm tra   m cơ chế quản trị công ty và chất lượng\nkiểm toán có ảnh hưởng đến mức quản trị lợi nhuận của các công ty hay không."}
+{"text": "EMGTit = β0 + β1ATRit + β2ROAit + β3LOGAit + β4LEVit + β6OVERSEASit + β7STATEit + β9COMit +\nβ9BIG4it + β5BIRATIOit\nTrong đó EMGT (Mức quản trị lợi nhuận) được đo lường bằng giá trị tuyệt đối của biến\nkế toán dồn tích (Discr tionary accruals – DA) ở phương trình (5); giá trị này bằng 0 khi công ty\nkhông thực hiện quản trị lợi nhuận và giá trị này càng cao khi công ty điều chỉnh mức lợi\nnhuận khống lên ho c giảm đi nhiều so với thực tế; OVERSEAS là tỷ lệ ph n trăm cổ ph n nắm\ngiữ của các chủ sở hữu nước ngoài; STATE là tỷ lệ ph n trăm cổ ph n được nắm giữ của các\nchủ sở hữu nhà nước; COM là số lượng thành viên thuộc ủy ban kiểm soát không phải là cổ\nđông; BIG4 bằng 1 nếu công ty thuê kiểm toán thuộc nhóm bốn công ty lớn nhất và bằng 0 là\nnếu thuê các kiểm toán khác; BIRATIO là tỷ lệ thành viên độc lập trong hội đồng quản trị;\nLOGA là logarit tổng tài sản; ATR là hệ số vòng quay tài sản được đo lường bằng doanh thu\nthu n chia cho tổng tài sản trung bình; ROA là hệ số sinh lợi được đo lường lợi nhuận sau thuế\nvà lãi suất chia cho tổng tài sản; LEV là tỷ lệ đòn bẩy tài chính được đo bằng tổng số nợ chia cho\ntổng tài sản."}
+{"text": "Mô hình nghiên cứu này có bốn biến kiểm soát nhằm kiểm soát quy mô công ty : logarit\ntổng tài sản (LOGA), sự tăng trưởng của công ty (ATR), khả năng sinh lời (ROA) và đòn bẩy tài\nchính (LEV)."}
+{"text": "Nghiên cứu này sử dụng biến kiểm soát khả năng sinh lời và đòn bẩy bởi vì những\ncông ty có rủi ro tài chính cao (thể hiện qua hệ số đòn bẩy tài chính cao, khả năng sinh lời thấp)\nthì có khả năng phá sản nhiều hơn, nên những công ty này có động lực để thực hiện quản trị lợi\nnhuận hơn để tránh những rủi ro pháp lý khi bị phá sản [18]."}
+{"text": "Ngoài ra, nghiên cứu này còn có\nbiến kiểm soát quy mô công ty vì những công ty nhỏ thường ít bị kiểm tra, kiểm soát bởi cơ\nquan nhà nước hơn nên có nhiều cơ hội để thực hiện quản trị lợi nhuận hơn [18]."}
+{"text": "Nghiên cứu\nnày còn có biến kiểm soát về tốc độ tăng trưởng của công ty: công ty có tốc độ tăng trưởng thấp\nthường quản trị lợi nhuận cao hơn để tránh những rủi ro do công bố thông tin tài chính yếu\nkém [29]."}
+{"text": "221\nHồ Thị Thúy Nga, Phạm Thị Bích Ngọc  Tập 127, Số 5A, 2018\n\n5  Kết quả\n5.1  Mô tả thống kê\nTrong tổng số 221 doanh nghiệp, có 49% được niêm yết tại Sở Giao dịch Chứng khoán\nThành phố Hồ Chí Minh (HOSE) và 51% được niêm yết trên Sở Giao dịch Chứng khoán Hà Nội\n(HNX)."}
+{"text": "Bảng 1."}
+{"text": "Mẫu điều tra phân bổ th o ngành nghề kinh doanh\nNgành nghề kinh doanh  Số công ty  Tỷ lệ (%)\nVật liệu cơ bản  24  10,9\nHàng hóa tiêu dùng  47  21,3\nDịch vụ tiêu dùng  20  9,0\nCông nghiệp  105  47,5\nD u khí  4  1,8\nKỹ thuật  10  4,5\nDịch vụ điện – nước  11  5,0\nTổng  221  100.0\nBảng 1 cho thấy sự phân bố mẫu th o ngành nghề kinh doanh của các công ty."}
+{"text": "G n một\nnửa (48%) trong số đó thuộc về khu vực công nghiệp, một ph n năm (21%) được phân loại vào\nngành hàng tiêu dùng và 11% là trong lĩnh vực vật liệu cơ bản."}
+{"text": "Các ngành khác (ngành dịch vụ\ntiêu dùng, d u khí, công nghệ và dịch vụ điện nước) chiếm ít hơn 10% tổng số doanh nghiệp\ntrong mẫu khảo sát."}
+{"text": "Bảng 2 trình bày các số liệu thống kê mô tả các biến được sử dụng trong mô hình nghiên\ncứu."}
+{"text": "Mức quản trị lợi nhuận (EMGT) trung bình là 0,13, giá trị nhỏ nhất là bằng 0 có nghĩa là\nkhông có sự quản trị lợi nhuận và giá trị lớn nhất là 3,26."}
+{"text": "Trung bình tổng tài sản cho các doanh\nnghiệp mẫu là 2.289,98 tỷ đồng với tổng tài sản thấp nhất là 19,22 tỷ đồng và tổng tài sản cao\nnhất với 53.022,18 tỷ đồng."}
+{"text": "Tỷ lệ đòn bẩy (LEV) trung bình rất cao (48%) cho thấy các doanh\nnghiệp niêm yết của Việt Nam có sức khỏ  tài chính yếu."}
+{"text": "Hệ số sinh lời (ROA) không tốt với\nmức trung bình 0,05 l n, trong khi hệ số vòng quay tài sản (ATR) khá tốt với mức trung bình\n1,24 l n.\n\n\n\n222\nJos.hueuni.edu.vn                                                            Tập 127, Số 5A, 2018\n\nBảng 2."}
+{"text": "Mô tả thống kê các biến\nGiá trị nhỏ nhất  Giá trị lớn nhất  Giá trị trung bình  Độ lệch chuẩn\nEMGT  0,00  3,26  0,13  0,19\nLEV  0,01  26,14  1,66  2,28\nTổng tài sản (tỷ đồng)  19,22  53.022,18  2.289,98  4.982,34\nLOGA  10,28  13,72  11,87  0,65\nATR  0,00  9,59  1,24  1,13\nROA  –1,78  0,78  0,05  0,10\nOVERSEAS  0,00  0,60  0,12  0,14\nSTATE  0,00  0,84  0,23  0,23\nCOM  0,00  4,00  2,09  1,07\nBIG4  0,00  1,00  0,29  0,46\nBIRATIO  0,00  1,00  0,63  0,19\nTỷ lệ các thành viên độc lập trong hội đồng quản trị (BIRATIO) trung bình chiếm 63%."}
+{"text": "Tỷ\nlệ cổ ph n nắm giữ của cổ đông nước ngoài (OVERSEAS) cao nhất là 60%, thấp nhất là 0% với\nmức trung bình là 12%."}
+{"text": "Tỷ lệ cổ ph n nắm giữ của cổ đông nhà nước (STATE) là 23%, với tỷ lệ\ncao nhất là 84% và thấp nhất là 0%."}
+{"text": "Số lượng thành viên thuộc ủy ban kiểm soát không phải là\ncổ đông (COM) có giá trị trung bình là 2,09 với giá trị lớn nhất là 4 thành viên và nhỏ nhất là\nkhông có thành viên nào."}
+{"text": "29% doanh nghiệp thuê các công ty kiểm toán thuộc nhóm Big4."}
+{"text": "Bảng 3 cho thấy ma trận hệ số tương quan của các biến phụ thuộc và độc lập được  ác\nđịnh thông qua ma trận tương quan của P arson."}
+{"text": "Biến phụ thuộc (EMGT) có mối tương quan\ndương với hệ số đòn bẩy (LEV) và số lượng thành viên trong ban kiểm soát không phải là cổ\nđông (COM)."}
+{"text": "Trong khi đó EMGT lại có tương quan nghịch với tỷ lệ cổ ph n sở hữu của cổ\nđông nước ngoài (OVERSEAS), tỷ lệ cổ ph n sở hữu của cổ đông nhà nước (STATE) và nếu\ncông ty thuê kiểm toán viên có chất lượng cao (BIG4)."}
+{"text": "Trong khi đó, EMGT lại không tương\nquan với logarit tổng tài sản (LOGA), tỷ suất sinh lợi (ROA) và tỷ lệ số thành viên độc lập trong\nhội đồng quản trị (BIRATIO)."}
+{"text": "Hệ số tương quan giữa các biến độc lập không cao với mức cao\nnhất là 0,49 (giữa biến BIG4 và LOGA)."}
+{"text": "Vì vậy, đa cộng tuyến không phải là vấn đề về biến giải\nthích [23]."}
+{"text": "223\nHồ Thị Thúy Nga, Phạm Thị Bích Ngọc  Tập 127, Số 5A, 2018\n\nBảng 3."}
+{"text": "Sự tương quan giữa các biến\nV1  V2  V3  V4  V5  V6  V7  V8  V9  V10\nEMGT (V1)  1,00\nLEV (V2)  0,19**  1,00\nLOGA (V3)  –0,05  0,20**  1,00\nATR (V4)  0,16**  –0,07  –0,18**  1,00\nROA (V5)  –0,03  –0,24**  0,01  0,22**  1,00\nOVERSEAS\n(V6)  –0,12**  –0,17**  0,36**  0,02  0,21**  1,00\nSTATE (V7)  –0,08*  0,05  0,02  0,20**  0,05  –0,16**  1,00\nCOM (V8)  0,09*  0,02  –0,02  –0,10*  –0,07  –0,04  0,19**  1,00\nBIG4 (V9)  –0.11**  0,00  0,49**  –0,01  0,11**  0,30**  0,10**  0,03  1,00\nBIRATIO\n(V10)  0,05  –0,05  0,13**  –0,04  0,01  0,09*  0,06  0,08*  0,18**  1,00\n**: Có sự tương quan với mức ý nghĩa 0,01 (kiểm định hai phía); *: Có sự tương quan với mức ý nghĩa 0,02\n(kiểm định hai phía)."}
+{"text": "5.2   Kiểm định sự phù hợp các mô hình\nTrước tiên, chúng tôi sử dụng kiểm định Hausman để  ác định mô hình FE hay RE phù\nhợp hơn."}
+{"text": "Kết quả kiểm định cho thấy giá trị p bằng 0,00 nên bác bỏ giả thuyết H0, có nghĩa là\nmô hình RE là phù hợp hơn."}
+{"text": "Tiếp th o, chúng tôi sử dụng kiểm định Bru sch – Pagan để   m\nmô hình RE hay mô hình OLS phù hợp hơn."}
+{"text": "Kết quả kiểm định cho thấy giá trị p bằng 0,00 nên\nbác bỏ giả thuyết H0, vì vậy mô hình RE vẫn là mô hình phù hợp hơn."}
+{"text": "Cuối cùng, chúng tôi sử\ndụng mô RE để kiểm định các giả thuyết."}
+{"text": "5.3   Kết quả chạy mô hình hồi quy\nKết quả nghiên cứu cho thấy giá trị Chi bình phương th o kiểm định Ward (Ward chi2(9)\n= 81,48) có giá trị p nhỏ hơn 0,05 nên mô hình nghiên cứu này là phù hợp với dữ liệu nghiên\ncứu."}
+{"text": "Giá trị R2 bằng 0,23 cho thấy các biến độc lập giải thích được 23% sự biến thiên của biến\nphụ thuộc (Bảng 4)."}
+{"text": "Từ bảng kết quả hồi quy ta thấy có sáu trong nhóm chín nhân tố của mô hình có ảnh\nhưởng đến mức quản trị lợi nhuận."}
+{"text": "Đó là các nhân tố đòn bẩy tài chính (LEV), vòng quay tài sản\n(ATR), số thành viên ban kiểm soát không phải là cổ đông (COM), tỉ lệ sở hữu của cổ đông nước\nngoài (OVERSEAS), tỉ lệ sở hữu cổ đông nhà nước (STATE) và chất lượng kiểm toán (BIG4) có\ntác động đến mức quản trị lợi nhuận với mức ý nghĩa nhỏ hơn 0,1."}
+{"text": "Trong đó, các nhân tố về quy\n224\nJos.hueuni.edu.vn                                                            Tập 127, Số 5A, 2018\n\nmô doanh nghiệp (LOGA), khả năng sinh lời (ROA) và tỉ lệ thành viên độc lập trong hội đồng\nquản trị (BIRATIO) không có tác động đến mức quản trị lợi nhuận."}
+{"text": "Giả thuyết H1 phát biểu rằng “Tỷ lệ thành viên độc lập trong hội đồng quản trị tỉ lệ\nnghịch với mức quản trị lợi nhuận”."}
+{"text": "Bảng 4 cho thấy hệ số  của biến BIRATIO có giá trị dương\nở 0,08 với giá trị p lại lớn hơn 0,1 nên giả thuyết H1 bị bác bỏ."}
+{"text": "Nói cách khác, chưa tìm thấy bằng\nchứng cho thấy có mối liên hệ giữa tỉ lệ thành viên độc lập trong hội đồng quản trị với mức\nquản trị lợi nhuận."}
+{"text": "Giả thuyết H2 phát biểu rằng “Tỷ lệ sở hữu của cổ đông nước ngoài tỉ lệ nghịch với mức\nquản trị lợi nhuận”."}
+{"text": "Bảng 4 cho với hệ số  của biến OVERSEAS có giá trị âm ở mức ý nghĩa\n0,07 chỉ ra rằng khi tỷ lệ sở hữu của cổ đông nước ngoài tăng thì mức quản trị lợi nhuận có  u\nhưởng giảm."}
+{"text": "Do đó, giả thuyết H2 được chấp thuận."}
+{"text": "Bảng 4."}
+{"text": "Kết quả chạy mô hình hồi quy\nEMGT  Hệ số   Sai số chuẩn  z  p > z  Khoảng tin cậy 95%\nLOGA  0,02  0,02  0,93  0,35  –0,02  0,05\nROA  0,03  0,08  0,36  0,72  –0,12  0,17\nLEV  0,02  0,00  6,16  0,00  0,02  0,03\nATR  0,04  0,01  4,32  0,00  0,02  0,05\nCOM  0,02  0,01  2,62  0,01  0,01  0,04\nOVERSEAS  –0,14  0,07  –1,85  0,07  –0,28  0,01\nSTATE  –0,14  0,04  –3,26  0,00  –0,22  –0,05\nBIG4  –0,04  0,02  –1,80  0,07  –0,09  0,00\nBIRATIO  0,08  0,05  1,63  0,10  –0,02  0,17\n_cons  –0,19  0,21  –0,90  0,37  –0,61  0,23\nWald chi2(9) = 81,48; Prob > chi2 = 0,00; R2 = 0,233\nGiả thuyết H3 phát biểu rằng “Tỷ lệ sở hữu của cổ đông nhà nước tỉ lệ nghịch với mức\nquản trị lợi nhuận”."}
+{"text": "Kết quả hệ số  của biến STATE có giá trị âm ở mức ý nghĩa 0,00 chỉ ra rằng\nkhi tỷ lệ sở hữu của cổ đông nhà nước tăng thì mức quản trị lợi nhuận có  u hướng giảm."}
+{"text": "Do\nđó, giả thuyết H3 được chấp thuận."}
+{"text": "Giả thuyết H4 phát biểu rằng “Số lượng thành viên ban kiểm soát không phải là cổ đông\ntỉ lệ thuận với mức quản trị lợi nhuận”."}
+{"text": "Hệ số  của biến COM có giá trị dương ở mức ý nghĩa\n0,01, chỉ ra rằng khi số lượng thành viên này trong ban kiểm soát càng tăng thì mức quản trị lợi\nnhuận có  u hướng tăng th o."}
+{"text": "Do đó, giả thuyết H4 được chấp thuận."}
+{"text": "Giả thuyết H5 phát biểu rằng công ty được kiểm toán bởi Big4 thì mức quản trị lợi nhuận\nthấp hơn so với công ty được kiểm toán bởi kiểm toán non-big4."}
+{"text": "Kết quả ở bảng 4 với hệ số \n225\nHồ Thị Thúy Nga, Phạm Thị Bích Ngọc  Tập 127, Số 5A, 2018\n\ncủa biến BIG4 có giá trị âm ở mức ý nghĩa 0,07 chỉ ra rằng khi nếu công ty được kiểm toán bởi\nBig4 thì mức quản trị lợi nhuận thấp hơn những công ty thuê kiểm toán khác."}
+{"text": "Do đó, giả thuyết\nH5 được chấp thuận."}
+{"text": "Trong 4 biến kiểm soát chỉ có nhân tố phản ánh sự phát triển của công ty (hệ số vòng\nquay tài sản – ATR) và nhân tố phản ảnh độ rủi ro tài chính của công ty (hệ số đòn bẩy – LEV)\ncó tác động đến mức quản trị lợi nhuận."}
+{"text": "Kết quả này cho thấy các công ty có tốc độ phát triển\nnhanh và mức rủi ro tài chính cao thì mức quản trị lợi nhuận cao hơn."}
+{"text": "6  Thảo luận\nNhiều nghiên cứu trước đây đã chỉ ra mối liên hệ giữa tính độc lập của hội đồng quản trị\nvới các gian lận trong doanh nghiệp."}
+{"text": "Sự độc lập của hội đồng quản trị là một trong những tiêu\nchí quan trọng nhất trong cơ chế giám sát quản trị nội bộ [1]."}
+{"text": "Các thành viên không giữ chức vụ\nquản lý sẽ giúp vận hành hiệu quả cơ chế giám sát, từ đó hạn chế việc  ảy ra các hành vi gian\nlận về báo cáo tài chính [36] và giảm thiểu mức quản trị lợi nhuận [3]."}
+{"text": "Tuy nhiên, nghiên cứu\ncủa chúng tôi lại cho thấy tỉ lệ thành viên độc lập trong hội đồng quản trị không ảnh hưởng đến\nmức quản trị lợi nhuận của doanh nghiệp."}
+{"text": "Như vậy, ở Việt Nam, việc các thành viên ban quản\ntrị kiêm nhiệm vị trí quản lý không làm ảnh hưởng đến việc công bố báo cáo tài chính và tình\nhình kinh doanh trung thực và hợp lý."}
+{"text": "Nghiên cứu này cũng đã chỉ ra mối liên hệ giữa cấu trúc sở hữu công ty với hành vi quản\ntrị lợi nhuận khi cả hai giả thuyết về tỉ lệ sở hữu của cổ đông nước ngoài và tỉ lệ sở hữu của cổ\nđông nhà nước có tác động ngược chiều đến mức quản trị lợi nhuận đều được chấp nhận."}
+{"text": "Ở\nđiều kiện Việt Nam, đa số các cổ đông nước ngoài và cổ đông nhà nước đều nắm giữ tỉ lệ cổ\nph n lớn."}
+{"text": "Do đó, kết quả này phù hợp với các nghiên cứu trước đó [34] khi  ác nhận các cổ\nđông lớn quan tâm nhiều đến công tác kiểm soát cũng như góp ph n gia tăng sự tin cậy về\nthông tin thu nhập."}
+{"text": "Nghiên cứu trước đây [36] chỉ ra rằng khi tỷ lệ sở hữu độc lập của tổ chức\ntăng lên thì khả năng gian lận thông tin tài chính của công ty sẽ giảm  uống."}
+{"text": "Nói cách khác, các\nnhà đ u tư này có vai trò như một công cụ kiểm soát để làm giảm những gian lận từ ban giám\nđốc và thúc đẩy ban giám đốc công bố thông tin tài chính trung thực hơn."}
+{"text": "Các nhà đ u tư của tổ\nchức có kinh nghiệm trong việc phát hiện gian lận, vì vậy sự có m t của họ sẽ hạn chế các hành\nvi quản trị lợi nhuận của ban giám đốc."}
+{"text": "Đây cũng là thông tin hữu ích cho người sử dụng thông\ntin tài chính để đánh giá tính trung thực thông tin tài chính khi đưa ra các quyết định kinh tế."}
+{"text": "Về ảnh hưởng của chất lượng kiểm toán tới hành vi quản trị lợi nhuận thì kiểm toán độc\nlập đóng một vai trò quan trọng trong việc tăng cường mức độ đáng tin cậy của báo cáo tài\nchính, và hoạt động kiểm toán sẽ có ảnh hưởng tích cực đến việc cung cấp các thông tin tài\n226\nJos.hueuni.edu.vn                                                            Tập 127, Số 5A, 2018\n\nchính trung thực."}
+{"text": "Quản trị lợi nhuận là một hành vi gian lận tài chính, do đó chất lượng kiểm\ntoán có tác động đến mức quản trị lợi nhuận là điều dễ hiểu."}
+{"text": "Các nghiên cứu trước đây [25] và\n[28] đều sử dụng biến BIG4 làm tiêu chí đo lường chất lượng kiểm toán và chỉ ra rằng giá trị\ntrung bình và trung vị của giá trị kế toán dồn tích (biểu hiện của quản trị lợi nhuận) do các công\nty được kiểm toán bởi Big4 thấp hơn so với các giá trị này ở các công ty được kiểm toán bởi\nnon-Big4."}
+{"text": "Kết quả thu được của nghiên cứu này cũng tương tự."}
+{"text": "Điều đó ám chỉ rằng kiểm toán\nviên Big4 cung cấp chất lượng kiểm toán tốt hơn so với kiểm toán viên non-Big4."}
+{"text": "Do đó, muốn\nhạn chế hành vi quản trị lợi nhuận, các doanh nghiệp c n sử dụng dịch vụ kiểm toán từ các\ncông ty kiểm toán độc lập đáng tin cậy và có uy tín."}
+{"text": "Đối với ảnh hưởng của các thành viên không phải là cổ đông nằm trong ban kiểm soát\nđối với mức quản trị lợi nhuận thì nghiên cứu này chứng minh được rằng chúng có mối quan\nhệ tỉ lệ nghịch."}
+{"text": "Kết luận này phù hợp với lý thuyết người đại diện bởi vì ban kiểm soát là một\ncơ chế giám sát nội bộ hỗ trợ chủ sở hữu giám sát công việc của ban giám đốc."}
+{"text": "Khi các thành\nviên thuộc ban giám sát không phải là cổ đông thì bản thân họ lại cũng trở thành người đại\ndiện."}
+{"text": "Họ có ít trách nhiệm để bảo vệ quyền lợi của chủ sở hữu; vì vậy, họ thực hiện chức năng\nnày thiếu hiệu quả."}
+{"text": "Trong khi đó Nghị Định 71/2017/NĐ-CP [30] quy định rằng ban kiểm soát\ntrong các công ty niêm yết phải có từ 3 đến 5 thành viên và các thành viên này không nhất thiết\nlà các cổ đông."}
+{"text": "Tuy nhiên, nghiên cứu này khuyến nghị Chính phủ nên quy định các công ty\nniêm yết tăng cường tỉ lệ cổ đông làm thành viên ban kiểm soát để thực hiện tốt hơn chức năng\nkiểm tra và giám sát của hội đồng này."}
+{"text": "Nghiên cứu này của chúng tôi có một số hạn chế khi chỉ dừng lại tìm hiểu một số yếu tố\nthuộc về cơ chế quản trị."}
+{"text": "Những nghiên cứu tiếp th o nên khám phá thêm sự ảnh hưởng của\ncác yếu tố khác (ví dụ, tỷ lệ sở hữu của cổ đông lớn nhất, trình độ của Ban giám đốc…) có thể\nảnh hưởng đến mức quản trị lợi nhuận ở các công ty niêm yết."}
+{"text": "Ngoài ra, nghiên cứu này chỉ\ngiới hạn thu thập số liệu trong 3 năm (2015 đến 2017) và với quy mô mẫu là 221 công ty."}
+{"text": "Những\nnghiên cứu tiếp th o nên mở rộng quy mô khảo sát."}
+{"text": "Nghiên cứu tiếp th o cũng nên so sánh\nm các yếu tố ảnh hưởng đến mức quản trị lợi nhuận của hai nhóm công ty niêm yết ở trên hai\nsở giao dịch chứng khoán Hồ Chí Minh (Hos ) và Hà Nội (HNX) có khác nhau hay không vì\nhai sở giao dịch này có những quy định niêm yết và thị trường khác nhau."}
+{"text": "7  Kết luận\nNghiên cứu này đánh giá sự tác động của cơ chế quản trị công ty và chất lượng kiểm\ntoán lên mức quản trị lợi nhuận tại các công ty niêm yết Việt Nam."}
+{"text": "Với 663 biến quan sát\n(221 công ty – 3 năm), kết quả nghiên cứu cho thấy công ty có tỷ lệ sở hữu của cổ đông nhà\nnước và nước ngoài cao hơn và công ty thuê kiểm toán thuộc nhóm Big4 có mức quản trị lợi\nnhuận thấp hơn."}
+{"text": "Trong khi đó, công ty có số lượng thành viên thuộc ban kiểm soát không phải\n227\nHồ Thị Thúy Nga, Phạm Thị Bích Ngọc  Tập 127, Số 5A, 2018\n\nlà cổ đông (số lượng này tỷ lệ nghịch với số lượng thành viên là các cổ đông) càng cao thì có\nmức quản trị lợi nhuận cao hơn."}
+{"text": "Nghiên cứu này có nhiều đóng góp cho lý thuyết khi đây là\nnghiên cứu đ u tiên về sự tác động của cả cơ chế kiểm soát bên trong (thành ph n sở hữu công\nty, đ c điểm hội đồng quản trị và đ c điểm ban kiểm soát) và cơ chế kiểm soát bên ngoài (kiểm\ntoán độc lập) lên mức quản lợi nhuận của công ty."}
+{"text": "Đồng thời nghiên cứu này đưa ra một vài gợi\ný cho các công ty niêm yết Việt Nam và Chính phủ Việt Nam trong việc nâng cao hiệu quả kiểm\nsoát của cơ chế quản trị công ty trong các công ty niêm yết."}
+{"text": "Tài liệu tham khảo\n1."}
+{"text": "2."}
+{"text": "3."}
+{"text": "Boulila Taktak, N. và Mbarki I."}
+{"text": "4."}
+{"text": "Breusch, T.S."}
+{"text": "và Pagan A.R."}
+{"text": "(1979), A simple test for heteroscedasticity and random  coefficient variation, Econometrica: Journal of the econometric society, 47(5), 1287–1294."}
+{"text": "5."}
+{"text": "Brown, N.C., Pott C. và Wömp n r A."}
+{"text": "6."}
+{"text": "7."}
+{"text": "Ch n, J.C., Silv rthorn  C. và Hung J.Y."}
+{"text": "8."}
+{"text": "Ch n, K.C., Ch n Z. và W i K.J."}
+{"text": "9."}
+{"text": "10."}
+{"text": "DeAngelo, L.E."}
+{"text": "11."}
+{"text": "DeAngelo, L.E."}
+{"text": "12."}
+{"text": "228\nJos.hueuni.edu.vn                                                            Tập 127, Số 5A, 2018\n\n13."}
+{"text": "Do, H.H."}
+{"text": "và Ngo S.T."}
+{"text": "14."}
+{"text": "Engel, E., Hay s R.M."}
+{"text": "và Wang X."}
+{"text": "15."}
+{"text": "Francis, J.R. và Yu M.D."}
+{"text": "16."}
+{"text": "17."}
+{"text": "Gerayli, M.S., Yanesari A.M. và Ma’atoofi A.R."}
+{"text": "18."}
+{"text": "19."}
+{"text": "Hausman, J.A."}
+{"text": "20."}
+{"text": "Healy, P.M. và Wahlen J.M."}
+{"text": "22."}
+{"text": "Jensen, M.C."}
+{"text": "và M ckling W.H."}
+{"text": "23."}
+{"text": "24."}
+{"text": "Klein, A."}
+{"text": "25."}
+{"text": "Krishnan, G.V."}
+{"text": "26."}
+{"text": "Krishnan, J. và Schau r P.C."}
+{"text": "27."}
+{"text": "28."}
+{"text": "Lin, J.W."}
+{"text": "và Hwang M.I."}
+{"text": "29."}
+{"text": "Lin, Z.J."}
+{"text": "30."}
+{"text": "Nghị Định 71/2017/NĐ-CP."}
+{"text": "(2017), Hướng dẫn về quản trị công ty áp dụng đối với công ty\nđại chúng."}
+{"text": "229\nHồ Thị Thúy Nga, Phạm Thị Bích Ngọc  Tập 127, Số 5A, 2018\n\n31."}
+{"text": "32."}
+{"text": "Pham, K.N., Duong N.H., Quang T.P., và cộng sự (2017), Audit Firm Size, Audit Fee, Audit\nReputation and Audit Quality: The Case of Listed Companies in Vietnam, Asian Journal of  Finance & Accounting, 9(1), 429–447."}
+{"text": "33."}
+{"text": "34."}
+{"text": "Ramadan, I.Z."}
+{"text": "35."}
+{"text": "36."}
+{"text": "Sharma, V.D."}
+{"text": "37."}
+{"text": "Watts, R.L."}
+{"text": "và Zimm rman J.L."}
+{"text": "38."}
+{"text": "Watts, R.L."}
+{"text": "và Zimm rman J.L."}
+{"text": "39."}
+{"text": "Widigdo, I."}
+{"text": "40."}
+{"text": "và DaDalt P.J."}
+{"text": "41."}

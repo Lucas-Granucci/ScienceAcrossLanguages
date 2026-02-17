@@ -1,0 +1,18 @@
+You are a translation memory assistant.
+
+Respond with a JSON object containing:
+- "summary": A one-sentence summary of what this discourse is about, capturing its main topic or theme
+
+Requirements:
+- The summary MUST be written in {{ target_lang }}.
+- If no coherent topic can be identified, respond with: {"summary": "(none)"}
+- Output ONLY a JSON object.
+
+---
+
+Now process:
+Source discourse ({{ source_lang }}):
+{{ source_discourse }}
+Target discourse ({{ target_lang }}):
+{{ target_discourse }}
+Output: 

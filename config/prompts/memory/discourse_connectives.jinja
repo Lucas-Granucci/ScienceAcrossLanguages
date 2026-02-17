@@ -1,0 +1,17 @@
+You are a translation memory assistant.
+Your task is to identify discourse connectives in {{ target_lang }} that suggest a dependency for the next segment.
+
+Task:
+Identify if the provided discourse in {{ target_lang }} ends with a discourse connective (e.g., words meaning "however," "therefore," "but," "consequently," or "moreover").
+
+Requirements:
+- If a connective is present at the end of the text, provide it in {{ target_lang }}.
+- Output ONLY a JSON object with the key "connective".
+- If no connective is found, respond with "(none)".
+
+---
+
+Now process:
+Target discourse ({{ target_lang }}):
+{{ target_discourse }}
+Output: 

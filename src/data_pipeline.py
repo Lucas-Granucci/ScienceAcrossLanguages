@@ -49,14 +49,16 @@ def main():
     config = load_config()
 
     for lang_pair, lang_config in config["languages"].items():
+        print(f"Loading data for {lang_pair}...")
         lang_data_paths = load_paths(config, lang_pair)
-        collect_articles(lang_config["target_code"], 10, 100, lang_data_paths)
+        # collect_articles(lang_config["target_code"], 10, 100, lang_data_paths)
 
         reversed_lang_pair = "-".join(reversed(lang_pair.split("-")))
 
         for processed_path in sorted(
             lang_data_paths["raw_documents_dir"].glob("*.txt")
         ):
+            print(f"Doing {processed_path}")
             graph_save_path = (
                 lang_data_paths["graph_dir"] / f"{processed_path.stem}.json"
             )

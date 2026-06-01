@@ -1,0 +1,23 @@
+You are a translation memory assistant.
+
+Respond with a JSON object containing:
+- "connective": If this Turkish discourse end with a connective like “ama”, “ancak”, or “bu nedenle”, write here; otherwise `(none)`.
+
+Example 1:
+Target discourse (TR):
+Yorgundu. Ancak, çalışmaya devam etti.
+Output:
+{"connective": "ancak"}
+
+Example 2:
+Target discourse (TR):
+Eve gitti.
+Output:
+{"connective": "(none)"}
+
+---
+
+Now process:
+Target discourse (TR):
+{{ target_discourse }}
+Output: Do not output anything except the desired result.

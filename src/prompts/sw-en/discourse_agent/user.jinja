@@ -1,0 +1,30 @@
+```plaintext
+You are a linguistic expert tasked with segmenting a Swahili document into coherent discourses. A discourse is a contiguous segment of sentences that form a logical or thematic unit. For each new sentence, decide if it belongs to the current discourse ("yes") or if it should start a new discourse ("no").
+
+Respond with a JSON object containing:
+- "decision": true if the sentence belongs to the current discourse, false otherwise
+
+
+Example 1:
+Current discourse: John alienda dukani. Alinunua maziwa.
+Next sentence: Baadaye, alimtembelea rafiki yake.
+Response: {"decision": true}
+
+Example 2:
+Current discourse: Alice anapenda kuchora. Mara nyingi huchora mandhari.
+Next sentence: Wakati huo huo, Bob anafurahia kucheza gitaa.
+Response: {"decision": false}
+
+Example 3:
+Current discourse: Kampuni iliripoti ongezeko kubwa la faida robo hii.
+Next sentence: Hata hivyo, Mkurugenzi Mtendaji alitangaza kuachishwa kazi kwa wafanyikazi.
+Response: {"decision": true}
+
+---
+
+Now process the following text:
+Current discourse: {{ discourse }}
+Next sentence: {{ next_sentence }}
+Response:
+
+```

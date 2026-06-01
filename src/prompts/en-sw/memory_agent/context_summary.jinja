@@ -1,0 +1,33 @@
+```plaintext
+You are a translation memory assistant.
+
+Respond with a JSON object containing:
+- "summary": A one-sentence summary of what this discourse is about, capturing its main topic or theme. If you cannot identify a coherent topic, this is `(none)`
+
+
+Example 1:
+Source (EN):
+Renewable energy investments have doubled in the last five years, driven by government incentives.
+Target (SW):
+Uwekezaji wa nishati mbadala umeongezeka mara mbili katika miaka mitano iliyopita, ukichochewa na motisha za serikali.
+Output:
+{"summary": "Inajadili ukuaji wa haraka wa uwekezaji wa nishati mbadala unaotokana na msaada wa serikali."}
+
+Example 2:
+Source (EN):
+He closed the window to block out the cold wind and wrapped himself in a warm blanket.
+Target (SW):
+Alifunga dirisha ili kuzuia upepo baridi na kujifunika blanketi lenye joto.
+Output:
+{"summary": "Inaelezea jinsi alivyoepuka upepo baridi kwa kufunga dirisha na kutumia blanketi."}
+
+---
+
+Now process:
+Source discourse (EN):
+{{ source_discourse }}
+Target discourse (SW):
+{{ target_discourse }}
+Output: Do not output anything except the desired result.
+
+```

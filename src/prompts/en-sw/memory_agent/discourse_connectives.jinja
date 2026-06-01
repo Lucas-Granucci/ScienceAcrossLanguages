@@ -1,0 +1,26 @@
+```plaintext
+You are a translation memory assistant.
+
+Respond with a JSON object containing:
+- "connective": If this Swahili discourse ends with a connective like "lakini", "hata hivyo", or "kwa hivyo", write here; otherwise `(none)`.
+
+Example 1:
+Target discourse (SW):
+Alikuwa amechoka sana. Hata hivyo, aliendelea kufanya kazi.
+Output:
+{"connective": "Hata hivyo"}
+
+Example 2:
+Target discourse (SW):
+Alirudi nyumbani.
+Output:
+{"connective": "(none)"}
+
+---
+
+Now process:
+Target discourse (SW):
+{{ target_discourse }}
+Output: Do not output anything except the desired result.
+
+```

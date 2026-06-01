@@ -7,11 +7,26 @@ translation:
   model_name: "gpt-4.1-2025-04-14"
 
 languages:
-  en-vi:
+  # en-vi:
+  #   source: "English"
+  #   target: "Vietnamese"
+  #   source_code: "en"
+  #   target_code: "vi"
+  # en-th:
+  #   source: "English"
+  #   target: "Thai"
+  #   source_code: "en"
+  #   target_code: "th"
+  # en-tr:
+  #   source: "English"
+  #   target: "Turkish"
+  #   source_code: "en"
+  #   target_code: "tr"
+  en-sw:
     source: "English"
-    target: "Vietnamese"
+    target: "Swahili"
     source_code: "en"
-    target_code: "vi"
+    target_code: "sw"
 
 data:
   root: "data"

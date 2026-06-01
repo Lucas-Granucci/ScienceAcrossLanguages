@@ -1,0 +1,817 @@
+Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi (EFMED) Cilt 14, Sayı 1, Haziran 2020, sayfa 787-809.
+787-809.
+NEF-EFMED Cilt 14, Sayı 1, Haziran 2020/ NFE-EJMSE Vol.
+14, No.
+Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi Necatibey Faculty of Education, Electronic Journal of Science and Mathematics Education
+790 COVID-19 Pandemi Döneminde Türkiye’deki Üniversitelerin Uzaktan Eğitim Sistemlerinin İncelenmesi
+Examining the Turkish Universities’ Distance Education Systems During the COVID-19 Pandemic
+COVID-19 Pandemi Döneminde Türkiye’deki Üniversitelerin Uzaktan Eğitim Sistemlerinin İncelenmesi
+Gürhan DURAK 1, Serkan ÇANKAYA 2, Serkan İzmirli 3,
+1 Balıkesir Üniversitesi, Balıkesir, Türkiye, gurhandurak@balikesir.edu.tr,
+http://orcid.org/0000-0003-2944-3713
+2 İzmir Demokrasi Üniversitesi, İzmir, Türkiye, serkan.cankaya@idu.edu.tr,
+http://orcid.org/0000-0002-3951-9809
+3 Çanakkale Onsekiz Mart Üniversitesi, Çanakkale, Türkiye, sizmirli@gmail.com,
+http://orcid.org/0000-0003-4507-6124
+Gönderme Tarihi: 27.05.2020 Kabul Tarihi: 07.06.2020
+Doi: 10.17522/balikesirnef.743080
+Özet – Bu araştırmanın amacı, Covid-19 pandemisi döneminde Türkiye’deki üniversitelerin acil uzaktan eğitime
+geçişte yaptıkları çalışmaları incelemektir.
+Araştırmada tarama modeli kullanılmıştır.
+Araştırma evrenini
+Türkiye’deki tüm üniversiteler (208 üniversite) oluşturmaktadır.
+Her bir üniversite ile ilgili veriler üniversitelerin
+acil uzaktan eğitim sürecinde görevli kişilerden (UZEM’de ve Bilgi İşlem Dairesi’ndeki görevliler vb.)
+edinilmiştir.
+Araştırmada gönüllülük esasına göre 33 katılımcıya (üniversiteye) ulaşılabilmiştir.
+Araştırmanın
+verileri bir çevrimiçi anket formu (Google Form) ile toplanmıştır.
+Araştırmadan elde edilen bulgulara göre en çok
+kullanılan öğrenme yönetim sistemleri Moodle ve ALMS’dir.
+Üniversiteler tarafından en çok kullanılan canlı ders
+yazılımlarının Big Blue Button ve Perculus olduğu görülmüştür.
+Yükseköğretim Kurulu’nun derslerin senkron
+işlenmesini tavsiye etmesine rağmen tüm derslerini senkron olarak yürütebilen üniversite sayısı sadece altıdır.
+Üniversitelerin çoğu daha önce kurulu olan öğrenme yönetim sistemi (f=29) ve canlı ders yazılımı (f=24)
+üzerinden süreçleri yönetmeye çalışmışlardır.
+Üniversitelerin yaklaşık yarısı öğrencilerin ders devam takibini
+yapmıştır.
+Katılımcılar, uzaktan eğitime hazırlık sürecinde öğretim elemanlarının eğitimini en çok zorlandıkları
+durum olarak belirtmişlerdir.
+Anahtar kelimeler: COVID-19, uzaktan eğitim, acil uzaktan eğitim, öğrenme yönetim sistemi, canlı ders yazılımı.
+Sorumlu yazar: Serkan Çankaya, İzmir Demokrasi Üniversitesi, İzmir, Türkiye, serkan.cankaya@idu.edu.tr
+Giriş
+Kriz zamanlarında uzun dönemli planlamalar yapmak ve bu planları hayata geçirmek
+zordur.
+2020 yılının başlarında tüm dünyada etkili olan Covid-19 pandemisi de bu kriz
+zamanlarından biridir.
+Covid-19 pandemisi sebebiyle 2019-2020 eğitim-öğretim yılı bahar
+döneminde hemen hemen tüm dünyada eğitim kurumları kapatılmış ve çeşitli düzeylerde
+karantina uygulamaları başlamıştır (Daniel, 2020).
+Bu doğrultuda tüm dünyada çeşitli
+NEF-EFMED Cilt 14, Sayı 1, Haziran 2020/ NFE-EJMSE Vol.
+14, No.
+1, June 2020
+Durak, G., Çankaya, S. & İzmirli, S. 791
+seviyelerdeki okullar, öğrencilerin eğitimlerinden geri kalmamaları için uzaktan eğitim sürecini
+başlatmışlardır.
+Bu vesileyle uzaktan eğitim deneyimi olan veya olmayan her eğitimci ve
+öğrenen, aniden uzaktan eğitim yöntemi ile ders vermek veya ders almak durumunda kalmıştır.
+Eğitim kurumları ve eğitimciler, derslerin uzaktan eğitim ile nasıl yapılabileceği ve çeşitli
+online araçların nasıl kullanılabileceği konularında arayışa girmişlerdir (Karip, 2020).
+Bu
+bağlamda uzaktan eğitim anlamında dünyanın artık eskisi gibi olmayacağı ifade edilebilir.
+Eğitmenlerin çoğu daha önce uzaktan eğitim araçlarını hiç kullanmamıştır (Çetinkaya
+Aydın, 2020).
+Bu eğitmenlerin uzaktan eğitim ve uzaktan eğitim materyali hazırlama
+konusunda bilgi ve becerilerinin sınırlı olduğu düşünülürse, yapılan uzaktan eğitim derslerinde
+her şeyin kusursuz bir şekilde yürüyeceği söylenemez.
+Uzaktan eğitim kuramsal temelleri olan
+bir bilim alanıdır ve başarılı uzaktan eğitim uygulamaları için bu kuramsal temeller göz önünde
+tutularak planlamalar yapılmalıdır.
+Hatta ideal olanı, tüm eğitmenlerin uzaktan eğitimin
+kuramsal temelleri dersini yine uzaktan eğitim araçları ile almalardır (Shattuck, Dubins ve
+Zilberman, 2011).
+Böylece hem uzaktan eğitimin kuramsal temellerini öğrenecekler, hem de
+bir uzaktan eğitim uygulamasında öğrenci olarak deneyim kazanacaklar ve öğrencilerin bu
+süreçte yaşadıkları konusunda öngörü sahibi olabileceklerdir.
+Daha önce de belirtildiği üzere
+bu kriz döneminde bu tür ön çalışmalar yapmak mümkün olmamıştır.
+Bunun yerine eğitim
+kurumları eğitmenleri sınırlı düzeyde eğitmek durumunda kalmışlardır.
+Bu eğitimler genellikle
+uzaktan eğitim araçlarının nasıl kullanılacağı üzerine odaklanmıştır.
+Öte yandan bu süreçte uzaktan eğitim konusunda başarısız bir deneyim geçiren bazı
+eğitmenlerin tutumlarında olumsuz bir değişim olacağı öngörülebilir (Gaeth, Levin, Sood,
+Juang ve Castellucci, 1997).
+Özellikle teknolojik araçları kullanmada zorluk çeken eğitmenler
+bu kategoride değerlendirilebilir.
+Eğitim kurumlarının yanlış tercihleri de (öğrenme yönetim
+sistemi ve canlı ders yazılımı tercihi vb.)
+eğitmenlerin bu süreçte olumsuzluklar yaşamalarına
+neden olabilir.
+Bu çalışma kapsamında Türkiye’deki üniversitelerin pandemi sürecindeki uzaktan eğitim
+çalışmaları incelenmiştir.
+Türkiye’de üniversiteler Yükseköğretim Kurulu’na (YÖK) bağlıdır.
+YÖK, ilk olarak üniversitelerin 16 Mart 2020 tarihinde 3 hafta tatil edildiğini duyurmuştur.
+Daha sonra üniversitelere derslerin uzaktan eğitim ile verilmesi yönünde talimat vermiş ve
+2019-2020 eğitim-öğretim yılı bahar döneminde örgün eğitim yapılmayacağını belirtmiştir.
+YÖK’ün almış olduğu kararlara göre, üniversitelerin 23 Mart 2020 tarihi itibari ile kapasiteleri
+ölçüsünde uzaktan eğitime başlamaları gerektiği belirtilmiştir.
+Bu konuda YÖK Başkanının
+yapmış olduğu basın açıklamasının bir bölümü aşağıda verilmiştir (Saraç, 2020):
+Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi Necatibey Faculty of Education, Electronic Journal of Science and Mathematics Education
+792 COVID-19 Pandemi Döneminde Türkiye’deki Üniversitelerin Uzaktan Eğitim Sistemlerinin İncelenmesi
+Examining the Turkish Universities’ Distance Education Systems During the COVID-19 Pandemic
+• “23 Mart Pazartesi uzaktan eğitim kapasitesine sahip olan bütün üniversitelerimizde dijital
+imkânlar ile uzaktan öğretim süreci başlayacaktır.
+• Bu kapasiteye henüz sahip olmayan üniversitelerimiz için de yine aynı gün, 23 Mart
+tarihinde kısa süre içinde oluşturduğumuz açık ders malzemeleri havuzu bütün
+üniversitelerimize açılacaktır.
+• Uygulamaya dayalı programlarda bulunan teorik derslerde dijital imkânlar ve uzaktan
+öğretim yöntemleri kullanılacak, uygulama dersleri ise yine üniversitelerimizce belirlenen
+takvimin uzatılması da dâhil en uygun zamanda verilecektir.
+• Ön lisans ve lisans düzeyindeki bu uygulama ve yaklaşıma, lisansüstü düzeyde de imkân
+tanınacak; denetlenebilir olma kaydıyla uzaktan öğretim ve dijital imkânlar kullanılarak bu
+süreçlerde de bir kesinti olmaması sağlanacaktır.”
+YÖK Başkanı Saraç (2020) tarafından yapılan açıklamada ayrıca üniversitelerin senkron
+(eş zamanlı) ya da asenkron (eş zamanlı olmayan) uzaktan öğretim yöntemlerini
+kullanabilecekleri belirtilmiştir.
+İçinde bulunulan ortamda senkron uygulamaların güçlüğü göz
+önüne alındığında üniversitelerin özellikle önlisans ve lisans programlarında asenkron
+uygulamalara ağırlıkla yöneleceği tahmin edilmekte olup daha çok etkileşim içeren senkron
+uygulamaların da YÖK tarafından teşvik edileceği basın açıklamasında ifade edilmiştir.
+YÖK’ün bu kararları doğrultusunda tüm üniversiteler, halihazırda yürütülen tüm derslerin
+uzaktan eğitim yöntemi ile devam ettirilebilmesi için çalışmalara başlamışlardır.
+Birçok
+üniversite bir hafta içinde çalışmalarını tamamlamış ve bu üniversitelerde 23 Mart 2020
+tarihinde dersler uzaktan eğitim yöntemi ile işlenmeye başlamıştır.
+Üniversiteler, altyapıları
+elverdiği oranda “senkron”, “asenkron” veya “hem senkron hem de asenkron” uzaktan eğitim
+yöntemlerini kullanmışlardır.
+Hatta altyapısı yetersiz üniversitelerin donanım ve yazılım
+konusunda ciddi harcamalar yapmaları gerektiği öngörülebilir.
+Bu noktada sistemi kullanacak
+olan öğretim elemanları ile öğrencilerin eğitimlerinin de ivedilikle gerçekleştirilmesi
+gerekmiştir.
+Bu noktada gözlemlediğimiz kadarıyla uzaktan eğitim sisteminin tanıtıldığı web
+sayfaları, dokümanlar ve eğitim videoları hazırlanarak öğretim elemanlarına ve öğrencilere
+duyurulmuştur.
+Tüm üniversiteye hizmet edecek uzaktan eğitim sisteminin hazırlanması ve
+sistemin kullanımı ile ilgili eğitimlerin verilmesi sadece birkaç gün içinde gerçekleştirilmek
+zorunda kalınmıştır.
+Tüm bu süreçlerin yürütülmesinde üniversitelerdeki başta Uzaktan Eğitim Uygulama ve
+Araştırma Merkezleri (UZEM) olmak üzere Bilgi İşlem Dairesi Başkanlıklarına büyük görevler
+düşmüştür.
+UZEM’ler üniversitelerin uzaktan eğitim süreçlerinin yürütülmesi için kurulan
+birimlerdir.
+Bu birimlerde genellikle uzaktan eğitim önlisans, lisans ve tezsiz yüksek lisans ve
+NEF-EFMED Cilt 14, Sayı 1, Haziran 2020/ NFE-EJMSE Vol.
+14, No.
+1, June 2020
+Durak, G., Çankaya, S. & İzmirli, S. 793
+çeşitli uzaktan eğitim sertifika programlarının yürütülmesinde teknik destek, organizasyon,
+uzaktan eğitim içeriği hazırlama gibi faaliyetler yürütülmektedir.
+Amaç ve Önem
+Alanyazında Covid-19 sürecinde Türkiye’de acil uzaktan eğitime geçişte yapılanlara
+yönelik herhangi bir araştırmaya rastlanmamıştır.
+Bu bağlamda bu araştırmanın amacı, Covid19 pandemisi döneminde Türkiye’deki üniversitelerin acil uzaktan eğitime geçişte yaptıkları
+çalışmaları incelemektir.
+Üniversitelerin acil uzaktan eğitimde neyi nasıl yaptıkları konusunda veri toplamak,
+hangi uygulamaların etkili olduğu, hangi uygulamaların ise başarısız olduğu konusunda
+tespitler yapmak büyük önem taşımaktadır.
+Ayrıca üniversitelerin bu sürece ne kadar hazırlıklı
+olduklarının tespiti de önemlidir.
+Yürütülen bu çalışmanın üniversitelerin böyle kriz
+zamanlarında daha hazırlıklı olabilmelerine yardımcı olacak sonuçları ortaya koyduğu
+düşünülmektedir.
+Ayrıca uzaktan eğitim alanının önemini ortaya koymak adına “uzaktan
+eğitim” konusunda Scopus veritabanında yer alan çalışmaların yıllara göre sayılarının değişim
+grafiği incelenebilir (Şekil 1).
+Şekil 1.
+Uzaktan Eğitim İle İlgili Yapılan Çalışmaların Yıllara Göre Dağılımı
+Şekil 1’de görüldüğü üzere uzaktan eğitim konusunda yapılan bilimsel çalışmaların sayısı
+yıllara göre ciddi şekilde artmaktadır.
+Bu durum uzaktan eğitimin öneminin giderek artması ve
+eğitimin vazgeçilmez bir parçası haline geleceğinin göstergesi olarak değerlendirilebilir.
+Pandemi dönemi, uzaktan eğitimin önemini daha da arttırmıştır.
+Bu pandemi döneminde
+Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi Necatibey Faculty of Education, Electronic Journal of Science and Mathematics Education
+794 COVID-19 Pandemi Döneminde Türkiye’deki Üniversitelerin Uzaktan Eğitim Sistemlerinin İncelenmesi
+Examining the Turkish Universities’ Distance Education Systems During the COVID-19 Pandemic
+yüksek öğretim kurumlarının acil uzaktan eğitim için yaptıkları çalışmaların özetlenerek
+sunulmasının alanyazına katkı sağlayacağı ifade edilebilir.
+İlgili Alanyazın
+Acil uzaktan eğitim döneminde eğitim kurumları, çeşitli öğrenme yönetim sistemleri ve
+canlı ders yazılımları (eş zamanlı sanal sınıf yazılımları) kullanmışlardır.
+Alanyazında canlı
+ders yazılımlarının incelendiği birçok çalışma bulunmaktadır (Herand ve Hatipoğlu, 2014; Işık,
+Karacı, Özkaraca ve Biroğul, 2010; İzmirli ve Akyüz, 2017; Lavolette, Venable, Gose ve
+Huang, 2010; Schullo, Hilbelink, Venable ve Barron, 2007; Yıldırım vd., 2011).
+Gerçekleştirilen bu çalışmalarda Adobe Connect, Big Blue Button, Dimdim (Şu anda yok),
+Blackboard Collaborate, Elluminate Live (Bloackboard Collaborate olmuştur), Electa Live,
+GoToTraning, Microsoft Live Meetings (Şu anda yok), Openmeetings, Perculus, VMukti ve
+WizIQ gibi birçok eş zamanlı araç karşılaştırılmıştır.
+Bu araçların bir kısmı günümüzde
+güncelliğini yitirmiş veya başka bir isim altında devam etmiştir.
+Eş zamanlı canlı sınıf
+araçlarının karşılaştırıldığı bu çalışmalarda araçların birbirlerine göre üstünlük ve
+zayıflıklarının olduğu belirlenmiştir.
+Canlı ders yazılımı seçiminde gereksinimlerin göz önüne
+alınması gerektiği ifade edilmektedir.
+Örneğin bazı ücretsiz yazılımlarda canlı derse
+katılabilecek katılımcı sayısı sınırlılığı olabilir.
+Ayrıca kurumların bütçesinin canlı ders
+yazılımlarının seçimini etkileyebileceği ifade edilmektedir.
+Covid-19 döneminde aniden
+uzaktan eğitime geçildiğinden canlı ders yazılımının önemi ortaya çıkmıştır.
+Alanyazında Türkiye’de Covid-19 sürecinde üniversitelerin ve diğer eğitim
+kademelerinin acil uzaktan eğitime hazırlıkları ile ilgili herhangi bir çalışmaya rastlanmazken
+dünyada bazı ülkelerde sınırlı sayıda çalışmaya ulaşılmıştır.
+Özellikle pandeminin Çin’de
+başlamasından dolayı uzaktan eğitim ile ilgili Çin’de yapılan çalışmaların daha fazla olduğu
+görülmektedir.
+Zhou, Li, Wu ve Zhou (2020) Covid-19 sürecinde Çin’in ülke çapında başlattığı
+“School’s Out, But Class’s On (Okul yok, fakat dersler var)” kampanyası ile yürüttüğü
+çevrimiçi eğitimin arka planını, temellerini ve etkisini incelemişlerdir.
+Çin’de yaklaşık olarak
+270 milyon ilkokul, ortaokul, lise ve lisans öğrencisi çevrimiçi eğitime geçmiştir.
+Birçok okul
+çevrimiçi canlı ders, çevrimiçi talebe bağlı öğretim (on-demand teaching), TV’de videolu
+öğretim yapmıştır.
+Acil durumda büyük ölçekli uzaktan öğretimin Çin’de yürütülebilmesi,
+İnternet altyapısının tamamlandığını göstermektedir.
+Ayrıca öğrenci merkezli bir öğretim
+modeli kurulmuştur.
+Bunların yanı sıra bazı eğitmenlerin yüz yüze ders materyallerine
+etkileşim eklemeden çevrimiçi ortama aktardıkları görülmüştür.
+NEF-EFMED Cilt 14, Sayı 1, Haziran 2020/ NFE-EJMSE Vol.
+14, No.
+1, June 2020
+Durak, G., Çankaya, S. & İzmirli, S. 795
+Çin’de yürütülen bazı çalışmalar ise Covid-19 pandemisi döneminde spesifik olarak bazı
+ortaokullardaki uygulamaları incelemişlerdir.
+Bu uygulamalar incelendiğinde öğretmenlerin
+öğrencilere evde çalışma planı gönderdiği ve öğretmenlerin ders materyallerini çeşitli
+platformlardan öğrencileri ile paylaştıkları görülmüştür.
+Öğretmen, öğrenci ve velilerin QQ,
+WeChat ve DingTalk çevrimiçi ortamlarından birbirleri ile bağlantı kurdukları belirlenmiştir.
+Derslerin genelde asenkron olduğu, iletişim sürecinin ise senkron olduğu ifade edilebilir (Cai
+ve Wang, 2020; Dai ve Lin, 2020; Xia, 2020; Xie ve Yang, 2020).
+(2020) ABD’de üniversitelerin uzaktan eğitime zorunlu geçişinin çeşitli
+boyutlara etkilerini incelemişlerdir.
+967 üniversite öğrencisi ve 111 öğretim elemanından elde
+ettikleri anket sonuçlarının ilk bulgularını teknik rapor olarak sunmuşlardır.
+ABD’de pandemi
+sürecinde kolej ve üniversitelerde 19,9 milyon öğrencinin ve 1,5 milyon öğretim elemanının
+büyük bir çoğunluğunun uzaktan eğitim ile ders yapmaya mecbur kaldığını belirtmişlerdir.
+Araştırmadan elde ettikleri ilk bulgulara göre öğrenciler internet bağlantılarında sorunlar
+yaşayabilmektedirler.
+Öğretim elemanlarının sadece canlı dersler yapmaktan kaçınmalarını,
+eğer canlı ders yapıyorlarsa ders kayıtlarını da öğrencileri ile paylaşmalarını önermişlerdir.
+Yöntem
+Araştırma Modeli
+Bu araştırmada, Covid-19 sürecinde Türkiye’deki üniversitelerin uzaktan eğitim sitemleri
+incelenmeye çalışılmıştır.
+Bu amaç doğrultusunda gerekli bilgilere ulaşmak için tarama modeli
+kullanılmıştır.
+Araştırma; Balıkesir Üniversitesi Sosyal ve Beşeri Bilimler Etik Komisyonunun
+02/07/2020 tarihli ve 2020/7 sayılı toplantısında değerlendirilmiş ve etik açıdan uygun
+bulunmuştur (Evrak Tarih ve Sayısı: 03/07/2020-E.26016).
+Veri Toplama Aracı
+Verilerin toplanması için bir çevrimiçi anket formu (Google Form) hazırlanmıştır.
+Bu
+anket formunda katılımcıların demografik bilgileri ve bağlı oldukları üniversitelerinin uzaktan
+eğitim sistemleri ile ilgili sorulara yer verilmiştir.
+Anket formu literatür taraması ve YÖK’ün
+yapmış olduğu açıklamalar dikkate alınarak hazırlanmıştır.
+Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi Necatibey Faculty of Education, Electronic Journal of Science and Mathematics Education
+796 COVID-19 Pandemi Döneminde Türkiye’deki Üniversitelerin Uzaktan Eğitim Sistemlerinin İncelenmesi
+Examining the Turkish Universities’ Distance Education Systems During the COVID-19 Pandemic
+Katılımcılar
+Araştırma evrenini Türkiye’deki tüm üniversiteler (208 üniversite) oluşturmaktadır.
+Her
+bir üniversite ile ilgili veriler üniversitelerin acil uzaktan eğitim sürecinde görevli kişilerden
+(UZEM’de ve Bilgi İşlem Dairesi’ndeki görevliler vb.)
+edinilmiştir.
+Katılımcılara; WhatsApp,
+eposta ve kişisel ilişkiler yoluyla ulaşılmaya çalışılmıştır.
+Türkiye’de YÖK’e bağlı
+üniversitelerin uzaktan eğitim sistemleriyle ilgili görüş alışverişinde bulunabilecekleri bir
+WhatsApp grubu mevcuttur.
+Bu çalışmanın yazarlarından biri bir üniversitede UZEM müdürü
+olduğu için bu WhatsApp grubunun üyesidir.
+Bu grup üzerinden katılımcılara ulaşılmaya
+çalışılmıştır.
+Öncelikle katılımcılara bireysel olarak çalışmanın önemini vurgulayan bir metin
+ile anket katılım formu gönderilmiştir.
+Bir hafta sonrasında ankete katılım göstermeyen diğer
+katılımcılara yine konunun önemini vurgulayan bir metinle birlikte ankete katılım linki tekrar
+gönderilmiştir.
+Bunun yanında üniversitelerin uzaktan eğitim birimleri ve uzaktan eğitimi
+yöneten birimlerinin mail adreslerine ulaşılmış ve onlara da benzer şekilde mail aracılığıyla
+anket katılım linki gönderilmiştir.
+Sonuç olarak 33 farklı üniversiteden dönüt alınabilmiştir.
+Tablo 1’de üniversitedeki görevine göre katılımcı sayılarına yer verilmiştir.
+Tablo 1.
+Üniversitedeki Görevine Göre Katılımcı Sayıları
+Üniversitedeki Görevi f Uzem Müdürü 12 Uzem Müdür Yardımcısı 6 Bilgi İşlem Daire Başkanı 5 Uzem Çalışanı 4 Bilgi İşlem Dairesi Çalışanı 1 Bilgisayar Bilimleri Araştırma ve Uygulama Merkez Müdürü 1 Öğretme ve Öğrenme Araştırma ve Uygulama Merkezi Müdürü 1 Genel Sekreter V. 1 Öğretim Teknolojileri Destek Ofisi Koordinatörü 1 Pandemi Dönemi Uzaktan Eğitim Uygulama Komisyonu Başkanı 1
+Tablo 1’de de görüldüğü üzere katılımcıların çoğunluğu UZEM birimlerinde
+çalışanlardır.
+Diğer birimlerde çalışan kişiler de yine pandemi döneminde uzaktan eğitim
+süreçlerinin yönetilmesine rol oynayan kişilerdir.
+Tablo 2’de katılımcıların unvan bilgilerine
+yer verilmiştir.
+Tablo 2.
+Unvana Göre Katılımcı Sayıları
+NEF-EFMED Cilt 14, Sayı 1, Haziran 2020/ NFE-EJMSE Vol.
+14, No.
+1, June 2020
+Durak, G., Çankaya, S. & İzmirli, S. 797
+Unvan f Dr. Öğretim Üyesi 12 Öğretim Görevlisi 7 İdari Personel 6 Doç.
+Dr 4 Prof. Dr. 3 Arş.
+Gör.
+Dr. 1
+Tablo 2 incelendiğinde katılımcıların büyük çoğunluğunun akademik personel olduğu ve
+Dr. Öğretim Üyesi ve Öğretim Görevlisi unvanına sahip akademik personel sayınının daha çok
+olduğu görülmektedir.
+Tablo 3’te katılımcıların uzmanlık alanları listelenmiştir.
+Tablo 3.
+Uzmanlık Alanına Göre Katılımcı Sayıları
+Uzmanlık Alanı f Bilgisayar ve Öğretim Teknolojileri Eğitimi, Eğitim Teknolojileri 15 Bilgi İşlem, Yazılım Geliştirme, Bilgisayar Mühendisliği 7 Açık ve Uzaktan Öğrenme 3 Yönetim Bilişim Sistemleri 1 Bilgi ve Belge Yönetimi 1 Coğrafya 1 Eğitim Yönetimi 1 Fen Bilgisi Eğitimi 1 İdari Personel 1 Öğretim Tasarımı 1 İdari Personel (uzmanlık alanı belirtilmemiş) 1
+Tabloda 3’te de görüleceği üzere üniversitelerde uzaktan eğitim ile ilgilenen kişilerin
+büyük çoğunluğunun Bilgisayar ve Öğretim Teknolojileri Eğitimi bölümlerinde görev yapan
+akademik personel olduğu görülmektedir.
+Her üniversitede bu bölüm bulunmadığı için bazı
+üniversitelerde uzaktan eğitim süreci ile özellikle bilgi işlem dairesinde çalışan mühendisler ve
+diğer farklı bölümlerdeki akademik personeller ilgilenmiştir.
+Veri Analizi
+Katılımcıların çevrimiçi ankete verdikleri yanıtlar betimsel istatistikler kullanılarak analiz
+edilmiştir.
+Elde edilen bulgular frekans değerleriyle birlikte sunulmuştur.
+Genellikle ön plana
+çıkan veriler ile ilgili üniversiteler eşleştirilmiştir.
+Bunun yanında uzaktan eğitim
+sistemlerinden memnun olan ve tavsiye eden üniversitelerin hangi uzaktan eğitim yazılımlarını
+tercih ettikleri ortaya konulmaya çalışılmıştır.
+Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi Necatibey Faculty of Education, Electronic Journal of Science and Mathematics Education
+798 COVID-19 Pandemi Döneminde Türkiye’deki Üniversitelerin Uzaktan Eğitim Sistemlerinin İncelenmesi
+Examining the Turkish Universities’ Distance Education Systems During the COVID-19 Pandemic
+Geçerlik ve Güvenirlik
+Katılımcılar, isimlerinin gizli kalacağı ve toplanan verilerin sadece akademik amaçlı
+kullanılacağı konusunda bilgilendirilmiştir.
+Böylece katılımcıların durumla ilgili samimi
+görüşlerini daha rahat bir şekilde dile getirdikleri düşünülmektedir.
+Bulgular
+Bu bölümde araştırmanın amacı kapsamında elde edilen verilerin analiz sonuçlarına yer
+verilmiştir.
+Tablo 4’te üniversitelerin kullandıkları öğrenme yönetim sistemleri listelenmiştir.
+Tablo 4.
+Kullanılan Öğrenme Yönetim Sistemleri
+Öğrenme Yönetim Sistemi f Moodle 13 ALMS 10 Microsoft Teams 6 Üniversite Bilgi Yönetim Sistemi (ÜBYS) 3 Toltek 3 Google G-Suite 2 Sakai 2 Blackboard Learn 1 Canvas 1 SIYDEM 1 Not.
+Bazı üniversiteler birden fazla sistem kullanmıştır.
+Tablo 4’te görüldüğü üzere en çok kullanılan öğrenme yönetim sistemleri Moodle ve
+ALMS olmuştur.
+Bunu Microsoft Teams, ÜBYS ve Toltek takip etmektedir.
+ÜBYS, Katip
+Çelebi Üniversitesi tarafından geliştirilen ve içinde öğrenme yönetim sistemi de barındıran
+Üniversite Bilgi Yönetim Sistemi yazılımıdır.
+Bu listede bulunan ALMS, Toltek ve SIYDEM
+yazılımları yerli firmalarca geliştirilen ticari yazılımlardır.
+Moodle, Sakai ve Canvas ise açık
+kaynak kodlu ücretsiz yazılımlardır.
+Tablo 5’te üniversitelerin kullandıkları canlı ders
+yazılımlarına ilişkin veriler bulunmaktadır.
+Tablo 5.
+Kullanılan Canlı Ders Yazılımları
+Canlı Ders Yazılımı f Big Blue Button 12 Perculus 11 Microsoft Teams 9 Zoom 9 Adobe Connect 6 Blackboard Collaborate 4 Google Meet 3 Cisco Webex 1 Not.
+Bazı üniversiteler birden fazla sistem kullanmıştır.
+NEF-EFMED Cilt 14, Sayı 1, Haziran 2020/ NFE-EJMSE Vol.
+14, No.
+1, June 2020
+Durak, G., Çankaya, S. & İzmirli, S. 799
+Tablo 5 incelendiğinde en çok kullanılan canlı ders yazılımının açık kaynak kodlu
+ücretsiz bir yazlım olan Big Blue Button olduğu görülmektedir.
+Yerli bir ticari yazılım olan
+Perculus’un ikinci sırada yer aldığı görülmektedir.
+Üçüncü sırayı ise Microsoft Teams ve Zoom
+ticari yazılımları paylaşmıştır.
+Tablo 6’da üniversitelerin dersleri hangi yöntemle (senkron
+ve/veya asenkron) işlediğine ait veriler bulunmaktadır.
+Tablo 6.
+Üniversitelerin Dersleri Senkron/Asenkron İşleme Durumu
+Canlı Ders Yazılımı f Derslerin çoğu asenkron, bazı dersler ise senkron işlenmektedir 9 Derslerin çoğu senkron, bazı dersler ise asenkron işlenmektedir 9 Tüm dersler asenkron işlenmektedir 7 Tüm dersler senkron işlenmektedir 6 Derslerin yarısı senkron, yarısı asenkron işlenmektedir 1 Karar öğretim elemanına bırakıldı 1
+Tablo 6’da da görüldüğü üzere YÖK’ün derslerin senkron işlenmesini tavsiye etmesine
+rağmen tüm derslerini senkron olarak işleyebilen üniversite sayısı sadece altıdır.
+Hatta yedi
+üniversitenin hiç senkron ders işleyemediği görülmektedir.
+Bu durumda üniversitelerin
+çoğunun altyapılarının yetersiz olduğu sonucuna ulaşılabilir.
+Tablo 7’de üniversitelerin öğrenci
+ve akademik personel sayıları verilmiştir.
+Tablo 7.
+Üniversitelerin Öğrenci ve Akademik Personel Sayıları
+Öğrenci Sayısı Üniversite Sayısı Akademik Personel Sayısı 10000'den az 9 24 ile 1000 arasında 10000 ile 19999 arası 6 500 ile 1000 arasında 20000 ile 29999 arası 8 650 ile 1900 arasında 30000 ile 39999 arası 3 2500 ile 3400 arasında 40000 ile 49999 arası 2 2500 ile 3000 arasında 50000'den fazla 5 1700 ile 3000 arasında
+Tablo 7’de görüldüğü üzere araştırmaya katılan üniversitelerin çoğunluğunun 20000’den
+fazla öğrenciye sahip olduğu ve akademik personel sayısının ise 650-3000 arasında olduğu
+(f=18) görülmüştür.
+Üniversitelerin kullandığı öğrenme yönetim sistemi yazılımının neden
+tercih edildiğine ilişkin bulgular Tablo 8’de listelenmiştir.
+Tablo 8.
+Öğrenme Yönetim Sistemi Yazılımının Tercih Sebebi
+Sebep f Pandemi süreci öncesinde kurulu olan sistem olması 29 Kullanımının kolay olması 20 Ücretsiz olması 17 Üniversite kararının olması 12
+Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi Necatibey Faculty of Education, Electronic Journal of Science and Mathematics Education
+800 COVID-19 Pandemi Döneminde Türkiye’deki Üniversitelerin Uzaktan Eğitim Sistemlerinin İncelenmesi
+Examining the Turkish Universities’ Distance Education Systems During the COVID-19 Pandemic
+Not.
+Birden fazla seçenek seçilebilmiştir.
+Tablo 8’de görüldüğü üzere üniversitelerin büyük bir kısmı daha önce kurulu olan
+öğrenme yönetim sistemi üzerinden süreçleri yönetmeye çalışmışlardır.
+Sadece bu sistemin
+kapasitesini daha fazla öğrenciyi, öğretim elemanını ve dersi kaldıracak şekilde
+güçlenmişlerdir.
+Tamamen yeni bir sisteme geçmeyi tercih etmemişlerdir.
+Kullanım kolaylığı
+ve ücretsiz olması da öğrenme yönetim sistemlerinin tercihinde diğer etkenler olarak
+sıralanabilir.
+Üniversitelerin kullandığı canlı ders yazılımının neden tercih edildiğine ilişkin
+bulgular Tablo 9’da listelenmiştir
+Tablo 9.
+Canlı Ders Yazılımının Tercih Sebebi
+Sebep f Pandemi süreci öncesinde kurulu olan sistem olması 24 Kullanımının kolay olması 20 Ücretsiz olması 12 Üniversite kararının olması 10 Not.
+Birden fazla seçenek seçilebilmiştir.
+Tablo 9’da da görüldüğü üzere üniversitelerin çoğu yine daha önce kullandıkları canlı
+ders yazılımı ile ilerlemeyi tercih etmişlerdir.
+Kullanım kolaylığı ve ücretsiz olması da canlı
+ders yazılımını tercihte diğer sebeplerdir.
+Canlı ders yazılımı konusunda üniversitelerin biraz
+daha fazla ücretli yazılımlara yöneldikleri söylenebilir.
+Bunun bir sebebi de açık kaynak kodlu
+Big Blue Button gibi ücretsiz bir yazılım kullanmak isteyen üniversitenin yaklaşık 150-200
+kullanıcı için bir sunucu kurması gerektiğidir.
+Bu durumda toplam sunucu satın alma
+maliyetleri, öğrenci sayısına göre çok yüksek değerlere çıkabilmektedir.
+Ücretsiz canlı ders
+yazılımları öğrenci sayısı az olan üniversiteler için ideal bir çözüm olarak görülebilir.
+Bu
+seçeneklerin dışında bir katılımcı canlı ders yazılımı tercih nedenlerini “En makul teklifi veren,
+ders kaydı tutan ve yaygın olarak tercih edilen olduğu için” şeklinde ifade etmiştir.
+Ayrıca bir
+katılımcı da özellikle açık kaynak yazılımları tercih ettiklerini yazmıştır.
+Katılımcılara
+üniversitelerinde kullanılan öğrenme yönetim sistemi yazılımını ne derece tavsiye ettikleri
+sorulmuştur.
+Bu bulgu Tablo 10’da listelenmiştir.
+Tablo 10.
+Öğrenme Yönetim Sistemi (ÖYS) Yazılımını Tavsiye Derecesi
+ÖYS Yazılımını Tavsiye Derecesi f Kesinlikle tavsiye ederim 15 Tavsiye ederim 13 Emin değilim 5 Tavsiye etmem 0 Kesinlikle Tavsiye Etmem 0
+NEF-EFMED Cilt 14, Sayı 1, Haziran 2020/ NFE-EJMSE Vol.
+14, No.
+1, June 2020
+Durak, G., Çankaya, S. & İzmirli, S. 801
+Tablo 10’da görüleceği üzere katılımcıların büyük çoğunluğu kullandıkları yazılımlardan
+memnun görünmektedirler.
+Ancak beş katılımcı “emin değilim” yanıtını vermiştir.
+Bu
+katılımcıların kullandıkları öğrenme yönetim sistemleri incelendiğinde iki üniversitenin
+ALMS’yi, bir üniversitenin Moodle’ı, bir üniversitenin hem Moodle hem de ToltekLMS’i ve
+bir üniversitenin de ÜBYS’ye entegre yazılımı seçtikleri görülmektedir.
+Katılımcılara
+üniversitelerinde kullanılan canlı ders yazılımını ne derece tavsiye ettikleri sorulmuştur.
+Bu
+bulgu Tablo 11’de listelenmiştir.
+Tablo 11.
+Canlı Ders Yazılımını Tavsiye Derecesi
+Canlı Ders Yazılımını Tavsiye Derecesi f Kesinlikle tavsiye ederim 15 Tavsiye ederim 13 Emin değilim 4 Tavsiye etmem 1 Kesinlikle tavsiye etmem 0
+Tablo 11’de görüleceği üzere katılımcıların büyük çoğunluğu kullandıkları yazılımlardan
+memnun görünmektedirler.
+Ancak 5 katılımcı “tavsiye etmem” ve “emin değilim” yanıtlarını
+vermişlerdir.
+Bu katılımcıların kullandıkları canlı ders yazılımları incelendiğinde üçünün
+Perculus, üçünün Zoom ve üçünün Big Blue Button kullandığı görülmektedir.
+Bir üniversitenin
+birden fazla yazılımı aynı andan kullanıyor olduğu göz önünde bulundurulmalıdır.
+Katılımcılara üniversitelerinde kullanılan sistem içerisinde hangi araç ve materyallerin
+kullanılabildiği sorulmuştur.
+Bu bulgu Tablo 12’de listelenmiştir.
+Tablo 12.
+Uzaktan Eğitim Sistemi İçinde Kullanılabilen Araç ve Materyaller
+Kullanılabilen Araç ve Materyal f Ders videoları 33 Sunum dosyaları (power point vb.)
+32 Ders notları (pdf, word vb.)
+30 Anket kullanımı 30 Ödev gönderme 27 Sınav yapma 25 Tartışma /paylaşım forumu 23 Chat (anlık sohbet) 23
+Tablo 12’de görüldüğü üzere üniversitelerde kullanılan sistemler farklı araç ve materyal
+türlerini desteklemektedirler.
+Katılımcılara üniversitelerinde pandemi sürecinde devamsızlık
+durumlarının takip edilip edilmediği sorulmuştur.
+Bu bulgu Tablo 13’te listelenmiştir.
+Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi Necatibey Faculty of Education, Electronic Journal of Science and Mathematics Education
+802 COVID-19 Pandemi Döneminde Türkiye’deki Üniversitelerin Uzaktan Eğitim Sistemlerinin İncelenmesi
+Examining the Turkish Universities’ Distance Education Systems During the COVID-19 Pandemic
+Tablo 13.
+Öğrencinin Derse Devamının Takibi
+Öğrencinin Derse Devamının Takibi f Evet 17 Hayır 13 Öğretim elemanının kararına bağlı 2 Karar alınmadı 1
+Tablo 13’te görüleceği üzere üniversiteler bu konuda ikiye bölünmüş durumdadır.
+17
+üniversitede ders devamının takip edildiği, 13 üniversitede ise edilmediği görülmektedir.
+Katılımcılara uzaktan eğitimin geleceğini düşünüldüğünde bu tip uygulamaların yaygınlaşması
+konusundaki düşünceleri sorulmuştur.
+Bu bulgu Tablo 14’te listelenmiştir.
+Tablo 14.
+Uzaktan Eğitimin Yaygınlaşması
+Uzaktan Eğitim Yayınlaşmalı mı?
+f Yaygınlaşmalı 23 Emin değilim 4 Yaygınlaşmamalı 0 Yalnızca zorunlu hallerde kullanılmalı 1
+Tablo 14’te görüleceği üzere katılımcıların çok büyük bir kısmı uzaktan eğitimin
+yaygınlaşması gerektiğini belirtmişlerdir.
+Dört katılımcı “emin değilim” seçeneğini seçmiş, bir
+katılımcı ise yalnızca zorunlu durumlarda kullanılması gerektiğini belirtmiştir.
+Bu seçeneklerin
+dışında üç katılımcı uzaktan eğitimin sadece yüz yüze eğitimi destelemek için kullanılması
+gerektiğini belirtmiştir.
+Diğer iki katılımcı ise belli koşulların sağlanması durumunda
+yaygınlaşması gerektiğini belirtmişlerdir.
+Bir katılımcı “Yeterli eğitim ve bilinçlendirme
+sağlanması ve internet altyapı sorunlarının çözülmesi koşuluyla yaygınlaşmalı” derken diğer
+katılımcı “Uzaktan eğitim avantajlarının yanında dezavantajı da olan bir sistem.
+Altyapı ve
+bağlantı sorunlarının yanı sıra öğrencilerin yüksek öz disiplin ve öz düzenlemeye sahip
+olmasını gerektiren bir uygulama.
+Mevcut koşullarda zorunlu hallerde kullanılması daha uygun
+diye düşünüyorum ama şartlar iyileştikçe yaygınlaşmasını destekliyorum.” şeklinde yorum
+yapmıştır.
+Katılımcılara öğrencilerin bu sistem üzerinden konuları yeterince anlayıp
+anlayamayacaklarına ilişkin görüşleri sorulmuştur.
+Bu bulgu Tablo 15’te listelenmiştir.
+Tablo 15.
+Öğrencilerin Konuları Yeterince Anlama Durumu
+Anlama Düzeyi f Anlayacaklarını düşünüyorum 15 Emin değilim, bekleyip göreceğiz 8 Geleneksel eğitimdeki gibi olmayacaktır 4
+NEF-EFMED Cilt 14, Sayı 1, Haziran 2020/ NFE-EJMSE Vol.
+14, No.
+1, June 2020
+Durak, G., Çankaya, S. & İzmirli, S. 803
+Tablo 15’te görüleceği üzere katılımcıların yaklaşık yarısı (f=15) öğrencilerin bu sistem
+ile de konuları yeterince anlayacaklarını düşünürken, sekiz katılımcı emin olmadıklarını
+belirtmiştir.
+Dört katılımcı ise uzaktan eğitimin geleneksel eğitim gibi olamayacağını
+düşünmektedir.
+Bu seçeneklerin dışında bazı katılımcılar derse, öğretim elemanına ve
+öğrencilerin içsel motivasyonlarına vurgu yaparak bu konuda genelleme yapılmasının zor
+olduğunu belirtmişlerdir.
+Bir katılımcı “Uzaktan eğitim profiline yakın öğrenciler (içsel
+motivasyon odaklı, kendi öğrenmesini programlayabilen, öz-düzenleme becerileri yüksek) daha
+anlamlı bir öğrenme süreci geçirecektir.” şeklinde görüş bildirirken bir başka katılımcı ise
+“Derslerin alanı ve içeriğinin önemli olacağını, her ders için farklı değerlendirme yapılmasının
+daha doğru olacağını düşünüyorum” şeklinde fikrini beyan etmiştir.
+Bir başka katılımcının bu
+konudaki görüşü ise “Planlı, zamanlı şekilde ders materyalleri hazırlanıp, öğrencilerle
+paylaşıldığı surece daha etkili olduğunu; değerlendirme konusunda alternatif
+değerlendirmelerin önem kazandığını düşünüyorum.
+Kalite açısından önümüzde daha uzun
+yollar olsa da, bu mecburi surecin öğretim üyeleri ve öğrenci hazır bulunuşluğunu hızlı bir
+şekilde daha yukarıya taşıdığını düşünüyorum.” şeklindedir.
+Katılımcılara uzaktan eğitime
+hazırlık sürecinde en çok zorlandıkları durumlar sorulmuştur.
+Bu bulgu Tablo 16’da
+listelenmiştir.
+Tablo 16.
+Uzaktan Eğitime Hazırlık Sürecinde Zorlanılan Durumlar
+Zorluklar f Öğretim elemanlarının eğitim süreci 23 Sistemi geniş çaplı kullanılabilir hale getirmedeki teknik detaylar 23 Farklı sistemlerin entegrasyonu (OBS ve LMS gibi) 11 Bürokratik sorunlar 6 Hali hazırda bir sistem olmayışı (yeni bir sistem kuranlar için) 4 OBS sistemi ile entegrasyonun olmaması 2 Uzmanlık alanımın dışında olması 1 İnternet bağlantı problemleri 1 Not.
+Birden fazla seçenek seçilebilmiştir.
+Tablo 16’da görüldüğü üzere katılımcıların en çok zorlandığı durumlardan biri (f=23)
+öğretim elemanlarının eğitim süreci olmuştur.
+Bu durum normal karşılanabilir.
+Çünkü birçok
+öğretim elemanı bu duruma hazırlıklı değildi ve çok kısa bir süre içerisinde öğretim
+elemanlarından uzaktan eğitim ile ders vermeleri beklenmiştir.
+Ayrıca sistemin çok sayıda
+kullanıcı tarafından kullanılabilmesi için yapılması gereken teknik iyileştirmeler ve farklı
+sistemlerin entegrasyonları da zorlanılan diğer önemli konular olmuşlardır.
+Ayrıca bir katılımcı
+da yaşanan sorunlar sebebiyle öğrenci ve öğretim elemanlarına yardım etmek amacıyla canlı
+destek biriminin kurulduğunu belirtmiştir.
+Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi Necatibey Faculty of Education, Electronic Journal of Science and Mathematics Education
+804 COVID-19 Pandemi Döneminde Türkiye’deki Üniversitelerin Uzaktan Eğitim Sistemlerinin İncelenmesi
+Examining the Turkish Universities’ Distance Education Systems During the COVID-19 Pandemic
+Ankette katılımcılara “Öğretim elemanlarına uzaktan eğitim sitemleri ile ilgili eğitim
+verildi mi?” sorusu yöneltilmiştir.
+Tüm katılımcıların bu soruya “Evet” cevabı verdiği
+görülmüştür.
+Katılımcılara “Öğrencilere uzaktan eğitim sistemlerinin kullanımı ile ilgili eğitim
+verildi mi?” sorusu yöneltilmiştir.
+Bu soruda sadece 2 katılımcı “Hayır” seçeneğini işaretlemiş,
+diğer tüm katılımcılar (f=31) ise “Evet” seçeneğini işaretlemişlerdir.
+Katılımcılara öğretim
+elemanlarının uzaktan eğitime hazır olup olmadıkları sorulmuştur.
+Bu bulgu Tablo 17’de
+listelenmiştir.
+Tablo 17.
+Öğretim Elemanlarının Uzaktan Eğitime Hazır Olma Durumu
+Öğretim Elemanlarının Uzaktan Eğitime Hazır Olma Durumu f Evet 15 Emin değilim 10 Kısmen 6 Hayır 2
+Tablo 17’de görüldüğü üzere katılımcıların yaklaşık yarısı bu soruya “evet” derken, diğer
+yarısı ise “emin değilim” ve “hayır” seçeneklerinin seçmişlerdir.
+Bazı katılımcılar kısmen
+hazırlıklı olduklarını belirmiştir.
+Bir katılımcı konu ile ilgili olarak “Kısmen, çünkü bazı öğretim
+üyelerinin daha önce deneyimi varken bazılarının yok, bazılarının teknoloji kullanım düzeyleri
+iyi iken bazılarının iyi değil, BT (bilişim teknolojileri) kullanım seviyesi düşük olanlar zorluk
+yaşıyorlar.” şeklinde fikir beyan etmiştir.
+Sonuç ve Tartışma
+Pandemi gibi kriz dönemlerinde uzun dönemli planlar yapmak zordur.
+Covid-19
+pandemisi de bu kriz dönemlerinden biridir.
+Bu süreçte üniversiteler apar topar tüm dersler için
+uzaktan eğitim süreçlerini başlatmak zorunda kalmışlardır.
+Önceden hazırlıklı olmayan bazı
+üniversiteler çok zorlanırken, gerekli hazırlık ve altyapısı olan bir başka ifade ile vizyon sahibi
+olan üniversitelerin bu süreçten daha da güçlü çıkacakları düşünülebilir.
+Bu araştırmada
+üniversitelerin bu süreçte ne yaptıkları ve yapılan bu çalışmaların öğrenci ve öğretim elemanları
+üzerindeki etkileri konusunda üniversitelerde uzaktan eğitim konusunda yönetici olan veya
+çalışan katılımcıların görüşlerine başvurulmuştur.
+Katılımcıların büyük çoğunluğu
+üniversitelerin UZEM yöneticisi ve çalışanlarıdır.
+Tüm üniversitelerde UZEM birimi olmadığı
+için bu süreci bazı üniversitelerde Bilgi İşlem Daire Başkanlıkları gibi farklı birimler veya
+kurulan komisyonlar yönetmişlerdir.
+Ulaşılan kişilerin uzaktan eğitim sisteminin işletilmesinde
+NEF-EFMED Cilt 14, Sayı 1, Haziran 2020/ NFE-EJMSE Vol.
+14, No.
+1, June 2020
+Durak, G., Çankaya, S. & İzmirli, S. 805
+rol sahibi kişiler olması bakımından üniversiteler ile ilgili en doğru bilgiye ulaşıldığı
+düşünülmektedir.
+Herand ve Hatipoğlu (2014) ve İzmirli ve Akyüz (2017) kurumların canlı sınıf yazılımı
+tercihinde kendi önceliklerini belirleyip ihtiyaçlarına göre karar vermeleri gerektiğini ifade
+etmişlerdir.
+Pandemi sürecinde üniversiteler de içinde bulundukları şartlara göre kullanacakları
+sistemlere karar vermeye çalışmışlardır.
+Pandemi sürecinde üniversitelerde en çok kullanılan
+öğrenme yönetim sistemleri Moodle ve ALMS’dir.
+Üniversiteler tarafından en çok kullanılan
+canlı ders yazılımları ise Big Blue Button ve Perculus’tur.
+Katılımcıların çoğu üniversitelerinin
+bu süreçte hali hazırda var olan öğrenme yönetim sistemi ve canlı ders yazılımı ile devam
+ettiklerini belirtmişlerdir.
+Ayrıca katılımcıların bir kısmı kullandıkları sistemin/yazılımın
+kullanımının kolay olması ve ücretsiz olmasının tercihlerinde etkili olduğunu belirtmişlerdir.
+Katılımcıların çok büyük çoğunluğu kullandıkları öğrenme yönetim sistemi ve canlı ders
+yazılımlarından memnun olduklarını ve bunları tavsiye ettiklerini belirtmişlerdir.
+Araştırmaya katılan üniversitelerin yaklaşık yarısında öğrencilerin derse devam
+durumlarının takip edildiği görülmektedir.
+Ancak öğrencilerin bazılarının bilgisayarlarının
+olmaması ve internet bağlantısında sorunlar yaşadıkları sosyal medya da paylaşılan konular
+arasında olmuştur.
+Hatta dijital uçurumun etkisinin bu dönemde daha da derinleştiğine yönelik
+çeşitli makaleler yayınlanmıştır.
+Bu tür öğrenciler için özellikle canlı derslerde devam
+durumunun takip edilmesi, başarısız olmalarına sebep olabilecektir.
+Bu nedenle derslerde
+öğrencilere canlı derslere devam zorunluğu getirilmesinin uygun olmadığı düşünülmektedir.
+Alanyazında canlı ders yapılıyorsa da öğrencilerle dersin kayıtlarının paylaşılması gerektiği
+belirtilmektedir (Hammond vd., 2020).
+Araştırmanın katılımcılarının büyük çoğunluğu pandemi sürecinde uygulanan büyük
+ölçekli uzaktan eğitim uygulamalarının yaygınlaşması gerektiğini ifade etmektedirler.
+Yaygınlaşmaması gerektiğini düşünen hiç katılımcı yoktur.
+Sadece bir katılımcı uzaktan eğitim
+uygulamalarının yalnızca zorunlu hallerde kullanılması gerektiğini düşünmektedir.
+Ayrıca bazı
+katılımcılar ise uzaktan eğitim uygulamalarının yüz yüze eğitimi desteklemek amacıyla da
+kullanılabileceğini belirtmişlerdir.
+Türkiye’deki üniversitelerde genellikle önlisans, lisans ve
+tezsiz yüksek lisans düzeyinde uzaktan eğitim programları bulunmaktadır.
+İzmirli, Şahin
+İzmirli ve Çankaya (2019) tarafından gerçekleştirilen çalışmada Türkiye’de çevrimiçi uzaktan
+tezsiz yüksek lisans programlarının bulunduğu, tezli yüksek lisans programlarının sınırlı sayıda
+olduğu ve doktora programlarının ise hiç bulunmadığı belirtilmektedir.
+Çalışmada çevrimiçi
+uzaktan lisansüstü eğitime ilişkin uzaktan eğitim yöneticilerinin görüşlerine başvurulmuş,
+Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi Necatibey Faculty of Education, Electronic Journal of Science and Mathematics Education
+806 COVID-19 Pandemi Döneminde Türkiye’deki Üniversitelerin Uzaktan Eğitim Sistemlerinin İncelenmesi
+Examining the Turkish Universities’ Distance Education Systems During the COVID-19 Pandemic
+yöneticilerin tezli yüksek lisans ve doktoranın uzaktan verilebileceğini ifade ettikleri
+görülmüştür.
+Bu bağlamda Covid-19 sürecinden sonra edinilecek deneyim ile çevrimiçi uzaktan
+tezli yüksek lisans programlarının yaygınlaşacağı ve doktora programlarının açılacağı ifade
+edilebilir.
+Bu kapsamda yükseköğretim kurumlarında uzaktan eğitime ilişkin usul ve esasların
+(Yükseköğretim Kurulu [YÖK], 2015) YÖK tarafından düzenlenmesi gerektiği söylenebilir.
+Araştırmada Covid-19 sürecinde üniversitelerin tamamının öğretim elemanlarına uzaktan
+eğitim sistemleri ile ilgili eğitim verdiği (kullanım kılavuzu ve/veya videosu sunulması)
+görülmüştür.
+İzmirli ve Kırmacı (2017) tarafından pandemi öncesinde gerçekleştirilen
+araştırmada da uzaktan eğitim veren üniversitelerin çoğunun öğretim elemanlarına çevrimiçi
+öğretim yeterlikleri konusunda eğitim verdikleri görülmüştür.
+Uzaktan öğretimin nasıl
+yapılabileceği ile ilgili çevrimiçi sertifika programları da bulunmaktadır (örn.
+Gülbahar ve
+Karataş, 2016).
+Alanyazında uzaktan eğitim sistemlerinin (teknik bilgi ve beceriler) yanı sıra
+pedagojik bilgi ve beceriler ile ilgili de eğitimin verilmesi gerektiği belirtilmektedir (İzmirli ve
+Kırmacı, 2017; Vlachopoulos, 2020).
+Katılımcıların yaklaşık üçte biri öğretim elemanlarının
+uzaktan eğitim sürecine hazır olmadığını veya hazır olup olmadıklarından emin olmadıklarını
+belirtmişlerdir.
+Pandemi sürecinden dolayı acil olarak uzaktan eğitime geçildiğinden uzaktan
+öğretim konusunda kapsamlı bir hizmetiçi eğitim düzenlenememiş olabilir.
+Ayrıca
+katılımcıların yaklaşık üçte birinin uzaktan eğitim sürecinde verilen derslerin öğrenciler
+tarafından yeterince anlaşılmadığını veya anlaşılıp anlaşılmadığından emin olmadıklarını ifade
+etmişlerdir.
+Öneriler
+Bu çalışma kapsamında uzaktan eğitim veren kurumlara, eğitmenlere ve araştırmacılara
+aşağıdaki öneriler sunulmuştur:
+• Kurumların kullanacağı uzaktan eğitim sisteminin basit, sade ve kullanım kolaylığına
+sahip olması “kullanıcı dostu” ilkesi açısından önem arz etmektedir.
+• Araştırmada hiç canlı ders (senkron ders) yapmayan üniversitelerin olduğu görülmüştür.
+Halbuki uzaktan eğitimin eşitlik kuramı çerçevesinde “uzaktan öğrenenlere, yüz yüze
+öğrenme deneyimlerine ne kadar denk öğrenme imkanı verilirse öğrenme çıktıları da o
+kadar denk olabilecektir” ilkesi doğrultusunda canlı derslere de yer verilmesi gerektiği
+ifade edilebilir.
+Ancak canlı derslerde devam zorunluluğu aranmaması önerilebilir.
+NEF-EFMED Cilt 14, Sayı 1, Haziran 2020/ NFE-EJMSE Vol.
+14, No.
+1, June 2020
+Durak, G., Çankaya, S. & İzmirli, S. 807
+• Üniversitelerin uzaktan eğitim destek hizmetleri konusunda sağlam bir alt yapı
+kurmaları ve öğrencilere sürekli bir destek imkanı sağlamaları önemli olacaktır.
+Ayrıca
+öğretim elemanlarına uzaktan eğitim konusunda hizmetiçi eğitimler de verilebilir.
+• YÖK’ün Türkiye’deki bütün üniversitelerin kullanabileceği şekilde milli bir uzaktan
+eğitim sistemi geliştirmesi önerilmektedir.
+Bu şekilde bu tür sistemlere ödenen büyük
+miktarlardaki ücretler ülke içerisinde kalacak ve eğitimde fırsat eşitliğinin sağlanmasına
+olanak tanıyacaktır.
+• Pandemi döneminde acil uzaktan eğitim sürecinin detaylı bir şekilde resmedildiği
+durum çalışmaları desenlenebilir.
+• Pandemi döneminde üniversitelerde acil uzaktan eğitimin değerlendirilmesi için tüm
+paydaşların görüşleri (öğretim elemanı, öğrenci, uzaktan eğitim süreci yöneticisi)
+alınarak nicel ve nitel çalışmalar desenlenebilir.
+Kaynakça
+Cai, R., & Wang, Q.
+(2020).
+Çetinkaya Aydın, G. 2020.
+“COVID-19 Salgını Sürecinde Öğretmenler”.
+Tedmem.
+https://tedmem.org/covid-19/covid-19-salgini-surecinde-ogretmenler, Son erişim tarihi:
+01 Mayıs 2020.
+Dai, D., & Lin, G. (2020).
+Daniel, S.J.
+(2020).
+Education and the COVID-19 pandemic.
+(1997).
+Gülbahar, Y., & Karataş, E. (2016).
+Uzaktan öğretimi uzaktan eğitim yöntemi ile öğrenmek:
+“E-eğitmen sertifika programı”.
+Kastamonu Eğitim Dergisi, 24(4), 1867-1880.
+Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi Necatibey Faculty of Education, Electronic Journal of Science and Mathematics Education
+808 COVID-19 Pandemi Döneminde Türkiye’deki Üniversitelerin Uzaktan Eğitim Sistemlerinin İncelenmesi
+Examining the Turkish Universities’ Distance Education Systems During the COVID-19 Pandemic
+Hammond, T., Watson, K., Brumbelow, K., Fields, S., Shryock, K., Chamberland, J.-F.,...
+Herbert, B.
+(2020).
+http://hdl.handle.net/1969.1/187835
+adresinden edinilmiştir.
+Herand, D., & Hatipoğlu, Z.
+A.
+(2014).
+Uzaktan eğitim ve uzaktan eğitim platformları'nın
+karşılaştırılması.
+Çukurova Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi,
+Işık, A. H., Karacı, A., Özkaraca, O., & Biroğul, S. (2010).
+Web Tabanlı Eş Zamanlı (Senkron)
+Uzaktan Eğitim Sistemlerinin Karşılaştırmalı Analizi.
+Akademik Bilişim 2010, Muğla
+Üniversitesi, Muğla.
+http://ab.org.tr/ab10/kitap/isik_karaci_AB10.pdf adresinden
+edinilmiştir.
+İzmirli, S., & Akyüz, H. İ.
+(2017).
+Eş zamanlı sanal sınıf yazılımlarının incelenmesi.
+Eğitimde
+Kuram ve Uygulama, 13(4), 788-810.
+İzmirli, S., & Kırmacı, Ö.
+(2017).
+Akdeniz Eğitim Araştırmaları Dergisi, 11(22), 38-52.
+İzmirli, S., Şahin İzmirli, Ö., & Çankaya, S. (2019).
+Yöneticilerin gözünden Türkiye’de
+çevrimiçi uzaktan lisansüstü eğitim.
+Necatibey Eğitim Fakültesi Elektronik Fen ve
+Matematik Eğitimi Dergisi, 13(2), 1216-1238.
+Karip, E. 2020.
+“COVID-19: Okulların Kapatılması ve Sonrası”, em.
+https://tedmem.org/vurus/covid-19-okullarin-kapatilmasi-ve-sonrasi, Son erişim tarihi:
+01 Mayıs 2020.
+Lavolette, E., Venable, M. A., Gose, E., & Huang, E. (2010).
+TechTrends, 54(5), 5461.
+Saraç, Y.
+2020.
+“Basın Açıklaması”.
+Yükseköğretim Kurulu.
+https://basin.yok.gov.tr/KonusmaMetinleriBelgeleri/2020/04-yok-baskani-saracuzaktan-egitime-iliskin-basin-toplantisi.pdf, Son erişim tarihi: 29 Nisan 2020.
+Shattuck, J., Dubins, B., & Zilberman, D. (2011).
+NEF-EFMED Cilt 14, Sayı 1, Haziran 2020/ NFE-EJMSE Vol.
+14, No.
+1, June 2020
+Durak, G., Çankaya, S. & İzmirli, S. 809
+Schullo, S., Hilbelink, A., Venable, M., & Barron, A. E. (2007).
+Vlachopoulos, D. (2020).
+Xia, J.
+(2020).
+Xie, Z., & Yang, J.
+(2020).
+Yıldırım, D., Tüzün, H., Çınar, M., Akıncı, A., Kalaycı, E., Bilgiç, H.G., & Yüksel, Y.
+(2011).
+Uzaktan Eğitimde Kullanılan Eşzamanlı Sanal Sınıf Araçlarının Karşılaştırılması.
+Akademik Bilişim 2011, İnönü Üniversitesi, Malatya.
+http://ab.org.tr/ab11/bildiri/198.pdf adresinden edinilmiştir.
+YÖK (2020).
+YÖK Üniversitelerimizdeki Uzaktan Öğretimin Bir Aylık Fotoğrafını Çekti.
+https://www.yok.gov.tr/Sayfalar/Haberler/2020/uzaktan-egitime-yonelikdegerlendirme.aspx adresinden edinilmiştir.
+Yükseköğretim Kurulu.
+(2015).
+Yükseköğretim kurumlarında uzaktan öğretime ilişkin usul ve
+esaslar.
+https://www.yok.gov.tr/Documents/Kurumsal/egitim_ogretim_dairesi/Uzaktan_ogretim
+/yuksekogretim_kurumlarinda_uzaktan_ogretime_iliskin_usul_ve_esaslar.pdf
+adresinden 12.04.2020 tarihinde edinilmiştir.
+Best Evidence of Chinese Education, 4
+Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi Necatibey Faculty of Education, Electronic Journal of Science and Mathematics Education

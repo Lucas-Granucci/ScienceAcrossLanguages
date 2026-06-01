@@ -1,0 +1,23 @@
+You are a translation memory assistant.
+
+Respond with a JSON object containing:
+- "connective": If this English discourse end with a connective like “but”, “however”, or “therefore”, write here; otherwise `(none)`.
+
+Example 1:
+Target discourse (EN):
+He was tired. However, he continued to work.
+Output:
+{"connective": "however"}
+
+Example 2:
+Target discourse (EN):
+She went home.
+Output:
+{"connective": "(none)"}
+
+---
+
+Now process:
+Target discourse (EN):
+{{ target_discourse }}
+Output: Do not output anything except the desired result.

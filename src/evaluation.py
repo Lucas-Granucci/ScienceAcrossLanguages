@@ -2,8 +2,9 @@ import json
 import subprocess
 from datetime import datetime
 from pathlib import Path
-from typing import Dict, List, Tuple
+from typing import Dict, List, Tuple, Any
 
+import sacrebleu  # <--- Added import
 from comet import download_model, load_from_checkpoint
 from dotenv import load_dotenv
 
@@ -86,7 +87,7 @@ def _build_comet_dataset(
     return [{"src": s, "mt": m, "ref": r} for s, m, r in zip(src, mt, ref)]
 
 
-def _score_systems(
+def _score_systems_comet(
     model_name: str,
     batch_size: int,
     gpus: int,
@@ -100,6 +101,30 @@ def _score_systems(
         output = model.predict(samples, batch_size=batch_size, gpus=gpus)
         scores[system_name] = float(output.system_score)
     return scores
+
+
+def _calculate_traditional_metrics(
+    translations: List[str], references: List[str]
+) -> Dict[str, float]:
+    """Calculates BLEU, chrF++, and TER using sacrebleu."""
+
+    # Calculate BLEU
+    # Note: tokenize='flores200' (spBLEU) is often used for modern evaluation,
+    # but the default (13a) is standard for generic BLEU.
+    # Adjust arguments here if spBLEU is specifically required.
+    bleu_obj = sacrebleu.corpus_bleu(translations, [references])
+    bleu_score = round(bleu_obj.score, 2)
+
+    # Calculate chrF++ (word_order=2)
+    chrf_obj = sacrebleu.corpus_chrf(translations, [references], word_order=2)
+    chrf_score = round(chrf_obj.score, 2)
+
+    # Calculate TER
+    ter_metric = sacrebleu.metrics.TER()
+    ter_obj = ter_metric.corpus_score(translations, [references])
+    ter_score = round(ter_obj.score, 2)
+
+    return {"bleu": bleu_score, "chrf": chrf_score, "ter": ter_score}
 
 
 def _write_plaintext_corpora(
@@ -210,17 +235,31 @@ def run():
         run_root = (
             lang_paths["base_dir"]
             / "eval"
-            / "comet"
+            / "full_metrics"  # Renamed folder slightly to reflect all metrics
             / datetime.now().strftime("%Y%m%d_%H%M%S")
         )
         run_root.mkdir(parents=True, exist_ok=True)
 
-        scores = _score_systems(
+        # 1. Calculate COMET
+        comet_scores = _score_systems_comet(
             model_name=model_name,
             batch_size=batch_size,
             gpus=gpus,
             comet_inputs=comet_inputs,
         )
+
+        # 2. Aggregate all scores (COMET + BLEU + chrF + TER)
+        final_scores: Dict[str, Dict[str, float]] = {}
+
+        for system_name, mt_lines in aligned_mt.items():
+            # Calculate traditional metrics
+            trad_metrics = _calculate_traditional_metrics(mt_lines, aligned_ref)
+
+            # Combine with COMET score
+            final_scores[system_name] = {
+                "comet": comet_scores.get(system_name, 0.0),
+                **trad_metrics,
+            }
 
         mt_paths = _write_plaintext_corpora(
             run_root, aligned_src, aligned_ref, aligned_mt
@@ -232,13 +271,15 @@ def run():
             "gpus": gpus,
             "batch_size": batch_size,
             "n_segments": len(aligned_src),
-            "systems": scores,
+            "systems": final_scores,
         }
+
         (run_root / "scores.json").write_text(
             json.dumps(results, ensure_ascii=False, indent=2),
             encoding="utf-8",
         )
 
+        # Run comet-compare if we have multiple systems
         if len(aligned_mt) >= 2:
             retcode, stdout, stderr = _run_comet_compare(
                 model_name=model_name,

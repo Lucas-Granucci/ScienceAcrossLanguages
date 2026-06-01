@@ -17,9 +17,9 @@ def translate(
             input_json_path, source_field="translated_txt"
         )
         app, initial_state = build_translation_pipeline(
-            None,
-            language_pair,
-            config,
+            source_document=None,
+            language_pair=language_pair,
+            config=config,
             graph_save_dir=output_graph_path,
             preset=preset,
             preloaded_state=preloaded_state,
@@ -31,9 +31,9 @@ def translate(
             source_text = fp.read()
 
         app, initial_state = build_translation_pipeline(
-            source_text,
-            language_pair,
-            config,
+            source_document=source_text,
+            language_pair=language_pair,
+            config=config,
             graph_save_dir=output_graph_path,
             preset=preset,
         )
@@ -59,12 +59,12 @@ def main():
                 translated_dir / f"{input_discourse_json_path.stem}.json"
             )
             translate(
-                None,
-                lang_pair,
-                preset,
-                output_graph_path,
-                input_discourse_json_path,
-                config,
+                source_path=None,
+                language_pair=lang_pair,
+                preset=preset,
+                output_graph_path=output_graph_path,
+                input_json_path=input_discourse_json_path,
+                config=config,
             )
 
 

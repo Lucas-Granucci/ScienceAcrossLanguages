@@ -1,0 +1,346 @@
+Yıldırım, M. & Sarı, T. (2018).
+Öz-Şefkat Ölçeği Kısa Formu’nun Türkçe uyarlaması: Geçerlik ve güvenirlik çalışmasıı.
+Abant İzzet Baysal Üniversitesi Eğitim Fakültesi Dergisi, 18 (4), 2502-2517.
+Geliş Tarihi: 09/08/2018 Kabul Tarihi: 14/11/2018
+ÖZ-ŞEFKAT ÖLÇEĞİ KISA FORMU’NUN TÜRKÇE UYARLAMASI: GEÇERLİK VE GÜVENİRLİK ÇALIŞMASI*
+Musa YILDIRIM**
+Tuğba SARI*** ÖZET Bu araştırmada Öz-Şefkat Ölçeği Kısa Formu’unun Türkçe versiyonunun ergenler üzerindeki psikometrik özelliklerini incelemek amaçlanmıştır.
+Bu amaçla 400’ü ortaokul ve 400’ü lise öğrencisi olan 800 ergenden veri toplanmıştır.
+Ölçeği psikometrik özelliklerini incelemek amacıyla yapı geçerliliği, ölçüt bağıntılı geçerliliği, iç tutarlık katsayısı ve test-tekrar test güvenilirliği ele alınmıştır.
+Elde edilen bulgulara göre orijinal formda bulunan 10. madde .30’un alında faktör yükü olması sebebiyle ölçekten çıkarılmıştır.
+AFA sonucu ölçeğin tek faktörlü bir yapı gösterdiği, bu faktörün iki alt bileşenden oluştuğu görülmüştür.
+Yapılan DFA’da ölçeğin faktör yapısı doğrulanmıştır.
+Aynı zamanda ergenlerin öz-şefkat puanlarıyla öznel iyi oluş puanları arasında orta düzey pozitif bir ilişki saptanırken, öz-şefkat puanlarıyla kendine şefkat vermekten korkma puanları arasında orta düzey negatif bir ilişki saptanmıştır.
+Ölçeğin iç tutarlılık katsayısı .75 olarak hesaplanmıştır.
+Son olarak 17 gün araya uygulanan test-tekrar test ölçümleri arasında yüksek düzey bir ilişki olduğu görülmüştür.
+Sonuç olarak Öz-Şefkat Ölçeği Kısa Formu’nun 11 maddeden ve tek boyuttan oluşan bir ölçek olarak Türk ergenlerin öz-şefkat düzeyini ölçme konusunda geçerli ve güvenilir bir ölçme aracı olduğu söylenebilir.
+Anahtar Kelimeler: Öz-Şefkat Ölçeği Kısa Formu, Türkçe’ye uyarlama, ortaokul öğrencileri, lise öğrencileri
+ADAPTATION OF THE SHORT FORM OF SELF-COMPASSION
+SCALE INTO TURKISH: A VALIDITY AND RELIABILITY
+STUDY ABSTRACT In this study, it was aimed to examine the psychometric properties of the Short Form of Self- Compassion Questionnaire on Turkish adolescents.
+Keywords: Self-Compassion Scale Short Version, adaptation study, high school students
+* Bu çalışma birinci yazarın ikinci yazar danışmanlığında Bolu Abant izzet Baysal Üniversitesi Eğitim Bilimleri Enstitüsü’nde tamamlanmış olan tezinin bir bölümünden üretilmiştir.
+** Milli Eğitim Bakanlığı, musayildirim78@gmail.com *** Bolu Abant İzzet Baysal Üniversitesi, Eğitim Fakültesi, Eğitim Bilimleri Bölümü, Rehberlik ve Psikolojik Danışmanlık Anabilim Dalı, saritugba75@gmail.com
+Musa YILDIRIM, Tuğba SARI
+1.GİRİŞ
+Şefkat sözcüğü Türkçeye Latin kökenli bir sözcük olan “Compassion” sözcüğünden çevrilmiştir.
+Compassion (Şefkat), com (birlikte) + pati (acı çekmek) kelimelerinin birleşiminden meydana gelmiştir (Strauss ve diğerleri, 2016) ve diğer insanların acılarını duyarlı, sabırlı, sevecen ve empatik şekilde karşılayabilme ve bu acıları, her insanın yaşayabileceği bir deneyim olduğunu görebilme yeteneği olarak tanımlanmaktadır (Condon ve Feldman Barrett, 2013).
+Öz-şefkat ise kişinin şefkatli tutum ve davranışlarını kendine yönlendirmesidir.
+Neff (2003a) öz-şefkati, kişinin acı, ıstırap, başarısızlık ve yetersizlik duyduğu zor zamanlarında kendine karşı sevecen ve nazik olması, olumsuz duygularının farkında olarak bunları kabul etmesi ve yaşanabilecek her türden zorlayıcı yaşantıların insan olmakla ilgili olduğunu bilmesi olarak tanımlamaktadır.
+Öz-şefkat, bilgece yaşamanın yollarını arayan ve bunu yaparken sevgiyi, şefkati, empatiyi ve sükûneti/ağırbaşlılığı esas alan Budist öğretinin temel kavramlarından biridir (Wallace ve Shapiro, 2006).
+Budist felsefeye göre acılar, başarısızlıklar ve güç yaşantılar insan hayatının bir parçasıdır, hemen herkes insan olmanın gereği olarak acı şeyler yaşar ve bu kaçınılmazdır (Rubin, 2013).
+Önemli olan şey acı veren zor yaşantılarla uygun şekilde baş edebilmektir.
+Bilgece bir yaşam ancak acılarla ve zorlu yaşantılarla etkili şekilde baş etmekle mümkündür (Thurman, 2006).
+Öz-şefkat de acılarla ve güç yaşantılarla baş etmenin sağlıklı yollarından biri olarak kabul edilmektedir (Neff, 2003a).
+Öz-şefkat, üç bileşenden oluşan bir yapıdır.
+Her bileşen kendi içinde olumlu ve olumsuz bir boyut barındırmaktadır.
+Bunlardan ilki öz-sevecenliğe (self-kindness) karşı öz- yargılamadır (self-judgment).
+Öz-sevecenliğe karşı öz-yargılama, duygusal olarak çekilen acılara ve yaşanan zor durumlara karşı verilen yanıtla ilgilidir (Neff ve diğerleri, basım aşamasında).
+Bu alt boyut kişinin acılar ve zorluklar karşısında kendine karşı tutumunun öz-sevecenlikle öz-yargılama arasında bir tutum olduğunu anlatır.
+Öz- sevecenlik, acılar, başarısızlıklar ve yetersizlikler karşısında kişinin kendine karşı nazik, sevecen ve anlayışlı bir tutum içinde olması, ihtiyaç duyduğu bakımı ve ilgiyi kendine verebilmesi demektir (Neff, 2003b).
+Buna karşı öz-yargılama ise acılar, başarısızlıklar ve yetersizlikler karşısında kişinin kendine karşı suçlayıcı bir tutum sergilemesi, kendini cezalandırması ve yıpratması olarak görülebilir.
+İkinci bileşen ortak paylaşımların bilincinde olmaya (common humanity) karşı izolasyondur (isolation).
+Bu alt faktör yaşana acı durumların ve zorlu yaşantılarının insan olmakla ilgili olduğunu bilmekle ilgilidir.
+Yaşanan acı ve zor durum hakkında bilişsel bir anlamlandırmayı anlatır (Neff ve diğerleri, basım aşamasında).
+Ortak paylaşımların bilincinde olmak yaşanan zor ve acı deneyimlerin aslında diğer pek çok insan tarafından da yaşandığını bilmek, acı şeyler yaşamanın insan olmanın doğal bir parçası olduğunu görebilmek demektir.
+Ortak paylaşımların bilince olan kişi “yaşadığım zorlu yaşantı insan olmamla ilgili, bu çoğu kişini başına gelebilir, hemen her insan hayatında zor yaşantılarla karşılaşabilir” şeklinde bir tutum içinde olur (Neff, 2003a).
+Buna karşı izolasyon ise kişinin zor yaşantılarını, acılarını, başarısızlıklarını ve yetersizliklerini sadece kendi başına gelen yaşantılar olarak görmesidir.
+Sonuncu alt bileşen ise farkındalığa (mindfulness) karşı aşırı özdeşleşmedir (over-identification).
+Farkındalığa karşı aşırı özdeşleşme kişinin acılarını ve başarısızlıklarını görmesi, anlaması ve ortaya çıkan olumsuz duyguların yargısızca yaşamasıyla ilgilidir (Neff ve ark, basım aşamasında).
+Farkındalık hissedilen duyguları ve yaşanılan deneyimleri iyi-kötü, güzel-çirkin gibi sıfatlarla etiketlemeden onların yaşanmasına izin vermek, yaşanılan anda bulunmak, o ana dikkatini odaklamak ve duygu ve düşünceleri dengede tutabilmek anlamına gelmektedir (Brown ve Ryan, 2003; Neff,
+Öz-Şefkat Ölçeği Kısa Formu’nun Türkçe Uyarlaması: Geçerlik…
+2003a).
+Buna karşın aşırı özdeşleşme ise insanların kendilerini duygularıyla tanımlaması (örn: çaresiz bir insanım), yaşanan durumlarla aşırı düzeyde özdeşim kurması, zor ve acı yaşantıların gelip geçmek yerine hep süreceğini düşünmesidir.
+Sonuç olarak öz-şefkat üç faktörden oluşan bir yapı olarak tanımlanmıştır ve her faktör kendi içinde olumlu (öz- sevecenlik, ortak paylaşımların bilincinde olmak ve farkındalık) ve olumsuz (öz- yargılama, izolasyon ve aşırı özdeşim) birer yapı barındırmaktadır (Costa ve diğerleri, 2016).
+Böylece öz-şefkat altı alt boyuttan oluşan bir bütün olarak ele alınabileceği gibi (Neff, 2003b); bu altı alt boyut olumlu ve olumsuz olmak üzere iki tema altında da incelenebilir (Bengtsson, Söderström ve Terjestam, 2016; Costa ve diğerleri, 2016).
+Çünkü bu yapıyı oluşturan alt boyutlardan öz-sevecenlik, ortak paylaşımların bilincinde olmak ve farkındalık olumlu olarak öz-şefkatli bir tutumu anlatırken; öz-yargılama, izolasyon ve aşırı özdeşleşme olumsuz olarak öz-eleştirel bir tutumu anlatmaktadır (Costa ve diğerleri, 2016).
+Yurtdışında yapılan araştırmalarda, öz-şefkat ile yaşam doyumu (Bluth ve Blanton, 2012), mutluluk, iyimserlik (Neff, Rude ve Krikpatrick, 2007), ihtiyaç doyumu, benlik saygısı, kendini kabul etme (Neff, 2003b) ve psikolojik sağlamlık (Neff ve McGehee, 2009) arasında pozitif ilişki olduğu raporlaştırılmıştır.
+Benzer şekilde ülkemizde yapılan araştırmalarda da öz-şefkatin yaşam doyumu (Tel ve Sarı, 2016), kendini geliştirici mizah ve iletişim becerileri (Akyol, 2011), sosyal destek (Akkaya, 2011), farkındalık (mindfulness) ve kendini toparlama gücü (Aydın Sünbül, 2016), olumlu anne algısı, olumlu baba algısı ve olumlu kendilik algısı (Andiç, 2013) gibi olumlu ruh sağlığını öngören kavramlarla pozitif yönlü bir ilişki içinde olduğu görülmektedir.
+Buna karşın ülkemizde yapılan çalışmalar depresyon, anksiyete, kaygı, öfke, stres (Andıç, 2013; Temel, 2015), olumsuz internet kullanımı (Yiğit, 2015), duygu düzenleme güçlüğü (Aydın Sünbül, 2016), yalnızlık (Akın, 2010b) ve ilişkilerle ilgili bilişsel çarpıtmalar (Akın, 2010a) ile öz-şefkat arasında negatif bir ilişki olduğunu saptamıştır.
+Benzer şeklide yurtdışında yapılan çalışmalar da öz-şefkat depresyon (Reas, 2010), anksiyete (Pauley ve McPherson, 2010), travma sonrası stres bozukluğu (Thompson ve Waltz, 2008) ve yeme bozuklukları (Ferreira, Pinto-Gouveia Duarte, 2013) ile negatif ilişkili bulunmuştur.
+Buradan hareketle öz-şefkatin olumlu ruh sağlığını belirleyen bir değişken olduğu söylenebilir (Neff, 2003a).
+Neff (2003a) tarafından psikoloji alan yazınına kazandırılan bu kavram 2011 yılına kadar sadece “Self-Compassion Scale” adlı ölçme aracıyla ölçülmüştür.
+“Self-Compassion Scale” ülkemiz alan yazınında Öz-Anlayış Ölçeği (Deniz, Kesici ve Sümer, 2008) ve Öz- Duyarlılık Ölçeği (Akın, Akın ve Abacı, 2007) şeklinde yer almıştır.
+Raes, Pommier, Neff ve Van Gucht (2011) tarafından zaman açısından uzun forma göre daha kullanışlı olduğu daha kullanışlı olacağı düşünülerek “Self-Compassion Scale Short Form” (Öz- Şefkat Ölçeği Kısa Formu) geliştirilmiştir.
+Ölçeğin bu kısa formunun özellikle toplam puanın işlem yapılacağı araştırmalarda kullanılması önerilmiştir (Raes, Pommier, Neff ve Van Gucht, 2011).
+Öz-Şefkat Ölçeği Kısa Formu, 26 maddelik Öz-Şefkat Ölçeği’nden (Neff, 2003b) alınmış maddelerden oluşmaktadır.
+Kısa formun oluşturulması amacıyla öz-şefkatin her alt bileşeni için iki madde ölçekte yer almıştır.
+Bu alt bileşenlerden olumlu olanlar; Öz Sevecenlik, Paylaşımların Bilincinde Olma, Farkındalık şeklinde ve olumsuz olanlar da Öz-Yargılama, İzolasyon ve Aşırı-Özdeşleşme şeklindedir.
+Böylece olumlu ve olumsuz bileşenlerden oluşan 12 maddelik Öz-Şefkat Ölçeği Kısa Formu (ÖŞÖ-K) oluşturulmuştur.
+Bu ölçeğin son yıllarda Batı alan yazınında özellikle kullanım kolaylığından dolayı kullanılmaya başlandığı görülmektedir (Neff ve ark, basımda).
+Bu
+Musa YILDIRIM, Tuğba SARI
+çalışmanın amacı Öz-Şefkat Ölçeği Kısa Formu’nun Türkçeye uyarlamak ve ergenler üzerinde psikometrik özelliklerini incelemektir.
+ÖŞÖ-K’nın Türkçe’ye kazandırılmasının ergenlerle yürütülecek araştırmalarda uygulama esnasında zaman açısından kolaylık sağlayabileceği düşünülmektedir.
+2.1.
+Araştırma Modeli
+Yapılan araştırmada Batı alan yazınında geliştirilen Öz-Şefkat Ölçeği Kısa Formu’nun Türkçe’ye uyarlama çalışmalarının yapılması ve psikometrik özelliklerinin incelenmesi amaçlanmaktadır.
+Bu amaç bağlamında gerçekleştirilen araştırma bir ölçek uyarlama aşamalarını kapsamaktadır.
+2.2.
+Çalışma Grubu
+Bu araştırma, 2016-2017 Eğitim Öğretim Yılında Sakarya İl’inde bulunan ortaokul ve liselerde gerçekleştirilmiştir.
+Araştırma kapsamında 800 öğrenciden veri toplanmıştır.
+Çalışma grubuna ait cinsiyet, okul türü ve sınıfı düzeyi özellikleri Tablo 1’ de sunulmuştur.
+Tablo 1.
+ÖŞÖ-K’nın Psikometrik Özelliklerinin İncelendiği Çalışma Grubunun Özellikleri
+Cinsiyet Okul Türü Sınıf Düzeyi
+Ortaokul 400 (%50) 5. sınıf 100 (%12,5) 6. sınıf 100 (%12,5)
+Anadolu Lisesi 174 (%21,8) 7. sınıf 100 (%12,5) 8. sınıf 100 (%12,5)
+Erkek 400 (%50)
+Fen Lisesi 100 (%12,5) 9. sınıf 100 (%12,5) 10. sınıf 100 (%12,5) İmam Hatip Lisesi 74 (%9,3) 11. sınıf 100 (%12,5) Mesleki ve Teknik
+Anadolu Lisesi 52 (%6,5) 12. sınıf 100 (%12,5)
+Toplam 800 (%100) Toplam 800 (%100) Toplam 800 (%100)
+Tablo 1 incelendiğinde örneklemde 400 (%50) kız, 400 (%50) erkek öğrenci bulunmaktadır.
+Öğrencilerin 400 (%50)’ü ortaokulda, 174 (%21,8)’ü Anadolu Lisesinde, 100 (%12,5)’ü Fen Lisesinde, 74 (%9,3)’ü İmam Hatip Lisesinde ve 52 (%6,5)’si Mesleki ve Teknik Anadolu Lisesinde öğrenim görmektedir.
+Örneklemin sınıf düzeyi özelliklerine bakıldığında ise 5. sınıftan 12. sınıfa kadar her sınıf düzeyinden 100 (%12,5) öğrencinin örnekleme katıldığı görülmektedir.
+Ek olarak ölçeğin test-tekrar test güvenilirlik düzeyini incelenmesi için 800 kişilik örneklem dışında bir ortaokulda öğrenim gören 154 (68 kız, 86 erkek) kişilik bir örneklem grubundan 17 gün ara ile iki kez veri toplanmıştır.
+2.3.
+İşlem
+ÖŞÖ-K’nın geçerlilik güvenilirlik çalışmasının yapılması için öncelikle Kristin Neff ile mail yoluyla iletişime geçilmiş ve gerekli izinler alınmıştır.
+Devamında ölçeğin İngilizce formu rehberlik ve psikolojik danışmanlık alanında çalışan 5 öğretim üyesine gönderilmiş ve kendilerinden ölçek maddelerini çevirmeleri istenmiştir.
+5 öğretim üyesinden gelen çeviri maddeler araştırmacılar tarafından incelenmiş ve sonucunda
+Öz-Şefkat Ölçeği Kısa Formu’nun Türkçe Uyarlaması: Geçerlik…
+Türkçe form oluşturulmuştur.
+Oluşturulan Türkçe form örneklem grubuna uygulanmadan önce araştırmacılar tarafından ortaokul ve lise öğrencilerinden oluşan 10’ar kişilik 2 grupla incelenmiş, ölçek maddelerinin anlaşılıp anlaşılmadığı ele alınmıştır.
+Ölçek maddelerinin ortaokul ve lise öğrencileri tarafından yeterince anlaşıldığı görülmüş ve ölçek örneklem grubuna uygulanmıştır.
+Elde edilen veriler SPSS 22.0 ve Lisrel 8.72 paket programıyla analiz edilmiştir.
+2.4.
+Ölçme Araçları
+Bu bölümde ÖŞÖ-K’nın ölçüt bağıntılı geçerliliğini incelemek için kullanılan Ergen Öznel İyi Oluş Ölçeği ve Şefkat Korkusu Ölçeği tanıtılmıştır.
+2.4.1.
+Ergen Öznel İyi Oluş Ölçeği
+Ergen Öznel İyi Oluş Ölçeği ergenlerde yapılan mutluluk araştırmalarında kullanılması için Eryılmaz (2009) tarafından geliştirilmiş bir ölçme aracıdır.
+Ölçek 15 maddeden ve 4 faktörden oluşan Likert tipi bir ölçme aracıdır.
+Bu faktörler yapısından dolayı “Aile İlişkilerinde Doyum”, “Önemli Diğer Kişiler İle İlişkilerde Doyum”, “Yaşam Doyumu Ve “Olumlu Duygular” olarak isimlendirilmiştir.
+Ölçek maddelerinin her biri 1(kesinlikle katılmıyorum) ile 4 (tamamen katılıyorum) arasında puan almaktadır.
+Ölçekten alınan yüksek puanlar, ölçülen özelliğin fazlaca görüldüğünü göstermektedir.
+Bu ölçme aracı, alt ölçek özelliklerine göre değerlendirilebileceği gibi toplam puan üzerinden de işlem yapılabilir.
+Ölçekte ters puanlanması gereken madde bulunmamaktadır.
+Yapılan güvenilirlik analizi sonucunda Aile İçi İlişkiler alt faktörünün Cronbach Alfa Değeri 0.83, Önemli Diğerleri ile İlişkilerde Doyum alt faktörünün Cronbach Alfa Değeri 0.73 Yaşam Doyumu alt faktörünün Cronbach Alfa Değeri 0.81 ve Olumlu Duygular alt faktörünün Cronbach Alfa Değeri 0.66 olarak hesaplanmıştır.
+Mevcut araştırmada ise ölçeğin tamamı için Cronbach Alfa katsayısı .894 olarak hesaplanmıştır.
+2.4.2.
+Şefkat Korkusu Ölçeği
+Şefkat Korkusu Ölçeği Gilbert, McEwan, Matos ve Rivis (2011) tarafından geliştirilmiş olup Necef ve Deniz (2018) tarafından Türkçe ’ye uyarlanmıştır.
+Ölçek, şefkat korkusunu üç alt boyutta ölçmektedir.
+Bunlar “Başkalarına Anlayış ve Şefkat Göstermekten Korkma”, “Başkalarından Gelen Şefkate Karşılık Vermekten Korkma” Ve “Kendine Anlayış ve Şefkat Göstermekten Korkma” şeklindedir.
+Ölçek toplam 35 maddeden oluşan Likert tipi bir ölçme aracıdır.
+Her alt ölçek kendi içinde puanlanmaktadır.
+Bu araştırma kapsamında ölçeğin sadece “Kendimize Anlayış ve Şefkat Göstermekten Korkma” alt boyutunda bulunan maddeler kullanılmıştır.
+Ölçeğin yapı geçerliliği Doğrulayıcı Faktör Analizi ile incelenmiş ve 3 maddenin faktör yükünün 0.30’un altında kalması sebebiyle ölçekten çıkarılmıştır.
+Bu sebeple orijinalinde 38 madde bulunan ölçeğin Türkçe formunda 35 madde bulunmaktadır.
+Sonuç olarak DFA’nın uyum indeksleri şu şekildedir; χ2 (552, N = 654) = 1631.68, χ 2 /sd = 2.96, CFI = .90; IFI = .90; SRMR = .058; RMSEA = .055 %90G.A.
+(,052 – .058).
+Ölçeğin iç tutarlılık kat sayısı için Cronbach Alfa değeri incelenmiş ve buna göre Başkalarından Gelen Şefkate Karşılık Vermekten Korkma alt boyutu için 0,83, Kendimize Anlayış ve Şefkat Göstermekten Korkma alt boyutu için 0,93, Başkalarına Anlayış ve Şefkat Göstermekten Korkma alt boyutu için 0,83 ve Şefkat Korkusu Ölçeğinin tamamı için 0,92 alfa değeri hesaplanmıştır.
+Ölçeğin ölçüt bağıntı geçerliliği için Şefkat Korkusu Ölçeğinden alınan
+Musa YILDIRIM, Tuğba SARI
+puanlar ile Öz-Anlayış Ölçeğinden ve Yaşam Doyumu Ölçeğinden alınan puanlar arasındaki ilişki incelenmiş ve bu ölçümler arasında anlamlı düzeyde ilişki olduğu ortaya konmuştur
+Mevcut araştırmada kullanılan Kendine Anlayış ve Şefkat Göstermekten Korkma alt boyutuna ait iç tutarlılık kat sayısı 0,91 olarak hesaplanmıştır.
+Aynı zamanda ölçeğin ergen örneklemindeki geçerliğini test etmek amacıyla ölçeğin faktör yapısı Doğrulayıcı Faktör Analiziyle incelenmiştir.
+Yapılan analizde ki-kare değerinin istatistiksel açıdan anlamlı olduğu görülmüştür (χ2=494,49, N=800, p=0,00).
+DFA analizi uyum indeksleri incelendiğinde; RMSEA=0,075, RMSR= 0,070, GFI= 0,92, NFI= 0,97, CFI= 0,97 ve NNFI= 0,97 olarak hesaplanmıştır.
+Buna göre RMSEA, RMSR ve GFI değerlerinin kabul edilebilir düzeyde; NFI, CFI ve NNFI değerlerinin mükemmel düzeyde uyum verdiği söylenebilir.
+Şefkat Korkusu Ölçeği’nin Kendine Şefkat Vermekten Korkma alt boyutunun hem orijinal formunda (Gilbert, McEwan, Matos ve Rivis, 2011) hem de ülkemizde yapılan uyarlama çalışmalarında (Necef ve Deniz, 2018) ortaya çıkan tek faktörün doğrulandığı, ölçek maddelerinin faktör yüklerinin ,43 ile ,76 arasında değer aldığı görülmektedir.
+Böylece Şefkat Korkusu Ölçeği’nin Kendine Şefkat Vermekten Korkma alt boyutunun ergenlerde kullanılabilecek geçerli ve güvenilir bir ölçme aracı olarak görülebilir.
+3.
+BULGULAR
+3.1.
+Açımlayıcı Faktör Analizine İlişkin Bulgular
+Faktör analizi, birbiriyle ilişkili p tane değişkeni bir araya getirerek az sayıda ilişkisiz ve kavramsal olarak anlamlı yeni değişkenler bulmayı, keşfetmeyi amaçlayan çok değişkenli bir istatistiktir (Büyüköztürk, 2004).
+Açımlayıcı Faktör Analizinde değişkenler arasındaki ilişkilerden hareketle faktörler bulmaya yönelik bir işlemler yapılır.
+Mevcut çalışmada ÖŞÖ-K’nın faktör yapısını incelemek amacıyla AFA’dan faydalanılmıştır.
+AFA yapılmadan önce veri setinin faktör analizine uygunluğunu tespit edebilmek adına Kaiser-Meyer-Olkin Katsayısından (KMO) ve Bartlett Küresellik Testinden faydalanılmıştır.
+Buna göre veri setinin KMO katsayısının .81 ; Bartlett Küresellik Testi χ2 değerinin ise 937,456 (p<0,05) olduğu görülmüştür.
+KMO katsayısının ,50’den büyük olması ve Bartlett Küresellik Testi’nin istatistiksel olarak anlamlı olması sonucunda veri setinin AFA’ya uygun olduğu görülmüştür (Çokluk, Şekercioğlu ve Büyüköztürk, 2012).
+Böylece AFA gerçekleştirilmiş, yapılan analizde ulaşılan faktörler arasında ilişki olması sebebiyle eğik döndürme yöntemlerinden olan oblimin (direct oblimin) yöntemi kullanılmıştır (Tabachnick ve Fidell, 2015).
+Yapılan analizde 10. maddenin faktör yükünün 0.30’un altında olduğu gözlenmiştir.
+Bilindiği gibi faktör yük değeri, maddelerin faktörlerle ilişkisini açıklayan bir katsayıdır ve 0.30’dan daha büyük bir değer alması beklenmektir (Büyüköztürk, 2004: 118; Floyd ve Widaman, 1995).
+Buradan hareketle 10. madde faktör yük değerinin düşük olması gerekçesiyle ölçekten çıkarılmış ve AFA tekrar edilmiştir.
+Yapılan ikinci analiz sonucunda elde edilen bulgular Tablo 2.’de sunulmuştur.
+Öz-Şefkat Ölçeği Kısa Formu’nun Türkçe Uyarlaması: Geçerlik…
+Tablo 2.
+ÖŞÖ-K’nın Faktör Yapısı ve Maddelerin Faktör Yükleri
+İki Faktörlü Yapı
+N=461 Tek Faktörlü Yapı
+Maddeler Birinci Faktör İkinci Faktör Madde 8 ,577 ,727 Madde 1 ,644 ,726 Madde 9 ,551 ,686 Madde 11 416 ,669 Madde 12 ,571 ,518 Madde 4 ,528 ,480 Madde 7 ,555 ,737 Madde 3 ,498 ,717 Madde 6 ,611 ,643 Madde 2 ,529 ,637 Madde 5 ,499 ,610 Açıklanan Varyans %29,88 %14,99 Açıklanan Toplam Varyans %44,87
+Tablo 2 incelendiğinde ÖŞÖ-K’nda bulunan olumlu maddelerin bir faktör altında, olumsuz maddelerin ise diğer bir faktör altında toplandığı ve böylece ÖŞÖ-K’nın iki faktörlü bir yapıdan oluştuğu görülmektedir.
+Aynı zamanda ölçek maddelerinin hepsi tek faktör altında da toplandığı anlaşılmaktadır.
+Buradan hareketle ÖŞÖ-K’nın genel bir faktöre sahip olduğu ve bu genel faktörün iki alt bileşenden oluştuğu söylenebilir (Büyüköztürk, 2004: 127).
+Birinci faktör toplam varyansın %29,88’ini ve ikinci faktör toplam varyansn %14,99’unu açıklamaktadır.
+Böylece iki faktör bir arada toplam varyansın %44,87’sini açıklamaktadır.
+Ölçek maddelerinin faktör yükleri incelendiğinde birinci faktöre yüklenen maddelerin faktör yüklerinin ,480 ile ,727 arasında, ikinci faktöre yüklenen maddelerin faktör yüklerinin ,737 ile ,610 arasında değerler aldığı görülmektedir.
+3.2.
+Doğrulayıcı Faktör Analizine İlişkin Bulgular
+Doğrulayıcı Faktör Analizi bir ölçme aracıyla toplanan verilerin, ölçme aracının temelini oluşturan kuramsal yapıya uygunluğunu doğrulamak için kullanılan bir yöntemdir (Aytaç ve Ongen, 2012).
+Mevcut çalışmada ÖŞÖ-K’nın faktör yapısının hem kuramsal temellere hem de Açımlayıcı Faktör Analizi sonucu elde edilen bulgulara uygunluğunu doğrulamak amaçlanmıştır.
+Bu bağlamda 339 kişilik bir veri setinde DFA gerçekleştirilmiştir.
+Yapılan analizde ki-kare değerinin istatistiksel açıdan anlamlı olduğu görülmüştür (χ2=90.05, N=339, p=0.00).
+DFA analizi uyum indeksleri incelendiğinde; RMSEA=0.06, RMSR= 0.095, GFI= 0.96, NFI= 0.91, CFI= 0.95 ve NNFI= 0,94 olarak hesaplanmıştır.
+Bu değerlere göre veri setine ait RMSR, GFI, NFI ve NNFI değerlerinin mükemmel uyum gösterdiği (Bentler ve Bonett, 1980; Schermelleh-Engel ve Moosbrugger, 2003; Marsh, Hau, Artelt, Baumert ve Peschar, 2006); RMSEA değerinin kabul edilebilir düzeyde uyum verdiği anlaşılmıştır (Byrne ve Campbell, 1999).
+DFA’dan elde edilen iki boyutlu modele ilişkin faktör yükleri Şekil 1.’de görülmektedir.
+Musa YILDIRIM, Tuğba SARI
+Şekil -1.
+ÖŞÖ-K’nın DFA sonucu ulaşılan faktör yükleri
+Şekil 1 İncelendiğinde ÖŞÖ-K’nın iki faktörlü yapısının doğrulandığı görülmektedir.
+DFA’da ulaşılan modelin mevcut araştırmada uygulanan AFA’ya uygun uygun bir model olduğu, bu modelde olumlu maddelerin bir alt boyutta ve olumsuz maddelerin diğer bir alt boyutta toplandığı görülmüştür.
+Benzer şekilde bu bulgu öz-şefkatin kuramsal altyapısına da (Bengtsson, Söderström ve Terjestam, 2016; Costa ve diğerleri, 2016; Neff ve diğerleri, basım aşamasında) uygundur.
+Böylece ÖŞÖ-K’nın iki bileşenden oluşan bir yapı gösterdiği doğrulanmıştır.
+DFA sonucu ulaşılan faktör yükleri incelendiğinde ise olumlu maddelerin faktör yüklerinin ,49 ile ,65 arasında, olumsuz maddelerin faktör yüklerinin .50 ile .73 arasında değer aldığı anlaşılmaktadır.
+3.3.
+Ölçüt Bağıntılı Geçerliliğe İlişkin Bulgular
+Ölçüt bağıntılı geçerliliğini incelemek amacıyla Öz-Şefkat Ölçeği Kısa Form ile Öznel İyi Oluş Ölçeği ve Şefkat Korkusu Ölçeği arasındaki ilişki incelenmiştir.
+Değişkenler arasındaki ilişkinin incelenmesinde kullanılacak yöntemin belirlenmesi için veri seti normallik testleriyle sınanmıştır (Kilmen, 2015).
+Veri setinin normalliği Kolmogorov- Smirnov Testi kullanılarak incelenmiştir.
+Elde edilen bulgular Tablo 3.’de sunulmuştur.
+Öz-Şefkat Ölçeği Kısa Formu’nun Türkçe Uyarlaması: Geçerlik…
+Tablo 3.
+Öz-Şefkat Ölçeği Kısa Form, Öznel İyi Oluş Ölçeği ve Şefkat Korkusu Ölçeği Puan Ortalamaları, Standart Sapma, Kolmogorov-Smirnov Testi sonuçları
+Öz-Şefkat
+Öznel İyi Oluş
+Değerler
+Ölçeği
+Ölçeği Şefkat Korkusu Ölçeği
+Kolmogorov-Smirnov
+Anlamlılık Düzeyi ,000 ,000 ,000
+Tablo 3 incelendiğinde bütün değişkenler için Kolmogorov-Smirnov Testine ait anlamlılık düzeyinin ,000 olduğu görülmektedir.
+Dolayısıyla elde edilen verilen bütün değişkenler için normal dağılımdan farklılık gösterdiği, başka bir ifade ile verilerin normal dağılmadığı söylenebilir.
+Buradan hareketle değişkenler arası ilişkinin incelenmesi için parametrik olmayan testlerden Spearman Korelasyon Analizi kullanılmıştır(Kilmen, 2015: 99).
+Spearman Korelasyon Analizi sonuçları Tablo 4.’de sunulmuştur.
+Tablo 4.
+Öz-Şefkat, Öznel İyi Oluş ve Şefkat Korkusu arasındaki ilişkinin incelenmesine yönelik Spearman Korelasyon Analizi Sonuçları (N= 800)
+Değişkenler 1.Öz-Şefkat 2.Öznel İyi Oluş 3.
+Şefkat Korkusu
+1.Öz-Şefkat 1 ,432* -,411* 2.Öznel İyi Oluş 1 -,292* 3.
+Şefkat Korkusu 1
+Tablo 4’e göre öz-şefkat ile öznel iyi oluş arasında pozitif yönden (r=,432, p<0,01) , öz- şefkat ile şefkat korkusu (r= -,411, p<0,01) arasında negatif yönde orta düzey bir ilişki olduğu tespit edilmiştir.
+3.4.
+İç Tutarlılığa İlişkin Bulgular
+Ölçeğin iç tutarlılık düzeyinin incelemek için Cronbach Alpha değeri incelenmiştir.
+Yapılan istatistiksel analiz sonucu Öz-Şefkat Ölçeği Kısa Forma ait birinci alt faktörüne ait Cronbach Alpha katsayısı 0,73 olarak hesaplanırken ikinci alt faktöre ait Cronbach Alpha katsayısı 0,71 olarak hesaplanmıştır.
+Ölçeğin tamamına ait Cronbach Alpha katsayısı ise 0,75 olarak hesaplanmıştır.
+3.5.
+Test-Tekrar Test Güvenilirliğine İlişkin Bulgular
+ÖŞÖ-K’nın test-tekrar test güvenilirliğinin hesaplanması için bir örneklem grubundan 17 gün ara ile iki kez veri toplanmış ve bu iki ölçüm arasındaki ilişki incelenmiştir.
+Yapılan istatistiksel analiz sonucundan iki ölçüm arasından yüksek düzeyde bir ilişki olduğu tespit edilmiştir (r= ,840, p<0,01).
+Musa YILDIRIM, Tuğba SARI
+4.
+TARTIŞMA VE SONUÇ
+ÖŞÖ-K’nın Türk ergenler üzerindeki psikometri özelliklerinin incelediği bu araştırmada ölçeğin yapı geçerliliği, ölçüt bağıntılı geçerliliği, iç tutarlılık katsayısı ve test-tekrar test güvenilirlik katsayısı incelenmiştir.
+Yapı geçerliliğinin incelenmesi için yapılan AFA sonucun 10. maddenin faktör yükünün 0.30’un altında kaldığı görülmüş ve bu madde ölçekten çıkarılmıştır.
+Yine AFA’ya göre ÖŞÖ-K’nın genel bir faktöre sahip olduğu ve bu genel faktörün iki alt bileşenden oluştuğu anlaşılmıştır (Büyüköztürk, 2004: 127).
+Olumsuz maddelerin faktör toplam varyansın %29,88’ini ve ikinci faktör toplam varyansn %14,99’unu açıklamaktadır.
+Böylece iki faktör bir arada toplam varyansın %44,87’sini açıklamaktadır.
+Devamında yapılan DFA sonucunda orijinal ÖŞÖ-K’nın kuramsal altyapısına (Bengtsson, Söderström ve Terjestam, 2016; Costa ve diğerleri, 2016; Neff ve diğerleri, basım aşamasında) bir model verdiği, bu modelde olumlu maddelerin bir alt boyutta ve olumsuz maddelerin diğer bir alt boyutta toplandığı görülmüştür.
+Yapılan faktör analizleri sonucunda ÖŞÖ-K’nın birbirinin tamamlayan iki bileşenden (olumlu bileşen ve olumsuz bileşen) meydana gelen tek bir faktörden oluşan bir yapıda olduğu doğrulanmıştır.
+Ölçeğin ölçüt bağıntılı geçerliliği incelendiğinde, Öz-Şefkat Ölçeği Kısa Form işe Şefkat Korkusu Ölçeğinin Kendine Şefkat Vermekten Korkma alt boyutu arasında negatif ve orta düzey, Ergen Öznel İyi Oluş Ölçeği ile arasında pozitif ve orta düzey bir ilişki olduğu görülmektedir.
+Öz-şefkat ile şefkat korkusu (Necef ve Deniz, 2018) ve öznel iyi oluş (Zessin Dickhäuser ve Garbade, 2015) arasındaki ilişkiyi inceleyen araştırmalar incelendiğinde bulguların mevcut bulgularla paralel olduğu görülmektedir.
+Ek olarak ÖŞÖ-K ile aynı gruptan 17 gün arayla iki kez veri toplanmış ve bu iki ölçüm arasında yüksek düzeyde ilişki bulunmuştur.
+Bu durum, ÖŞÖ-K’nın kararlı bir yapıyı ölçtüğünü göstermektedir.
+ÖŞÖ-K bu haliyle 11 maddeli, beşli Likert tipi, bir öz bildirim ölçeği haline gelmiştir.
+Ölçeğin kısa ve kolay uygulanabilir ve değerlendirebilir oluşu sebebiyle Türk toplumunda ergenlerle yürütülen öz-şefkati ölçmeye yönelik araştırmalarda önemli bir ihtiyacı karşılayacağı düşünülmektedir.
+Sonuç olarak (1) ÖŞÖ-K’nın Türk kültüründe ortaokul ve lise öğrencilerinde öz-şefkati ölçmede geçerli ve güvenilir bir ölçme aracı olduğu, (2) ÖŞÖ-K’nın öznel iyi oluş ve şefkat vermekten korkma ile manidar korelasyonları olduğu ve (3) ÖŞÖ-K’nin tek faktörlü bir yapıya sahip olduğu söylenebilir.
+ÖŞÖ-K öz-şefkati ölçmede toplam puan kullanılacak araştırmalarda kullanılması önerilmektedir.
+Öz-Şefkat Ölçeği Kısa Formu’nun Türkçe Uyarlaması: Geçerlik…
+KAYNAKÇA
+Akın, A.
+(2010a).
+Hacettepe
+University Journal of Education, 39, 1-9.
+Akın, A.
+(2010b).
+Akın, Ü., Akın, A., & Abacı, R. (2007).
+Öz-duyarlık ölçeği: geçerlik ve güvenirlik
+çalışması.
+Hacettepe Üniversitesi Eğitim Fakültesi Dergisi, 33(33).
+Akkaya, Ç.
+(2011).
+Ortaöğretim öğrencilerinde algılanan sosyal destek ve öz-duyarlık
+düzeyleri.
+Yayınlanmamış Yüksek Lisans Tezi.
+Sakarya Üniversitesi, Eğitim Bilimleri Enstitüsü, Sakarya.
+Andıç, S. (2013).
+Ergenlik Döneminde Zihni Meşgul Eden Konularla İlişkili Değişkenler:
+Bağlanma Tarzları, Öz-Şefkat ve Psikolojik Belirtiler.
+Yayınlanmamış Yüksek Lisans Tezi.
+Ankara Üniversitesi Sosyal Bilimler Enstitüsü, Ankara.
+Aydın Sünbül, Z.
+(2016).
+Ortadoğu Teknik Üniversitesi Sosyal Bilimler Enstitüsü, Ankara.
+Bengtsson, H., Söderström, M., & Terjestam, Y.
+(2016).
+Bentler, P. M. & Bonett, D. G. (1980).
+Brown, K. W., & Ryan, R. M. (2003).
+Büyüköztürk, Ş.
+(2004).
+Sosyal Bilimler İçin Veri Analizi El Kitabı (4.
+Baskı).
+Ankara:
+Pegem Yayıncılık.
+Emotion, 13(5), 817-821
+Costa, J., Marôco, J., Pinto‐Gouveia, J., Ferreira, C., & Castilho, P. (2016).
+Çokluk, Ö., Şekercioğlu, G. & Büyüköztürk, Ş.
+(2012).
+Sosyal Bilimler İçin Çok
+Değişkenli İstatistik: SPSS ve Lisrel Uygulamaları, Pegem Akademi Yayıncılık, Ankara.
+Musa YILDIRIM, Tuğba SARI
+Deniz, M., Kesici, Ş. ve Sümer, A. S. (2008).
+Eryılmaz, A.
+(2009).
+Ergen öznel iyi oluş ölçeğinin geliştirilmesi.
+Türk Eğitim Bilimleri
+Dergisi, 7(4), 975-998.
+Ferreira, C., Pinto-Gouveia, J., & Duarte, C. (2013).
+Floyd, F. J., & Widaman, K. F. (1995).
+Gilbert, P., McEwan, K., Matos, M., & Rivis, A.
+(2011).
+Kilmen, S. (2015).
+Eğitim araştırmacıları için spss uygulamalı istatistik.
+Edge Akademi,
+Ankara.
+Marsh, H. W., Hau, K. T., Artelt, C., Baumert, J., & Peschar, J. L. (2006).
+Necef I., & Deniz M. E. (2018, Nisan).
+Şefkat korkusu ölçeği: geçerlik ve güvenirlik
+çalışması.
+Sözlü Bildiri.
+III.
+Neff, K. D. (2003a).
+Neff, K. D. (2003b).
+Neff, K. D. ve McGehee, P. (2010).
+Neff, K. D., Tóth-Király, I., Yarnell, L., Arimitsu, K., Castilho, P., Ghorbani, N., &
+Mantios, M. (in press).
+Pauley, G., & McPherson, S. (2010).
+Öz-Şefkat Ölçeği Kısa Formu’nun Türkçe Uyarlaması: Geçerlik…
+Raes, F. (2010).
+Raes, F., Pommier, E., Neff, K. D., & Van Gucht, D. (2011).
+Rubin, J.
+B.
+(2013).
+Schermelleh-Engel, K., Moosbrugger, H., & Müller, H. (2003).
+Tabachnick, B. G., & Fidel, L. S. (2015).
+Çok değişkenli istatistiklerin kullanımı
+(Baloğlu, M., Çev.).
+Ankara: Pegem Yayınevi.
+Tel, F. D., & Sarı, T. (2016).
+Üniversite öğrencilerinde öz duyarlılık ve yaşam doyumu.
+Abant İzzet Baysal Üniversitesi Eğitim Fakültesi Dergisi, 16 (1), 292-304.
+Temel, M. (2015).
+Yayınlanmamış Yüksek Lisans Tezi, Bahçeşehir Üniversitesi Sosyal Bilimler Enstitüsü, İstanbul.
+(2008).
+Thurman, R. A.
+(2006).
+Meditation and education: India, Tibet, and modern America.
+Zessin, U., Dickhäuser, O., & Garbade, S. (2015).
+A., & Shapiro, S. L. (2006).
+American Psychologist, 61(7), 690-701.
+Yiğit, Z.
+(2015).
+13 - 18 Yaş aralığındaki ergenlerde, problemli internet kullanımı, öz
+anlayış ve iletişim becerileri arasındaki ilişkinin incelenmesi.
+Yayınlanmamış Yüksek Lisans Tezi, İstanbul Arel Üniversitesi Sosyal Bilimler Enstitüsü, İstanbul.
+Musa YILDIRIM, Tuğba SARI
+EXTENDED ABSTRACT
+1.
+Scale items were found to be well understood by
+Öz-Şefkat Ölçeği Kısa Formu’nun Türkçe Uyarlaması: Geçerlik…
+junior and senior high school students and the scale was applied to the sample group.
+3.
+As the KMO coefficient is greater than 50 and the Bartlett Globality Test is statistically significant, it is seen that the data set is suitable for AFA (Çokluk, Şekercioğlu and Büyüköztürk, 2012).

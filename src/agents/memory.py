@@ -3,7 +3,7 @@ from typing import Any, Dict, List, Optional, Type
 
 from openai import OpenAI
 from pydantic import BaseModel
-
+import json
 from utils import get_prompt_environment
 
 
@@ -43,19 +43,19 @@ class MemoryAgent:
             MemoryComponent(
                 name="source_entity_target_entity",
                 returns_mapping=True,
-                display_string="Source entity→target entity mappings:",
+                display_string="Entity mappings:",
                 response_format=EntityMappingResponse,
             ),
             MemoryComponent(
                 name="discourse_connectives",
                 returns_mapping=False,
-                display_string="Discourse connectives at end of connected discourses:",
+                display_string="Discourse connectives:",
                 response_format=DiscourseConnectiveResponse,
             ),
             MemoryComponent(
                 name="context_summary",
                 returns_mapping=False,
-                display_string="Combined discourse context summary:",
+                display_string="Context summary:",
                 response_format=ContextSummaryResponse,
             ),
         ]
@@ -140,7 +140,9 @@ class MemoryAgent:
 
         return local_memory
 
-    def get_incident_memory(self, memories: List[Dict[str, Any]]) -> Dict[str, Any]:
+    def get_incident_memory(
+        self, memories: List[Dict[str, Any]], max_summary_history: int = 3
+    ) -> Dict[str, Any]:
         combined = {
             "source_entity_target_entity_mapping": {},
             "discourse_connectives": "",
@@ -156,29 +158,40 @@ class MemoryAgent:
             if context := mem.get("context_summary", "").strip():
                 context_summaries.append(context)
 
-        combined["context_summary"] = " ".join(context_summaries) or "(none)"
+        recent_summaries = context_summaries[-max_summary_history:]
+        combined["context_summary"] = " ".join(recent_summaries) or "(none)"
         return combined
 
-    def encode_memory(self, memory: Dict[str, Any]) -> str:
+    def encode_memory(
+        self, memory: Dict[str, Any], max_entities: int = 20, max_summary_len: int = 200
+    ) -> str:
         """Encode memory into a string suited for LLM consumption"""
-        lines = []
-
+        parts = []
         for component in self.components:
-            lines.append(component.display_string)
-
             key_name = (
                 f"{component.name}_mapping"
                 if component.returns_mapping
                 else component.name
             )
+            content = memory.get(key_name)
 
-            if content := memory.get(key_name):
-                if component.returns_mapping and isinstance(content, dict):
-                    for source, target in content.items():
-                        lines.append(f"- {source} → {target}")
-                else:
-                    lines.append(str(content))
-            else:
-                lines.append("- (none)")
+            if not content:
+                continue
 
-        return "\n".join(lines)
+            if component.returns_mapping and isinstance(content, dict):
+                items = content.items()
+                if len(items) > max_entities:
+                    items = items[-max_entities:]
+                json_str = json.dumps(
+                    dict(items), separators=(",", ":"), ensure_ascii=False
+                )
+                parts.append(f"{component.display_string}:{json_str}")
+            elif isinstance(content, str):
+                clean_content = content.strip()
+                if (
+                    component.name == "context_summary"
+                    and len(clean_content) > max_summary_len
+                ):
+                    clean_content = "..." + clean_content[-max_summary_len:]
+                parts.append(f"{component.display_string}:[{clean_content}]")
+        return " | ".join(parts)

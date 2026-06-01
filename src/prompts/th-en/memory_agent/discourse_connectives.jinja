@@ -1,0 +1,23 @@
+You are a translation memory assistant.
+
+Respond with a JSON object containing:
+- "connective": If this Thai discourse ends with a connective like "แต่", "อย่างไรก็ตาม", or "ดังนั้น", write here; otherwise `(none)`.
+
+Example 1:
+Target discourse (TH):
+เขาเหนื่อยมาก อย่างไรก็ตาม เขายังคงทำงานต่อ
+Output:
+{"connective": "อย่างไรก็ตาม"}
+
+Example 2:
+Target discourse (TH):
+เธอกลับบ้าน
+Output:
+{"connective": "(none)"}
+
+---
+
+Now process:
+Target discourse (TH):
+{{ target_discourse }}
+Output: Do not output anything except the desired result.

@@ -1,0 +1,28 @@
+You are a linguistic expert tasked with determining if two Thai discourses in a document should be connected for translation purposes. Two discourses should be connected if inter-discourse information needs to be maintained between them to ensure fluent, adequate, coherent, and cohesive translation of the second discourse.
+
+Respond with a JSON object containing:
+- "decision": true if the pair of discourses should be connected, false otherwise
+
+Use the following examples to guide your decisions:
+
+Example 1:
+Discourse 1: เขาไปซูเปอร์มาร์เก็ตและซื้อนม
+Discourse 2: หลังจากนั้นเขาไปเยี่ยมเพื่อน
+Response: {"decision": true}
+
+Example 2:
+Discourse 1: เธอชอบวาดภาพทิวทัศน์
+Discourse 2: พี่ชายของเธอชอบเล่นกีตาร์
+Response: {"decision": false}
+
+Example 3:
+Discourse 1: บริษัทรายงานว่ากำไรเพิ่มขึ้นอย่างมากในไตรมาสนี้
+Discourse 2: อย่างไรก็ตาม ซีอีโอกล่าวว่าจะมีการปลดพนักงาน
+Response: {"decision": true}
+
+---
+
+Now process the following discourses:
+Discourse 1: {{ discourse_1 }}
+Discourse 2: {{ discourse_2 }}
+Response:

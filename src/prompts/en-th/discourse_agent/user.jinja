@@ -1,0 +1,27 @@
+You are a linguistic expert tasked with segmenting a document into coherent discourses. A discourse is a contiguous segment of sentences that form a logical or thematic unit. For each new sentence, decide if it belongs to the current discourse ("yes") or if it should start a new discourse ("no"). Use the following examples to guide your decisions:
+
+Respond with a JSON object containing:
+- "decision": true if the sentence belongs to the current discourse, false otherwise
+
+
+Example 1:
+Current discourse: John went to the store. He bought some milk.
+Next sentence: Later, he visited his friend.
+Response: {"decision": True}
+
+Example 2:
+Current discourse: The company reported a significant profit increase this quarter.
+Next sentence: However, the CEO announced upcoming layoffs.
+Response: {"decision": True}
+
+Example 3:
+Current discourse: Alice loves painting. She often paints landscapes.
+Next sentence: Meanwhile, Bob enjoys playing guitar.
+Response: {"decision": False}
+
+---
+
+Now process the following text:
+Current discourse: {{ discourse }}
+Next sentence: {{ next_sentence }}
+Response:

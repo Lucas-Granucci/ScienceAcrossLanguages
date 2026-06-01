@@ -40,6 +40,10 @@ class TranslationAgent:
             rag_context=rag_str,
         )
 
+        print(len(prompt))
+        print(len(prompt.split(" ")))
+        print()
+
         try:
             response = self.client.chat.completions.create(
                 model=self.model_name,

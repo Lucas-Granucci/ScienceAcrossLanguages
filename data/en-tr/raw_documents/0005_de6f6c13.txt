@@ -1,0 +1,832 @@
+Corona Virüs (Covid-19) Nedeniyle Mecburi Yürütülen Uzaktan
+Eğitim Hakkında Öğretmen Görüşleri
+The Opinions of Teachers about Compulsory Distance Education due
+to Corona Virus (Covid-19)
+Fatih BALAMAN
+Dr. Öğr.
+Üyesi, Hatay Mustafa Kemal Üniversitesi, Eğitim Fakültesi
+Asst.
+Prof., Hatay Mustafa Kemal University, Faculty of Education
+fatihbalaman2010@gmail.com Orcid ID: 0000-0003-2175-0778
+Sevil HANBAY TİRYAKİ
+Öğretmen, Milli Eğitim Bakanlığı
+Teacher, Minsiter of Education
+sevilhanbay90@gmail.com Orcid ID: 0000-0003-4780-9715
+Makale Bilgisi / Article Information
+Makale Türü / Article Type : Araştırma Makalesi / Research Article Geliş Tarihi / Received : 15.07.2020 Kabul Tarihi / Accepted : 05.02.2020 Yayın Tarihi / Published : 09.03.2021 Yayın Sezonu : Ocak-Şubat-Mart Pub Date Season : January-February-March
+Atıf/Cite as: Balaman, F , Hanbay Tiryaki, S .
+(2021).
+Corona Virüs (Covid-19) Nedeniyle Mecburi Yürütülen Uzaktan Eğitim Hakkında Öğretmen Görüşleri .
+İnsan ve Toplum Bilimleri Araştırmaları Dergisi , 10 (1) , 52-84 .
+Retrieved from http://www.itobiad.com/tr/pub/issue/60435/769798
+İntihal /Plagiarism: Bu makale, en az iki hakem tarafından incelenmiş ve intihal içermediği teyit edilmiştir.
+http://www.itobiad.com/
+Copyright © Published by Mustafa YİĞİTOĞLU Since 2012 – Istanbul / Eyup, Turkey.
+Fatih BALAMAN & Sevil HANBAY TİRYAKİ
+Corona Virüs (Covid-19) Nedeniyle Mecburi Yürütülen
+Uzaktan Eğitim Hakkında Öğretmen Görüşleri*
+Bu çalışma ile COVID-19 sürecinde mecburi olarak yürütülen uzaktan eğitim hakkında öğretmen görüşleri araştırılmıştır.
+Bu kapsamda, süreçte aktif olarak kullanılan yazılımlardan Zoom adlı canlı ders yazılımına, çevrimdışı eğitim amaçlı kullanılan Eğitim Bilişim Ağı (EBA) platformuna, tek yönlü iletişim amaçlı kullanılan EBA TV’ ye odaklanılmıştır.
+Bu sistemlerin öğrenme üzerindeki etkilerini, genel olarak uzaktan eğitimin öğrenme, öğrenci ve öğretmen üzerindeki etkilerini, uzaktan eğitim ve bahsedilen sistemler hakkında öğretmenlerin tespitlerini ortaya çıkarmak amaçlanmıştır.
+Görüşme formu kullanılarak nitel verilerin elde edildiği araştırma olgubilim modelindedir.
+Araştırmaya 2019-2020 eğitim - öğretim yılında Hatay il merkezinde 7 farklı devlet okulunda görev yapan 5’ i kadın, 7’ si erkek toplam 12 öğretmen katılmıştır.
+Görüşülen öğretmenlerin tamamı COVID-19 dolayısıyla mecburi yürütülen uzaktan eğitim sürecinde aktif olarak görev almışlardır.
+İçerik Analizi yönteminin kullanıldığı araştırmada verilerin analizde NVivo 10 yazılımından da yararlanılmıştır.
+Bu yazılımdan özellikle kodlamalarda, kodlamaların bir araya getirilerek temaların oluşturulmasında, tema ve alt temaların frekansları ile birlikte modellenmesinde, sık geçen kelimelerin tespitinde, kelime ağacı ve kelime bulutu oluşturma gibi sorgulamalarda yararlanılmıştır.
+İçerik Analizi sonunda temalar oluşturulmuş, temalara ilişkin maddelerin frekans değerlerine yer verilmiştir.
+Analiz sonunda “COVID-19 süreci özelinde karşılaşılan durumlar”, “Uzaktan eğitimin sağladığı kolaylıklar”, “Uzaktan eğitimde karşılaşılan dezavantajlar”, “Süreç boyunca hissedilen ihtiyaçlar” temalarına ulaşılmıştır.
+Temalar bağlamında birçok sonuç elde edilmiş olup bu sonuçlardan; bakanlıkça sunulan imkânların yeterli görülmesi, eğitim sistemimizin bu sürece hazırlıklı olduğunun düşünülmesi, yerli ve güvenli canlı ders yazılımı ihtiyacı, öğretmenlerin uzaktan eğitimi yüz yüze eğitim kadar etkili görmemeleri dikkat çekici olanlarıdır.
+Ayrıca uzaktan eğitimde ölçme – değerlendirme problemi, öğrencilerin teknik altyapı ve imkânlar açısından eşit şartlarda olmaması, hizmet içi eğitim ihtiyacı, öğrencilerin derse devam durumları da önemli sonuçlar arasındadır.
+Sonuçlardan hareketle COVID-19 sonrasında uzaktan eğitim ile ilgili tespit edilen eksikler tamamlanıp, gereksinimler yerine getirildikten sonra yüz yüze eğitim ile uzaktan eğitimin harmanlanabilir.
+Böylece hem uzaktan eğitimin hem de yüz yüze eğitimin avantajlarından yararlanılabilir.
+Anahtar Kelimeler: Covid-19, Uzaktan eğitim, MEB, EBA, Uzaktan eğitim uygulamaları
+* Hatay Mustafa Kemal Üniversitesi Rektörlüğü Sosyal ve Beşeri Bilimler Bilimsel Araştırma ve Yayın Etiği Kurulu Başkanlığının 7.01.2021 Tarih , 13 Sayılı kararı ile Etik Kurul Kararı alınmıştır.
+10 the Years
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches” [itobiad]
+Corona Virüs (Covid-19) Nedeniyle Mecburi Yürütülen Uzaktan Eğitim Hakkında Öğretmen
+Görüşleri
+The Opinions of Teachers about Compulsory Distance
+Education due to Corona Virus (Covid-19)
+Abstract
+With this study, the opinions of teachers about compulsory distance education have been searched in the period of COVID-19.
+Keywords: Covid-19, Distance education, MNE, EIN, Distance education applications
+Cilt/Volume: 10,
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches”
+Sayı/Issue: 1,
+[itobiad / 2147-1185]
+Fatih BALAMAN & Sevil HANBAY TİRYAKİ
+Giriş
+Bütün dünyanın COVID-19 ile zorlu bir mücadele verdiği bu dönemde Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü (UNESCO) verilerine göre eğitim öğretim kurumlarının kapanması süreç boyunca 172 ülkede toplam 1 milyar 646 milyon öğrenciyi etkilemiştir (UNESCO, 2020).
+Bu süreçte eğitim öğretim faaliyetlerinin yürütülmesinde uzaktan eğitim sistemi kullanılmakta olup eğitim öğretimin sürekliliği bakımından uzaktan eğitim daha fazla dikkat çekmektedir.
+Çin’in Hubei Eyaleti, Vuhan Şehrinde, 31 Aralık 2019 tarihinde pnömoni (zatürre) kümelenmesi dikkat çekmiş, 7 Ocak 2020’de ise bu durumun nedeninin insanlarda tespit edilmemiş yeni bir koronavirüs olduğu belirtilmiş, bu virüsün adı COVID-19 olarak adlandırılmıştır.
+Türkiye’de görülen ilk COVID-19 vakası 11 Mart 2020 tarihinde açıklanmıştır (Sağlık Bakanlığı, 2020).
+Dünya Sağlık Örgütü (WHO) de aynı tarihte bu salgın hastalığı pandemi olarak bütün dünyaya duyurmuştur (WHO, 2020a).
+COVID-19 insandan insana çok hızlı ve kolay biçimde bulaşmaktadır.
+(T.C.
+Sağlık Bakanlığı, 2020).
+Bu nedenle bulaştırıcılığın önlenmesinde sosyal izolasyon, maske, eldiven gibi kişisel koruyucu ekipman kullanımı ve sosyal mesafeyi koruma gibi insanların birbiri ile temasını en aza indirecek yöntemler oldukça önem kazanmıştır (WHO, 2020b).
+Zira insanlar arasında yakın temas kurulması, yüksek hareketlilik ve toplu taşıma araçları, ortak kullanım alanları enfeksiyonun hızla yayılmasına neden olan unsurlardır (Hang, 2020).
+İlk vakaların görüldüğü Çin’de yapılan çalışmalarda toplu yaşam alanlarında insan hareketlerinin yeniden düzenlenmesi gerektiğine karar verilmiştir.
+Bu kapsamda okulların kapatılmış, insanların evlerinde kalmaları önerilmiş, toplu yaşam alanlarının kullanımı kısıtlanmıştır.
+Böylece COVID-19 vaka sayısının kontrol altına alınması yolunda bu tedbirlerin etkili olduğu görülmüştür (Gu, Jiang, Zhao ve Zheng, 2020; Tian vd., 2020; Akt: Deniz ve Evci Kiraz, 2020, s. 148).
+Türkiye’de de COVID-19 ile mücadele kapsamında birçok önlem alınmış, alınan önlemlerden bir tanesi de okullarda derse ara verilmesi olmuştur.
+Bu kapsamda alınan tedbirleri açıklayan Milli Eğitim Bakanı Ziya Selçuk, haftalık ders programlarının yapılandırılarak, Eğitim Bilişim Ağı (EBA) ile internet üzerinden ve Türkiye Radyo Televizyon Kurumu (TRT) ile televizyondan gerekli telafi eğitimi desteği sunulacağını açıklamıştır (Milli Eğitim Bakanlığı [MEB], 2020).
+Buna göre derslerin COVID-19 sürecinde uzaktan eğitimle yürütülmesi alınan önlemlerden bir tanesi olmuş, milyonlarca öğrenci ve öğretmen için uzaktan eğitim süreci başlamıştır.
+Fiziksel, sosyal, ekonomik gibi farklı şartlarda olan bireylerden oluşan geniş kitlelere eğitim imkânı sağlayan uzaktan eğitim farklı araçlarla yürütülebilmektedir.
+Giderek gelişen teknoloji uzaktan eğitimde kullanılan araçları da geliştirmiş ve değiştirmiştir.
+Basılı metinlerle, mektuplarla başlayıp programlı metinlerden ders kitaplarına kadar uzanan basılı materyaller teknolojinin gelişimi ile farklı ortamlar aracılığı ile de
+10 the Years
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches” [itobiad]
+Corona Virüs (Covid-19) Nedeniyle Mecburi Yürütülen Uzaktan Eğitim Hakkında Öğretmen
+Görüşleri
+yürütülebilmiştir.
+Teyp, radyo, televizyon, film ve sunumların olduğu çoklu ortamlar, bilgisayar ve internet teknolojileri ile de uzaktan eğitim yürütülebilmektedir (Alakoç ve Bozbıyık, 2003, s. 1195; Hızal, 1983, s. 69; Koçdar, 2006, s. 31; Unusan ve Abia, 2007, s. 129).
+Uzaktan eğitimin kullanımı ve uygulanış şekilleri imkânlara, şartlara, ihtiyaçlara göre değişkenlik gösterirken pandemi sürecinde Türkiye’de uzaktan eğitim, televizyon ve internet teknolojileri kullanılarak yürütülmüştür (MEB, 2020).
+Özellikle çevrimdışı eğitim için EBA platformu, çevrimiçi eğitim için ise EBA TV ve Zoom canlı ders yazılımı etkin kullanılmaktadır.
+Uzaktan eğitim en genel ve basit tanımı ile öğrenci ve öğretmenlerin fiziksel olarak aynı yerde olmadığı resmi eğitim sürecidir (National Center for Educaation Statistics [NCES], 2008, s. 1).
+Uzaktan eğitim sürecinde öğrenciler ve öğretmenler fiziksel olarak ayrı ortamlarda, öğretim kaynaklarıyla ve birbirleriyle etkileşimli iletişim teknolojileriyle bağlantı kurarlar (Simonson, Smaldino, Albright ve Zvacek, 2012, s. 10).
+Uzaktan eğitimin kavramsal olarak yeni eğitim imkânları yaratmak, iş ile öğretimi bütünleştirmek, eğitimde fırsat eşitliğini sağlamak, yaşam boyu öğrenmeyi sağlamak, sürece eğitim teknolojisini entegre etmek, bireysel ve kitlesel eğitim imkânı sunmak, eğitimi etkili, verimli ve uygun maliyetli kılmak gibi amaçları vardır (Alkan, 1998, s. 193; Cavanaugh, 2001; s.75).
+Ayrıca uzaktan eğitim yaş, hastalık, coğrafi uzaklık, ailevi durumlar, zaman ve para sıkıntısı gibi çeşitli nedenlerle örgün öğretim kurumlarında eğitim- öğretim imkânının bulunamadığı ya da bu imkânın yok olduğu zamanlarda öğrenenlere basılı, görsel-işitsel ve elektronik materyaller kullanılarak eğitim-öğretim imkânı sunan bir eğitim yöntemidir (Demiray, 1999, s. 85).
+Her öğretim yöntemi farklı kullanım özelliklerine sahip olup bir yöntem için daima bütün öğrencilere her şartta uygundur, kullanışlıdır, başarılıdır denilemez.
+Bir yöntem seçilirken şartlar, öğrenciler gibi yöntem seçimini etkileyen değişkenler vardır.
+Bütün yöntemlerin kendi özelinde avantaj ve dezavantajı bulunmakla birlikte uzaktan eğitimin de birçok avantaj ve dezavantajı vardır.
+Özellikle yüz yüze eğitim ile kıyaslandığında uzaktan eğitimin önemli avantajları göze çarpmaktadır.
+Uzaktan eğitim zaman ve mekân sınırlaması olmaksızın geniş kitlelere bilgiye erişim imkânı sunar.
+Eğitim süreçlerine zenginlik ve esneklik de katarak öğrenenlerin sürekli ve bağımsız bir şekilde kendi öğrenme hızında öğrenmelerine olanak verir.
+Uzaktan eğitim bilgi ve iletişim teknolojileri ile bilgiye anında ve daha kolay ulaşılmasına imkân tanır, eğitim maliyetlerini düşürür, esnek ve objektif bir ölçme değerlendirme sunar (Elitaş, 2017, s. 94; İşman, 2008, s. 18; Uşun, 2006, s. 19).
+Teknolojinin eğitime yansıması ve beraber kullanılması ile birlikte daha gelişmiş biçimlerde yürütülen uzaktan eğitim elbette ki bazı dezavantajları da beraberinde getirmektedir.
+Elitaş (2017, s. 95) uzaktan eğitimin bu önemli
+Cilt/Volume: 10,
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches”
+Sayı/Issue: 1,
+[itobiad / 2147-1185]
+Fatih BALAMAN & Sevil HANBAY TİRYAKİ
+dezavantajları şu şekilde açıklamıştır: Grupla çalışma disiplininden yoksun olma durumu ile etkileşim eksikliğinden dolayı motivasyon kaybına ve öğrenenin asosyalleşmesine sebep olabilir.
+Uygulama gerektiren derslerin veya konuların öğretiminde yetersiz kalabilir.
+Teknoloji bağımlılığı riski ve ölçme ve değerlendirmenin güvenirliği sorunu olabilir.
+Mektupla başlayıp günümüz gelişmiş yazılım ve donanım cihazları ile yapılan uzaktan eğitime kadar uzanan süreçte dünyada uzaktan eğitimin başlangıcı 1700’lü yıllara, ülkemizde ise 1900’lü yıllara dayanmaktadır.
+Özellikle 1728 yılında Boston Gazetesi’nde steno derslerinin uzaktan eğitim ile verileceğinin duyurulması önemli bir gelişme olarak kaydedilirken 1833 yılında mektuplar kullanılarak öğrenim gerçekleştirileceğinin yayınlandığı bir ilan ile de uzaktan eğitim alanında önemli bir adım atılmıştır (Çoban, 2013, s. 2).
+Türkiye’de ise eğitim kurumlarının fiziki eksikleri gibi sorunların da olduğu ve eğitimin genel sorunlarına çözüm arandığı bir dönemde 1927 yılında mektupla öğretimin çözüm olarak ele alınması ile uzaktan eğitimin ilk adımları atılmıştır (Arar, 1999, s. 26).
+1950’li yıllarda mesleki eğitim ve yabancı dil eğitiminde uzaktan eğitim teşvik edilmiş, 1968’de TRT’nin kurulmasıyla uzaktan eğitimde televizyon teknolojisinden yararlanmak için çalışmalar yürütülmüştür.
+1982’de Anadolu Üniversitesi Açık Öğretim Fakültesi resmi olarak hizmet vermeye başlamış, 1990’larda üniversitelerdeki web tabanlı uzaktan eğitim çalışmaları hız kazanmıştır (Çukadar ve Çelik, 2003, s. 33; Fiş Erümit, Gedik ve Göktaş, 2016, s. 666).
+Son yıllarda ise Kırık’ın (2016, s. 58) da belirttiği gibi uzaktan eğitim Türkiye’de oldukça gelişmiş olup COVID-19 sürecinde de eğitim EBA platformu ve EBA TV ile uzaktan yürütülmüş ardından 2020-2021 eğitim öğretim yılında Zoom gibi ücretsiz uygulamalarla da uzaktan eğitimin desteklenmesine MEB tarafından izin verilmiştir.
+Araştırmanın Önemi ve Amacı
+COVID-19 salgınının yayılmasını yavaşlatmak amacıyla zaman zaman ülke yönetimleri sokağa çıkma, seyahat yapma gibi birçok konuda kısıtlamaya giderken eğitim öğretim kurumlarının kapatılması da alınan önlemler arasına eklenmiştir.
+Bu süreçte öğrenenlerin eğitiminin sürekliliğini sağlamak ve ülkelerin eğitim sistemini canlı tutmak için uzaktan eğitim sistemi ile süreç yeniden yapılandırılmıştır.
+Öğrencilerin merkezde yer aldığı uzaktan eğitim sisteminde öğrenciler için uygun öğrenme ortamları oluşturan öğretmenin rolü özellikle bütün dünyayı etkisi altına alan bu salgın döneminde daha da önem kazanmaktadır.
+Uzaktan eğitimde öğrenme süreçlerini kolaylaştırma ve öğrenciye rehberlik etme rolleri de olan öğretmenlerin uzaktan eğitime yönelik bakış açıları ve uzaktan eğitimle ders verme deneyimleri gibi özellikleri eğitim öğretim sürecinin verimliliğini etkilemektedir (Harris ve Krousgill, 2008, s. 918; Yurdakul, 2015).
+Türkiye’de de pandemi sürecinde 16/03/2020 tarihi itibariyle uzaktan eğitime geçilmiş olup birçok öğretmenin
+10 the Years
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches” [itobiad]
+Corona Virüs (Covid-19) Nedeniyle Mecburi Yürütülen Uzaktan Eğitim Hakkında Öğretmen
+Görüşleri
+yüz yüze eğitim kadar hâkim olmadıkları uzaktan eğitim sürecini yürütmeleri gerekmiştir (MEB,2020).
+Bu noktada ise öğretmenlerin uzaktan eğitime yönelik bakış açılarının belirlenmesi ve elde edilen bulgular doğrultusunda öneriler geliştirilmesi uzaktan eğitim sürecinin etkili ve verimli yürütülebilmesi için önem arz etmektedir.
+Ayrıca bu araştırmanın çalışma grubu, yöntem ve küresel olarak içinde bulunduğumuz özel süreçte yürütülen eğitim öğretim faaliyetlerinin değerlendirilmesi bakımından özgün olduğu düşünülmektedir.
+Nitekim literatürde; COVID-19 sürecinde yapılmış olan uzaktan eğitim çalışmalarının da tıpkı pandemi öncesi süreçte olduğu gibi daha çok nicel çalışma temelinde ve deneysel desende yürütüldüğü, nitel veya karma desenli çalışmaların daha az olduğu görülmektedir.
+Bu çalışmada ise nitel veri toplama tekniklerinden görüşme tekniği kullanılarak daha derinlemesine veriler elde edilmesi amaçlanmıştır.
+Ayrıca alanyazında öğrencilerin, öğretmenlerin ve öğretim elemanlarının uzaktan eğitime yönelik görüş veya tutumlarının belirlenmesine yönelik çalışmaların yapıldığı görülmekle birlikte bu çalışmalar daha çok özellikle lisans ve üstü düzeydeki öğrenciler temele alınarak yapılmıştır (Aktaş, Büyüktaş, Gülle ve Yıldız, 2020, s. 3; Alper ve Deryakulu, 2008, s. 53; Çakır Balta ve Horzum, 2008, s. 191-192; Horzum, Özkaya, Demirci ve Alpaslan, 2013, s. 85; Karadağ ve Yücel, 2020, s. 183; Keskin ve Özer Kaya, 2020, s. 59; Pınar ve Dönel, 2020, s. 462; Türker ve Yaylak, 2011, s. 154).
+Bu çalışmada ise eğitim sürecinin uygulayıcısı olan öğretmenlerle çalışma yürütülmüş olup alan yazında bu açıdan da katkı sağlayacağı düşünülmektedir.
+Bu çalışmanın amacı Türkiye’de COVID-19 nedeniyle mecburi yürütülen uzaktan eğitime yönelik öğretmen görüşlerini belirlemek ve bunlardan hareketle uzaktan eğitim sürecinin verimliliğini artırmaya yönelik önerilerde bulunmaktır.
+Araştırmanın problem cümlesi ise “Türkiye’de COVID-19 nedeniyle mecburi yürütülen uzaktan eğitime yönelik öğretmen görüşleri nelerdir?” olarak ifade edilmiş olup yanıt aranan alt problemler şunlardır:
+1) Uzaktan eğitimle yürütülen derslerin verilme durumları ve öğrenme
+süreçlerine etkisi hakkında öğretmen görüşleri nelerdir?
+2) Uzaktan eğitimde değerlendirme süreçlerine dair öğretmen görüşleri nelerdir?
+3) Uzaktan eğitimle dersleri yürütmede öğretmenlerin kendilerini
+yeterli görme durumları (hizmetiçi eğitim ihtiyaçları) hakkında görüşleri nelerdir?
+4) Yüz yüze eğitim ile karşılaştırıldığında uzaktan eğitimin olumluolumsuz yönleri nelerdir?
+5) Uzaktan eğitim sürecinin etkili ve verimli yürütülebilmesine dair
+öğretmenlerin önerileri nelerdir?
+Bu özel süreçte mevcut imkânlarla yürütülen uzaktan eğitimi öğretmenlerin bakış açılarıyla değerlendirmek, sonraki süreçlerde yürütülecek uzaktan
+Cilt/Volume: 10,
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches”
+Sayı/Issue: 1,
+[itobiad / 2147-1185]
+Fatih BALAMAN & Sevil HANBAY TİRYAKİ
+eğitim faaliyetlerinin geliştirilmesine, daha verimli yürütülmesine, eksiklerin giderilmesine temel oluşturabilir.
+Nitekim MEB tarafından yapılan açıklamada pandemi süreci sonrasında da yüz yüze eğitimin uzaktan eğitim ile beraber yürütüleceği, uzaktan eğitimden tamamen vazgeçilmeyeceği ifade edilmiş olup 2020-2021 eğitim öğretim yılında da uygulanmaya başlanmıştır.
+COVID-19 sürecinde uzaktan eğitime katılan öğretmenler bu sürecin uygulayıcıları olması dolayısıyla eğitim sürecini daha verimli geçirebilmek adına öğretmenlerin görüşlerine önem verilmeli, tespitleri ve önerileri dikkate alınmalıdır.
+Bu çalışmanın sonuçlarının uzaktan eğitim süreçlerinin düzenlenmesi ve yeniden yapılandırılması bakımından karar vericilere, MEB’e ve öğretmenlere, bu sonuçlar doğrultusunda atılacak adımlar dolayısıyla da öğrencilere faydalı olacağı ve yol gösterebileceği düşünülmektedir.
+Bu çalışmanın COVID-19 sürecinde alanyazında eğitim sürecinin uygulayıcısı olan öğretmenlerle yeterli sayıda ve derinlemesine bilgi elde edememe konusundaki eksikliği gidermeye katkı sağlayacağı düşünülmektedir.
+Araştırma sonuçlarının diğer araştırmacılara uzaktan eğitime yönelik öğretmen görüşlerinin farklı boyutlardan ele alınmasına dair yol gösterebileceği düşünülmektedir.
+Yöntem
+Araştırma Modeli
+Araştırma olgubilim (fenomenoloji) modelindedir.
+Eğitim araştırmalarında bir fenomeni açıklamak, buna bağlı olarak yaşam deneyimlerini açıklamaya çalışmak, sonuçları, değişkenleri değerlendirmek yaygın bir kullanımdır.
+Bu doğrultuda insanların yaşam durumları hakkında derinlemesine bilgi elde etmek için küçük gruplarla nitel çalışmalar yapılır (Arthur, Waring, Robert ve Hedges, 2017, s. 10-11).
+Kişi ya da kişilerin bir olguya ilişkin yaşadıkları deneyim olarak nitelendirilen olgubilim çalışmalarında deneyimlemenin önemli olduğu bilinmektedir (Seggie ve Bayyurt, 2017, s. 3).
+Araştırmada COVID-19 sürecinde mecburi yürütülen uzaktan eğitimi deneyimleyen öğretmenler ile görüşülerek bu süreçte gerçekleşen durumlar, eksikler, avantajlar, dezavantajlar, öğrenci ve öğretmene yansımalar açıklanmaya çalışılmıştır.
+Burada asıl amaç genellemelere ulaşmaktan ziyade bahsedilen durumu betimlemek, keşfetmektir.
+Nitekim nitel araştırmalar da bunu gerektirmektedir (Sönmez ve Alacapınar, 2013, s. 70).
+Araştırma; görüşmenin yapıldığı eğitim-öğretim dönemiyle (zorunlu uzaktan eğitim dönemi), görüşme sorularıyla, görüşme yapılan öğretmenlerle ve bu öğretmenlerin branşlarıyla sınırlıdır.
+Çalışma Grubu
+Tablo 1: Görüşülen öğretmenlere ait demografik bilgiler
+Cinsiyet Erkek 7 58.33 Kadın 5 41.66
+10 the Years
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches” [itobiad]
+Corona Virüs (Covid-19) Nedeniyle Mecburi Yürütülen Uzaktan Eğitim Hakkında Öğretmen
+Görüşleri
+Branş
+Bilişim Teknolojileri 2 16.66 Fen Bilimleri 2 16.66 İngilizce 1 8.33 Matematik 1 8.33 Müzik 1 8.33 Resim 1 8.33 Özel Eğitim 1 8.33 Sosyal Bilgiler 1 8.33 Teknoloji ve Tasarım 1 8.33 Türkçe 1 8.33
+Kıdem
+Çalışma Grubu 2019-2020 eğitim - öğretim yılında Hatay il merkezinde 7 farklı devlet okulunda 10 farklı branşta görev yapan 5’ i kadın, 7’ si erkek toplam 12 öğretmenden oluşmaktadır.
+Görüşme yapılan öğretmenler amaçlı çalışma gruplarından tipik durum çalışma grubu yöntemine göre seçilmiştir.
+Bu yöntemde temsil edici özelliği olanların çalışma grubuna dâhil edildiği ifade edilmektedir (Sönmez ve Alacapınar, 2013, s. 97-98).
+Görüşülenlerin, bu süreçte uzaktan eğitime aktif katılan öğretmenler olması ve çalışma grubu içinde hem teorik hem uygulamalı branşlara sahip öğretmenler olması çalışma grubuna dâhil olmada tipik durum olarak düşünülmüştür.
+Araştırma öncesinde öğretmenler, araştırma ve görüşme hakkında bilgilendirilmiş, görüşme için gönüllülük esasına göre hareket edilmiştir.
+Farklı branşlarda öğretmenlerin katılımcı olması ve derslerin konu içeriklerinin teorik ve uygulamalı anlatımları içeren dersler olması, araştırmanın amacına ulaşmasında yarar sağlayacağı düşünülmüştür.
+Öğretmenler aktif olarak bahsedilen uzaktan eğitim sürecinde görev yapmışlardır.
+Araştırmanın yürütülebilmesi için gerekli etik kurul izni alınmıştır.
+Geçerlik ve Güvenirlik
+Nitel çalışmalarda geçerlik ve güvenirlik nicel çalışmalara göre oldukça farklılaşmıştır.
+Nitel çalışmalarda araştırmanın başından sonuna kadar işlemleri açıklamak, sonuçları detaylı raporlamak, objektif, esnek ve şeffaf olmak geçerlik ve güvenirlik ölçütü olarak ifade edilmektedir (Yıldırım ve Şimşek, 2008).
+Kuş (2008) da nitel çalışmalarda bilgisayar destekli yazılım kullanımının şeffaflığı ve genellenebilirliği artırarak geçerlik ve güvenirliği artırmaya katkıda bulunduğunu ifade etmektedir.
+Araştırma boyunca yapılan işlemler, aşamalar detaylıca açıklanmaya çalışılmış, veri toplama aracı geliştirme sürecinde uzman görüşü alınmıştır.
+Veriler nitel veri analiz
+Cilt/Volume: 10,
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches”
+Sayı/Issue: 1,
+[itobiad / 2147-1185]
+Fatih BALAMAN & Sevil HANBAY TİRYAKİ
+yazılımı da kullanılarak derinlemesine analiz edilip doğrudan alıntılara sıkça yer verilmiş, geçerlik sağlanmaya çalışılmıştır.
+İç güvenirlik için kodlayıcılar arası görüş birliği hesaplanmıştır.
+Hesaplamada Miles ve Huberman (1994, s. 64)’ ın nitel çalışmalar için kullanılan güvenirlik katsayısı formülü (güvenirlik = görüş birliği / (görüş birliği + görüş ayrılığı)x100) kullanılmıştır.
+Miles ve Huberman (1994, s. 64) formüle göre güvenirliğin en az %70 olmasını önermektedir.
+Araştırmada yazılı metin halindeki görüşme verileri araştırmacılar tarafından ayrı ayrı kodlanmış, kodlamalar incelenerek görüş birliği ve görüş ayrılığı olan kodlamalar belirlenmiştir.
+Elde edilen sonuçlarla kodlayıcılar arası görüş birliği %83.75 olarak hesaplanmıştır.
+Dış güvenirlik için katılımcıların özelliklerinin tanımlanması, sınırlılıkların ifade edilmesi, veri toplama süreci ve analizlerden bahsedilmesi gerekmektedir (Yıldırım ve Şimşek, 2013).
+Bu gereklilikler araştırmada uygun başlıklar altında açıklanmış, dış güvenirlik sağlanmaya çalışılmıştır.
+Verilerin Toplanması ve Veri Toplama Aracı
+Veriler nitel veri toplama yöntemlerinden görüşme yöntemi ile sanal ortamda çevrimdışı olarak, yarı yapılandırılmış görüşme formu kullanılarak toplanmıştır.
+Görüşmeler yazılı olarak gerçekleştirilmiştir.
+İletişimin yüz yüze olmamasında mevcut COVID-19 süreci, çevrimdışı olmasında ise görüşülenlerin tercihleri etkili olmuştur.
+Nitekim Seggie ve Bayyurt (2017, s. 44) da görüşme verilerinin yüz yüze toplanabileceği gibi telefonla veya internet yoluyla yazılı veya görüntülü olarak da elde edilebileceğini ifade etmektedir.
+Görüşme formu hazırlanmadan önce konu ile ilgili kaynak taraması yapılmış, görüşme sorularının oluşturulmasına yönelik hazırlık yapılmıştır.
+Görüşme öncesinde, öğretmenlere verilerin sadece bilimsel amaçlı kullanılacağı konusunda güvence verilmiş, ilgili kurumdan resmi iznin alındığı kendilerine iletilmiştir.
+Yarı yapılandırılmış görüşme yöntemi ile veri toplamak, olgubilim araştırmalarında en sık tercih edilen veri toplama yöntemidir.
+Elde edilen veriler görüşülenlerin hikâyesine bağlı kalınarak anlatıma dönüştürülür.
+Olgubilimde yorumlamak çok önemli olup bu yöntem, yorumlayıcı olgubilim araştırmaları olarak da anılmaktadır (Seggie ve Bayyurt, 2017, s. 72).
+Görüşme soruları başlangıçta 11 soru olarak oluşturulmuştu.
+Hazırlanan bu form eğitim fakültesinde Eğitim Bilimleri ile Bilgisayar ve Öğretim Teknolojileri Eğitimi bölümlerinden 5 öğretim elemanına kapsam geçerliğini sağlamak amacıyla gönderilmiştir.
+Öğretim elemanlarından; soruların araştırma konusunu kapsama ve araştırma gereksinimlerini karşılama durumları bakımından incelemeleri istenmiştir.
+Geri bildirimler sonrasında 1 soru çıkarılmış, 2 soru da başka sorularla birleştirilerek sorulmasına karar verilmiş ve görüşme formunun son hali 8 sorudan oluşmuştur.
+Görüşme Formu’ nun son hali bir öğretmene pilot uygulama amacıyla uygulanmış,
+10 the Years
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches” [itobiad]
+Corona Virüs (Covid-19) Nedeniyle Mecburi Yürütülen Uzaktan Eğitim Hakkında Öğretmen
+Görüşleri
+soruların açık, net ve anlaşılırlığı, soruların amaca hizmet edip etmediği ve bunlarında dışında varsa görüş ve önerileri sorulmuş, basit şekilsel düzeltmeler ile aşağıda da görüleceği şekliyle Görüşme Formu’ na son hali verilmiştir.
+Görüşme soruları;
+1- Bir dersin uzaktan eğitimle verilmesi öğrenme sürecini nasıl etkilemektedir?
+2- Derslerin uygulamalı kısmının uzaktan eğitimle verilebilirliği konusundaki görüşleriniz nelerdir?
+3- COVID-19 sürecinde mecburi yürütülen uzaktan eğitimde değerlendirme süreçleri nasıl tasarlanmalıdır?
+4- Bu süreçte uzaktan eğitimi kullanabilme yeterliliği bakımından kendinizi (teknik özellikleri kullanabilme, içerik düzenleme v.b.)
+nasıl değerlendiriyorsunuz?
+5- Uzaktan eğitim sürecini yönetirken öğretmenlerin hizmet içi eğitim gereksinimi olduğunu düşünüyor musunuz (varsa hangi konularda)?
+6- Bu süreçte uzaktan eğitime yönelik tutumun uzaktan eğitim faaliyetlerini etkileyebilirliği konusundaki görüşleriniz nelerdir?
+7- Uzaktan eğitim ile geleneksel eğitimi avantajlar – dezavantajlar bakımından karşılaştırır mısınız?
+8- Bu süreçte uzaktan eğitim üzerinden ders vermeyi daha işlevsel hale getirmek için neler yapılabilir?
+Görüşme sorularının oluşturulmasında COVID-19 sürecinde mecburi yürütülen uzaktan eğitimde kullanılan çift yönlü iletişimin olduğu Zoom adlı canlı ders yazılımı, çevrim dışı eğitimde kullanılan EBA platformu ve tek yönlü iletişim sağlayan EBA TV üzerine odaklanılmıştır.
+Bu sistemlerin öğrenme sürecine etkileri, yine uzaktan eğitimin öğrenci, öğretmen ve öğrenmeye etkileri, uzaktan eğitim ve bahsedilen sistemler hakkında öğretmenlerin tespitlerini ortaya çıkarmak amaçlanmıştır.
+Veriler 2019-2020 eğitim - öğretim yılı 2. döneminin son haftalarında toplanmıştır.
+Verilerin Analizi
+Verilerin çözümlenmesinde içerik analizi yöntemi kullanılmıştır.
+İçerik analizinde nitel veriler derinlemesine çözümlenerek kodlamalar yapılır, kodlamalara bağlı olarak temalar oluşturulur, temalara ilişkin maddelerde frekans ve yüzde değerlerine yer verilir (Sönmez ve Alacapınar, 2013, s. 116).
+Veriler analiz edilirken Nitel Veri Analiz Programı olan NVivo 10 yazılımından da yararlanılmıştır.
+Özellikle kodlamalarda, kodlamaların bir araya getirilerek temaların oluşturulmasında, sık geçen kelimelerin tespitinde, model oluşturmada ve diğer sorgulamalarda NVivo 10 kullanılmıştır.
+Görüşülen öğretmenler random olarak numaralandırılmış, görüşmelere yapılan doğrudan alıntılar bulgularda ifade edilirken
+Cilt/Volume: 10,
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches”
+Sayı/Issue: 1,
+[itobiad / 2147-1185]
+Fatih BALAMAN & Sevil HANBAY TİRYAKİ
+öğretmenler Öğrt.1, Öğrt.2…şeklinde anılmıştır.
+İçerik analizi sonucunda temalar oluşturulmuş, temalar tablo haline getirilerek frekans değerine yer verilmiştir.
+Yıldırım ve Şimşek (2008)’ in de önerdiği üzere görüşülen öğretmenlerin doğrudan alıntılarına sıkça yer verilmiştir.
+Seggie ve Bayyurt (2017, s. 253-254), metinlerin temalaştırılmasında, sözcüklerin, başlıkların, önemli konuların ve içeriklerin belirlenmesinde, bunların sayısallaştırılmasında içerik analizinden yararlanıldığını belirtmiştir.
+Bulgular
+İçerik analizi sonucunda öğretmenlerin cevapları doğrultusunda “COVID-19 süreci özelinde karşılaşılan durumlar”, “Uzaktan eğitimin sağladığı kolaylıklar”, “Uzaktan eğitimde karşılaşılan dezavantajlar”, “Süreç boyunca hissedilen ihtiyaçlar” temalarına ulaşılmıştır.
+Her bir tema ve alt temaları frekansları ile birlikte NVivo’ da modellenerek sunulmuştur.
+Şekil 1: COVID-19 süreci özelinde karşılaşılan durumlar
+Birinci tema bağlamında öğretmenler sürecin önemine vurgu yapmışlar, EBA’ yı eğitsel bakımdan yeterli görmüşler, eğitim sistemimizi bu ani sürece hazırlıklı bulmuşlar ve uzaktan eğitimi iyi bir alternatif olarak değerlendirmişlerdir.
+Şekil 2: Uzaktan eğitimin sağladığı kolaylıklar
+10 the Years
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches” [itobiad]
+Corona Virüs (Covid-19) Nedeniyle Mecburi Yürütülen Uzaktan Eğitim Hakkında Öğretmen
+Görüşleri
+İkinci tema bağlamında uzaktan eğitimin yer ve zaman sınırlılığını ortadan kaldırdığını, öğrencilerin materyalleri diledikleri kadar kullanabildiklerini ve bu materyallere erişimin pratikliğini vurgulanmıştır.
+Şekil 3: Uzaktan eğitimde karşılaşılan dezavantajlar
+Dezavantajlar bakımından öğretmenler uzaktan eğitimin psikomotor alan derslerinde, ölçme değerlendirmede, duyguların aktarımında, etkileşimde etkisiz olduğunu bildirmişlerdir.
+Ayrıca her öğrencinin imkânlar ve altyapı bakımından aynı şartlara sahip olmadığını ve motivasyonda düşüşler gözlediklerini ifade etmişlerdir.
+Şekil 4: Süreç boyunca hissedilen ihtiyaçlar
+Öğretmenler uzaktan eğitim sistemlerini kullanmada mevcut bilgi ve beceri düzeylerinin yeterli olmadığını buna bağlı olarak eğitime ihtiyaç duyulduğunu, uzaktan eğitimin hedef davranışları kazandırmada tek başına yeterli olmadığını, bilgisayar ve internet ihtiyacı olan öğrencilerin olduğunu, sunuculara erişimde sorunlar yaşandığını ve güvenli bir canlı ders ihtiyacı hissedildiğini aktarmışlardır.
+“Bir Dersin Uzaktan Eğitimle Verilmesi Öğrenme Sürecini Nasıl Etkilemektedir?” Sorusuna İlişkin Bulgular
+Cilt/Volume: 10,
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches”
+Sayı/Issue: 1,
+[itobiad / 2147-1185]
+Fatih BALAMAN & Sevil HANBAY TİRYAKİ
+Uzaktan eğitimde etkileşimin farklılaşmış olması duyguların yansıtılmasını sınırlandırmaktadır.
+Gerek uzaktan eğitimin sistemsel özellikleri gerek sınıf içindeki sinerjinin olmayışı bunun sebepleri arasındadır.
+Öğrenme bir iletişim sürecidir ve bu süreçte duyguları ifade etmek önemlidir.
+Etkili iletişim ile öğrenme düzeyi ve sosyal ilişkiler güçlenebilir.
+İletişimin unsurlarından biri de geri bildirimdir.
+Uzaktan eğitimde belli düzeyde geri bildirim yapılabilirken bu geri bildirimlerin yüz yüze ortamdaki gibi etkili değildir.
+Öğrencilerin ve öğretmenin sanal ortamında birbirini görmüyor olması öğrenmenin kontrolünü daha çok öğrenciye bırakmakta, öğrenmeye yönelik dış uyarıcıları azaltmaktadır.
+Dolayısıyla öğrencilerin öğrenmeye yönelik motivasyonu düşebilmektedir.
+Uzaktan eğitimde etkileşim ile geri bildirimin sınırlılığı ve bunun öğrencilere yansımaları hakkında öğretmenler aşağıdaki ifadeleri kullanmışlardır.
+Öğrt.1; “Çocukların kendilerini, duygularını ifade etmekte zorlanmaları, öğretmenin çocuklar üzerindeki gözlem, sahiplik duygusu, bireysel farklılıkları görememe, öğrenme güçlüklerinin anında çözülememesi gibi etkenler uzaktan eğitimin geleneksel yönteme göre eksiklikleridir.”
+Öğrt.1; “Aynı zamanda öğrencilerin öğretmenleri ve sınıf arkadaşları ile zaman zaman da olsa canlı bağlantı kurabilmesi eğitim ortamını verimli etkileyecektir.
+Öğrt.2; “Öğretmenin öğrencilerine jest ve mimiklerle duygularını ifade etmesi mümkün değildir.
+Bu durum öğrenme açısından olumsuzdur.“
+Öğrt.4; “Uygulamalı derslerde uzaktan eğitimde geri dönüt anında ya da gerektiği gibi verilemeyeceği için fazla fayda sağlamaz.”
+Öğrt.4; “Uzaktan eğitimde öğrenciler disiplinden uzak, sosyal ve duygusal gelişimlerini tamamlayamadıkları bir öğretim süreci içerisinde oluyorlar.”
+Öğrt.5; “Öğrenci arkadaşlarından ayrı kalacağı için sosyal ilişkilerde zayıf olabilir.”
+Öğrt.5; “Sınıf ortamından uzaklaşacaktır bundan dolayı öğretmenin öğrenciyi kontrol etmesi ve onu ders için motive etmede zorlanacaktır.”
+Öğrt.10; “Yüz yüze eğitim, öğrenci ile göz teması kurmak, süreç içinde yapılan kısa ya da uzun diyaloglar, şakalar, öğrencinin kendini ifade etmesi gibi hayat kurtarıcı anlar uzaktan eğitimle maalesef mümkün değil.“
+Öğrt.10; “Yüz yüze eğitimin verdiği duygu paylaşımları, göz teması, akran öğrenmesi, arkadaşlarıyla okulda vakit geçirme, öğretmenleriyle sohbet imkânı, yaparak yaşayarak öğrenme istenildiği oranda maalesef gerçekleşemez.”
+Öğrt.11; “Yeni konuların öğrenebilmesinde hazır bulunuşluk düzeyi önemlidir.
+Sınıf içerisinde öğrenciler arkadaşları ile birbirlerini görüp konuşabildikleri için moralleri yükseliyor ve motive oluyorlar.“
+Bilgisayar ve bilgisayar özelliği taşıyan diğer teknoloji ürünlerini temin edebilenlerle temin edemeyen öğrenciler arasında fırsat eşitsizliği oluşabilir.
+Ülkemizde gelir durumunun düşük olduğu, internet hizmetinin henüz
+10 the Years
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches” [itobiad]
+Corona Virüs (Covid-19) Nedeniyle Mecburi Yürütülen Uzaktan Eğitim Hakkında Öğretmen
+Görüşleri
+ulaşmadığı kırsal bölgeler düşünüldüğünde bu durumun göz ardı edilemeyeceği bir gerçektir.
+Nitekim bilgisayar ve internet uzaktan eğitim için vazgeçilmez teknolojilerdir.
+Öğrencilerin bilgisayar ve internet erişimi ihtiyacına ilişkin öğretmen yorumları şu şekildedir.
+Öğrt.1; “Teknik altyapı yetersizliği, her öğrencinin aynı teknolojiye sahip olmamaları ya da uzaktan eğitim araçlarını etkin kullanma becerisi düzeyleri gibi etkenler uzaktan eğitimin geleneksel yönteme göre eksiklikleridir.”
+Öğrt.2; “… Bu görüşlerin yanında öğrencilerin teknolojiye ulaşma yeterliliği en önemli faktördür.”
+Öğrt.5; “Genel anlamda teknik alt yapı ülkenin hemen hemen her yerinde ulaşılabilir kılınmıştır.
+Fakat maddi durumu kötü olan aileler ve internet bağlantısı olmayan köylerde internet ulaşımı sağlanmadığı için bu eğitimi alamayan öğrencilerde azımsanamayacak kadar çoktur.
+Bu durumda eğitimde fırsat eşitsizliğine sebep olmaktadır.”
+Öğrt.7; “Uzaktan eğitim öğrenciler arasında eşit imkânlar sağlayamadığı için eksik kalabilir.
+Evinde internet bağlantısı, tableti, televizyonu, bilgisayarı olmayan çok öğrenci vardır.”
+Öğrt.8’;” İnternet bağlantı hızının bölgeden bölgeye değişiklik gösterebilmesi, alt yapının yeterli olmaması sorun olabilir.”
+Öğrt.8; “Uzaktan eğitimde zorunlu olan internet bağlantı ücretinin her ailenin bütçesine uygun olmayabileceğini düşünüyorum.”
+Öğrt.10; “Etkinliklerin ebeveyn kontrollü olarak takip edilmesi gerektiğini düşünüyorum.
+Tabii her evde internet, bilgisayar ya da tablet de olmayabilir.
+Başka bir faktör her öğrencinin EBA’yı kullanamıyor olması.
+Gerekli altyapı oluşturulması bunun için önemlidir.”
+“Derslerin Uygulamalı Kısmının Uzaktan Eğitimle Verilebilirliği Konusundaki Görüşleriniz Nelerdir?” Sorusuna İlişkin Bulgular
+Fen Bilimleri, Müzik, Beden Eğitimi, Tiyatro gibi uygulamalı içeriğin ağırlıkta olduğu derslerde, sanatsal etkinliklerde uzaktan eğitim yoluyla öğretimin yetersiz kalabildiği anlaşılmıştır.
+Bazı yazılımlar kısmen uygulamalara olanak sağlasa da bu yazılımlar yüz yüze eğitim kadar etkili değildir.
+Uzaktan eğitimin uygulamalı derslerde kullanımına ilişkin öğretmenler şu ifadeleri kullanmışlardır.
+Öğrt.2; “Öğrenme süreci; ders içeriğine göre değişkenlik göstermektedir.
+Ders içeriğinde sözel konuların olması uzaktan eğitimdeki öğrenme sürecini olumsuz etkilemiyor fakat gösterip-yaptırma şeklinde uygulamalı ders içerikleri olumsuz şekilde etkilenmektedir.”
+Öğrt.3; “Fen Bilimleri dersinde uzaktan eğitimle deney-gözlem yapmak çok zor.
+Bu durum sunum ya da videolarla desteklenmeli.”
+Cilt/Volume: 10,
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches”
+Sayı/Issue: 1,
+[itobiad / 2147-1185]
+Fatih BALAMAN & Sevil HANBAY TİRYAKİ
+Öğrt.4; “Benim dersim olan fen bilimleri gibi uygulama gerektiren derslerde uygulamalı kısım bazen yazılımlarla yapılsa bile gerçeği çok fazla yansıtmaz.”
+Öğrt.7; “Uygulamalı derslerin örneğin kendi dersim olan müzik dersinin uzaktan eğitim ile eksik kalacağına inanıyorum.
+Verilen eserler, sanat ile ilgili filmler izlenerek dersimize katkı sağlanabilir.
+Ama enstrüman derslerinin öğretimi uzaktan eğitimle mümkün olamaz.
+Yalnızca enstrüman tekrarları yapılabilir.”
+Öğrt.10; “Uygulamalı dersler ya da dersimizin uygulamalı kısımları maalesef uzaktan eğitimle tam olarak verilemez.
+Gösterip yaptırma, uygulamalı adımları izleme gibi teknikler bir noktaya kadar kullanılabilir.”
+“COVID-19 Sürecinde Mecburi Yürütülen Uzaktan Eğitimde Değerlendirme Süreçleri Nasıl Tasarlanmalıdır?” Sorusuna İlişkin Bulgular
+Günümüz eğitim sisteminde ölçme-değerlendirme sistemleri genellikle bir veya birkaç ölçümden ziyade süreç boyunca devam eden, anlık değil bütün dönemi kapsayan değerlendirme yöntemlerinin daha doğru olacağını savunmaktadır.
+Sürecin önemini ön plana çıkaran bu durum hakkında görüşmelerde sonuçtan ziyade sürecin önemli olduğunu ifade eden öğretmenler olmuştur.
+Uzaktan eğitimde geleneksel yollarla yapılan ölçme- değerlendirmenin, öğrencinin kendi bilgi ve becerisi dışında farklı kaynaklardan yararlanma ihtimali açısından sakıncaları vardır.
+Fakat alternatif yöntemler kullanılarak gerçekçi ölçme – değerlendirmeler yapılmaya çalışılır.
+Görüşülen öğretmenlerden sınavların merkezi olarak yapılması gerektiğini düşünen öğretmenler olduğu gibi yüz yüze sınavların aksine sanal ortamda sınavları benimseyen öğretmenler de azımsanmayacak sayıdadır.
+Ayrıca sınav yapılmaması gerektiğine düşünen öğretmen de olmuştur.
+Ölçme değerlendirme süreci hakkında öğretmen ifadeleri şu şekildedir.
+Öğrt.1; “Okul ortamdaki gibi etkin bir şekilde uygulanamayacağı kanısındayım.
+Fakat öğretmen etkinliğinde uygulamalar daha esnek bir yapıda, çeşitli görsellerle, videolarla, etkileşimli materyallerle desteklenip öğrencilere aktarılmalı ve değerlendirilmelidir.”
+Öğrt.2; “Tüm öğrencilerin TV ve internet tabanlı eğitime ulaşma imkânının belirsizliği sebebiyle herhangi bir ölçme değerlendirme sistemi olmamalıdır.
+Sınavların yapılmaması gerekir.”
+Öğrt.3; “Öğrenciler pasif durumda, uygulama çok kısıtlı, soru sorma ve dönüt alma yetersiz, sanal ortamda değerlendirme çok sağlıklı değil.
+Süreç önemlidir.
+Sonuca ulaşmak için süreci iyi değerlendirmek lazım.”
+Öğrt.3; “Sınavlar online yapılmamalı, uygulamalı yapılmalı.
+8.
+Sınıflar için MEB tarafından, 5,6,7. sınıflar için ise branş öğretmenleri tarafından yapılmalı.”
+Öğrt.5; “Milli Eğitim Bakanlığı’ nın Türkiye geneline uygulanacak merkezi bir sınavla öğrencileri sınava sokmak daha adil bir sınav sistemi olacaktır.
+Sınavlar yine internet üzerinden e-sınav yoluyla yapılmalıdır.”
+10 the Years
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches” [itobiad]
+Corona Virüs (Covid-19) Nedeniyle Mecburi Yürütülen Uzaktan Eğitim Hakkında Öğretmen
+Görüşleri
+Öğrt.6; “Sınavlar EBA üzerinden merkezi olarak yapılabilir.
+Belli bir saat belirlenir ve öğrenciler o saatte girip soruları yanıtlarlar.
+Ama bunun ne kadar güvenilir olacağı tartışılır çünkü öğrencilerin soruları yalnız yanıtlayacağının bir garantisi yoktur.
+O yüzden tamamen süreç değerlendirilmelidir.”
+Öğrt.7; “Eğitim bir süreçtir.
+Sonuç olarak değerlendirmenin doğru olmadığını düşünüyorum.”
+Öğrt.8; “Sınavlar üniversite uzaktan eğitim sınavlarında olduğu gibi süreli ve yoruma açık mantık sorularının bulunacağı şekilde hazırlanabilir.
+Her ders için merkezi bir sınav komitesi tarafından hazırlanarak belli süreler içinde tamamlanabilir.
+Değerlendirme sürecinin de sonucunun da önemli olması gerektiğini düşünüyorum.”
+Öğrt.9; “Sınavlar yine uzaktan eğitimle yapılabilir.
+Ders öğretmeninin sınavı yapması gereklidir.
+Uzaktan eğitim ve öğretim sürecinde sınavların değil eğitim ve öğretim sürecinin daha etkili olduğu düşünüyorum.”
+Öğrt.10; “Öğrenciler süreç içinde yapması gereken adımları tamamlamalı mesela.”
+Öğrt.10; “Sınavlar sürece yayılarak yapılabilir.
+Uzaktan eğitimle alınan seminer veya kurslar gibi zaman sınırlaması koyularak birey öğrendiklerini yansıtabilir.
+İllerde komisyonlar oluşturulabilir.
+Milli eğitimle koordineli çalışan bu komisyonda görev alan işinin ehli öğretmenler sınavları hazırlayabilir.”
+Öğrt.11; “Yıllarca sonuç odaklı çalıştığımız için, en çok emeği veren, en çok çalışan çocuğumuz optik kâğıda su döküldüğü için başarısız sayılmadı mı?
+Sonuç ne olursa olsun önemli olan çabalamaktır.”
+“Bu Süreçte Uzaktan Eğitimi Kullanabilme Yeterliliği Bakımından Kendinizi (teknik özellikleri kullanabilme, içerik düzenleme v.b.)
+Nasıl Değerlendiriyorsunuz?” Sorusuna İlişkin Bulgular
+Uzaktan eğitim kapsamındaki çeşitli yazılım ve donanımların kullanımına yönelik kendini yeterli gören öğretmenler olduğu gibi yetersiz hisseden ve daha iyi olabileceğini düşünen öğretmenler olmuştur.
+Öğretmenler sistemleri kullanım yeterliğine ilişkin şu ifadeleri kullanmışlardır.
+Öğrt.2; “Ders içeriklerimi ve içerik akışımı kendim hazırladım.
+Mevcut eğitim ortamında kullanmış olduğum Z-kitaptan yararlanarak devam ettiriyorum.
+Uzaktan eğitim teknik altyapısını başarılı bir şekilde kullanabiliyorum.”
+Öğrt.3; “Kendimi uygulama noktasında yeterli görüyorum.”
+Öğrt.4; “Uzaktan eğitim alt yapısını uygun ve nitelikli bir şekilde kullanabildiğimi düşünüyorum.
+Gerekli teknoloji bilgisine ya da sorunlarla karşılaşırsam çözüm yeteneğine sahip olduğumu düşünüyorum.”
+Öğrt.6; “Uzaktan eğitim teknik alt yapısını kullanabilme konusunda kendimi yetersiz görüyorum.
+Ders veya içerik akışı düzenleme normal zamanlarda aşina olduğum şeyler ancak teknik bakımdan daha donanımlı olmak isterdim.”
+Cilt/Volume: 10,
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches”
+Sayı/Issue: 1,
+[itobiad / 2147-1185]
+Fatih BALAMAN & Sevil HANBAY TİRYAKİ
+Öğrt.9; “Eğitim ve öğretimin daha kalıcı ve işlevsel olması için mevcut bilgilerimizin yeterli olmadığını düşünüyorum.”
+Öğrt.10; “Bu konuda farklı eğitim ağlarında ders akışı oluşturduğumdan bunları yaratma ve düzenleme konusunda sıkıntı yaşamayacağımı düşünüyorum.
+İlgimden dolayı bu konuda yeterince teknik bilgiye sahibim.”
+Öğrt.11; ”…Öğretmenler web 2 araçlarını kullanma konusunda yeterli değildir.”
+“Uzaktan Eğitim Sürecini Yönetirken Öğretmenlerin Hizmetiçi Eğitim Gereksinimi Olduğunu Düşünüyor musunuz (varsa hangi konularda)?” Sorusuna İlişkin Bulgular
+Zoom, EBA TV, çevrimdışı EBA platformu gibi sistemlerin öğrenciler ve özellikle öğretmenler tarafından kullanılması belli düzeyde bilgisayar- internet kullanım bilgisi içermektedir.
+Bu kullanıma içerik hazırlamayı da dâhil edersek kapsam daha da genişleyecektir.
+Görüşmelerde sistemleri kullanımda zorlananlar olduğu, çoğunluğun hizmet içi eğitimin gerekli olduğunu düşündüğü anlaşılmıştır.
+Hizmet içi eğitimin gerekliliği yönünde genellikle görüş birliği varken aslında sistemlerin kullanımına yönelik MEB’ in ilgili konuda eğitsel videosunun da olduğu anlaşılmıştır.
+Bu konuda öğretmen ifadeleri şu şekildedir.
+Öğrt.1; “Kesinlikle hizmet içi eğitime ihtiyaç olduğunu düşünüyorum.
+Öncelikle temel bilgisayar kullanımı ve yardımcı programlar, Office programları, ders, içerik geliştirme, video ve ses düzenleme ya da Web 2.0 araçları gibi eğitimlerin her eğitimcinin öncelikli olarak alması gerekir.”
+Öğrt.3; “Yeni uygulamalar (teknik bilgi içeren) olacaksa hizmet içi eğitim verilebilir.
+Fen bilimleri için dijital ortamda deney tasarlama (öğrencilere uygulatma) konusunda eğitim verilebilir.”
+Öğrt.5; “Öğretmenlerin ve okul idarecilerinin mutlaka hizmet içi eğitimi almaları gerekmektedir.
+Bu eğitim sadece video konferans aracılığıyla ders vermek kursu değil aynı zamanda internet üzerinden etkinlik ve bu yapılacak etkinlikler için materyal hazırlama programlarını da öğrenmeleri gerekmektedir.”
+Öğrt.6; “Süreç değerlendirmesi gerçekleştirilecekse bunun nasıl yapılması gerektiği hakkında eğitim verilebilir.”
+Öğrt.7; “Sürecin akışı, nasıl değerlendirileceği hakkında eğitim olmalıdır.”
+Öğrt.8; “Hizmet içi eğitim faydalı olabilirdi, fakat karantina günlerinde Millî Eğitim Bakanlığı bunun için önlem almış görünüyor; EBA’ da bizim gibi öğretmen arkadaşların katılabileceği ve tamamlayabileceği “Uzaktan eğitim kursu” yer almakta.
+Bu kursu tamamlamanın çok faydalı olduğunu deneyimledim.”
+Öğrt.10; “Kesinlikle öğretmenlerimizin hizmet içi eğitime ihtiyacı var diye düşünüyorum.
+Uzaktan eğitim, EBA’ da içerik oluşturma, bilgisayar kullanımı, alanında kendini geliştirme gibi konular….”
+“Bu Süreçte Uzaktan Eğitime Yönelik Tutumun Uzaktan Eğitim Faaliyetlerini Etkileyebilirliği Konusundaki Görüşleriniz Nelerdir?” Sorusuna İlişkin Bulgular
+10 the Years
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches” [itobiad]
+Corona Virüs (Covid-19) Nedeniyle Mecburi Yürütülen Uzaktan Eğitim Hakkında Öğretmen
+Görüşleri
+Öğretmenler tutumun öğrenme süreçlerinde etkili olduğunu düşünmüşlerdir.
+COVID-19 sürecindeki öğretim yönteminin öğrencilerin uzaktan eğitime karşı tutumlarını olumlu veya olumsuz yönde değiştirdiği anlaşılmıştır.
+Buna ilişkin öğretmen görüşleri şu şekildedir.
+Öğr.3 “Bu süreçte eğitimin göz ardı edilmediği anlaşıldığından, bu süreç bence bütün paydaşların uzaktan eğitime yönelik tutumlarını olumlu etkiliyor.”
+Öğr.7 “Uzaktan eğitime karşı olan tutum, öğrencilerin derse katılıma isteğini, verilen eğitime uyumunu etkiler.”
+Öğr.12 “Uzaktan eğitime yüz yüze eğitimde “iyi” diye nitelendirdiğimiz öğrencilerimizin bazılarının olumsuz görüş geliştirdiğini gözlemledim.
+Bazı velilerden de bu anlamda geri bildirimler aldım.
+Tutumlar süreci etkilemektedir.”
+Öğr.4 “İşimi profesyonel olarak yaptığımı düşünüyorum ve deneyimime güveniyorum.
+Bu yüzden uzaktan eğitime bakış açım ne olursa olsun uzaktan eğitim faaliyetlerim bundan etkilenmez.
+Başka öğretmenlerin kişilik özellikleri, mesleklerine olan yaklaşımları, mesleki yılgınlıkları, bilimsel düşünce sistemine sahip olup olmadıklarına göre bu durum değişebilir.
+Benim için bu durum böyle.”
+“Uzaktan Eğitim ile Geleneksel Eğitimi Avantajlar – Dezavantajlar Bakımından Karşılaştırır mısınız?” Sorusuna İlişkin Bulgular
+Öğretmenler genellikle yüz yüze öğretim ile karşılaştırdıklarında uzaktan eğitimin sağladığı avantajların yanında dezavantajlarından da bahsetmişlerdir.
+Ancak yüz yüze eğitimin yapılamadığı COVID-19 döneminde eğitim – öğretimin aksamaması için yüz yüze eğitime en yakın olan, yüz yüze ortamda yapılabilecekleri sanal ortamda mümkün mertebe sağlayabilen de yine uzaktan eğitimdir.
+Bu açıdan yüz yüze eğitimi tam olarak karşılamasa da öğretmenler yüz yüze eğitime en iyi alternatifin, çözümün uzaktan eğitim olabileceğinden bahsetmişlerdir.
+Genelde uzaktan eğitimin en büyük avantajlarından biri olan zaman ve mekândan bağımsızlık bu süreçte de hissedilmiştir.
+Bunun dışında çevrimdışı dersleri öğrenciler diledikleri kadar tekrar ederek öğrenebildiği uzaktan eğitimde öğretmenler özellikle videoların durdur – devam et imkânına dikkat çekmişlerdir.
+Farklı özelliklere, yapılara sahip öğrenciler farklı sayıda tekrar ile öğrenebilirler.
+Sınıf içinde sınırlı sayıda olan konu tekrarı uzaktan eğitim ile sınırsızdır.
+Eğitsel materyallerin birçok duyuya hitap edebilen özelliklerle zenginleştirilmesi kullanılabilirliğini artırmış, konunun daha iyi anlaşılırlığını sağlamıştır.
+Aynı zamanda gelişmiş bilgisayar – internet teknik altyapısı ve yazılımlar bu materyallere hızlı ve kolay erişimi sağlamıştır.
+Avantaj ve dezavantajlar bakımından öğretmenler şu ifadelere yer vermişlerdir.
+Öğrt.1; “Öğretmen ve öğrenci arasında çeşitli materyallerle etkileşim sağlanır.“
+Cilt/Volume: 10,
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches”
+Sayı/Issue: 1,
+[itobiad / 2147-1185]
+Fatih BALAMAN & Sevil HANBAY TİRYAKİ
+Öğrt.2; “Öğrencilerin ders içeriklerinde durdur- devam et seçeneği ile daha verimli öğrenebilir.”
+Öğrt.5’ in ; “Sorumluluklarını bilen öğrenci ve veliler için böyle kötü bir zamanda en yararlı eğitim aracıdır.
+Örgün eğitimin yapılamadığı zamanlarda en iyi eğitim öğretim şeklidir.
+Öğrencilerin motivasyonu ve okuldan soğumamaları adına yapılan uzaktan eğitim bu yönüyle yararlıdır.“
+Öğrt.5; “Bu eğitim yoluyla öğrencilerin her türlü bilgiye ulaşma imkânı sağlanmaktadır.”
+Öğrt.6; “Öğrenci kendi hızına uygun, eğitim videolarını durdurarak süreci yönetebilir.”
+Öğrt.7; “Uzaktan eğitimin avantajı okuldan uzak kalınan dönemlerde (salgın hastalık gibi) eğitimin aksamaması için büyük bir katkı sağlar.”
+Öğrt.8; “İçerik bulma ve araştırma seçeneklerinin bolluğu zengin materyal desteği sağlar.”
+Öğrt.10; “Zorunlu bir süreçten geçtiğimiz için uzaktan eğitim bir nevi kurtarıcı gibi göründü.”
+Öğrt.10; “…… Şimdi bunları bir kenara koymamız lazım.
+Yaşadığımız süreçte zararı en aza indirebilmemiz için uzaktan eğitimi önemli bir tercih olarak görmeliyiz.”
+Öğrt.10 “Yer ve zamandan bağımsız hareket edebilir.“
+Öğrt.10; “Öğrenciler gün içinde derslerini tekrar tekrar izleyerek kendini geliştirebilir.”
+Öğrt.11; “Uzaktan eğitimin avantajı, böyle süreçlerde öğrencinin okul ortamından %100 kopmasının önüne geçiyor.”
+“Bu Süreçte Uzaktan Eğitim Üzerinden Ders Vermeyi Daha İşlevsel Hale Getirmek için Neler Yapılabilir?“ Sorusuna İlişkin Bulgular
+Çağdaş eğitim yaklaşımlarında uzaktan eğitimin yeri büyüktür.
+Harmanlanmış Öğrenme’ nin özel bir türü olan uzaktan eğitim ile yüz yüze eğitimin birlikte kullanımı bu iki yöntemin avantajlarını bir araya getirmeyi amaçlar.
+Yüz yüze eğitimden vazgeçilmeden uzaktan eğitimin olumlu yönleri kullanılır.
+Hızlı ve sürekli bir uzaktan eğitim hizmeti sunmak, kullanıcı sayısına ve yoğunluğuna da bağlı olmakla birlikte güçlü teknik alt yapı gerektirmektedir.
+Bunun için en önemli unsurlardan biri de sunuculardır.
+COVID-19 sürecinde sunucu kaynaklı eksiklikten bahseden öğretmenler olmuştur.
+COVID-19 süreci dahilinde mecburi uzaktan eğitime geçildikten sonra öğretmenler gönüllü olarak ücretsiz sürümü ile Zoom adlı canlı ders yazılımını kullandılar.
+Sadece ülkemizde değil bütün dünyada bu yazılımın kullanımında büyük bir artış yaşandı.
+Fakat MEB tarafından da açıklandığı gibi yazılımın güvenlik zafiyetleri olduğu konusunda öğretmenler ve
+10 the Years
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches” [itobiad]
+Corona Virüs (Covid-19) Nedeniyle Mecburi Yürütülen Uzaktan Eğitim Hakkında Öğretmen
+Görüşleri
+kamuoyu bilgilendirildi.
+Merkezi Amerika Birleşik Devletleri (ABD)’ nde olan yazılım şirketine ABD hükümeti tarafından inceleme başlatılmıştır.
+Yürütülen süreci daha işlevsel kılmak adına öğretmenlerin görüşleri şu şekildedir.
+Öğrt.1; “Bir eğitim dönüşümü yaşanacağı bir gerçek.
+Gelecek eğitim planlamalarında uzaktan eğitime dair fırsatların, etkinliklerin ve etkileşim ortamlarının örgün eğitimle paralel işlenmesi kaçınılmaz bir durum.
+Birlikte yürütülmesinde yarar var.”
+Öğrt.1; “Milyonlarca öğrencinin sistemde olduğunu düşünürsek sunucuların güçlendirilmesi konusunda çalışmalar yapılmalıdır.”
+Öğrt.2; “Mecburi yürütülen uzaktan eğitimin çeşitli eksiklikleri, problemleri olsa da uzaktan eğitimin yapılabileceği görülmüştür.
+Fakat belirli bir yüz yüze eğitim olmadan uzaktan eğitimin verimi düşecektir görüşündeyim.”
+Öğrt.2; “İnternet ve server altyapısının geliştirilmesiyle daha verimli bir süreç yönetilebilir.”
+Öğrt.6; “EBA’ nın alınan önlemlere rağmen yaşanan yoğunluktan dolayı çok yavaş olduğuna tanık oluyorum.”
+Öğrt.11; “Yerli yazılımlar kullanılmalı.
+Milli yazılımlar kullanılmadığı sürece sürekli bir saldırıya açık durumdayız.”
+Öğrt.1; “Kullanılacak program ve uygulamaların güvenlik açıklarının giderilmesi de bu süreçte temel gereksinimlerden olduğu kaçınılmaz.”
+COVID-19 dolayısıyla mecburi yürütülen uzaktan eğitim sürecinde bakanlık öğretmenleri ve öğrencileri bir araya getirmede, eğitim – öğretim faaliyetlerini yürütmede çevrimdışı eğitim için EBA platformunu, çevrimiçi eğitim için EBA TV’ yi hizmete sunmuştur.
+Bu sistemleri eğitim – öğretim için yeterli gören öğretmenlerin yanında eksiklerin olduğunu iddia eden öğretmenler de olmuştur.
+Bununla ilgili görüşler şu şekildedir.
+Öğr.2; “EBA özellikle 11 ve 12.
+Sınıflar için çok yeterli durumdadır.
+4.
+Sınıf ile 10.
+Sınıf aralığında mihver derslerde ders içerikleri yeterlidir.
+Ölçme değerlendirme araçları ile desteklenmesi durumunda bütün öğrenci grubuna hitap edebilir.
+Okul öncesi, 1. ve 2.
+Sınıf seviyesinde ise eksiklikler vardır.”
+Öğr.4; “EBA’nın gerek ders içeriği gerekse teknik açıdan örneğin öğrenciye ödev gönderebilme, bunun takibini yapabilme, son zamanlarda eklenen canlı ders yapabilme gibi özellikleri açısından yeterli olduğunu düşünüyorum.”
+Öğr.5; “İçerik ve kapsam, yıllık müfredata uygun, basit ve anlaşılır bir şekilde yapılmıştır.
+Bu yönleriyle öğrencileri destekleyen, onları derslerden soğutmayan ve motive edici olması olumlu yönleridir.”
+Öğr.8; “EBA’nın barındırdığı binlerce içerik ve var olan potansiyeli nedeniyle Uzaktan Eğitim’i gerçekleştirebilmek için yeterli olduğu kanısındayım.”
+Cilt/Volume: 10,
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches”
+Sayı/Issue: 1,
+[itobiad / 2147-1185]
+Fatih BALAMAN & Sevil HANBAY TİRYAKİ
+Beklenmedik şekilde gelişen COVID-19 sürecinin insan yaşamını, günlük aktiviteleri bu denli etkileyeceği tahmin edilemezdi.
+İnsan yaşamındaki birçok aktivite ya durmuş ya da güvenli şekilde farklı alternatiflerle sürdürülmeye çalışılmıştır.
+Yaşamımızda hayati öneme sahip olan eğitim – öğretim faaliyeti de yüz yüze şekilde yapılamayacağından uzaktan eğitim yoluyla sürdürülmüştür.
+Büyük bir avantajdır ki bu süreç öncesinde bakanlığımızın uzaktan eğitime yönelik önemli çalışmaları olmuş, uygulamalar aktif olarak öğrenci ve öğretmenlerin kullanımına açılmıştır.
+Öğretimde yüz yüze eğitimden uzaktan eğitime geçiş, öğretmenler – öğrenciler bakımından birçok düzenlemeyi beraberinde getirmiştir.
+Eğitim- öğretim bakımından verimli olmak için yoğun çaba harcayan bakanlığın önemli uygulamaları hayata geçirdiği anlaşılmıştır.
+Bu konuda öğretmenler şu görüşlere yer vermiştir.
+Öğrt.1; “EBA giriş şifrelerinin hızlı ulaştırılması, zaman koordinasyonu, malum duruma göre kamuoyuna yapılan açıklamaların öğrenciler ve veliler üzerinde rahatlatıcı ve telkin edici etkileri, TV kanallarının hızlı bir şekilde yayına açılması bakanlığımızın yaptığı çalışmaların bir sonucudur.”
+Öğrt.3; “Hazırlıksız bir durum olduğundan tabii ki yeterli değil.
+İyileştirme çalışmaları yapılıyor.
+Uygulama alanı genişletilebilir.”
+Öğrt.4; “Bakanlığın hızla karar alması, kısa zamanda gerekli hazırlıkları yapabilmesi bence yeterince hazırlıklı olduğunu göstermektedir.”
+Öğrt.6; “MEB’in kısa zamanda süreci iyi yönettiğini düşünüyorum.
+Her ne kadar işlevsel olmasa da bir şeyler yapılmaya çalışılması umut verici.
+Biz öğretmenler ise tamamen hazırlıksız yakalandık diye düşünüyorum.”
+Öğrt.8; “Milli Eğitim Bakanlığı’nın da öğretmenlerin de bu sürece yalnızca bir hafta ertelemeli olarak katkı sunduğu ve eğitime aralıksız devam edebildiğini göz önünde bulundurursak başarılı bir süreç yönetildiğini düşünüyorum.”
+Öğrt.10; “Kısa sürede sadece EBA değil, televizyon aracığıyla da derslere başlandı.
+Plan program yapıldı ve çocuklarımızın sürece uyumu için hem ailelerden hem de öğretmenlerden yardım istendi.
+Topyekün bir mücadele aslında.
+Yeterli mi peki?
+Değil!
+Daha iyisi yapılabilir mi?
+Tabii yapılabilir!
+Her günden ders çıkartarak daha iyisi için uğraşlar verildiğine ben inanıyorum.
+Hem MEB hem de biz öğretmenler elimizden geldiğince öğrencilerimiz için gayret etmeye devam edeceğiz.”
+Bazı öğretmenlerin hazırlıksız yakalandıklarını ifade etmeleri COVID-19 öncesinde de var olan EBA platformunun kimi öğretmenlerce aktif kullanılmadığını düşündürmektedir.
+Öğrt.4; “Durum ani gelişti fakat öğretmenlere başlarda fazla zaman verilmedi.
+Özellikle velilerin öğretmenlerden çok büyük beklentilere girdiklerini, buna rağmen öğretmenlerin de süreci iyi yürüttüğünü düşünüyorum.”
+Öğrt.6; “Bakanlıkça bir şeyler yapılmaya çalışılması umut verici.
+Biz öğretmenler ise tamamen hazırlıksız yakalandık diye düşünüyorum.”
+10 the Years
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches” [itobiad]
+Corona Virüs (Covid-19) Nedeniyle Mecburi Yürütülen Uzaktan Eğitim Hakkında Öğretmen
+Görüşleri
+Öğrt.7; “Öğretmenler bu sürece hazırlıksız yakalanmıştır bu konuda eğitimlere katılamayan öğretmenler vardır.”
+Öğrt.10; “İçinde bulunduğumuz süreç olağanüstü bir durum olduğu için gerekli altyapı ve içerik düzenleme gibi eksiklerimiz olabilir.”
+Öğr.11; “Öğretmenler hazırlıklı değildi.
+Milli Eğitim Bakanlığı büyük gayret gösterdi.
+Her şey çok apar topar oldu ancak herkes kısa zamanda adapte olabildi.”
+NVivo 10 ile Elde Edilen Kelime Bulutu ve Kelime Ağacı
+Görüşmede en fazla geçen kelimelerin ortaya çıkarılması, yoğun olarak değinilen kavramların elde edilmesi amacıyla NVivo ile kelime bulutu oluşturulabilmektedir.
+Kelime bulutlarında yazı boyutu büyüdükçe görüşme verilerinde bahsedilen kelimenin sıklığının arttığı bilinmektedir.
+Böylece öne çıkan kavramlar, vurgulanan ifadeler görselleştirilebilmektedir.
+Şekil 5: Kelime Bulutu
+Araştırmada elde edilen kelime bulutuna göre uzaktan eğitim, ders, öğrenciler, EBA gibi kelimelerin görüşmelerde sıkça geçtiği anlaşılmıştır.
+Nitel verilere ilişkin öncül ifadelerin kelime bulutundan elde edilmesi ile birlikte bu ifadelerin yazılı metinler içerisinde geçtiği yerler, diğer kavramlarla dizilişi gibi bilgileri elde edip ilişkilerini incelemek amacıyla
+Cilt/Volume: 10,
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches”
+Sayı/Issue: 1,
+[itobiad / 2147-1185]
+Fatih BALAMAN & Sevil HANBAY TİRYAKİ
+kelime ağacı oluşturulmuştur.
+Frekansı en yüksek olan uzaktan eğitim kavramının en sık geçen ifade olduğu anlaşılmıştı.
+Bu kavram etrafında oluşan kelime ağacına göre uzaktan eğitim ile beraber kullanılan kelime grupları görselleştirilmiştir.
+Görselin okunabilirliğini artırmak amacıyla kelime ağacı iki bölüm halinde sunulmuştur.
+Şekil 2: Uzaktan Eğitim Kelime Ağacı -1
+Uzaktan eğitimin kurtarıcı olarak görülmesi, bu süreçte ailelere de görevler düştüğü, öğrencinin aktif olması durumunun uzaktan eğitimde sınırlı kaldığı, bakanlığın virüs sürecinde hızlı harekete geçtiği sonuçları kelime ağacının bu bölümünde elde edilen sonuçlardan bazılarıdır.
+Şekil 3: Uzaktan Eğitim Kelime Ağacı -2
+10 the Years
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches” [itobiad]
+Corona Virüs (Covid-19) Nedeniyle Mecburi Yürütülen Uzaktan Eğitim Hakkında Öğretmen
+Görüşleri
+Bu zorunlu süreçte uzaktan eğitimin en iyi alternatif olması, müzik dersi gibi uyuglamalı derslerde yöntemin eksik kalması, uzaktan eğitimi kullanmada öğretmenlerin hizmet içi eğitim alması, uzaktan eğitim için altyapı yeterliliği de kelime ağacının bu bölüm için elde edilen bazı sonuçlarıdır.
+Tartışma ve Sonuç
+Derslerin zorunlu olarak dijital ortamlarda yürütülmesinin farklı açılardan yansımaları olmuştur.
+Öğretmenler arasında her ne kadar uzaktan eğitimin, sınıf ortamında yürütülen yüz yüze eğitimin yerini alamayacağı görüşü hâkimse de yüz yüze eğitim imkânının olmadığı bu olağanüstü süreçte en iyi çözünüm yine uzaktan eğitim olduğu bilinmektedir.
+Sindiani (2020) de araştırmasında bu süreçte uzaktan eğitimi en iyi seçenek olarak bildirmiştir.
+Süreçten bütün paydaşlar farklı şekillerde etkilenirken, öğrencilerin yüz yüze eğitimden ayrı kaldığı COVID-19 sürecinde ciddi seviyede depresyona girdikleri ve yalnızlık hissine kapıldıkları (Lee, Ward, Chang ve Downing, 2020), mutluluk düzeylerinin ve fiziksel aktivitelerinin azaldığı (Munasinghe vd., 2020) araştırmalarda ortaya koyulmuştur.
+Bu nedenle uzaktan eğitimin kullanılabilirliğini, etkililiğini artırmak için öğrencilerin motivasyonları ve memnuniyet düzeyleri üst seviyelere çıkarılmalı, gereksinimleri mümkün olduğunca karşılanmalıdır.
+Nitekim Patricia (2020) motivasyon, öz yeterlik ve teknoloji kullanımının öğrencilerin akademik performanslarında önemli rol oynadığını ifade etmektedir.
+Öğretmenler uzaktan eğitimi yeterli ve tam bir öğretim yöntemi olarak değil, öğrencilerin dersten uzak kalmamaları, eğitim ortamından soğumamaları, tatil havasına girmemeleri gibi çeşitli sebepler için bir araç olarak görmektedirler.
+Kürtüncü ve Kurt (2020, s. 71) da öğretim faaliyetlerinin yüz yüze yapılamamasından öğrencilerin memnun olmadıklarını tespit etmişlerdir.
+Patricia (2020) ve Sindiani (2020) de araştırmalarında COVID-19 sürecinde öğrencilerin uzaktan eğitim yerine yüz yüze eğitimi tercih ettiklerini ifade etmiştir.
+Bunların aksine Qazi vd.
+(2020) ise uzaktan eğitime katılabilen öğrencilerin yöntemden memnuniyetlerini ifade etmiştir.
+Uzaktan eğitim ile bütün öğrencilere ulaşmak, bütün paydaşların yararlanmalarını sağlamak için kırsal kesimlere kadar yeterli teknik alt yapıların sunulması, yazılım ve donanım bakımından erişilebilirliğin mümkün hale getirilmesi gerekmektedir.
+Morgan (2020) ile Carrillo ve Flores (2020) de evinde bilgisayar-internet olmayan öğrencilerde yüz yüze eğitime göre gerileme olduğunu tespit etmiştir.
+Bu imkânlara erişimde internet hizmetlerinin ulaştırılması ve ailelerin sosyo-ekonomik durumları etkilidir.
+İmkânlar bakımından öğrenciler arasındaki farklılık fırsat eşitsizliğini de doğurmaktadır (Bennett, Uink ve Cross, 2020).
+Nitekim ülkemizde pandemi sürecinde uzaktan eğitim hizmetinden yararlanamayan öğrenci sayısının ciddi seviyelerde olduğu, bu anlamda fırsat eşitsizliğinin
+Cilt/Volume: 10,
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches”
+Sayı/Issue: 1,
+[itobiad / 2147-1185]
+Fatih BALAMAN & Sevil HANBAY TİRYAKİ
+eğitimin niteliğini düşürdüğü tespit edilmiştir (Yılmaz, Güner, Mutlu, Doğanay ve Yılmaz, 2020, s. 25).
+Sonuçların aksine Kang ve Zhang (2020) ise bu süreçteki online eğitimin öğrenme düzeyini ve motivasyonu artırdığını tespit etmiştir.
+Öğretmenlerin uzaktan eğitime yaklaşımlarının branşa göre farklılık gösterdiği anlaşılmıştır.
+Teorik içerikli derslerin öğretmenleri öğretimde genelde yöntemi yeterli bulurken uygulamalı ders öğretmenleri yetersiz bulabilmektedir.
+Buna karşın Koçoğlu, Ulu Kalın, Tekdal ve Yiğen (2020, s. 2961)’ in çalışmalarına göre öğretmenler ders veya öğretim kademesine bakılmaksızın yürütülen uzaktan eğitim faaliyetlerini yeterli bulmuşlardır.
+Sınavların uzaktan yapılmasını savunanlar, yüz yüze yapılması gerektiğini savunanlar ve hiç sınav yapılmaması gerektiğini savunanlar olmuştur.
+Bununla birlikte yüz yüze yapılan örgün eğitimde genellikle sonuca önem verilirken, uzaktan eğitim boyunca yürütülen faaliyetlerin öğrenmede daha önemli olduğu dolayısıyla sürecin önemli olduğu ön plana çıkmıştır.
+Öğrencilerin de uzaktan yapılan sınavları güvenilir ve gerçekçi bulmadıkları anlaşılmış, online sınavlar yerine süreç boyunca verilecek ödevlerin daha uygun olacağı önerilmiştir (Kürtüncü ve Kurt, 2020, s. 66).
+Öğretmenler zaman zaman çevrimiçi eğitim için Zoom yazılımını kullanmışlar, daha sonra Zoom’ un çeşitli güvenlik açıklarından bakanlığın tavsiyesi ile kullanmayı bırakmışlar, kullananların çoğunluğu sadece EBA platformu ve EBA TV üzerinden eğitim-öğretime devam etmişlerdir.
+Bu durum güvenilir bir canlı ders yazılımının ihtiyaç olduğunu göstermektedir.
+Online dersler için TV üzerinden dersler ihtiyaçları karşılamayabilir.
+Bilindiği üzere canlı ders yazılımlar çift yönlü iletişim sağlar ve karşılıklı etkileşim çok daha fazladır.
+EBA platformları gibi uzaktan eğitim sistemlerinin kullanımı ve uygulamalı derslerin uzaktan eğitim aracılığıyla öğretimi konularında hizmet içi eğitimlerin olması gerekliliği anlaşılmıştır.
+Kırmızıgül (2020, s. 288) de bu özel sürece ilişkin araştırmasında öğretmenlerin hizmetiçi eğitim ihtiyacına vurgu yapmıştır.
+İlkokul, ortaokul ve lisede öğrenim gören yaklaşık 18 milyon öğrenciyi kapsayan çok geniş öğrenci hedefli organizasyonda bütün öğretmenler aktif görev almamıştır (Can, 2020, s. 43).
+Nitekim uzaktan eğitimde bir öğretmenin çok fazla sayıda öğrenciye online ders vermesi, yüz yüze eğitimdeki gibi öğretimin niteliğini önemli derecede etkilemez.
+Bu sebeple hizmet içi eğitimler öğretmenlere kademeli olarak da verilebilir, hizmet içi eğitimi alan öğretmenler uzaktan eğitimde görevlendirilebilir.
+Uzaktan eğitimde görev alacak öğretmenlerin bu alanda ve bilişim teknolojileri kullanımı gibi konularda yetkin olması önemlidir (Can, 2020, s. 30).
+Uzaktan öğretim yapacak öğretmenin teknolojileri kullanım yeterliği, öğrencilerin bilişim araçlarına erişimleri, öğretmenlerin hizmet içi eğitimleri, uzaktan eğitim sürecinin başarılı olmasında en önemli faktörler arasındadır (König, Jäger-Biela ve Glutsch, 2020).
+Nuland, Mandzuk, Petrick ve Cooper (2020) a göre de uzaktan eğitim yazılımlarının kullanımında ve süreci başarılı bir şekilde yönetmede öğretmen eğitimi gerekli ve önemlidir.
+10 the Years
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches” [itobiad]
+Corona Virüs (Covid-19) Nedeniyle Mecburi Yürütülen Uzaktan Eğitim Hakkında Öğretmen
+Görüşleri
+Yüz yüze eğitimin güçlü etkileşimi sayesinde öğrencilere verilen eğitsel görevlerin takibi verimli şekilde yapılabiliyorken uzaktan eğitimde bu görevlerin yapılması, ders dışı faaliyetlerin öğrenciler tarafından yerine getirilmesi suiistimale açıktır.
+Etkili şekilde yürütülmesi ve takibi zordur.
+Bu faaliyetlerin hatta bütün uzaktan eğitim sürecinin amaca ulaşması için veliler ile işbirliği büyük önem taşımaktadır.
+Bu noktada eğitim – öğretimde disiplinin önemi ön plana çıkmaktadır.
+Öğretmenler çeşitli yönleriyle uzaktan eğitimin kullanımına yönelik çeşitli eksikliklerden bahsetmişlerdir.
+Tang, Abuhmaid, Olaimat, Oudat, Aldhaeebi ve Bamanger (2020) de uzaktan eğitimin tek başına kullanımı hakkında derse katılımlar, ölçme değerlendirme ve öğrencilerin öğrenme düzeyleri bakımından genellikle memnun olunmadığını bildirmiştir.
+Uzaktan eğitim sadece pandemi süreci gibi özel durumlarda değil eğitim – öğretimin her aşamasında kullanımı gerekli ve önemlidir.
+Nitekim öğrenci, öğretmen ve veliler aslında yüz yüze eğitim devam ederken de kasıtlı veya kasıtsız, gerek sosyal mecralar vasıtasıyla gerek başka araçları kullanarak uzaktan eğitimi kullanmaktadırlar.
+Pandemi süreci haricinde uzaktan eğitim etkili şekilde kullanılıyor olsa dahi yüz yüze eğitimden vazgeçilmiyor olması bu iki yöntemin beraber kullanımını yani harmanlanmış öğrenmeyi ön plana çıkarmıştır.
+MEB, COVID-19 sonrasında yüz yüze eğitime geçildiğinde dahi uzaktan eğitime devam edileceğini, yüz yüze eğitimle uzaktan eğitimin harmanlanarak birlikte kullanılacağını açıklamıştır.
+Bu karardan; uzaktan eğitimin avantajlarından yararlanılmak istendiği anlaşılmaktadır.
+Bu önemli gelişme uzaktan eğitim boyunca tespit edilen durumların ilerleyen eğitim – öğretim dönemleri boyunca da geçerli olacağını göstermektedir.
+Yılmaz, Güner, Mutlu, Doğanay ve Yılmaz (2020, s. 39) da araştırmasında eğitim- öğretim için sadece uzaktan eğitim kullanımından ziyade, destek amaçlı kullanımının uygun olacağını ön gören sonuçlara ulaşmıştır.
+Araştırma bulguları ışığında şu öneriler geliştirilmiştir.
+- İnternet altyapısı geliştirilerek kırsal kesimlere de mümkün mertebe internet hizmeti ulaştırılabilir.
+- Daha fazla öğrenciye bilgisayar-internet imkanı sağlanarak öğrenci katılımları artırılabilir.
+- Daha gerçekçi sonuçlar elde etmek için ölçme – değerlendirme sürece yayılabilir.
+- Uzaktan eğitimde kullanılan sistemlerin kullanımına yönelik çevrimiçi hizmetiçi eğitim seminerleri düzenlenebilir.
+- EBA’ daki materyaller etkileşimli materyallerle ve uygulamalı derslere yönelik hazırlanacak videolarla desteklenerek uzaktan eğitimin etkililiği artırılabilir.
+Cilt/Volume: 10,
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches”
+Sayı/Issue: 1,
+[itobiad / 2147-1185]
+Fatih BALAMAN & Sevil HANBAY TİRYAKİ
+- Çevrimiçi ve çevrimdışı ortamların daha hızlı kullanımı amacıyla internet bant genişliğini artırıcı tedbirler alınabilir.
+- Daha güvenli bir uzaktan eğitim süreci sağlamak için yerli ve güvenli bir canlı ders yazılımı geliştirilebilir.
+Kaynakça
+Ağır, F. (2007).
+Özel okullarda ve devlet okullarında çalışan ilköğretim öğretmenlerinin uzaktan eğitime karşı tutumlarının belirlenmesi (Yüksek Lisans Tezi).
+Balıkesir Üniversitesi, Balıkesir.
+Alakoç, Z., Bozbıyık, M. (2003).
+Web tabanlı uzaktan öğretim ve bir örnek çalışma.
+Sözlü Sunum, 3.Uluslararası Eğitim Teknolojileri Konferansı, Doğu Akdeniz Üniversitesi, Magosa, 1190-1199.
+Aktaş, Ö, Büyüktaş, B., Gülle, M., Yıldız, M. (2020).
+COVID-19 Virüsünden Kaynaklanan İzolasyon Günlerinde Spor Bilimleri Öğrencilerinin Uzaktan Eğitime Karşı Tutumları.
+Sivas Cumhuriyet Üniversitesi Spor Bilimleri Dergisi, 1 (1), 1-9.
+Alper, A. ve Deryakulu, D. (2008).
+Web ortamlı probleme dayalı öğrenmede bilişsel esneklik düzeyinin öğrenci başarısı ve tutumları üzerindeki etkisi.
+Eğitim ve Bilim, 33 (148), 49-63.
+Arar, A.
+(1999).
+Uzaktan eğitimin tarihsel gelişimi, uzaktan eğitim uygulama modelleri ve maliyetleri, Sözlü Sunum, 1.
+Uzaktan Eğitim Sempozyumu, Ankara: Kara Kuvvetleri Eğitim ve Doktrin Komutanlığı.
+Eğitimde araştırma yöntemleri ve metodolojileri (Ed: A.Erözkan, E. Büyüköksüz).
+Ankara: Anı Yayıncılık.
+Bennett R., Uink B. ve Cross S. (2020).
+doi: https://doi.org/10.1016/j.ssaho.2020.100083
+Can, E. (2020).
+Coronavirüs (Covid-19) pandemisi ve pedagojik yansımaları: Türkiye’de açık ve uzaktan eğitim uygulamaları.
+Açıköğretim Uygulamaları ve Araştırmaları Dergisi, 6(2), 11-53.
+Carrillo, C. ve Flores, M. A., (2020).
+(2001).
+29/10/2020 tarihinde https://www.learntechlib.org/primary/p/8461/ adresinden erişildi.
+10 the Years
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches” [itobiad]
+Corona Virüs (Covid-19) Nedeniyle Mecburi Yürütülen Uzaktan Eğitim Hakkında Öğretmen
+Görüşleri
+Çakır Balta, Ö. ve Horzum, M. (2008).
+Uzaktan ve teknoloji destekli eğitimin gelişimi.
+Sözlü Sunum, XVI.
+Türkiye’de İnternet Konferansı, İstanbul.
+Çukadar, S. ve Çelik, S. (2003).
+İnternete dayalı uzaktan öğretim ve üniversite kütüphaneleri.
+Doğuş Üniversitesi Dergisi, 4(1), 31-42.
+Demiray, U.
+(1999).
+Bir çağdaş eğitim modeli olarak uzaktan eğitim uygulaması.
+Jandarma Dergisi, 85, 46-52.
+Deniz Ö.P.
+ve Evci Kiraz.
+(2020).
+COVID-19 Pandemi sürecinde şehir sağlığı çalışmaları.
+Uzaktan eğitim lisans sürecinde yeni iletişim teknolojileri: Atatürk Üniversitesi uzaktan eğitim merkezi (Yayımlanmamış Doktora Tezi).
+Marmara Üniversitesi, İstanbul.
+Govindasamy, T. (2002).
+doi: 10.1016/S1096-7516(01)00071-9
+Fiş Erümit, S., Gedik, N. ve Göktaş, Y.
+(2016).
+Türkiye’de öğretim teknolojilerinin gelişimi: 1984-2015 dönemi öğretim teknolojilerinin temelleri.
+Ankara: Pegem A Yayıncılık.
+Gu, C., Jiang, W., Zhao, T. ve Zheng, B.
+(2020).
+doi: 10.2139/ssrn.3551006.
+Gürer, M. D., Tekinarsan, E. ve Yavuzalp, N. (2016).
+Çevrimiçi ders veren öğretim elemanlarının uzaktan eğitim hakkındaki görüşleri.
+Hang, M. (2020).
+Hızal, A.
+(1983).
+Uzaktan öğretim süreçleri ve yazılı gereçler.
+Eğitim teknolojisi açısından yaklaşım.
+Ankara: Ankara Üniversitesi Eğitim Bilimleri Yayınları.
+Horzum, M. B., Özkaya, M., Demirci, M. ve Alpaslan, M. (2013).
+Türkçe uzaktan eğitim araştırmalarının incelenmesi.
+İnönü Üniversitesi Eğitim Fakültesi Dergisi, 14(2), 79-100.
+Cilt/Volume: 10,
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches”
+Sayı/Issue: 1,
+[itobiad / 2147-1185]
+Fatih BALAMAN & Sevil HANBAY TİRYAKİ
+İnan, F.A., Arı, F., Flores, R., Zaier, A. ve Arslan-Arı, İ.
+(2013).
+İşman, A.
+(2008).
+Uzaktan eğitim.
+Ankara: Pegem Akademi Yayıncılık.
+Jaligama, V. ve Liarokapis, F. (2011).
+Kang, X. ve Zhang, W. (2020).
+Yeni Tip Koronavirüs Pandemisi Döneminde Üniversitelerde Uzaktan Eğitim: Lisans Öğrencileri Kapsamında Bir Değerlendirme Çalışması.
+Yükseköğretim Dergisi, 10 (2), 181-192.
+Keskin, M. ve Özer Kaya, D. (2020).
+COVID-19 sürecinde öğrencilerin web tabanlı uzaktan eğitime yönelik geri bildirimlerinin değerlendirilmesi.
+İzmir Katip Çelebi Üniversitesi Sağlık Bilimleri Fakültesi Dergisi, 5 (2), 59-67.
+Kırık, A.
+(2016).
+Uzaktan eğitimin tarihsel gelişimi ve Türkiye’ deki durumu.
+Marmara İletişim Dergisi, 21, 73-94. doi: 10.17829/midr.20142110299.
+Kırmızıgül, H. (2020).
+Covid-19 salgını ve beraberinde getirdiği eğitim süreci.
+Avrasya Sosyal ve Ekonomi Araştırmaları Dergisi (ASEAD), 7(5), 283-289.
+Koçdar, S. (2006).
+Uzaktan eğitim ders kitaplarının geribildirim açısından değerlendirilmesi: Anadolu Üniversitesi’nin uzaktan eğitim veren işletme ve iktisat fakülteleri örneği (Yayımlanmamış Yüksek Lisans Tezi).
+Anadolu Üniversitesi, Eskişehir.
+Koçoğlu, E., Ulu Kalın, Ö., Tekdal, D. ve Yiğen, V. (2020).
+Covid-19 pandemi sürecinde Türkiye’deki eğitime bakış, International Social Sciences Studies Journal, 6(65), 2956-2966. doi: 10.26449/sssj.2448
+Kuş, E. (2009).
+Nicel - nitel araştırma teknikleri.
+Ankara: Anı Yayıncılık.
+König, J., Jäger-Biela, D. ve Glutsch, N. (2020).
+(2020).
+Covıd-19 pandemisi döneminde hemşirelik öğrencilerinin uzaktan eğitim konusunda yaşadıkları sorunlar.
+Avrasya Sosyal ve Ekonomi Araştırmaları Dergisi (ASEAD), 7(5), 66-77.
+Lee, S.J., Ward, K.P., Chang, O.D.
+(2020).
+Parenting activities and the transition to home-based education during the Covid-19 pandemic, Children and Youth Services Review, 117. doi: https://doi.org/10.1016/j.childyouth.2020.105585
+10 the Years
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches” [itobiad]
+Corona Virüs (Covid-19) Nedeniyle Mecburi Yürütülen Uzaktan Eğitim Hakkında Öğretmen
+Görüşleri
+MEB, (2020).
+Bakan Selçuk, koronavirüs'e karşı eğitim alanında alınan tedbirleri açıkladı.
+(17.05.2020).
+Erişim Adresi: https://www.meb.gov.tr/bakan-selcuk-koronaviruse-karsi-egitim-alaninda- alinan-tedbirleri-acikladi/haber/20497/tr
+Miles, M, B., & Huberman, A. M. (1994).
+(2nd ed).
+Moore, J. L., Dickson-Deane, C. ve Galyen, K. (2010).
+(2020).
+(18.05.2020).
+Erişim Adresi: https://nces.ed.gov/pubs2009/2009044.pdf
+Nuland, S.V., Mandzuk, D., Petrick, K.T.
+(2020).
+Ve Dönel Akgül, G. (2020).
+(2005).
+Sosyal araştırmalara giriş: Nicel ve nitel yaklaşımlar.
+Ankara: Siyasal Kitabevi.
+Qazi, J., Naseer, K., Qazi, A., AlSalman, H., Naseem, U., Yang, S., Hardaker, G. ve Gumaei, A.
+(2020).
+Evolution to online education around the globe during a SARS-CoV-2 Coronavirus (COVID-19) pandemic: Do develop and underdeveloped cope alike?, Children and Youth Services Review, 117. doi: https://doi.org/10.1016/j.childyouth.2020.105582
+Cilt/Volume: 10,
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches”
+Sayı/Issue: 1,
+[itobiad / 2147-1185]
+Fatih BALAMAN & Sevil HANBAY TİRYAKİ
+Sağlık Bakanlığı, (2020).
+COVID-19 (SARS-CoV-2 Enfeksiyonu) Rehberi, T.C.
+Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü.
+(14.05.2020).
+Erişim Adresi: https://covid19bilgi.saglik.gov.tr/tr/covid-19-rehberi.html
+Seggie, N. ve Bayyurt, Y.
+(2017).
+Nitel araştırma yöntem, teknik, analiz ve yaklaşımlar.
+Ankara: Anı Yayıncılık.
+Boston: Pearson Education, Inc.
+Sindiani, A.M., Obeidat, N., Alshdaifat, E., Elsalem, L., Alwani, M., Rawashdeh, H., Fares, A., Alalawne, T., Tawalbeh, L. İ.
+(2020).
+Annals of Medicine and Surgery, 59, 186– 194. doi: https://doi.org/10.1016/j.amsu.2020.09.036
+Sönmez, V. ve Alacapınar, F. (2013).
+Örneklendirilmiş bilimel araştırma yöntemleri.
+Ankara: Anı Yayıncılık.
+Tang, T., Abuhmaid, A.M., Olaimat, M., Oudat, D.M., Aldhaeebi, M. ve Bamanger, E. (2020).
+İlköğretim sosyal bilgiler öğretiminde internet tabanlı öğretim yönteminin ders başarısına etkisi.
+Buca Eğitim Fakültesi Dergisi, 29, 153-168.
+UNESCO (2020).
+29/10/2020 tarihinde https://en.unesco.org/covid19/educationresponse adresinden erişildi.
+Unusan, N. ve Abia, N., (2007).
+Uşun, S. (2006).
+Uzaktan eğitim.
+Ankara: Nobel Yayın Dağıtım.
+Wasson, B.
+(1997).
+adresinden erişildi.
+(17.05.2020).
+Erişim Adresi: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice- for-public
+10 the Years
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches” [itobiad]
+Corona Virüs (Covid-19) Nedeniyle Mecburi Yürütülen Uzaktan Eğitim Hakkında Öğretmen
+Görüşleri
+Yıldırım, A. ve Şimşek, H. (2008).
+Sosyal bilimlerde nitel araştırma yöntemleri (6.baskı).
+Ankara: Anı Yayıncılık.
+Yıldırım, A. ve Şimşek, H. (2013).
+Sosyal bilimlerde nitel araştırma yöntemleri (9. baskı), Ankara: Seçkin Yayıncılık.
+Yılmaz, E., Güner, B., Mutlu, H., Doğanay, G. ve Yılmaz, D. (2020).
+Veli algısına göre pandemi dönemi uzaktan eğitim sürecinin niteliği.
+Konya: Palet Yayınları.m tamam mı?
+Yurdakul, B.
+(2015).
+Uzaktan eğitim.
+Demirel, Ö.
+(ed.)
+Eğitimde Yeni Yönelimler içinde (s.271-288), Ankara: Pegem Akademi.
+Cilt/Volume: 10,
+“İnsan ve Toplum Bilimleri Araştırmaları Dergisi” “Journal of the Human and Social Sciences Researches”
+Sayı/Issue: 1,
+[itobiad / 2147-1185]

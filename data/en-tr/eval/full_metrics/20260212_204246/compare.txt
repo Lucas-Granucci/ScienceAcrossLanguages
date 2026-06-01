@@ -1,0 +1,181 @@
+==========================
+x_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_base.txt
+y_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_chatgpt-4.1.txt
+
+Bootstrap Resampling Results:
+x-mean:	0.9288
+y-mean:	0.9192
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	8.0088
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_base.txt outperforms C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_chatgpt-4.1.txt.
+==========================
+x_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_base.txt
+y_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_google_translate.txt
+
+Bootstrap Resampling Results:
+x-mean:	0.9288
+y-mean:	0.9207
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	8.0759
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_base.txt outperforms C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_google_translate.txt.
+==========================
+x_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_base.txt
+y_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-3.3b.txt
+
+Bootstrap Resampling Results:
+x-mean:	0.9288
+y-mean:	0.8961
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	21.5026
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_base.txt outperforms C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-3.3b.txt.
+==========================
+x_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_base.txt
+y_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-600m.txt
+
+Bootstrap Resampling Results:
+x-mean:	0.9288
+y-mean:	0.8762
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	25.6942
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_base.txt outperforms C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-600m.txt.
+==========================
+x_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_chatgpt-4.1.txt
+y_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_google_translate.txt
+
+Bootstrap Resampling Results:
+x-mean:	0.9192
+y-mean:	0.9207
+ties (%):	0.3067
+x_wins (%):	0.1233
+y_wins (%):	0.5700
+
+Paired T-Test Results:
+statistic:	-0.9575
+p_value:	0.3384
+Null hypothesis can't be rejected.
+Both systems have equal averages.
+==========================
+x_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_chatgpt-4.1.txt
+y_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-3.3b.txt
+
+Bootstrap Resampling Results:
+x-mean:	0.9192
+y-mean:	0.8961
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	14.8440
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_chatgpt-4.1.txt outperforms C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-3.3b.txt.
+==========================
+x_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_chatgpt-4.1.txt
+y_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-600m.txt
+
+Bootstrap Resampling Results:
+x-mean:	0.9192
+y-mean:	0.8762
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	20.0365
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_chatgpt-4.1.txt outperforms C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-600m.txt.
+==========================
+x_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_google_translate.txt
+y_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-3.3b.txt
+
+Bootstrap Resampling Results:
+x-mean:	0.9207
+y-mean:	0.8961
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	15.1466
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_google_translate.txt outperforms C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-3.3b.txt.
+==========================
+x_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_google_translate.txt
+y_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-600m.txt
+
+Bootstrap Resampling Results:
+x-mean:	0.9207
+y-mean:	0.8762
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	20.8695
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_google_translate.txt outperforms C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-600m.txt.
+==========================
+x_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-3.3b.txt
+y_name: C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-600m.txt
+
+Bootstrap Resampling Results:
+x-mean:	0.8961
+y-mean:	0.8762
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	10.7898
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-3.3b.txt outperforms C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-600m.txt.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y                                                                                                                         C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_base.txt    C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_chatgpt-4.1.txt    C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_google_translate.txt    C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-3.3b.txt    C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-600m.txt
+------------------------------------------------------------------------------------------------------------------------------------------  --------------------------------------------------------------------------------------------------------------------------------  ---------------------------------------------------------------------------------------------------------------------------------------  --------------------------------------------------------------------------------------------------------------------------------------------  -------------------------------------------------------------------------------------------------------------------------------------  -------------------------------------------------------------------------------------------------------------------------------------
+C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_base.txt                                                                                                                                                True                                                                                                                                     True                                                                                                                                          True                                                                                                                                   True
+C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_chatgpt-4.1.txt       False                                                                                                                                                                                                                                                                      False                                                                                                                                         True                                                                                                                                   True
+C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_google_translate.txt  False                                                                                                                             False                                                                                                                                                                                                                                                                                  True                                                                                                                                   True
+C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-3.3b.txt         False                                                                                                                             False                                                                                                                                    False                                                                                                                                                                                                                                                                                True
+C:\Users\Admin\Desktop\2025-2026_LucasGranucci\ScienceAcrossLanguages\data\en-tr\eval\full_metrics\20260212_204246\mt_nllb-600m.txt         False                                                                                                                             False                                                                                                                                    False                                                                                                                                         False

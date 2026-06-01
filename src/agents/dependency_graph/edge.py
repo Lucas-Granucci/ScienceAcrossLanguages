@@ -36,7 +36,7 @@ class EdgeAgent:
                     edges.append((uid, uid + 1))
                     pbar.update(1)
 
-                for vid in range(uid + 2, len(discourses)):
+                for vid in range(uid + 2, min(len(discourses), 100)):
                     v_discourse = discourses[vid]
 
                     try:

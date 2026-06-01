@@ -1,0 +1,424 @@
+Ege Eğitim Dergisi 2015 (16) 1: 1-12 Çocuk ve Genç Psikolojik Sağlamlık Ölçeği’nin (ÇGPSÖ-12) Psikometrik Özellikleri: Geçerlilik ve Güvenirlik Çalışması 1
+Ege Eğitim Dergisi 2015 (16) 1: 1-12
+Çocuk ve Genç Psikolojik Sağlamlık Ölçeği’nin (ÇGPSÖ-12) Psikometrik Özellikleri:
+Geçerlilik ve Güvenirlik Çalışması
+Gökmen ARSLAN1
+Geliş Tarihi: 26.11.2014 Kabul Tarihi: 16.06.2015
+Bu çalışmanın amacı Çocuk ve Genç Psikolojik Sağlamlık Ölçeği’nin psikometrik özelliklerini incelemektir.
+Çalışmaya Isparta il merkezinde ortaokul ve lisede öğrenim gören toplam 256 öğrenci katılmıştır.
+Katılımcıların yaşları 11 ile 16 arasında değişmektedir.
+Yaş ortalaması 13.05 (Ss = .97)’dir.
+Katılımcıların % 44’ü kız, % 56’sı erkek öğrencilerden oluşmaktadır.
+Açımlayıcı ve doğrulayıcı faktör analizi sonuçları, ölçeğin toplam varyansın % 51.28’ini açıklayan tek faktörden meydana geldiği göstermiştir.
+Ölçüt geçerliliği kapsamında olumlu olumsuz duygular ve öz yeterlik le ilişkisine bakılmış, ÇGPSÖ ile öz yeterlik, olumlu duygular arasında pozitif, olumsuz duygular ile negatif yönde ve anlamlı düzeyde bir ilişkinin olduğu görülmüştür.
+Güvenirlik çalışması kapsamında ölçeğe ilişkin iç tutarlılık katsayısı hesaplanmıştır.
+Cronbach alpha değeri .91 olarak hesaplanmıştır.
+Elde edilen bu sonuçlar Çocuk ve Genç Psikolojik Sağlamlık Ölçeği’nin ülkemizde çocuk ve ergenlerde psikolojik sağlamlığı değerlendirmede kullanılabileceğini göstermektedir.
+Anahtar Kelimeler: Psikolojik sağlamlık, ergenlik, güvenirlik, geçerlilik.
+1 Süleyman Demirel Üniversitesi, Eğitim Fakültesi, Rehberlik ve Psikolojik Danışmanlık A.B.D.
+gkmnarslan@gmail.com
+Ege Eğitim Dergisi 2015 (16) 1: 1-12 Çocuk ve Genç Psikolojik Sağlamlık Ölçeği’nin (ÇGPSÖ-12) Psikometrik Özellikleri: Geçerlilik ve Güvenirlik Çalışması 2
+Ege Eğitim Dergisi 2015 (16) 1: 1-12
+Psychometric Properties of Child and Youth Resilience Measure (CYRM-12): The Study
+of Reliability and Validity
+Submitted by 26.11.2014 Accepted by 16.06.2015
+Abstract
+The aim of this study is to investigate the psychometric properties of Child and Youth Resilience Measure (CYRM).
+The Cronbach alpha coefficient of CYRM was .91.
+Ege Eğitim Dergisi 2015 (16) 1: 1-12 Çocuk ve Genç Psikolojik Sağlamlık Ölçeği’nin (ÇGPSÖ-12) Psikometrik Özellikleri: Geçerlilik ve Güvenirlik Çalışması 3
+Giriş
+Ergenlik dönemin genellikle alan yazında çocukluktan yetişkinliğe geçiş dönemi olarak ele
+alınmaktadır (Steinberg, 2007).
+Bu dönemde bireyde meydana gelen değişimler birey için
+birtakım uyum sorunlarını beraberinde getirirken aynı zamanda yeni yaşantılar için fırsatlar
+sunar.
+Bu süreçte birey, gelişim sürecini ve iyi oluşunu olumsuz etkileyebilecek istismar ve
+ihmal, boşanma, gibi bir takım yaşantılar ile karşı karşıya kalabilmektedir (Santrock, 2012).
+Kişinin karşılaşmış olduğu bu zorluklar rağmen sağlıklı şekilde gelişim göstermesi alan
+yazında psikolojik sağlamlık kavramı ile karşılık bulmaktadır (Sameroff, 2005).
+Bireyin olumlu yaşantıları, duyguları, kişilik özellikleri ve deneyimleri ile güçlü
+yönleri üzerine odaklanan pozitif psikolojinin ilgilendiği önemli kavramlarından biri olan
+psikolojik sağlamlık kavramı, yapılan çalışmalarda gerek kavramsal gerekse metodolojik
+açıdan oldukça hetrojen bir yapı göstermektedir (Nasvytienė, La zdauskas ve Leonavičienė,
+2012).
+Zorluklar karşısında gösterilen olumlu uyumu kapsayan ve dinamik bir süreç olarak
+tanımlanan psikolojik sağlamlıkta iki önemli durum söz konusudur.
+Bunlardan birincisi
+önemli bir tehdide veya ciddi bir sıkıntıya maruz kalma ve diğeri de gelişimsel sürece yönelik
+önemli saldırıları ve travmaları içermesine karşın olumlu uyum sağlamayı başarmadır (Luthar,
+2005; Luthar, Cicchetti ve Becker, 2000; Masten, 2001; Masten ve Coatsworth, 1998).
+Burada
+bireyin gelişimine veya uyumuna yönelik tehditlere ya da risklere rağmen olumlu sonuçların
+ortaya çıkması söz konusudur (Masten, 2001).
+Ortak bir tanımdan bahsetmek güç olsa da,
+yapılan tanımlardan hareketle psikolojik sağlamlığın olumsuz yaşantılar karşısında bireyin
+uyum sağlayabilme ve gelişim sürecini sürdürebilme kapasitesi olduğu söylenilebilir.
+Psikolojik sağlamlık kavramının çok boyutlu ve karmaşık bir yapıya sahip olması,
+kavramın değerlendirilmesi ve değerlendirmeye yönelik ölçme araçlarının geliştirilmesi
+konusunda önemli güçlükler doğurmaktadır (Liebenberg, Ungar ve LeBlanc, 2013).
+Bu
+durumun sağlam bireylerin sahip oldukları bireysel, ailesel, sosyal ve kültürel niteliklerin
+belirlenmesi için farklı ölçme araçlarına gereksinim oluşturduğu söylenebilir.
+Ayrıca sağlam
+bireylerin özelliklerinin incelenmesi önleyici ve müdahale çalışmaları açısından oldukça
+önemli yer edinmektedir.
+Bu nedenle alan yazında çocuk ve ergenlerde psikolojik sağlamlığı
+değerlendirmede, yeni ölçme araçlarına gereksinim olduğu görülmektedir.
+Ayrıca alan yazın
+incelendiğinde ülkemizde çocuk ve ergenlerde psikolojik sağlamlığı ölçmeye yönelik sınırlı
+sayıda ölçme aracının olduğu görülmektedir.
+Örneğin, Gizir ve Aydın (2006) tarafından
+uyarlama çalışması yapılan Psikolojik Sağlamlık ve Ergen Gelişim Ölçeği, psikolojik
+Ege Eğitim Dergisi 2015 (16) 1: 1-12 Çocuk ve Genç Psikolojik Sağlamlık Ölçeği’nin (ÇGPSÖ-12) Psikometrik Özellikleri: Geçerlilik ve Güvenirlik Çalışması 4 sağlamlığa ilişkin koruyucu faktörleri belirlemek amacıyla geliştirilmiştir.
+İçsel ve Dışsal
+koruyucu faktörlerden oluşan ölçek 56 maddeden oluşmaktadır.
+Bu çalışma dışında alan
+yazında çocuk ve ergen sağlamlığını ölçmeye yönelik herhangi bir ölçme aracına
+ulaşılamamıştır.
+Sonuç olarak bu çalışmanın amacı, Çocuk ve Genç Psikolojik Sağlamlık Ölçeği’nin
+psikometrik özelliklerini incelemektir.
+Psikolojik sağlamlığı çocuk ve ergenlerde ölçmek
+amacıyla ülkemizde sınırlı sayıda ölçme aracının bulunması yeni çalışmalara gereksinim
+doğurmaktadır.
+Ayrıca, var olan ölçme araçlarının madde sayılarının oldukça fazla olması
+büyük örneklemlerle çalışacak araştırmacılar açısından sınırlılıklar doğurabilmektedir.
+Bu
+nedenle psikolojik sağlamlığa ilişkin yeni ölçme araçlarının alan yazında önemli bir boşluğu
+dolduracağı söylenebilir.
+Yöntem
+Çalışma Grubu
+Araştırma verileri, Isparta il merkezinde farklı lise ve ortaokullarda öğrenim gören 256
+öğrenciden elde edilmiştir.
+Katılımcıların yaşları 11 ile 16 arasında değişmektedir.
+Yaş
+ortalaması 13.05 (SS = .97)’dir.
+Katılımcıların % 44’ü kız, % 56’sı erkek öğrencilerden
+oluşmaktadır.
+Gerekli izinler alındıktan sonra, tesadüfi olarak belirlenen okullarda, rastgele
+seçilen sınıflara veri toplama araçları uygulanmıştır.
+Veri Toplama Araçları
+Kişisel Bilgi Formu: Katılımcılara cinsiyet, yaş gibi demografik değişkenleri belirlemek
+amacıyla araştırmacı tarafından hazırlanarak uygulanmıştır.
+Çocuk ve Genç Psikolojik Sağlamlık Ölçeği: On bir farklı ülkeden toplanan veriler ışığında
+geliştirilen ölçeğin 28 maddelik orijinal formu, üç alt ölçek ve sekiz alt boyuttan
+oluşmaktadır.
+Ölçme aracı sosyo-ekolojik bakış açısıyla, nicel ve nitel yöntemler kullanılarak
+geliştirilmiştir (Liebenberg, Ungar ve Van de Vijver, 2012).
+Ölçeğin kısa form çalışması
+Liebenberg, Ungar ve LeBlanc (2013) tarafından yapılmış ve iki farklı çalışma sonucunda 12
+maddelik bir yapı elde edilmiştir.
+Ölçeğin faktör yük değerleri .39 ile .88 arasında değişmekte
+ve iç tutarlılık katsayısı .84 bulunmuştur.
+Beşli likert yapıda olan ölçme aracı “Beni tamamen
+tanımlıyor (5)” ile “Hiç tanımlamıyor (1)” arasında derecelendirilmektedir.
+Yüksek puan
+yüksek sağlamlık düzeyini belirtmektedir.
+Öz-yeterlik Ölçeği: Çocuklar İçin Öz-yeterlik Ölçeği, Muris (2001) tarafından 12–19 yaşları
+arasındaki ergenlerin sosyal, akademik ve duygusal öz-yeterliklerini ölçmek amacı ile
+Ege Eğitim Dergisi 2015 (16) 1: 1-12 Çocuk ve Genç Psikolojik Sağlamlık Ölçeği’nin (ÇGPSÖ-12) Psikometrik Özellikleri: Geçerlilik ve Güvenirlik Çalışması 5 geliştirilmiştir.
+Ölçeğin Türkçeye uyarlama çalışması Telef (2011) tarafından yapılmıştır.
+Çocuklar için öz-yeterlik ölçeğinin iç tutarlık katsayıları incelendiğinde ölçeğin geneli için
+.86, alt boyutlarından akademik öz-yeterlik için .84, sosyal öz-yeterlik için .64, duygusal özyeterlik için .78 olarak hesaplanmıştır.
+Ölçeğin test-tekrar test güvenirlik katsayıları ise .75 ile
+.89 arasında değiştiği görülmüştür.
+Ölçüt-bağımlı geçerliği için Genel Öz-yeterlik ölçeği
+kullanılmıştır.
+İki ölçeğin uygulanmasından elde edilen puanlar arasında Pearson Momentler
+Çarpımı Korelâsyonu .57 olarak bulunmuştur.
+Çocuklar İçin Öz-yeterlik Ölçeği beşli Likert
+tipi (1= hiç ve 5= çok iyi) bir ölçektir ve ölçekten alınabilecek en yüksek puan 105, en düşük
+puan ise 21’dir.
+Ölçekten alınan yüksek puan çocuklar ile ilgili öz-yeterlik düzeyinin yüksek
+olduğuna ve ölçekten alınan düşük puan ise çocukların öz-yeterlik düzeyinin düşük olduğuna
+işaret etmektedir
+Pozitif-Negatif Duygu Ölçeği: Pozitif-Negatif Duygu Ölçeği, bireyin olumlu olumsuz
+duygularını değerlendirmek amacıyla Watson, Clark ve Tellegen tarafından geliştirilmiştir.
+Ülkemizde geçerlilik ve güvenirlik çalışması Gençöz (2000), tarafından yapılmıştır.
+Ölçek; 10
+olumlu, 10 olumsuz duygu maddeleri içermekte ve her bir maddesi 1 ile 5 arasında
+derecelendirilmektedir.
+Ölçeğin uyarlama çalışmasında, Cronbach Alfa iç tutarlık katsayısı
+Negatif Duygu için.
+83, Pozitif Duygu için .86 bulunmuştur.
+Elde edilen olumlu ve olumsuz
+duygu puanları birlikte kullanılabileceği gibi ayrı ayrıda kullanılabilmektedir.
+Veri Analiz Süreci
+Ölçme aracına ilişkin dil geçerliliği kapsamında 12 maddeden oluşan ölçeğin orijinal İngilizce
+formu, ölçeği geliştiren araştırmacıdan izin alınarak, önce araştırmacılar tarafından Türkçe’ye,
+daha sonra eğitim bilimleri alanından iki öğretim üyesi tarafından Türkçe’den İngilizce ’ye
+çevrilmiş, her iki dili etkili bir şekilde kullanabilen alandan üçüncü bir öğretim üyesi
+tarafından çeviriler karşılaştırılarak ölçeğe son şekli verilmiştir.
+Ölçme araçları 2014-2015
+eğitim öğretim dönemi başında farklı ortaokul ve lisede okuyan öğrencilerden gönüllü
+olanlara verilerek uygulanmıştır.
+İlk olarak ili milli eğitim müdürlüğünden araştırmanın
+yapılabilmesi için gerekli izinler alınmıştır.
+Daha sonra rastgele belirlenen okullarda
+uygulama sürecine geçilmiştir.
+Uygulama öncesi katılımcılara araştırmanın amacı ve ölçme
+araçları hakkında kısaca bilgi verilmiştir.
+Verilerin toplanması yaklaşık bir hafta ve uygulama
+30 dakika sürmüştür.
+Elde edilen veriler bilgisayar ortamına aktarıldıktan sonra, yapılacak analizler için
+gerekli varsayımlara bakılmıştır.
+Öncelikle hatalı ve kayıp veriler, frekans dağılımları yardımı
+ile incelenmiş, hatalı verilere ilişkin gerekli düzeltmeler yapılmıştır.
+Kayıp değerler % 5’in
+Ege Eğitim Dergisi 2015 (16) 1: 1-12 Çocuk ve Genç Psikolojik Sağlamlık Ölçeği’nin (ÇGPSÖ-12) Psikometrik Özellikleri: Geçerlilik ve Güvenirlik Çalışması 6 altında olması ve rastgele dağılım göstermesi durumunda tolere edilebilmektedir (Acuna ve
+Rodriguez, 2004).
+Kayıp değerler incelenmiş ve % 5 üzerinde olan 68 veri setten
+çıkartılmıştır.
+Veri setine ilişkin normal dağılım durumu veya analiz sonuçlarını etkilemesi
+muhtemel durumlardan kaçınmak (Seçer, 2013) için % 5 altında olan kayıp değerlere ise
+aritmetik ortalama (series mean) ile değer atanmıştır.
+Bir sonraki adımda veri setindeki uç
+değerler ve çok değişkenli normallik varsayımının karşılanıp karşılanmadığı Mahalanobis
+uzaklık değerleri yardımıyla incelenmiş ve 12 veri setten aşırı ve uç değer olmaları nedeniyle
+çıkartılmıştır.
+Ayrıca tek değişkenli normallik varsayımı için basıklık ve çarpıklık
+katsayılarına bakılmıştır.
+Basıklık ve çarpıklık değerlerinin normallik varsayımı olan +1 ve -1
+aralığını (Can, 2013; Morgan, Leech, Gloeckner ve Barrett, 2004) karşıladığı görülmüştür.
+Ölçme aracına ilişkin doğrulayıcı faktör analizi sonuçları, ki-kare (χ2), χ2/sd oranı,
+iyilik uyum indeksi (goodness of fit index, GFI), normlaştırılmış uyum indeksi (normed fit
+index, NFI), karşılaştırmalı uyum indeksi (comparative fit index, CFI), standardize edilmiş
+artık ortalamaların karekökü (standardized root mean square residuals, SRMR), fazlalık uyum
+belirteci (incremental fit index, IFI) ve yaklaşık hataların ortalama karekökü (root mean
+square error of approximation, RMSEA) uyum indeksleri çerçevesinde değerlendirilmiştir.
+χ2/sd oranının 3’ten küçük değer alması kabul edilebilir uyuma, RMSEA ve SRMR için ise
+0.05’e eşit veya daha küçük değerler mükemmel bir uyuma, 0.08 ve altındaki değerler kabul
+edilebilir bir uyuma karşılık gelmektedir.
+GFI, CFI, TLI, NFI ve RFI ise 0 ile 1 aralığında
+değişen değerler alır.
+0.95 ve üzeri mükemmel uyuma, 0.90 ve 0.94 arası değerler de kabul
+edilebilir uyuma karşılık gelir (Hoe, 2008; Kline, 2011; Raykov ve Marcoulides, 2006;
+Şimşek, 2007).
+Bu çalışma kapsamında oluşturulan modelin uygunluğu yukarıda verilen
+uyum indeksleri çerçevesinde değerlendirilmiştir.
+Ölçme aracına ilişkin geçerlilik ve
+güvenirlik çalışması SPSS 22 ve AMOS 22 programları aracılığıyla ve .05 anlamlılık
+düzeyiyle test edilmiştir.
+Bulgular
+Ölçme aracına ilişkin geçerlilik ve güvenirlik çalışması iki aşamadan oluşmaktadır.
+Gerekli
+izinler yazardan alındıktan sonra ölçme aracı Türkçeye çevrilmiştir.
+Ardından ölçme aracının
+faktör yapısı açımlayıcı faktör analizi (AFA) ve doğrulayıcı faktör analizi (DFA) ile
+incelenmiştir.
+Ege Eğitim Dergisi 2015 (16) 1: 1-12 Çocuk ve Genç Psikolojik Sağlamlık Ölçeği’nin (ÇGPSÖ-12) Psikometrik Özellikleri: Geçerlilik ve Güvenirlik Çalışması 7 Geçerliliğe İlişkin Bulgular
+Faktör analizi yapılmadan önce maddeler arasında kısmi korelasyonların ve korelasyon
+matrisinin faktör analizi için uygun olup olmadığı Kaiser-Meyer- Olkin (KMO) katsayısı ve
+Barlett testi ile incelenmiştir.
+Elde edilen sonuçlar Kaiser Meyer Olkin değerinin .92 olduğu
+görülmüş, Barlett testi sonucu, (χ2= 1533,522 sd=66, p <.000) anlamlı bulunmuştur.
+Bu
+doğrultuda verilerin çok değişkenli normal dağılımdan geldiği ve maddeler arasında kısmi
+korelasyonların ve korelasyon matrisinin faktör analizi için uygun olduğu kabul edilmiştir.
+Ölçeğin yapı geçerliğini ve faktör yapısını incelemek amacıyla açımlayıcı faktör analizi,
+faktörleştirme tekniği olarak da temel bileşenler analizi uygulanmıştır.
+Ölçeğin yapı
+geçerliğini belirlemek için, Kaiser normalleştirmesine göre özdeğeri (eigenvalue) 1.00’in
+üzerinde olan faktörler ölçüt alınmıştır.
+Tablo1.
+Çocuk ve Genç Psikolojik Sağlamlık Ölçeği’nin Madde Toplam Korelasyonları ve Faktör Yükleri
+Faktör
+Madde toplam
+Madde
+korelasyon
+yük değerleri
+1.
+Hayatımda saygı duyabileceğim insanlar var.
+.793 .735 2.
+Eğitim almak benim için önemlidir.
+.811 .792 3.
+Ailem benim hakkımda birçok şeyi bilir.
+.763 .700 4.
+Başladığım faaliyetleri/işleri bitirmeye çalışırım.
+.768 .685 5.
+Bir şeyler istediğim şekilde gitmediğinde, diğer insanlara ve kendime
+zarar vermeden bu durumu çözebilirim.
+.539 .448
+6.
+Yardıma ihtiyacım olursa, nereden yardım alabileceğimi bilirim.
+.772 .727 7.
+Kendimi okuluma ait hissediyorum.
+.554 .445 8.
+Ailem zor zamanlarımda yanımdadır.
+.795 .748 9.
+Arkadaşlarım zor zamanlarımda yanımdadır.
+.667 .609
+10.
+Yaşadığım toplumda bana adil bir şekilde davranılır.
+.700 .643
+11.
+Hayatımda gelecekte kullanacağım yeteneklerimi geliştireceğim
+fırsatlara sahibim.
+.657 .575
+12.
+Ailemin aile geleneklerini ve kültürünü seviyorum.
+.710 .664
+Özdeğer 6.154 Açıklanan Varyans %51.28 Not: N = 256
+Ege Eğitim Dergisi 2015 (16) 1: 1-12 Çocuk ve Genç Psikolojik Sağlamlık Ölçeği’nin (ÇGPSÖ-12) Psikometrik Özellikleri: Geçerlilik ve Güvenirlik Çalışması 8
+Açımlayıcı faktör analizi bulguları incelendiğinde, ölçeğin özdeğeri 1 den büyük olan
+toplam varyansın % 51.28’ini açıklayan tek faktörden meydana geldiği görülmüştür.
+Çocuk
+ve Genç Psikolojik Sağlamlık Ölçeği’nin on iki maddesinin faktör yüklerinin .54 ile .81
+arasında değiştiği görülmektedir.
+Bu durumun ölçekteki maddelerin, ölçekteki temsil
+edilebilirlik gücünün yüksekliğini göstermesi bakımından önemli olduğu söylenebilir.
+Çocuk
+ve Genç Psikolojik Sağlamlık Ölçeği’nin madde toplam korelasyonları ve faktör yüklerine
+ilişkin bulgular Tablo 1’de verilmiştir.
+Şekil 1.
+Çocuk ve Genç Psikolojik Sağlamlık Ölçeği’ne ilişkin standardize edilmiş parametre
+değerleri
+ÇGPSÖ’ne ilişkin DFA sonuçları incelendiğinde, t değerlerinin ve χ2 değerinin .01
+düzeyinde manidar olduğu bulunmuştur.
+Uyum indekslerine ilişkin χ2 ve sd değerlerinin bir
+birine oranlandığında, χ2/sd (105.498/52) oranının 2.03 olduğu görülmüştür.
+Elde edilen
+Ege Eğitim Dergisi 2015 (16) 1: 1-12 Çocuk ve Genç Psikolojik Sağlamlık Ölçeği’nin (ÇGPSÖ-12) Psikometrik Özellikleri: Geçerlilik ve Güvenirlik Çalışması 9 RMSEA değeri incelendiğinde, .060 (%90, .045-.080) düzeyinde bir uyum indeksine sahiptir.
+Diğer uyum indekslerine bakıldığında, GFI’nın .94, NFI’nın .94, CFI’nın .97, ve IFI’nın .97
+olduğu görülmüştür.
+Standardize edilmiş RMR değerine bakıldığında ise, uyum indeksinin
+.039 olduğu görülmektedir.
+Sonuç olarak doğrulayıcı faktör analizi sonucu 12 maddelik
+modelin yeterli düzeyde uyum gösterdiği söylenebilir.
+DFA sonucunda ortaya konulan Çocuk
+ve Genç Psikolojik Sağlamlık Ölçeği’ne ilişkin standardize edilmiş parametre değerleri Şekil
+1’ de verilmiştir.
+Son olarak ölçme aracının ölçüt geçerliliği olumlu olumsuz duygular ve öz-yeterlilik
+ile incelenmiştir.
+ÇGPSÖ ile olumlu duygular .57, olumsuz duygular -.39, öz yeterlik .45
+düzeyinde anlamlı bir ilişki bulunmuştur.
+Elde edilen bu sonuçlar ışığında, ölçeğin ölçüt
+geçerliliğinin sağlandığı söylenebilir.
+Güvenirliğe İlişkin Bulgular
+Güvenirlik çalışması kapsamında ölçeğin tamamı için Cronbach α güvenirlik katsayısı
+hesaplanmıştır.
+Birinci örneklem için iç tutarlılık katsayısı .91 olarak bulunmuştur.
+On iki
+maddelik bir ölçme aracı için ede edilen bu değerlerin oldukça iyi olduğu söylenebilir.
+Ayrıca
+Tablo 1’ de görüldüğü gibi ölçeğin madde-toplam korelasyon değerleri .45 ve .79 arasında
+değişmektedir.
+Elde edilen değerler bu ölçeğin çocuk ve ergenlerde psikolojik sağlamlığı
+ölçmek için güvenilir bir ölçme aracı olduğunu göstermektedir.
+Sonuç, Tartışma ve Öneriler
+Bu çalışmada geçerlilik ve güvenirlik çalışması Liebenberg, Ungar ve LeBlanc (2013)
+tarafından yapılan Çocuk ve Genç Psikolojik Sağlamlık Ölçeği Türkçe’ye uyarlama çalışması
+yapılmıştır.
+Geçerlilik çalışması kapsamında faktör yapısına bakılmıştır.
+Analiz sonuçları
+ölçeğin 12 maddesinin tek faktör altında toplandığını göstermiştir.
+Ölçüt geçerliliği olumlu
+olumsuz duygular ve öz yeterlik ile yapılmıştır.
+Güvenirlik çalışması kapsamında iç tutarlılık
+düzeyi incelenmiştir.
+Bu çalışma kapsamında elde edilen bulgular, ölçeğin ülkemizde de
+çocuk ve ergenler için güvenilir ve geçerli bir ölçme aracı olarak kullanılabileceğini
+göstermektedir.
+Açımlayıcı faktör analizine ilişkin elde edilen bulgular, toplam varyansın % 51.28’ini
+açıklayan ve madde faktör yükleri .54 ile .81 arasında değişen bir yapıya sahip olduğunu
+göstermiştir.
+Ölçeğin orijinal form çalışmasında ölçek maddelerinin faktör yük değerlerinin
+Ege Eğitim Dergisi 2015 (16) 1: 1-12 Çocuk ve Genç Psikolojik Sağlamlık Ölçeği’nin (ÇGPSÖ-12) Psikometrik Özellikleri: Geçerlilik ve Güvenirlik Çalışması 10 .39 ile .88 arasında değiştiği bulunmuştur (Liebenberg, Ungar ve LeBlanc, 2013).
+Tek boyutlu
+ölçme araçlarında varyansın % 30 ve üzeri olması kabul edilebilir.
+Ayrıca faktör yük
+değerlerinin de .45 ve üzeri olması iyi olarak nitelendirilir (Büyüköztürk, 2010).
+Bu çalışma
+kapsamında elde edilen bulgular, ölçeğin temsil edebilme gücü yüksek madde yüklerine sahip
+olduğunu göstermiştir.
+Ölçeğin ölçüt geçerliliği kapsamında olumlu olumsuz duygular ve öz yeterlik
+kullanılmış ÇGPSÖ ile olumlu duygular .57, olumsuz duygular -.39, öz yeterlik .45
+düzeyinde anlamlı bir ilişki bulunmuştur.
+Yapılan çalışmalarda öz yeterliliği yüksek olan
+bireylerin psikolojik sağlamlık düzeylerinin daha yükse olduğu (Terzi, 2006; Keye ve
+Pidgeon, 2013), sağlam bireylerin daha olumlu duygulara sahip olduklarına ilişkin sonuçlar
+rapor edilmiştir (Ong, Zautra ve Reid, 2010; Tugade ve Fredrickson, 2004).
+Bu bağlamda elde
+edilen bu sonuçların ölçeğin ölçüt geçerliliğini desteklediği söylenebilir.
+Ölçeğin güvenirlik çalışması ile ilgili bulgular, alt ölçekler ve tüm ölçek için
+hesaplanan iç tutarlık katsayılarının yeterli düzeyde olduğunu göstermiştir.
+Birinci çalışmada
+elde edilen iç tutarlılık kat sayısı .91 olarak hesaplanmıştır.
+Liebenberg, Ungar ve LeBlanc
+(2013) yaptıkları çalışmada ölçeğin iç tutarlılık katsayısını .84 olarak hesaplamışlardır.
+Bu
+çalışma kapsamında yapılan iki çalışmadan elde edilen iç tutarlılık katsayısı, orijinal
+çalışmada elde edilen sonuç ile paralellik göstermiştir.
+Sonuç olarak elde edilen sonuçlar ülkemizde çocuk ve ergenlerde psikolojik
+sağlamlığı belirlemede ölçme aracının kullanılabileceğini göstermektedir.
+Ölçme aracındaki
+madde sayısının az olması, yapılacak araştırmalara ilişkin uygulamalarda araştırmacı ve
+katılımcılar açısından avantaj sağladığı söylenebilir.
+Ayrıca ölçme aracının eğitim-öğretim
+süreci içerisinde olumsuz yaşantılar sonrasında öğrencilere yönelik geliştirilecek önleyici ve
+müdahale edici çalışmalarda, ölçme aracının okul psikolojik danışmanlarına büyük katkı
+sağlayacağı düşünülmektedir.
+Son olarak ölçeğin geçerlilik ve güvenirlik çalışması normal
+popülasyon üzerinde yapılmıştır.
+Bu durum bir sınırlılık olarak düşünülebilir.
+Bu nedenle risk
+gruplar üzerinde de yapılasının faydalı olacağı düşünülmektedir.
+Ege Eğitim Dergisi 2015 (16) 1: 1-12 Çocuk ve Genç Psikolojik Sağlamlık Ölçeği’nin (ÇGPSÖ-12) Psikometrik Özellikleri: Geçerlilik ve Güvenirlik Çalışması 11
+Kaynakça
+Acuna E. ve Rodriguez C. A., (2004).
+Technical paper, Department of Mathematics, University of Puerto Rico at Mayaguez, academic.uprm.edu/ ea-cuna/paperout.pdf adresinden 25.11.2014 tarihinde elde edilmiştir.
+Büyüköztürk, Ş.
+(2010).
+Sosyal bilimler için veri analizi el kitabı.
+Ankara: Pegem Akademi Yayınları.
+Can, A.
+(2013).
+SPSS ile bilimsel araştırma sürecinde nicel veri analizi.
+Ankara: Pegem Akademi Yayınları.
+Gençöz, T. (2000).
+Pozitif ve Negatif Duygu Ölçeği: Geçerlik ve güvenirlik çalışması.
+Türk Psikoloji Dergisi, 15(46), 19-26.
+Gizir, C. ve Aydın, G. (2006).
+Psikolojik Sağlamlık ve Ergen Gelişim Ölçeği’nin uyarlanması: Geçerlik ve güvenirlik çalışmaları.
+Türk Psikolojik Danışma ve Rehberlik Dergisi, 26(3), 87-99.
+Hoe, S. L. (2008).
+Keye, M. D. ve Pidgeon, A. M. (2013).
+Kline, R. B.
+(2011).
+Liebenberg, L., Ungar, M. ve LeBlanc, J. C. (2013).
+Liebenberg, L., Ungar, M. ve Van de Vijver, F. R. R. (2012).
+Luthar, S. (2005).
+Luthar, S. S., Cicchetti, D. ve Becker, B.
+(2000).
+Masten A. S. (2001).
+American Psychologist, 56(3), 227- 238.
+American Psychologist, 53(2), 205-220.
+Morgan, G. A., Leech, N. L. Gloeckner, G. W. ve Barrett, K. C. (2004).
+Muris, P. (2001).
+Nasvytienė, D., Lazdauskas, T. ve Leonavičienė, T. (2012).
+Ch ıld’s resılıence ın face of maltreatment: A meta-analysıs of empırıcal studies, Psichologija, 46, 7-26, ISSN 1392-0359.
+Ong, A. D., Zautra, A. J. ve Reid, M. C. (2010).
+Raykov, T. ve Marcoulides, G. A.
+(2006).
+Sameroff, A.
+(2005).
+Ege Eğitim Dergisi 2015 (16) 1: 1-12 Çocuk ve Genç Psikolojik Sağlamlık Ölçeği’nin (ÇGPSÖ-12) Psikometrik Özellikleri: Geçerlilik ve Güvenirlik Çalışması 12
+Montreal, Quebec: Centre of Excellence for Early Childhood Development.
+1-6. http://www.child-encyclopedia.com/documents/SameroffANGxp.pdf adresinden 28.07.2013 tarihinde elde edilmiştir.
+Santrock, J. W. (2012).
+(2013).
+SPSS ve LISREL ile pratik veri analizi: Analiz ve raporlaştırma.
+Ankara, Anı Yayıncılık.
+Steinberg, L. ( 2007).
+Ergenlik, Ankara: İmge Kitabevi Yayınları Şimşek, Ö. F. (2007).
+Yapısal eşitlik modellemesine giriş: Temel ilkeler ve Lisrel uygulamaları.
+Ankara: Ekinoks Yayınevi.
+Telef, B.
+B.
+(2011).
+Öz-yeterlikleri farklı ergenlerin psikolojik semptomlarının incelenmesi.
+Yayınlanmamış Doktora Tezi, Dokuz Eylül Üniversitesi, Eğitim Bilimleri Enstitüsü, İzmir, Türkiye.
+Terzi, Ş.
+(2006).
+Kendini toparlama gücü ölçeği’nin uyarlanması: Geçerlik ve güvenirlik çalışmaları.
+Türk Psikolojik Danışma ve Rehberlik Dergisi, 3(26), 77-86.
+Tugade, M. M., ve Fredrickson, B. L. (2004).

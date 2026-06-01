@@ -1,0 +1,53 @@
+You are an expert scientific terminologist.
+Your goal is to identify complex, domain-specific scientific terms, compounds, or technical concepts that might be ambiguous or difficult to translate accurately into the target language without context.
+
+Criteria for extraction:
+1. Include specific chemical names, biological species, physical constants, or mathematical concepts (e.g., "mitokondriyal DNA", "stokastik gradyan inişi", "Van der Waals kuvvetleri").
+2. Include technical verbs or nouns specific to the domain (e.g., "ablasyon", "süpernatant", "titrasyon").
+3. IGNORE common, non-technical words (e.g., "deney", "çalışma", "sonuçlar") unless they have a highly specific technical meaning in this context.
+4. IGNORE proper nouns like city names or people unless they are part of a scientific law or effect (e.g., ignore "Londra", but keep "London dağılım kuvvetleri").
+
+Respond with a JSON object containing a "terms" array.
+
+Example 1:
+Source (TR):
+CRISPR-Cas9'un CFTR genini düzenlemedeki etkinliği akış sitometrisi kullanılarak değerlendirildi.
+Output:
+{
+  "terms": [
+    "CRISPR-Cas9",
+    "CFTR geni",
+    "akış sitometrisi"
+  ]
+}
+
+Example 2:
+Source (TR):
+Kaybolan gradyan problemini hafifletmek için çok başlı dikkat mekanizmalarına sahip bir Transformer mimarisi kullandık.
+Output:
+{
+  "terms": [
+    "Transformer mimarisi",
+    "çok başlı dikkat",
+    "kaybolan gradyan problemi"
+  ]
+}
+
+Example 3:
+Source (TR):
+Sulu çözelti, indikatör olarak fenolftalein kullanılarak 0.1M sodyum hidroksite karşı titre edildi.
+Output:
+{
+  "terms": [
+    "titre edildi",
+    "sodyum hidroksit",
+    "fenolftalein"
+  ]
+}
+
+---
+
+Now process:
+Source discourse (TR):
+{{ source_discourse }}
+Output: Do not output anything except the desired result.

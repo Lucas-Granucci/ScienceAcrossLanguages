@@ -1,0 +1,942 @@
+Tạp chí Khoa học và Công nghệ, Số 53A, 2021 Một số khác biệt trong tính toán tải và hành động giữa TCVN 2737:2020 và TCVN 2737:1995, áp dụng cho công trình xây dựng NGUYEN NGOC PHUC Khoa Kỹ thuật Xây dựng, Đại học Công nghiệp thành phố Hồ Chí Minh phd.nguyenngocphuc@gmail.com Tóm tắt. Xác định chính xác giá trị và xác định đầy đủ các thành phần của tải và hành động là một yếu tố rất quan trọng trong tính toán thiết kế cấu trúc. Yếu tố này xác định các yêu cầu kinh tế và kỹ thuật của một dự án và được phản ánh thông qua tổng số đầu tư xây dựng cũng như các ràng buộc liên quan đến sức mạnh, ổn định, biến dạng và tuổi thọ của cấu trúc. Trong thực tế, nhiều vấn đề tiềm ẩn và các chế độ
+Đồng thời, khi đất nước chúng ta đang trải qua một quá trình hội nhập quốc tế và toàn cầu hóa, việc áp dụng một hệ thống tiêu chuẩn kỹ thuật toàn diện là không thể tránh khỏi.
+Trong bài viết này, tôi giải quyết một số khác biệt trong việc tính toán tải và hành động giữa TCVN 2737:2020 và TCVN 2737:1995 khi áp dụng cho các công trình xây dựng dân dụng và công nghiệp.
+Tiêu chuẩn TCVN 2737:1995; TCVN 2737:2020; Nạp và hành động. Tiêu chuẩn gốc được tham khảo để biên soạn hai tiêu chuẩn này: TCVN 2737:1995 được dịch từ tiêu chuẩn Nga SNip 1985 [6]. Phiên bản hiện tại của TCVN 2737:2020 đã được biên soạn dựa trên loạt tiêu chuẩn châu Âu, Eurocode EN 1991.
+2. Đánh giá
+TT CỦA TT: 2.1 Sự kết hợp tải trong TCVN 2737: 1995 [1] Tiêu chuẩn này đề xuất kiểm soát trạng thái làm việc cấu trúc ở hai trạng thái giới hạn với hai hình thức cấu trúc của sự kết hợp tải.
+Khái niệm về kết hợp tải được đề cập trong tiêu chuẩn này có thể dễ dàng dẫn đến sự hiểu lầm, đặc biệt là nhầm lẫn sự kết hợp của các nguyên nhân với sự hiểu biết chính xác về sự kết hợp của các hiệu ứng. Điều này là do hầu hết các hiệu ứng hậu quả được giải quyết dựa trên nguyên tắc hành động độc lập, làm cho nó dễ dàng chấp nhận biến dạng và sự dịch chuyển nhỏ trong cấu trúc. Kết quả là, tổng tuyến tính của các hiệu ứng trở nên tương tự như tổng tuyến tính của các nguyên nhân của các hiệu ứng đó.
+* Đối với sự kết hợp cơ bản: FC = 1.PD + .LL + 1.SL (1) Nhân tố kết hợp = 1 = 0.9.
+Trong trường hợp xảy ra đồng thời nhiều loại tải ngắn hạn được áp dụng, cấu trúc kết hợp cơ bản được viết như sau: Kết hợp cơ bản: PDcomb = 1.PD + .LL + 1.SL1 + 2.SL2 + i.SLi (2) © 2021 Đại học Công nghiệp thành phố Hồ Chí Minh 30 Một số khác biệt trong tính toán tải và hành động giữa TCVN 2737:2020 và TCVN 2737:1995, áp dụng cho các dự án xây dựng Các yếu tố kết hợp là = 1 = 0,9; 2 = 0,8; i = 0,6 SL1 là tải ngắn hạn được áp dụng với tác động lớn nhất đối với cấu trúc, SL2 là tải ngắn hạn được áp dụng quan trọng thứ hai, SLi đại diện cho các tải ngắn hạn còn lại.
+* Đối với sự kết hợp đặc biệt: SC = 1.PD + .LL + 1.SL + 3.SP (3) Các yếu tố kết hợp: = 1 = 0.95; 2 = 0.8; 3 = 1 Lưu ý: PD đề cập đến tải trọng vĩnh viễn; LL là tải trọng áp dụng lâu dài; SL là tải trọng áp dụng ngắn hạn; SP là tải trọng đặc biệt.
+2.2 Sự kết hợp của lực bên trong và di chuyển trong TCVN 2737: 2020 [2] Tiêu chuẩn này vẫn khuyến cáo kiểm soát trạng thái làm việc của cấu trúc bằng cách sử dụng hai trạng thái giới hạn và bổ sung giới thiệu kiểm soát trạng thái căng thẳng được phép.
+Các cấu trúc kết hợp được thể hiện chi tiết hơn, với sự nhấn mạnh vào hậu quả của các hành động. Lý do giải quyết các kết hợp dựa trên hậu quả của các hành động là tính phi tuyến tính của vật liệu và tính phi tuyến tính hình học của các cấu trúc dưới tải. Điều này có nghĩa là không thể đơn giản áp dụng một giải thích đơn giản về nguyên tắc các hành động độc lập. Do đó, phương pháp kết hợp này cho phép tiếp cận các tiêu chuẩn kỹ thuật thuận tiện hơn, phản ánh chính xác hành vi thực tế của cấu trúc.
+* Hỗn hợp tải theo trạng thái giới hạn đầu tiên, bao gồm các kết hợp cơ bản và các kết hợp ngẫu nhiên (các kết hợp đặc biệt) [2]. - Các kết hợp cơ bản trong trạng thái giới hạn đầu tiên: THCB1 = G.G + Q.Q1 + 0,i.Q.Qi (4) THCB2 = G.G + Q.Q1 + 0,i.Q.Qi + 0.6.W.W (5) THCB3 = G.G + W.W + 0,i.Q.Qi (6) THCB4 = G.G + W.W (7) THCBĐ5 = 0.85.G.G + W.W (8) - Các kết hợp kết hợp của các nhóm tải trong trạng thái giới hạn đầu tiên: THCB1 =
+* Sự kết hợp tải theo trạng thái giới hạn thứ hai [2] SC1 = G + Q1 + 0i.Qi (11) SC2 = G + W + 0i.Qi (12) SC3 = G + W (13) * Sự kết hợp tải được tính theo phương pháp căng thẳng cho phép [2] SC1 = G + Q1 + 0i.Qi (14) SC2 = G + W + 0i.Qi + 0.6W (15) SC3 = G + W + 0i.Qi (16) © 2021 Đại học Công nghiệp Thành phố Hồ Chí Minh Một số khác biệt trong tính toán hành động tải 31 và giữa TCVN 2737:2020 và TCVN 2737:199: 15, áp dụng cho các dự án xây dựng SC4 = (17) G + W = 0.7 (18) SC6 = G + W.0i.Qi (19) W = 0.7 (19) WCV
+3.
+Giá trị của tải chết, tải sống và các thông số đặc điểm cơ bản: [1], [2], [3] Tiêu chuẩn TCVN 2737:2020 chỉ định chi tiết các thông số đặc trưng được sử dụng để xác định giá trị của tải chết, bao gồm các thông số trọng lượng thể tích cho các loại vật liệu khác nhau.
+Đối với tải trọng hoạt động, TCVN 2737:2020 chỉ chỉ định tổng giá trị và không quy định giá trị cho thành phần dài hạn.
+Ngoài ra, có những điều chỉnh và bổ sung cho tải trọng hoạt động cho một số khu vực chức năng: - Tải tải trọng hoạt động cho các khán đài được tách biệt và không được quy định chung trong nhóm phòng họp, phòng khiêu vũ, v.v. - Tải tải trọng hoạt động bổ sung được chỉ định cho các khu vực thương mại, phòng triển lãm và trưng bày ... - Hai giá trị tải trọng hoạt động bổ sung được thêm cho nhóm chức năng xưởng ... - Tải tải trọng hoạt động cho các khu vực trú ẩn trong các tòa nhà cao tầng được thêm vào ... - Tải tải trọng hoạt động cho các tầng trong các khu vực đặc biệt được bổ sung ... - Tải tải trọng cho các tầng kỹ thuật được giới thiệu ... - Tải tải trọng hoạt động cho nhóm chức năng giữa tầng được điều chỉnh và thêm một giá trị bổ sung ... - Đối với nhóm vật nuôi, một giá trị cụ thể được
+Trong tiêu chuẩn TCVN 2737: 1995, hệ số độ tin cậy cho tải trọng của cần cẩu được coi là 1.1.
+Trong TCVN 2737:2020, giá trị điều chỉnh của Q là 1,5; hệ số kết hợp được đề xuất là 0i = 0,7 và 2i = 0,3. Các hệ số bổ sung được sử dụng để tính toán độ bền của các giá đỡ cần cẩu chịu tải trọng thẳng đứng tập trung từ bánh xe cần cẩu cũng đã được sửa đổi; các hệ số này thấp hơn so với các hệ số trong TCVN 2737:1995. Trong TCVN 2737:2020, các yêu cầu cho các tính toán cấu trúc dưới tải trọng cần cẩu được bao gồm trong Yêu cầu thiết kế và không được quy định chi tiết như trong TCVN 2737:1995.
+4.
+NHIM CÁC VÀO [2] Trong tiêu chuẩn TCVN 2737:2020, tính toán tải gió đã thay đổi theo EN 1991-1-4. Phân tích cấu trúc không còn xem xét các tác động của các thành phần gió tĩnh và gió động riêng biệt, nhưng thay vào đó sử dụng yếu tố Gust (Gf); tải gió cũng tính đến yếu tố tầm quan trọng của cấu trúc (Iw).
+W = 1,2 × (W0 × k × c).
+(Gf.Iw) (22) Nơi: W là áp suất gió tiêu chuẩn, áp dụng một hệ số 1,2 khi chuyển đổi thời gian trở lại từ 20 năm sang 50 năm; W0 là áp suất gió cơ bản (áp suất gió tham chiếu); k là hệ số điều chỉnh cho áp suất gió theo chiều cao và hình dạng địa hình; c là hệ số động; Gf là hệ số Gust; Iw là hệ số tầm quan trọng của cấu trúc.
+Đối với cả TCVN 2737:1995 và TCVN 2737:2020, khuyến cáo nên ưu tiên sử dụng áp suất gió tham chiếu Wo làm tham số tính toán; tuy nhiên, áp suất gió cũng có thể được tính dựa trên tốc độ gió khi có đủ dữ liệu quan sát.
+© 2021 Đại học Công nghiệp Thành phố Hồ Chí Minh 32 Một số khác biệt trong tính toán tải và hành động giữa TCVN 2737:2020 và TCVN 2737:1995 áp dụng cho các dự án xây dựng W0 = 0.0613.V0 ^ 2 (23) nơi V0 là tốc độ gió ở độ cao 10m trên mặt đất, trung bình trong khoảng thời gian 3 giây, vượt quá trung bình một lần mỗi 20 năm, tương ứng với loại địa hình B. Khi tính toán và kiểm tra gia tốc dao động ở đỉnh cấu trúc ảnh hưởng đến sự thoải mái của người cư ngụ và công nhân, tốc độ gió 10 phút được sử dụng, với thời gian lặp lại từ 1 năm đến 10 năm.
+Tỷ lệ điều chỉnh áp lực gió theo chiều cao, K, cũng đã được cập nhật và bây giờ cho phép sử dụng công thức dựa trên chiều cao tương ứng với giới hạn chiều cao cho mỗi loại địa hình.
+K = 2,01 (Ở đây Z là độ cao mà áp suất gió được tính toán, và zg là giới hạn độ cao cho tốc độ gió (tùy thuộc vào cấu hình địa hình).
+Giá trị này được đề xuất thay đổi so với tiêu chuẩn hướng dẫn để tính toán thành phần động của tải gió, TCXD 229:1999. α là một nhân số phụ thuộc vào cấu hình địa hình. Giá trị này được đề xuất thay đổi cho các loại địa hình A và B so với tiêu chuẩn hướng dẫn để tính toán thành phần động của tải gió, TCXD 229:1999.
+Hệ số mở rộng của hàm số nhân được sử dụng để xác định k trong TCXD 229:1999 là 1.844, trong khi trong TCVN 2737:2020 là 2.01. Trong tiêu chuẩn TCVN 2737:2020 này, khuyến cáo sử dụng "thử nghiệm đường hầm gió" để đánh giá hệ số khí động học cho các cấu trúc có hình dạng phức tạp. Tuy nhiên, dữ liệu từ các thí nghiệm và nghiên cứu gió riêng lẻ không nên ít hơn 85% các giá trị được đề xuất trong tiêu chuẩn này.
+Trong tiêu chuẩn TCVN 2737: 1995, các giá trị áp suất gió được cung cấp cho các trạm quan sát khí tượng ở vùng núi và đảo, với tuổi thọ dự kiến của tòa nhà ở bốn cấp: 5 năm, 10 năm, 20 năm và 50 năm.
+Tuy nhiên, TCVN 2737:2020 chỉ cung cấp hai thời gian sử dụng cho các tòa nhà: 20 năm và 50 năm, với các giá trị cường độ được điều chỉnh. Bản đồ phân vùng áp suất gió trong TCVN 2737:2020 cũng giới thiệu một số điều chỉnh liên quan đến việc chỉ định các khu vực và loại địa hình áp suất gió. So với TCVN 2737:1995, tiêu chuẩn TCVN 2737:2020 bổ sung các hệ số khí động học cho năm loại hình nhà: cấu trúc lăng kính với mặt phẳng vuông hoặc đa giác; cấu trúc lăng kính với mặt phẳng hình Y và góc hẹp; cấu trúc lăng kính với mặt phẳng hình Y và góc thẳng; cấu trúc lăng kính với mặt phẳng hình chữ thập; và cấu trúc lăng kính với mặt phẳng đa giác.
+5. Đánh giá
+Tính cụ thể: - Đối với các cấu trúc cứng (với thời gian cơ bản rung động T1 ≤ 1s), Gf = 0,85. - Đối với các cấu trúc linh hoạt (với thời gian cơ bản T1 > 1s), Gf được tính dựa trên các đặc điểm hình học của cấu trúc B.HOME; cường độ nhiễu loạn của gió ở độ cao 0,6 H; hệ số gia tốc gió đỉnh của cấu trúc; g · R · R · R · R · G · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R · R
+H) α̅.
+√ Rh = Rx với x = RB = Rx với x = RL = Rx với x = Rx = 1 2 · x2 .
+(1 − e ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^
+Kết luận: - Tiêu chuẩn TCVN 2737:2020 cung cấp các quy định chi tiết hơn về cấu trúc của các kết hợp hành động, thay thế khái niệm đơn giản hóa của các kết hợp tải trong TCVN 2737:1995. - Tiêu chuẩn TCVN 2737:2020 chỉ định các thông số đặc trưng chi tiết hơn để tính toán các giá trị tải chết, bao gồm các thông số về mật độ khối của các loại vật liệu khác nhau. - Tiêu chuẩn TCVN 2737:2020 điều chỉnh và bổ sung các giá trị tải sống cho các loại chức năng hiện nay đa dạng hơn trong thực tế so với TCVN 2737:1995. - Tiêu chuẩn TCVN 2737:2020 cung cấp một cách tiếp cận cởi mở hơn để tính toán tải gió tác động trên các cấu trúc; phân vùng và cường độ áp lực gió cũng được sửa đổi kỹ lưỡng hơn so với TCVN
+TCVN 2737:1995 Tiêu chuẩn, Hà Nội, 1995.
+© 2021 Đại học Công nghiệp Thành phố Hồ Chí Minh 34 Một số khác biệt trong tính toán tải và hành động giữa TCVN 2737:2020 và TCVN 2737:1995, áp dụng cho các dự án xây dựng [3] Tiêu chuẩn TCXD 229:1999.
+[4] Tiêu chuẩn châu Âu EN 1991-1-4:2005 + AC: 2010, Nhà xuất bản xây dựng, 2016.
+[5] Tiêu chuẩn Mỹ ASCE 7-2005.
+[6] Tiêu chuẩn Nga SNip-1985.
+Được nhận: 16 tháng 10 năm 2020 Được chấp nhận xuất bản: 12 tháng 3 năm 2021 © 2021 Đại học Công nghiệp Thành phố Hồ Chí Minh
+Các giáo viên hiện đang tham gia vào các sinh viên trong quá trình đánh giá năng lực STEM cao cấp và các sinh viên có thể đánh giá các sinh viên trong quá trình học tập. Theo quy mô nghiên cứu STEM: 04-2022: 04-2022: CBT, các công cụ đánh giá năng lực STEM được đánh giá là một công cụ đánh giá năng lực và định đo năng lực có tính chất tiêu chuẩn và có giá trị quan trọng trong quá trình học tập. Theo các nghiên cứu được đánh giá, các công cụ đánh giá năng lực STEM được đánh giá là một công cụ có giá trị và có giá trị quan trọng trong quá trình học tập và định hướng STEM. Theo các nghiên cứu được đánh giá, các công cụ đánh giá năng lực STEM được đánh giá là một công cụ có tính chất tiêu chuẩn và có giá trị quan trọng trong quá trình học tập và định giá năng lực STEM. Theo các nghiên cứu được đánh
+Giới thiệu Trong những năm gần đây, cùng với sự chuyển đổi sang một phương pháp tiếp cận dựa trên năng lực trong chương trình giảng dạy giáo dục, đánh giá trong giáo dục đã chuyển từ đo lường khả năng nhớ lại kiến thức sang đánh giá năng lực của người học (Shulman, 2008). Đánh giá năng lực không chỉ cung cấp những nhận xét và kết luận khách quan về quá trình học tập và kết quả của học sinh, mà còn tập trung vào việc xác định cả điểm mạnh và giới hạn trong cấu trúc năng lực của học sinh. Điều này mang lại cả phản hồi định tính và định lượng về hiệu quả của học tập của học sinh và giảng dạy của giáo viên. Kết quả là, học sinh có thể tìm ra những hướng thích hợp để điều chỉnh và cải thiện chất lượng học tập của chính họ, trong khi giáo viên có thể đưa ra các biện pháp để liên tục hỗ trợ sự tiến bộ của học sinh và phát triển các
+Tạp chí Khoa học, Đại học Giáo dục Thành phố Hồ Chí Minh Ta Thanh Trung và các đồng tác giả thích nghi với thế giới đang thay đổi, góp phần đạt được các mục tiêu giáo dục đã được thiết lập.
+Nghị quyết của Đại hội đồng Lục bộ Đảng lần thứ tám (thời kỳ thứ 11) nêu rõ: Các kỳ thi, bài kiểm tra và đánh giá kết quả giáo dục phải được tiến hành theo từng bước theo các tiêu chí tiên tiến được xã hội và cộng đồng giáo dục toàn cầu tin tưởng và công nhận. Các kết quả đánh giá trong quá trình học tập nên được tích hợp với các đánh giá định kỳ và cuối năm; đánh giá giáo viên nên được kết hợp với các đánh giá tự học của học sinh; và đánh giá trường học nên được phối hợp với các đánh giá từ gia đình và xã hội (Tổng thư ký, 2013). Do đó, có thể kết luận rằng các hoạt động đánh giá, bao gồm đánh giá năng lực, không phải là nhiệm vụ riêng biệt cho giáo viên mà còn đòi hỏi sự kết hợp với tự đánh giá và giám sát phát triển năng lực cá nhân của chính người học.
+Đối với giáo dục STEM, vai trò đánh giá năng lực của người học được khẳng định hơn nữa vì các công cụ đánh giá và đo lường năng lực STEM của học sinh được coi là thiết yếu để nâng cao chất lượng giáo dục STEM, do phản hồi của họ về hiệu quả của mỗi giai đoạn học tập (Arikan, Erktin, & Pesen, 2020). Tuy nhiên, đánh giá chính xác năng lực của con người nói chung và năng lực của học sinh nói riêng không dễ dàng; nó đòi hỏi một quá trình nghiên cứu nghiêm ngặt để đảm bảo cả độ tin cậy và tính hợp lệ - các yếu tố chứng minh chất lượng của thang đo (Baartman và cộng sự, 2006).
+Do đó, các nhà nghiên cứu giáo dục trên toàn thế giới liên tục nỗ lực phối hợp giữa các phương pháp nghiên cứu định tính và định lượng trong quá trình phát triển các công cụ đánh giá năng lực.
+Tại Việt Nam, hầu hết các công cụ đánh giá năng lực của học sinh trong giáo dục định hướng STEM đã được phát triển dựa trên các khuôn khổ lý thuyết được thừa hưởng từ nghiên cứu quốc tế, không có tiêu chuẩn hóa hoặc thích nghi để phù hợp với các đặc điểm và mức độ thực hiện giáo dục STEM trong thực tế bằng cách sử dụng dữ liệu thực nghiệm. Điều này đã dẫn đến những thách thức trong việc thực hiện các đánh giá nhất quán hoặc chọn các công cụ thích hợp để đánh giá kết quả và quá trình học tập của học sinh trong giáo dục định hướng STEM. Do đó, việc xây dựng và tiêu chuẩn hóa các công cụ đánh giá năng lực STEM đảm bảo độ tin cậy, tính hợp lệ và phù hợp với mức độ thực hiện giáo dục STEM ở mỗi địa phương ở Việt Nam là điều cần thiết. Vì lý do này, chúng tôi đã phát triển và tiêu chuẩn hóa một công cụ đánh giá năng lực ST
+2. Đánh giá
+Các chủ đề và phương pháp nghiên cứu 2.1.Giải định năng lực của học sinh bằng các công cụ đánh giá tiêu chuẩn 2.1.1.Giải định học sinh bằng cách sử dụng phương pháp dựa trên năng lực Đánh giá năng lực của người học là một quá trình quan trọng hướng dẫn sự phát triển năng lực của học sinh.
+Trong bối cảnh này, năng lực được hiểu là một thuộc tính cá nhân được hình thành và phát triển thông qua các phẩm chất bẩm sinh và các quá trình học tập và thực hành, cho phép một người huy động hiệu quả sự tích hợp kiến thức, kỹ năng và các thuộc tính cá nhân khác như hứng thú, niềm tin, ý chí, v.v., để thực hiện thành công một loại hoạt động cụ thể và đạt được kết quả mong muốn trong các điều kiện cụ thể (MOET, 2018). Về mặt cấu trúc, năng lực có thể được mô hình hóa như một hệ thống bao gồm các thành phần như các lĩnh vực năng lực, năng lực thành phần và các chỉ số hành vi được thể hiện trong suốt quá trình học tập (Binh, 2015). Các thành phần của năng lực thuộc về các lĩnh vực chuyên môn tạo thành năng lực tổng thể. Từ đó, năng lực thành phần được lấy từ năng lực cốt lõi và thực hiện
+Hình 1.
+Mô hình cấu trúc của thành phần năng lực Kết quả đánh giá giúp giáo viên xác định điểm mạnh và hạn chế trong năng lực của học sinh, qua đó hướng dẫn họ hỗ trợ học sinh học tập và phát triển năng lực của mình. Ngoài ra, đánh giá năng lực tác động đến học sinh ở mức nhận thức sâu hơn, thúc đẩy học tập, hình thành thói quen tốt, nuôi dưỡng niềm đam mê và cho phép học sinh nhận ra các giá trị của riêng mình, qua đó hướng dẫn họ tự đào tạo và tự cải thiện. Việc phát triển và tiêu chuẩn hóa một khuôn khổ năng lực đã trở thành tiêu chí thiết yếu để đánh giá năng lực của học sinh. Giáo viên có thể sử dụng khuôn khổ để thiết kế danh sách kiểm tra, các tiêu đề và các bài kiểm tra; để đánh giá năng lực; và để đưa ra các kế hoạch giảng dạy để thúc đẩy và phát triển năng lực của học sinh. Hơn nữa, học sinh có
+2.1.2.
+Theo trường phái tích cực, tính hợp lệ và độ tin cậy là hai công cụ nhận thức cơ bản và đóng vai trò là tiêu chuẩn cơ bản để tiêu chuẩn hóa một công cụ đánh giá, chẳng hạn như một công cụ đánh giá năng lực (Winter, 2000). Trong bối cảnh này, tính hợp lệ của một công cụ đo lường phản ánh độ chính xác của nó trong việc đo lường đối tượng dự định. Cụ thể, để một công cụ đánh giá được coi là hợp lệ, nó phải đáp ứng các tiêu chí sau: tính hợp lệ nội dung, tính hợp lệ đo lường và tính hợp lệ xây dựng. Tính hợp lệ nội dung phản ánh độ chính xác của công cụ đo lường nội dung về mặt biểu hiện. Do đó, một công cụ đo lường cần được tiêu chuẩn hóa về mặt nội dung thông qua các biểu hiện rõ ràng, tập trung, và ngắn gọn, và để cải thiện tính hợp lệ nội
+Nếu kết quả nghiên cứu có thể được nhân rộng bằng cách sử dụng cùng một phương pháp, thì công cụ đo lường được coi là đáng tin cậy.Do đó, độ tin cậy của công cụ đánh giá năng lực có thể được hiểu là mức độ ổn định của công cụ đó. Độ tin cậy của một thang đo phải đáp ứng các tiêu chí sau: ổn định; tương đương; và tính nhất quán nội bộ. Sự ổn định của công cụ đánh giá năng lực được phản ánh trong khả năng duy trì tính nhất quán theo thời gian trên các mẫu tương đương. Nói cách khác, nếu một thang đo được thử nghiệm trên các nhóm có đặc điểm tương tự trong một khung thời gian thích hợp, nó sẽ mang lại kết quả tương tự. Cụ thể, để kiểm tra sự ổn định của một công cụ đánh giá năng lực, cần phải tiến hành một cuộc khảo sát sơ bộ với một mẫu nhỏ cũng như một cuộc khảo sát quy mô lớn
+2.2.
+Học sinh Năng lực STEM 2.2.1.
+Khái niệm về năng lực STEM Hồ Chí Minh ĐH KHOA THÀNH TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG TNG
+2.2.2.
+Cấu trúc năng lực STEM của học sinh được phát triển dựa trên phân tích và tổng hợp các thành phần năng lực lặp lại được tìm thấy trong 13 nghiên cứu về khuôn khổ năng lực STEM trên toàn thế giới. Cấu trúc năng lực STEM bao gồm năm thành phần: Thành phần 1. Năng lực thu thập thông tin Thành phần năng lực thu thập thông tin đề cập đến khả năng xác định thông tin cần thiết, định vị các nguồn thông tin và ghi lại thông tin theo nhu cầu và mục đích ban đầu. Bundy (2004) phát hiện ra rằng năng lực thu thập thông tin giúp người học nhận ra nhu cầu tìm kiếm thông tin, xác định mức độ thông tin cần thiết và truy cập thông tin một cách hiệu quả. Dựa trên mô hình cấu trúc năng lực thông tin của Bainton (2001) SCULON, các hành vi liên quan đến năng lực thu thập thông tin bao gồm: nhận ra nhu cầu thu thập thông tin, tìm
+Thành phần 2.
+Xử lý và sử dụng thông tin Nhóm các hành vi liên quan đến xử lý và sử dụng thông tin trong năng lực STEM bao gồm các hành động như tổng hợp dữ liệu, so sánh dữ liệu, phân loại dữ liệu, quản lý và lưu trữ dữ liệu, đánh giá và phân tích dữ liệu (Boon Ng, 2019). Mô hình SCONUL xác định năng lực xử lý và sử dụng thông tin được thực hiện bởi người học thông qua so sánh, đánh giá thông tin, tổ chức và tổng hợp thông tin (Bainton, 2001).
+Bundy (2004) xác định các hành vi tương ứng với nhóm hành vi xử lý thông tin, bao gồm: đánh giá các nguồn thông tin, phân loại, lưu trữ thông tin và sử dụng thông tin để giải quyết vấn đề.
+Thành phần 3. Thực hiện các giải pháp Năng lực thực hiện các giải pháp là một nhóm biểu hiện hành vi điển hình của năng lực giải quyết vấn đề. Học sinh hiện thực hóa các giải pháp, thiết kế và tạo ra các sản phẩm để giải quyết các vấn đề (Watkins, Spencer, & Hammer, 2014).
+English (2016) đã xác định một số chỉ số hành vi liên quan đến năng lực thực hiện các giải pháp, bao gồm lập kế hoạch, chuẩn bị công cụ, thiết kế bản vẽ, đánh giá khả thi và sản xuất sản phẩm. Ngoài ra, nghiên cứu của Sen et al. (2018) chỉ ra rằng năng lực thực hiện các giải pháp được thể hiện thông qua các hành vi như xác định nguyên nhân và thiếu sót của sản phẩm, thực hiện cải tiến và định hướng phát triển trong bối cảnh mới.
+Thành phần 4.An toàn kỹ thuật Thành phần năng lực an toàn kỹ thuật được chứng minh thông qua các kỹ năng kỹ thuật của học sinh để đảm bảo tuân thủ các quy định an toàn trong quá trình chế tạo sản phẩm. Năng lực này cho phép học sinh hiểu vai trò và sử dụng đúng các công cụ / thiết bị kỹ thuật và chú ý đến các quy tắc an toàn kỹ thuật để bảo vệ bản thân và người khác khỏi các tai nạn không may.
+Dựa trên nghiên cứu của Boon Ng (2019), các chỉ số hành vi của nhóm thực hành kỹ thuật bao gồm: sử dụng thiết bị (xác định các chức năng và sử dụng chúng đúng cách), bảo trì thiết bị (giữ an toàn và đảm bảo an toàn) và hiệu chuẩn các thiết bị và công cụ khi cần thiết.
+Thành phần 5. Năng lực chia sẻ cộng đồng Năng lực chia sẻ cộng đồng cho phép học sinh đồng cảm với các cá nhân gặp khó khăn, thúc đẩy họ chia sẻ quá trình học tập, kết quả và sản phẩm của họ với cộng đồng.
+Trong khuôn khổ giáo dục STEM của Viện Hàn lâm Khoa học New York, cần cung cấp cho sinh viên cơ hội để thể hiện các kỹ năng giao tiếp rõ ràng, chính xác và thuyết phục, cũng như khả năng sử dụng các phương pháp khác nhau để truyền đạt ý tưởng; Ngoài ra, cần tạo ra một môi trường nơi sinh viên có thể thảo luận và phê bình các lập luận STEM (GSA, 2016).
+Trilling (2009) đề xuất các hành vi chia sẻ cộng đồng: trình bày ý tưởng theo các định dạng đã xác định trước (báo cáo, tài liệu, áp phích, video, v.v.), lắng nghe phản hồi và phát triển ý tưởng và xác định mục đích chia sẻ.
+2.3 Phương pháp nghiên cứu Nghiên cứu này tuân theo thủ tục của Boateng và cộng sự (2018) với ba giai đoạn: thiết kế mục, phát triển quy mô và đánh giá quy mô.
+2.3.1 Giai đoạn thiết kế câu hỏi Trong giai đoạn thiết kế câu hỏi, dựa trên nghiên cứu lý thuyết, công cụ đánh giá năng lực STEM cho học sinh bao gồm năm thành phần: Thu thập thông tin (TT), xử lý và sử dụng thông tin (XS), thực hiện giải pháp (TH), an toàn kỹ thuật (SD) và chia sẻ thông tin (CS). Theo đó, bảng câu hỏi sơ bộ bao gồm 15 chỉ số hành vi kiểu Likert, mỗi phần bao gồm mô tả hành vi và phần trả lời tùy chọn với năm cấp. Các chỉ số hành vi được mã hóa theo thứ tự từ A01 đến A15. Kỹ thuật Delphi được thực hiện với 21 chuyên gia giáo dục STEM, bao gồm bốn giảng viên từ các trường đại học giáo dục và 17 giáo viên STEM có ít nhất hai năm kinh nghiệm giảng dạy STEM tại các trường trung học, để tinh chỉnh tính hợp lệ nội dung của mỗi hành
+2.3.2.
+Độ tin cậy được đánh giá dựa trên tiêu chí rằng hệ số Cronbach's Alpha vượt quá 0,7 và hệ số tương quan tổng mục lớn hơn 0,3 (Nunnally & Bernstein, 1994). Độ xác thực hội tụ của thang đo được đánh giá thông qua tải trọng yếu tố (FL) trong phân tích yếu tố thám hiểm (EFA), với tải trọng tối thiểu chấp nhận được là 0,5; nếu tỷ lệ phần trăm tích lũy của độ chênh lệch được giải thích vượt quá 50%, thang đo được coi là đạt được giá trị hội tụ (Gerbing & Anderson, 1988). Hơn nữa, đối với mỗi biến quan sát, sự khác biệt giữa tải trọng cao nhất và các giá trị tuyệt đối khác phải là ít nhất 0,3 (Bryant & Y 1995).
+2.3.3.
+Giai đoạn đánh giá quy mô Cuối cùng, nghiên cứu chính được thực hiện trên một mẫu quy mô lớn.
+Đánh giá độ tin cậy, tính hợp lệ hội tụ và tính hợp lệ phân biệt Độ tin cậy tính nhất quán nội bộ của thang đo được xác định dựa trên hai chỉ số: hệ số alpha Cronbach và độ tin cậy tính tổng hợp (CR) (Devellis & Thorpe, 2021). Càng lớn alpha Cronbach, độ tin cậy tính nhất quán nội bộ càng cao. Độ tin cậy tính tổng hợp dao động từ 0 đến 1 và được coi là tốt khi lớn hơn 0,7. Độ hợp lệ hội tụ chỉ ra mức độ các chỉ số chia sẻ tỷ lệ biến số chung cho một khái niệm nhất định, có nghĩa là để đạt được tính hợp lệ hội tụ, các biến số của một nghiên cứu xây dựng phải được liên kết chặt chẽ với nhau (Kline, 2016). Điều này được xác định thông qua các hệ số tiêu chuẩn hóa cho mỗi biến số hội tụ và độ tin cậy tính tính tổng hợp (CR) (
+Kiểm tra sự phù hợp của mô hình cấu trúc về năng lực của học sinh Đầu tiên, tỷ lệ chi-quadrat / độ tự do (χ2/df) là một chỉ số được sử dụng để đánh giá sự phù hợp của mô hình đo lường, và giá trị dưới 5 được coi là chấp nhận được, trong khi giá trị dưới 3 được coi là tốt (Hair et al., 2019). Ngoài ra, các chỉ số phổ biến khác được xác định là quan trọng bởi Kline (2016) bao gồm: chỉ số phù hợp tuyệt đối GFI (chỉ số phù hợp tốt); GFI được điều chỉnh có tính đến mức độ tự do trong mô hình AGFI (chỉ số phù hợp tốt); chỉ số phù hợp tương đối CFI (chỉ số phù hợp so sánh); chỉ số Tucker và Lewis TLI (chỉ số Tucker-Lewis); chỉ số để
+3.
+Kết quả và thảo luận 3.1. Kết quả điều chỉnh giá trị nội dung Phương pháp Delphi cho phép nhóm nghiên cứu thu thập ý kiến chuyên gia về khuôn khổ lý thuyết của học sinh về năng lực STEM trong giáo dục nói chung. Trong vòng Delphi đầu tiên, ý kiến của ban chuyên gia cho thấy sự đồng thuận thấp về một số chỉ số; cụ thể, có sự khác biệt đáng kể (hơn 10%) trong sự đồng thuận giữa các giảng viên đại học và giáo viên trung học cho các chỉ số A02, A03, A08, A09, A10 và A11. Sau các vòng điều chỉnh Delphi tiếp theo, các mô tả về các chỉ số hành vi trong khuôn khổ năng lực STEM lý thuyết cho học sinh đã được sửa đổi nội dung theo sự đồng thuận của ban chuyên gia Delphi (Hình 2). Hình 2. Mức độ đồng thuận giữa các chuyên gia Delphi trong vòng đầu tiên (trái) và
+Trong khi nhóm giáo viên coi thành phần này là cần thiết cho việc đánh giá và cảm thấy rằng mô tả phản ánh rõ ràng nội dung của nó, nhóm giảng viên tin rằng các chỉ số này ít cần thiết hơn.
+3.2.
+Mẫu nghiên cứu Về kích thước mẫu, theo Hair et al. (2019), đối với các nghiên cứu sử dụng phân tích SEM và mô hình với tối đa bảy cấu trúc nghiên cứu, kích thước mẫu tối thiểu là 300. Nghiên cứu này áp dụng phương pháp lấy mẫu ngẫu nhiên tích lũy để thu thập thông tin từ học sinh tại chín trường trung học, bao gồm: Trường trung học Luong The Vinh (Quận 1), Trường trung học Le Hong Phong dành cho người có năng khiếu (Quận 5), Trường trung học dành cho người có năng khiếu Đại học Quốc gia Việt Nam (Quận 5), Trường trung học Pham Thu Phu (Quận 6), Trường trung học Nam Sai Gon (Quận 7), Trường trung học Du Du (Quận 10), Trường trung học Nguyen Huu Canh (Quận Bình Đài), Trường trung học Dinh Gia (Quận Bình Đài), và Trường trung học Hoa
+Bảng 2.
+Đặc điểm thống kê của mẫu Đặc điểm Thường xuyên Tỷ lệ nam 252 46,3% nữ 292 53,7% cấp độ loại trường Trường công lập 402 73,9% Trường chuyên ngành 65 11,9% Trường tư nhân 77 14,2% Hình thức tiếp xúc với giáo dục STEM* - Trong một bài học STEM trong chương trình giảng dạy chính thức 163 30% - Trong một dự án học tập hoặc dự án cộng đồng 99 18,2% - Tại một trung tâm ngoại khóa 14 2,5% - Khóa học trực tuyến 31 5,7% - Trải nghiệm không gian STEM tại trường (trình trưng bày sản phẩm, mô hình, ứng dụng STEM, v.v.) Khoa học - sân chơi khoa học, hội chợ khoa học 122 22,4% - Kinh nghiệm thực tế tại các cơ sở nghiên cứu, doanh nghiệp, doanh nghiệp, v.v. - Hoạt động câu lạc bộ STEM 51 9,4% - Tham gia các cuộc thi khoa
+Hồ Chí Minh ĐH HÀNH THUYN S THC TÀO THƯƠNG và cộng sự. Về phân phối mẫu, bộ dữ liệu này cũng đáp ứng các tiêu chí phân phối bình thường vì các giá trị trung bình và trung bình gần như bằng nhau, giá trị tuyệt đối của độ lệch luôn nhỏ hơn 2 (đại nhất là lệch (A05) = 0,706), và giá trị kurtosis nhỏ hơn 2 (đại nhất là lệch (A05) = 1,076). Do đó, dữ liệu này đáp ứng các yêu cầu về kích thước mẫu và phân phối để tiến hành phân tích CB-SEM.
+3.3.
+Trước khi tiến hành thử nghiệm mô hình đo lường năng lực STEM của học sinh bằng CB-SEM, phân tích yếu tố thăm dò (EFA) đã được thực hiện để giảm hoặc loại bỏ các chỉ số hành vi không phù hợp với thang đo năng lực và xác định số thành phần năng lực trong cấu trúc của học sinh. Kết quả phân tích sơ bộ cho thấy biến A01 từ thang đo thu thập thông tin và A06 từ thang đo xử lý và sử dụng thông tin có sự khác biệt tải chéo giữa các nhóm yếu tố ít hơn 0,3, cho thấy tính hợp lệ phân biệt không đủ và dẫn đến việc loại trừ chúng. Ngoài ra, EFA sơ bộ đã xác định ba thành phần năng lực thay vì năm thành phần ban đầu. Quan sát thấy các chỉ số hành vi của học sinh vẫn phù hợp với quá trình học tập hướng tới giáo dục STEM, chúng tôi đã đổi tên thành: Thu thập thông tin và xử lý (
+Bảng 3.
+EFA kết quả cho các quy mô của các thành phần trong cấu trúc năng lực STEM của học sinh. Chỉ số hành vi. Factor nhóm. Mã hóa trước đây. Mã hóa mới. 1 2 3 A07 PS01 0.874 A08 PS02 0.902 A09 PS03 0.725 A10 PS04 0.644 A11 PS05 0.669 A12 PS06 0.637 A04 IN03 0.768 A05 IN04 0.853 A06 A06 A01 A02 A02 A01 A03 IN02 0.698 A03 0.578 A13 TE01 0.806 A14 TE02 0.840 A15 TE03 0.887 giá trị riêng 7.135 1.194 1.087 1.088 1.088 1.088 0.010 0.018 0.018 0.018 0.018 0.018 0.018 0.018 0.018 0.018 0.018 0.018 0.
+3.4.
+Đánh giá mô hình cấu trúc của học sinh Năng lực STEM sử dụng CB-SEM 3.4.1. Đánh giá độ tin cậy của thang đo năng lực STEM cho học sinh Để kiểm tra độ tin cậy của thang đo, cần phải tiến hành đánh giá bằng hệ số Cronbach's Alpha và hệ số độ tin cậy tổng hợp (CR). Các kết quả của Cronbach's Alpha trong Bảng 3 cho thấy các thang đo đạt được mức độ nhất quán nội bộ cao. Hơn nữa, dựa trên Bảng 4, chúng ta có thể thấy rằng các hệ số độ tin cậy tổng hợp cho các cấu trúc đều lớn hơn 0,7, với yếu tố thấp nhất là IN, CRIN = 0,842. Do đó, dựa trên kết quả nghiên cứu, có thể kết luận rằng các thang đo cho các thành phần của năng lực STEM của học sinh đáp ứng các tiêu chuẩn độ tin cậy cần thiết.
+Bảng 4. Kết quả đánh giá độ tin cậy và tính hợp lệ hội tụ của thang điểm độ tin cậy tổng hợp (CR) Sự biến đổi trung bình được trích xuất (AVE) IN 0,842 0,572 PS 0,891 0,578 TE 0,904 0,758 3.4.2.
+Đánh giá giá trị hội tụ của thang đo năng lực STEM cho sinh viên Trong bảng 3, cột tải yếu tố từ kết quả kiểm tra giá trị hội tụ đại diện cho hệ số nhân chuẩn hóa của các biến thành phần của thang đo.
+3.4.3.
+Đánh giá giá trị phân biệt của thang đo năng lực STEM cho sinh viên Khi đánh giá giá trị phân biệt của thang đo, kết quả nghiên cứu trong Bảng 5 cho thấy giá trị phân biệt của thang đo đã đạt được vì các gốc vuông của các giá trị AVE (đường chéo đậm) cao hơn các tương quan ngoài đường chéo. Ví dụ, thang PS có chỉ số AVE là 0,578 (Bảng 4) và gốc vuông của nó là 0,760 (Bảng 5). Do đó, 0,760 cao hơn cả tương quan hàng tương quan (0,745) và tương quan cột (0,703). Xem Bảng 5.
+Các hệ số tương quan giữa các cấu trúc Hồ Chí Minh ĐH Khoa học ĐH Ta Thanh Trung và các cộng sự. Ngoài ra, các hệ số tương quan giữa các cấu trúc đều nhỏ hơn 0,85, và các hệ số MSV, từ 0,494 đến 0,555, tất cả đáp ứng tiêu chí thấp hơn AVE của mỗi cấu trúc. Do đó, thang đo đáp ứng các yêu cầu về tính hợp lệ phân biệt.
+3.4.4.
+Đánh giá sự phù hợp của mô hình năng lực STEM của học sinh Bảng 6.
+Mô hình kết quả phù hợp chỉ số tiêu chí đánh giá kết quả χ 2 / df < 5,0 3,339 GFI phù hợp tốt > 0,9 0,952 CFI phù hợp tốt > 0,9 0,973 TLI phù hợp tốt > 0,9 0,953 RMSEA phù hợp tốt < 0,08 0,066 Tốt phù hợp Mô hình năng lực STEM của học sinh được đại diện bởi mô hình CB-SEM thứ hai với 58 độ tự do, χ 2 = 193,679 và giá trị p = 0,000.
+Hình 3.
+Mô hình SEM về cấu trúc năng lực STEM của sinh viên như được đại diện bởi AMOS 24 HO CHI MINH CITY UNIVERSITY OF EDUCATION JOURNAL OF SCIENCE, Vol 19, No 8 (2022): 1255-1270 Dựa trên trọng lượng đường dẫn trong mô hình, có thể thấy rằng các thành phần năng lực PS, IN và TE có mối tương quan chặt chẽ với thành phần năng lực STEM tổng thể. Trong số này, thành phần PS có hệ số tiêu chuẩn cao nhất là 0,88, cho thấy rằng thành phần này có ý nghĩa lớn hơn các thành phần khác trong khuôn khổ cấu trúc. Các thành phần khác có hệ số thấp hơn, nhưng sự khác biệt không đáng kể.
+3.5.
+Công cụ đánh giá năng lực STEM tiêu chuẩn hóa Dựa trên kết quả của mô hình cấu trúc, công cụ đánh giá tiêu chuẩn hóa cho học sinh theo phương pháp giáo dục định hướng STEM được trình bày trong Bảng 7. Công cụ này sẽ giúp học sinh theo dõi và ghi lại quỹ đạo phát triển năng lực của riêng họ trong quá trình học tập, do đó cho phép cải thiện và phát triển liên tục. Ngoài ra, giáo viên có thể sử dụng công cụ này để mô tả thêm mức độ thành thạo và chất lượng các chỉ số hành vi, tạo thành danh sách kiểm tra quan sát để đánh giá năng lực của học sinh.
+Bảng 7.
+Công cụ tiêu chuẩn hóa để đánh giá năng lực STEM của học sinh trung học tại thành phố Hồ Chí Minh Thành phần năng lực Chỉ số hành vi Mô tả Cấp độ 1 2 3 4 5 6 7 IN01 Địa phương hóa thông tin: Chọn một loạt các nguồn chứa thông tin cần thiết (sách, báo chí, internet, chuyên gia, v.v.).
+IN02 Thu thập thông tin: Ghi lại thông tin từ các nguồn thông tin được chọn Thu thập và xử lý thông tin Đánh giá thông tin: Đánh giá chất lượng nội dung và độ tin cậy của các nguồn thông tin được thu thập trước khi sử dụng IN04 Tích hợp thông tin: Tổng hợp tất cả các thông tin được dự định sử dụng vào sự hiểu biết của riêng bạn Kế hoạch triển khai giải pháp: Phát triển kế hoạch triển khai giải pháp, đảm bảo tất cả các bước được bao gồm như thiết kế giải pháp, chuẩn bị vật liệu, giao nhiệm vụ, thủ tục chế tạo và thử nghiệm, v.v. PS02 Thực hiện giải pháp: Xây dựng mô hình hoặc sản phẩm vật lý để thực hiện giải pháp cho vấn đề PS03 Cải thiện giải pháp: Đề xuất một số phương pháp để cải thiện giải pháp cho các vấn đề trong bối cảnh mới PS04 Chọn hình thức chia sẻ: Ch
+Ngoài các chỉ số hành vi trong công cụ đánh giá là chính xác về mặt chất lượng về nội dung, chúng cũng phải đáp ứng các tiêu chí định lượng về độ tin cậy và tính hợp lệ.
+Một số tiêu chí đánh giá, nếu chỉ bắt nguồn từ nghiên cứu lý thuyết mà không có xác minh định lượng, sẽ dẫn đến các đánh giá có tính chủ quan cao và có thể không đảm bảo tính chính xác hoặc khách quan khi các nhà đánh giá đưa ra phán đoán và kết luận về năng lực của người học.
+4.
+Kết luận Do đó, nghiên cứu đã phát triển và chuẩn hóa một công cụ để đánh giá năng lực của học sinh trong quá trình học tập theo định hướng giáo dục STEM. Sau khi sửa đổi, công cụ bao gồm ba thành phần của năng lực STEM: Thu thập và xử lý thông tin (IN), Thực hiện giải pháp và chia sẻ cộng đồng (PS) và Sử dụng thiết bị và công cụ kỹ thuật (TE), được đánh giá bằng thang điểm Likert (7 cấp). Điểm trung bình của tất cả các chỉ số hành vi càng cao, khả năng đáp ứng các yêu cầu của học tập định hướng STEM của học sinh càng cao. Thông qua một quá trình nghiên cứu được thực hiện nghiêm ngặt bao gồm ba giai đoạn: câu hỏi, thiết kế thang điểm và đánh giá thang điểm, kết quả phân tích CB-SEM đã phát triển cho thấy công cụ đáp ứng các tiêu chí về độ tin cậy và tính hợp lệ nội bộ
+Tuyên bố lợi ích: Các tác giả xác nhận rằng không có xung đột lợi ích.
+REFERENCES Arikan, S., Erktin, E., & Pesen, M. (2020).
+Các nghiên cứu về đánh giá giáo dục, 32(2), 153-170. doi:10.1016/j.stueduc.2006.04.006 Bainton, T. (2001).
+Boateng, G. O., Neilands, T. B., Frongillo, E. A., Melgar-Quiñonez, H. R., & Young, S. L. (2018).
+Văn phòng Giáo dục Quốc tế của UNESCO.
+99-136).
+Bundy, A.
+(2004).
+HO CHI MINH CITY UNIVERSITY OF EDUCATION Tạp chí Khoa học, Tập 19, Số 8 (2022): 1255-1270 Devellis, R., & Thorpe, CT (2021).
+Sage Publications.
+English, L. D. (2016).
+(2013).
+29-NQ/TW).
+Hà Nội.
+(2016).
+Hoang, H. B.
+(2015).
+(2016).
+Marope, M., Griffin, P., & Gallagher, C. (2017).
+Geneva: UNESCO-IBE.
+(2018).
+Hà Nội.
+Được lấy từ https://data.moet.gov.vn/index.php/s/LETzPhj5sGGnDii#pdfviewer Nunnally, J. C., & Bernstein, I. H. (1994).
+Trong Lý thuyết tâm lý (Vol. 3, trang.
+248-292).
+Sen, C., Ay, Z. S., & Kiray, S. A.
+(2018).
+81-101).
+Shulman, L. (2008).
+Trong D. H. Gitomer (Nhạc.
+234243).
+Trilling, B., & Fadel, C. (2009).
+San Francisco: Jossey-Bass.
+Tạp chí Khoa học Đại học Đồng Tháp, Tập 12, Số 1, 2023, trang 99-105 TÔI ĐNG TN XHU ĐNG TN XHU ĐNG TN XHU ĐNG TN XHU ĐNG TN XHU ĐNG TN XHU ĐNG TN XHU ĐNG TN XHU ĐNG TN XHU ĐNG TN XHU ĐNG NGUYN THI NGUYN Nguyễn Thị Hoa* và Đại học Khoa học Du Thị Huệ, Đại học Hồ Quyến, Việt Nam * Tác giả tương ứng: nguyenhoa10283@gmail.com Lịch sử Bài viết Được nhận: 10/11/2021
+DOI: https://doi.org/10.52714/dthu.12.1.2023.1023 trích dẫn: Nguyễn, T. H., & Du, T. H. (2023).
+Về chủ nghĩa xã hội và con đường hướng tới chủ nghĩa xã hội ở Việt Nam theo quan điểm của Đại hội Đảng Quốc gia lần thứ 13.
+Tạp chí Khoa học Đại học Đồng Tháp, 12(1), 99-105. https://doi.org/10.52714/dthu.12.1.2023.1023.
+Phòng: Khoa học xã hội và nhân văn
+Tuyên bố vấn đề Nó khẳng định rằng con đường của chúng ta hướng tới chủ nghĩa xã hội là đúng đắn, phù hợp với các luật pháp khách quan, phù hợp với thực tế của Việt Nam và phù hợp với xu hướng phát triển của thời đại (Đảng Cộng sản Việt Nam, 2021, tập 1, trang 26).
+2. Đánh giá
+Về chủ nghĩa xã hội theo quan điểm của Đại hội Đảng Quốc gia lần thứ 13 Chủ tịch Hồ Chí Minh luôn trung thành với chủ nghĩa Mác-Lênin; tuy nhiên, với tinh thần độc lập và tự do vốn có của mình, ông đã thấm nhuần sâu sắc và sáng tạo bản chất và mục tiêu của chủ nghĩa xã hội. Ông đã từng đặt câu hỏi: "Chủ nghĩa xã hội là gì?" và sau đó cá nhân trả lời nó, phác thảo rõ ràng các đặc điểm thiết yếu nhất của chủ nghĩa xã hội theo cách phản ánh các điều kiện của Việt Nam và nhu cầu và nguyện vọng của người dân Việt Nam.
+Thành tựu lớn của C. Marx và F. Engels là khám phá của họ về xu hướng không thể tránh khỏi trong sự phát triển của xã hội loài người, dẫn đến kết luận rằng chủ nghĩa tư bản chắc chắn sẽ được thay thế bởi chủ nghĩa cộng sản, với chủ nghĩa xã hội là giai đoạn đầu tiên của nó.
+Các tác phẩm được thu thập của Engels, 1995, Tập 4, trang.
+628).
+Sự vượt trội của chủ nghĩa xã hội và chủ nghĩa cộng sản nằm trong việc loại bỏ tất cả các hình thức bóc lột, áp bức và bất công được tạo ra bởi các mối quan hệ sản xuất tư bản.
+Sau đó, trong tác phẩm Chủ nghĩa xã hội: Utopia và khoa học, F. Engels cũng đưa ra một luận án: "Để biến chủ nghĩa xã hội thành một khoa học, trước tiên nó phải được đặt trên một cơ sở thực tế" (C. Marx và F. Engels).
+Các tác phẩm được thu thập của Engels, 1995, Tập 19, trang.
+293).
+Chủ nghĩa xã hội là làm cho người dân giàu có và đất nước mạnh mẽ... (Ho Chi Minh Complete Works, 2011, vol. 8, trang 226); Chủ nghĩa xã hội có nghĩa là công lý và lý trí: những người không làm việc sẽ không được hưởng lợi ích. Người già hoặc khuyết tật sẽ được Nhà nước hỗ trợ và chăm sóc (Ho Chi Minh, vol. 9, trang 175); Chủ nghĩa xã hội trước hết nhằm giải phóng người lao động khỏi nghèo đói, để đảm bảo mọi người có việc làm, sống thịnh vượng và tận hưởng cuộc sống hạnh phúc (Ho Chi Minh Complete Works, 2011, vol. 10, trang 17).
+V.I.
+Dựa trên quan điểm của C. Marx và F. Engels về chủ nghĩa cộng sản, Lenin đã chỉ ra sự thống nhất của mục đích giữa chủ nghĩa xã hội chủ nghĩa như giai đoạn ban đầu của nó và chủ nghĩa cộng sản: ... khi chúng ta bắt đầu thực hiện các cải cách xã hội chủ nghĩa, chúng ta phải làm rõ mục tiêu cuối cùng mà những cải cách xã hội chủ nghĩa này nhằm vào, cụ thể là, việc thiết lập một xã hội cộng sản một xã hội không chỉ giới hạn trong việc chiếm hữu các nhà máy, nhà máy, đất đai và phương tiện sản xuất, cũng không chỉ giới hạn trong việc kiểm toán và kiểm soát chặt chẽ sản xuất và phân phối, mà còn xa hơn nữa, để thực hiện nguyên tắc: từ mỗi người theo khả năng của mình, cho mỗi người theo nhu cầu của mình.
+Do đó, tên "Đảng Cộng sản" là tên duy nhất chính xác về mặt khoa học. (V. I. Lenin, Complete Works, 1976, Tập 36, trang ...)
+56).
+Độc lập quốc gia liên kết với chủ nghĩa xã hội là sợi chỉ đỏ chạy qua, và là cốt lõi và đặc điểm thống trị của toàn bộ di sản tư tưởng của Hồ Chí Minh. Nó cũng là đường chính và nhất quán trong chính sách cách mạng của Đảng từ khi thành lập cho đến nay. Quan điểm của Đảng chúng tôi về chủ nghĩa xã hội, cũng như đường lối tổng thể của cuộc cách mạng xã hội chủ nghĩa, được củng cố vững chắc trên nguyên tắc này. Tư tưởng lý thuyết về chủ nghĩa xã hội chỉ bắt đầu xuất hiện và hình thành ở đất nước chúng tôi sau khi thành lập Đảng, như được phản ánh trong "Bản luận chính trị ngắn" và "Chiến lược ngắn" do Nguyễn Ái Quốc soạn thảo và trình bày tại hội nghị thành lập Đảng vào đầu năm 1930. Điều này cũng được đề cập trong "Bản luận chính trị" của Đảng (tháng 10 năm
+"Nếu chúng ta muốn cứu đất nước và giải phóng quốc gia, không có con đường nào khác ngoài con đường cách mạng vô sản" (Ho Chi Minh, Tác phẩm hoàn chỉnh, 2011, tập 9, trang.
+314).
+Độc lập quốc gia phải gắn liền với chủ nghĩa xã hội, và ...chỉ chủ nghĩa xã hội và chủ nghĩa cộng sản mới có thể giải phóng các quốc gia bị áp bức và người lao động trên toàn thế giới khỏi chế độ nô lệ (Hồ Chí Minh, Tóm lại, 2011, tập 9, trang 314). Từ khi thành lập và trong suốt cuộc đấu tranh cách mạng, Đảng Cộng sản Việt Nam luôn khẳng định rằng chủ nghĩa xã hội là mục tiêu và lý tưởng của Đảng Cộng sản và nhân dân Việt Nam; tiến tới chủ nghĩa xã hội là một yêu cầu khách quan và con đường không thể tránh khỏi của cuộc cách mạng Việt Nam. Điều này đã được chứng minh rõ ràng trong tính đặc biệt của con đường Việt Nam đến chủ nghĩa xã hội: từ một thuộc địa bán phong kiến, sau khi giành được độc lập, đất nước đã vượt qua giai đoạn phát triển tư bản để di chuyển trực tiếp đến chủ nghĩa xã hội
+Đại hội Quốc gia lần thứ 13 của Đảng tiếp tục Tạp chí Khoa học Đại học Đồng Tháp, Tập 12, Số 1, 2023, 99-105 Cuộc cách mạng dân chủ tư sản kiểu mới (tức là, cuộc cách mạng dân chủ quốc gia) do Đảng lãnh đạo đã lật đổ những người thực dân đế quốc, giành được độc lập và tự do, giải quyết vấn đề đất đai cho nông dân (thông qua cuộc cách mạng nông nghiệp và bãi bỏ chế độ phong kiến), và sau đó, vượt qua "thời kỳ tư bản", với sự hỗ trợ của quốc tế, "đang tiến trực tiếp trên con đường tiến tới chủ nghĩa xã hội".
+...minh phù hợp với từng giai đoạn phát triển của đất nước (Đảng Cộng sản Việt Nam, 2021, tập 1, trang 128). Mục đích của phát triển kinh tế là cho người dân, giải phóng các lực lượng sản xuất và phát triển nền kinh tế để cải thiện mức sống của tất cả mọi người, để mọi người tận hưởng những thành quả của phát triển. Ở đây, nó phản ánh một sự khác biệt cơ bản với mục tiêu phục vụ lợi nhuận vì lợi ích của các nhà tư bản, bảo vệ và phát triển chủ nghĩa tư bản. Phát triển kinh tế liên quan đến nhiều hình thức sở hữu (tài hữu của tất cả mọi người, sở hữu tập thể, sở hữu tư nhân) và nhiều lĩnh vực kinh tế (các khu vực nhà nước, khu vực tập thể, khu vực tư nhân, khu vực nhà nước tư bản, và các lĩnh vực có đầu tư nước ngoài), nhằm giải phóng tất cả tiềm năng trong
+Về chính trị: Chủ nghĩa xã hội có một hệ thống chính trị dân chủ. Nhà nước xã hội chủ nghĩa là một nhà nước của nhân dân, bởi nhân dân, và cho nhân dân, dựa trên khối thống nhất quốc gia lớn với lõi là liên minh của công nhân, nông dân và trí thức dưới sự lãnh đạo của Đảng Cộng sản. Trong tất cả các hoạt động của Đảng và Nhà nước, cần phải nắm bắt triệt để quan điểm rằng nhân dân là gốc rễ; thực sự tin tưởng, tôn trọng và thúc đẩy quyền làm chủ của nhân dân, kiên trì thực hiện khẩu hiệu nhân dân biết, nhân dân thảo luận, nhân dân làm, nhân dân kiểm tra, nhân dân giám sát, nhân dân hưởng lợi; và coi hạnh phúc và thịnh vượng của nhân dân là mục tiêu của nỗ lực. Tăng cường mối quan hệ chặt chẽ giữa Đảng và nhân dân; tăng cường và c
+Sau chiến thắng Mùa xuân năm 1975, đất nước đã thống nhất và bước vào giai đoạn chuyển tiếp hướng tới chủ nghĩa xã hội, tập trung xây dựng và bảo vệ Tổ quốc. Từ nhiệm vụ giành độc lập quốc gia sang nhiệm vụ xây dựng, tổ chức một lối sống mới, phát triển kinh tế và văn hóa, và liên tục nâng cao mức sống của người dân dưới sự lãnh đạo của Quốc hội xã hội ngày 19 tháng 1 năm 2020, khi toàn bộ các vấn đề xã hội của chúng ta đều được giải quyết hoàn toàn. ... Chính sách xã hội chủ nghĩa xã hội đã được thực hiện một cách chính xác và hiệu quả, trong suốt thời gian Covid-19 đã không có tác động mạnh mẽ đến sự phát triển của xã hội, xã hội, xã hội, xã hội, xã hội, xã hội, xã hội, xã hội, xã hội, xã hội, xã hội, xã hội, xã hội, xã hội, xã hội, xã hội, xã
+(Đảng Cộng sản Việt Nam, 2021, tập 1, trang.
+2.2.
+Trên con đường hướng tới chủ nghĩa xã hội ở Việt Nam theo quan điểm Đại hội Đảng Quốc gia lần thứ 13 Trong bài viết "Một số vấn đề lý thuyết và thực tiễn về chủ nghĩa xã hội và con đường hướng tới chủ nghĩa xã hội ở Việt Nam", Tổng thư ký Nguyễn Phú Trọng tiếp tục làm rõ các giá trị cốt lõi và đặc điểm nổi bật của chủ nghĩa xã hội ở Việt Nam: "Chúng ta cần một xã hội mà trong đó sự phát triển thực sự phục vụ nhân dân, không phải vì lợi nhuận bóc lột và chà đạp vào nhân phẩm"; "Cố gắng xây dựng một xã hội văn minh, lành mạnh cho lợi ích và phẩm giá đích thực của nhân loại, với các tiêu chuẩn trí tuệ, đạo đức, thể chất, lối sống và thẩm mỹ cao hơn bao giờ hết". Chúng tôi khẳng định: Nhân dân phải là trung tâm của chiến lược phát triển của chúng ta... Một
+Sự thành công hay thất bại của một chế độ phụ thuộc vào việc nó có được sự ủng hộ và bảo vệ của nhân dân hay không. Để đảm bảo điều này, điều cần thiết là liên tục nuôi dưỡng và phát triển tất cả các khía cạnh của khối thống nhất quốc gia lớn giữa quần chúng, với liên minh của công nhân, nông dân và trí thức là cốt lõi của nó. Đây là nền tảng xã hội của Đảng và Nhà nước, và nó tạo thành sức mạnh quyết định xác định sự ổn định hoặc sụp đổ của chế độ.
+Trong Chiến lược phát triển kinh tế xã hội 10 năm (2021-2030), Đảng ta nhấn mạnh quan điểm về nguồn nhân lực: "Tăng cường nhân tố con người, coi con người là trung tâm, chủ thể, nguồn lực quan trọng nhất và mục tiêu phát triển... tất cả các chính sách của Đảng và Nhà nước phải nhằm mục đích cải thiện cuộc sống vật chất và tinh thần và hạnh phúc của nhân dân" (Đảng Cộng sản Việt Nam, 2021, tập 1, trang 215-216).
+Hiện nay, ý chí và khát vọng của nhân dân Việt Nam vẫn là độc lập quốc gia gắn liền với chủ nghĩa xã hội; bảo vệ vững chắc độc lập và thống nhất Tổ quốc, xây dựng và phát triển một quốc gia mạnh mẽ, thịnh vượng, hạnh phúc, sát cánh với các nước khác trên thế giới và giữ một vị trí xứng đáng trên bản đồ thế giới. Vào cuối thế kỷ 20, bất chấp sự sụp đổ của một phần lớn chủ nghĩa xã hội thực sự trên toàn thế giới, sự biến mất của hệ thống xã hội chủ nghĩa, và phong trào xã hội chủ nghĩa rơi vào một giai đoạn khủng hoảng, suy giảm, và đối mặt với nhiều khó khăn, Đảng Cộng sản Việt Nam tiếp tục khẳng định: Đảng và nhân dân của chúng tôi quyết tâm xây dựng Việt Nam dọc theo con đường xã hội chủ nghĩa dựa trên Chủ nghĩa Mác-Lên và Tư tưởng Hồ Chí Minh. Đến Đại hội Quốc
+70).
+Tạp chí Khoa học Đại học Đồng Tháp, tập 12, số 1, 2023, trang 99-105 Chủ nghĩa xã hội ở Việt Nam đã chứng minh sự áp dụng sáng tạo cao của chủ nghĩa Mác-Lênin bởi Đảng của chúng tôi đối với các điều kiện đổi mới.
+Tại Đại hội Quốc gia lần thứ 12, Đảng của chúng ta khẳng định: "Những thành tựu này đã tạo ra những điều kiện tiên quyết và nền tảng quan trọng để đất nước chúng ta tiếp tục tự đổi mới và phát triển mạnh mẽ trong những năm tới; khẳng định rằng đường lối đổi mới của Đảng là đúng đắn và sáng tạo; con đường hướng tới chủ nghĩa xã hội ở đất nước chúng ta phù hợp với thực tế của Việt Nam và xu hướng phát triển của lịch sử" (Đảng Cộng sản Việt Nam, 2016, tr. ...).
+Nền tảng 2011 nói rõ: "Xã hội xã hội chủ nghĩa mà người dân chúng ta đang xây dựng là một xã hội mà người dân giàu có, đất nước mạnh mẽ, dân chủ, công bằng và văn minh; người dân là chủ đích thực; nền kinh tế phát triển cao, dựa trên các lực lượng sản xuất hiện đại và các mối quan hệ sản xuất tiến bộ, thích hợp; văn hóa tiên tiến và thấm nhuần sâu sắc bản sắc quốc gia; người dân được hưởng một cuộc sống thịnh vượng, tự do và hạnh phúc với các điều kiện cho sự phát triển toàn diện; các nhóm dân tộc trong cộng đồng Việt Nam bình đẳng, đoàn kết, tôn trọng và hỗ trợ lẫn nhau trong phát triển; có một nhà nước pháp luật xã hội chủ nghĩa của người dân, bởi người dân và cho người dân dưới sự lãnh đạo của Đảng Cộng sản Việt Nam; và nó duy trì quan hệ thân thiện và hợp tác với các
+70).
+Tám đặc điểm nêu trên một cách toàn diện và rộng rãi phản ánh những đặc điểm thiết yếu của chủ nghĩa xã hội mà Đảng và nhân dân chúng ta đang xây dựng. Trong số đó, đặc điểm "con người giàu có, đất nước mạnh mẽ, dân chủ, công bằng và văn minh" phục vụ như một đặc điểm xác định và là mục tiêu của chủ nghĩa xã hội ở Việt Nam. Đây là mô hình chung của chủ nghĩa xã hội ở Việt Nam.
+Đại hội Đảng lần thứ 13 được triệu tập vào thời điểm mà toàn thể Đảng, nhân dân, lực lượng vũ trang đã thực hiện thành công nhiều nguyên tắc, mục tiêu, nhiệm vụ được xác định trong Nghị quyết Đại hội lần thứ 12; do đó góp phần làm nổi bật những thành tựu lớn lao và có ý nghĩa lịch sử của 35 năm đổi mới; 30 năm thực hiện Nền tảng năm 1991; 10 năm thực hiện Nền tảng 2011 được bổ sung và phát triển, và Chiến lược phát triển kinh tế - xã hội 2011-2020 (Đảng Cộng sản Việt Nam, 2021, tập 1, trang 9). Đại hội lần thứ 13 đã thể hiện sự dũng cảm, ý chí kiên định, và quyết tâm của toàn bộ quốc gia hướng tới mục tiêu làm cho nhân dân giàu có, đất nước mạnh mẽ, dân chủ, công bằng và văn minh. Đồng thời, để đạt được những mục tiêu này thành công, toàn bộ Đảng và nhân dân phải duy trì
+Hướng dẫn xây dựng Quá trình đổi mới do Đảng chúng ta khởi xướng và lãnh đạo đã kéo dài 35 năm. Trong 35 năm qua, nhờ một đường lối đổi mới đúng đắn và sáng tạo với nhiều đột phá như phát triển nền kinh tế thị trường theo định hướng xã hội chủ nghĩa, xây dựng một nhà nước pháp luật xã hội chủ nghĩa của nhân dân, bởi nhân dân và cho nhân dân, thiết lập một Đảng và hệ thống chính trị mạnh mẽ, sạch sẽ và toàn diện, tích cực và tích cực hội nhập quốc tế, trong số những điều khác, đất nước chúng ta đã đạt được những thành tựu có ý nghĩa lịch sử đáng kể. Lý thuyết về đường lối đổi mới đã được liên tục bổ sung và cải thiện; lý thuyết về chủ nghĩa xã hội và con đường hướng tới chủ nghĩa xã hội đã trở nên rõ ràng hơn. Tài liệu của Đại hội Quốc gia lần thứ 13 của Đảng khẳng định: Những thành
+Khoa học xã hội và nhân văn Trong số này, có: Có dấu hiệu không đủ chú ý đến việc đảm bảo phát triển phù hợp với định hướng xã hội chủ nghĩa; đến sự phát triển của văn hóa, đảm bảo phúc lợi xã hội, thực hiện tiến bộ và công bằng xã hội trong phát triển nền kinh tế thị trường; và sự thất bại trong việc đảm bảo phát triển tổng thể và phối hợp giữa các khu vực và địa phương theo lợi thế so sánh và thúc đẩy các điều kiện kinh tế xã hội cụ thể (Đảng Cộng sản Việt Nam, 2021, tập 1, trang 108).
+Trong 35 năm tiến hành tiến trình đổi mới và 30 năm thực hiện Nền tảng xây dựng quốc gia trong giai đoạn chuyển tiếp sang chủ nghĩa xã hội, lý thuyết về đường lối đổi mới, chủ nghĩa xã hội và con đường hướng tới chủ nghĩa xã hội ở đất nước chúng ta ngày càng được hoàn thiện và tiến bộ thực hiện. Chúng ta đã đạt được những thành tựu vô cùng có ý nghĩa lịch sử, với sự phát triển mạnh mẽ và toàn diện hơn những năm trước khi đổi mới. Với tất cả sự khiêm tốn, chúng ta có thể nói rằng đất nước chúng ta chưa bao giờ có tầm vóc, tiềm năng, vị trí và uy tín quốc tế như ngày nay. Những thành tựu này là sản phẩm tinh thể của sự sáng tạo, kết quả của một quá trình kiên trì và liên tục phấn đấu nhiều điều khoản của toàn thể Đảng, nhân dân và lực lượng vũ trang của chúng ta; tiếp tục khẳng định rằng con đường
+35 36).
+Đồng thời, Đại hội Quốc gia lần thứ 13 của Đảng đã đặt ra các mục tiêu, định hướng và nhiệm vụ phát triển quốc gia đến năm 2025: trở thành một quốc gia đang phát triển với ngành công nghiệp hiện đại, vượt qua mức thu nhập trung bình thấp hơn; xác định các mục tiêu và định hướng cho năm 2030: trở thành một quốc gia đang phát triển với ngành công nghiệp hiện đại và mức thu nhập trung bình cao hơn; và tầm nhìn phát triển quốc gia đến năm 2045: trở thành một quốc gia phát triển, thu nhập cao (Đảng Cộng sản Việt Nam, 2021, tập 1, trang 1).
+36).
+Để đạt được những mục tiêu này, toàn thể Đảng và nhân dân phải duy trì tinh thần của cuộc cách mạng, thể hiện sự tự tin và kiên cường, giải phóng đầy đủ tất cả tiềm năng và trí tuệ, nắm bắt cơ hội và vượt qua những thách thức.
+3. Kết luận Có thể thấy Đại hội Đảng lần thứ 13 vừa duy trì tính liên tục vừa bổ sung và phát triển nhiều yếu tố mới phù hợp với tình hình mới và các yêu cầu mới nổi của công cuộc xây dựng chủ nghĩa xã hội ở Việt Nam trong giai đoạn hiện nay. Đáng chú ý, Đại hội nhấn mạnh quan điểm "Dân là gốc rễ", kiên định thực hiện nguyên tắc "Dân biết, dân thảo luận, dân làm, dân kiểm tra, dân giám sát, dân hưởng lợi". Quan điểm "Dân" vừa là chủ thể vừa là trung tâm của quá trình đổi mới đã ngày càng được công nhận và phản ánh sâu sắc và đầy đủ, mang tính nhân đạo và nhân văn sâu sắc của cải cách theo định hướng xã hội chủ nghĩa ở Việt Nam. Tuy nhiên, từ quan điểm thực tế và khách quan, biện pháp luận, Đảng của chúng ta cũng nhận thức rằng thực hiện đầy đủ khát vọng của một quốc
+Đặc biệt, trong năm 2020 (và có thể trong một thời gian dài), đại dịch Covid-19 đã có tác động sâu sắc đến đất nước chúng ta, gây ra tổn thất kinh tế và xã hội đáng kể và ảnh hưởng đến sự phát triển của quốc gia.
+Vì vậy, Đại hội Quốc gia lần thứ 13 đã dự báo: "Tình hình toàn cầu và trong nước vừa mang lại điều kiện thuận lợi và cơ hội, vừa mang lại khó khăn và thách thức đan xen, nêu ra nhiều vấn đề và yêu cầu mới và phức tạp hơn cho việc xây dựng và bảo vệ Tổ quốc" (Đảng Cộng sản Việt Nam, tập 1, trang 109). Đại hội nhấn mạnh nhiều hơn đến những rủi ro trong nước phải được lưu ý cẩn thận và giải quyết hiệu quả. Với những chiến thắng to lớn mà cuộc cách mạng Việt Nam đã đạt được kể từ khi Đảng lên nắm quyền lãnh đạo, có thể khẳng định rằng tiến tới chủ nghĩa xã hội - con đường do Chủ tịch Hồ Chí Minh, toàn bộ Đảng và nhân dân của chúng tôi chọn - là con đường đúng đắn.
+Các tác phẩm tổng hợp của Engels, 1995, Tập 4.
+(1995).
+Tóm 4
+Hà Nội: Nhà xuất bản chính trị quốc gia - Sự thật.
+C. Marx và F.
+Các tác phẩm tổng hợp của Engels, 1995, Tập 19.
+(1995).
+Toàn bộ các tác phẩm, tập 19.
+Hà Nội: Nhà xuất bản chính trị quốc gia - Sự thật.
+Đảng Cộng sản Việt Nam.
+(2011).
+Các tài liệu của Đại hội là chính xác, phù hợp với xu hướng phát triển lịch sử, và phản ánh những khát vọng của nhân dân chúng ta. Các mục tiêu phát triển quốc gia được đặt ra bởi Đại hội Quốc gia lần thứ 13 của Đảng được đặt nền tảng kỹ lưỡng trong cả lý thuyết và thực tiễn; việc đạt được thành công các mục tiêu này đại diện cho các bước dẫn dắt đất nước chúng ta hướng tới chủ nghĩa xã hội. Do đó, bất kỳ quan điểm nào làm giảm hoặc bóp méo các mục tiêu này là sai và phục vụ các mục đích điều khiển, thực hiện "tự tiến hóa và tự biến đổi trong hàng ngũ" cho các lực lượng thù địch.
+Đại hội Đảng Quốc gia lần thứ 11.
+Hà Nội: Nhà xuất bản chính trị quốc gia - Sự thật.
+Đảng Cộng sản Việt Nam.
+(2016).
+Tài liệu của Đại hội Đảng Quốc gia lần thứ 12.
+Hà Nội: Nhà xuất bản chính trị quốc gia - Sự thật.
+Đảng Cộng sản Việt Nam.
+(2021).
+Tài liệu của Đại hội Đảng Quốc gia lần thứ 13.
+Tập 1.
+Hà Nội: Nhà xuất bản chính trị quốc gia - Sự thật.
+Ho Chi Minh Complete Works, 2011, tập 8.
+Hà Nội: Nhà xuất bản chính trị quốc gia Sự thật.
+Ho Chi Minh Complete Works, 2011, tập 9.
+Hà Nội: Nhà xuất bản chính trị quốc gia Sự thật Sau 35 năm đổi mới, lý thuyết về đường đổi mới của Đảng, về chủ nghĩa xã hội và con đường hướng tới chủ nghĩa xã hội ở Việt Nam ngày càng trở nên hoàn chỉnh và đang dần được thực hiện trong thực tế (Đảng Cộng sản Việt Nam, 2021, tập 1, trang 103). Thực tiễn đổi mới cũng đã chứng minh rằng phát triển theo mô hình xã hội chủ nghĩa Việt Nam do Đảng của chúng tôi đưa ra không chỉ hiệu quả về kinh tế, mà còn giải quyết các vấn đề văn hóa, xã hội và môi trường tốt hơn các quốc gia theo các mô hình phát triển khác. Điều này chứng minh rằng việc chọn con đường xây dựng chủ nghĩa xã hội ở Việt Nam là sự lựa chọn đúng đắn, phù hợp với các luật pháp khách quan và thực tế của thời đại.
+Nhà xuất bản chính trị quốc gia Sự thật. Ho Chi Minh Complete Works, 2011, tập 10. Hà Nội: Nhà xuất bản chính trị quốc gia Sự thật.
+Nguyễn, P. T. (2021).
+Một số vấn đề lý thuyết và thực tiễn liên quan đến chủ nghĩa xã hội và con đường hướng tới chủ nghĩa xã hội ở Việt Nam.
+Tờ báo Nhan Dan.
+Truy cập từ https://nhandan.vn/tin-tuc-su-kien/mot-so-van-de-ly-luan-va-thuc-tien-ve-chu-nghia-xa-hoi-va-con-duong-di-len-chu-nghia-xa-hoi-o-vietnam-646305/ V. I. Lenin, Complete Works, 1976, Tập 36.
+Moscow: Nhà xuất bản Progress.
+© 2022 Đại học Giao thông và Truyền thông Giao thông và Truyền thông Khoa học Tạp chí, Tập 73, Số 5 (06/2022), 470-485 Tạp chí Giao thông và Truyền thông Khoa học CH THN THN CỦA VÀN ĐN VÀN ĐN VÀN CN THN THN THN THN THN THN THN THN THN THN THN THN THN THN THN THN THN THN THN THN THN THN THN THN THN ĐN ĐN ĐN ĐN ĐN ĐN ĐN Đ Đ Đ Đ Đ Đ Đ Đ Đ Đ Đ
+Từ khóa: độ dày thay đổi, flexo, nano-mảng, phương pháp nguyên tố hữu hạn.
+© 2022 Đại học Giao thông và Truyền thông Tạp chí Khoa học Giao thông, Tập 73, Số 5 (06/2022), 470-485 1.
+Trong thực tế, các cấu trúc tấm có kích thước nano ngày càng được sử dụng nhiều hơn, và để tăng cường hiệu quả của các cấu trúc nano, hiệu ứng flexo cũng được xem xét. Hiệu ứng này là sự kết hợp của hiện tượng điện chéo và phân cực điện tích gây ra bởi sự biến đổi trong các thành phần của căng thẳng. Kết quả là, nhiều tác phẩm khoa học đã nghiên cứu hành vi cơ học của các cấu trúc này. Zhang và nhóm nghiên cứu của ông [1] đã điều tra ảnh hưởng của hiệu ứng flexo đối với phản ứng điện đàn hồi và rung động tự do của các tấm nano dựa trên lý thuyết tấm cổ điển và phương pháp Ritz. Yang et al. [2] cũng sử dụng lý thuyết tấm cổ điển để cung cấp một giải pháp chính xác cho phản ứng cơ học của các tấm nano xem xét hiệu ứng flexo. Shingarewal và Kundal [3] đã nghiên cứu hành vi của các tấm nano được c
+Amir và các đồng nghiệp [4] đã sử dụng dung dịch Navier để tiến hành một nghiên cứu trên các tấm sandwich nhiều lớp, trong đó tác dụng của hiệu ứng flexo đã được tính đến.
+Ghobadi và các đồng nghiệp của ông [5] đã trình bày một nghiên cứu về hành vi cơ học phi tuyến tính của các tấm nano được phân loại chức năng, tính đến hiệu ứng flexo.
+Arani và các cộng sự của ông [6] đã sử dụng phương pháp bình phương vi phân để cung cấp một giải pháp cho vấn đề phản ứng cơ học của các tấm nano hình vòng xem xét hiệu ứng flexo.
+Yue [7] đã nghiên cứu hiệu ứng bề mặt của điện cực trong các tấm nano với sự cân nhắc bổ sung của hiệu ứng flexo.
+Wang và Xian-Fang [8] dựa trên lý thuyết tấm cổ điển và các giải pháp phân tích để phân tích tác động của cả hai hiệu ứng flexo tĩnh và động đối với phản ứng của các tấm nano. Các nghiên cứu [9-16, 33-34] cũng chứng minh rõ ràng các phản ứng cơ học của các tấm nano chịu nhiều loại tải cơ học, nhiệt và điện, có tính đến ảnh hưởng của hiệu ứng flexo.
+Trong thực tế, các cấu trúc có độ dày thay đổi có thể được gặp phải và sử dụng trong các thiết bị như cảm biến hoặc máy phát điện nano. Tuy nhiên, trong quá trình chế tạo, các vết nứt có thể xuất hiện, làm thay đổi phản ứng cơ học của tấm. Do đó, kết quả nghiên cứu được trình bày trong bài báo này có thể phục vụ như là cơ sở để so sánh và xác minh với các phương pháp thử nghiệm để đánh giá liệu các vết nứt có hình thành trong tấm hay không. Hơn nữa, nếu các vết nứt xuất hiện, kết quả có thể giúp xác định độ dài vết nứt của tấm vẫn có thể sử dụng khi chịu lực nén trong mặt phẳng. Nghiên cứu này cũng đóng vai trò là một nghiên cứu sơ bộ cho các cuộc điều tra tiếp theo nhằm dự đoán sự lan truyền của vết nứt trong quá trình tải.
+Để mô phỏng các vết nứt, các phương pháp khác nhau được sử dụng, chẳng hạn như phương pháp phần tử hữu hạn, phương pháp phần tử hữu hạn mở rộng, phương pháp đồng phân, phương pháp phần tử hữu hạn kết hợp với lý thuyết trường pha, phương pháp đồng địa hình, v.v. Trong số này, phương pháp phần tử hữu hạn kết hợp với lý thuyết trường pha là một phương pháp tiếp cận mới với nhiều lợi thế, chẳng hạn như tính linh hoạt cao và khả năng mô tả các vết nứt có hình dạng phức tạp.
+Việc sử dụng phương pháp này để giải quyết các vấn đề cơ học đã được trình bày trong các tác phẩm [19-28], cũng chứng minh rõ ràng những lợi thế của lý thuyết trường pha và khả năng áp dụng của nó cho các vấn đề tấm và vỏ với các vết nứt.
+2. Đánh giá
+Hình thức các yếu tố hữu hạn để tính toán các tấm nano có độ dày thay đổi với các vết nứt và xem xét hiệu ứng của FLEXO Hãy xem xét một tấm nano có độ dày thay đổi với một vết nứt như trong hình 1. tấm có chiều dài và chiều rộng tương ứng là a và b. Độ dày của tấm thay đổi theo đường thẳng hoặc không đường thẳng, với độ dày tấm ở điểm xuất phát là h0.
+Tạp chí Khoa học Giao thông và Truyền thông, Tập 73, Số 5 (06/2022), 470-485 Rạn nứt b. Độ dày thay đổi tuyến tính c. Độ dày thay đổi không tuyến tính Hình 1. Mô hình của một tấm có vết nứt và độ dày thay đổi.
+Bài báo sử dụng lý thuyết biến dạng cắt thứ nhất của Mindlin, với các thành phần dịch chuyển được thể hiện như sau: \ u = u_0 + z\beta_x; \ v = v_0 + z\beta_y; \ w = w_0\) (1) nơi \ u_0\), \ v_0\), và \ w_0\) là các thành phần dịch chuyển dọc theo trục x, y và z ở mặt phẳng giữa của tấm, và \ u\ beta_x\), \ u\ beta_y\) là các vòng quay xung quanh trục y và x, tương ứng. tấm được phân chia thành ba phần tử hữu hạn, với mỗi nút có năm độ tự do cơ học và một biến trường pha. Các thành phần này được liên kết bằng phương pháp phần tử hữu hạn như sau: \ u\ u_0 \ , \ u\ i\ i\ i
+E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E (E) + E) + E (E) + E (E) + E (E) + E (E) + E) + E (E) + E (E) + E (E) + E (E) + E) + E (E) + E) + E (E) + E (E) + E (E) + E
+Biểu thức (7) được viết cụ thể như sau: ; τ γ = F γ xz 66 τ { } = [ ] { } { ] { } = − = [ ] ; ( ) ( ) 31 33 14 z x y z xxz yyz P e E f ε ε η = + + + (9) χ { } = = − { } nơi mà f14 = f3113, f14 = f3223 [17] và Giao thông và Truyền thông Khoa học Tạp chí, Vol 73, Issue 5 (06/2022), 470-485 [ ] = [ ] { } = { } Theo định luật Gauss trong điện tĩnh, thành phần dịch chuyển điện được tính toán bằng cách sử dụng mối quan hệ sau / 0 zP z ∂ ∂ = Dưới mạch mở, biểu thức cho các điều kiện điện trường được đưa ra như sau ( ) ( ) { 31 31 31 0 33 1 33 1 33
+Mô hình nguyên tố hữu hạn của một tấm bị nứt. Để mô phỏng các vết nứt, bài viết này sử dụng lý thuyết trường pha [1827], trong đó một biến trường pha s thay đổi trơn tru và liên tục từ 0 đến 1, nơi s = 1 cho thấy vật liệu không bị hư hại, và s = 0 có nghĩa là vật liệu bị gãy hoàn toàn. Khi 0 < s < 1, vật liệu ở trạng thái mềm, tức là nó đang trong quá trình chuyển đổi thành trạng thái gãy trong một khu vực rất nhỏ. Do đó, bằng cách sử dụng biến s, một vết nứt được mô tả bởi một khu vực hẹp và liên tục, chiều rộng của nó được đặc trưng bởi tham số lc, và năng lượng của cấu trúc sẽ được nhân với biến s ^ 2 để đại diện cho sự giảm năng lượng khi một vết nứt xuất hiện.
+Tại thời điểm này, năng lượng của tấm nano, tính đến ảnh hưởng của hiệu ứng flexoelectric và chịu các lực nén trong mặt phẳng trên mặt phẳng giữa, được thể hiện như sau: \[\Pi = \int_V \Big\t \varepsilon^T \sigma + \gamma^T \tau + \nabla w^T \beta + \nabla^2 w^T \chi + \sigma^T \sigma_e) \Big\t, dV \] nơi \[\sigma^T \tau^T] = \sigma^T \t\t} đại diện cho lực nén tác động trên mặt phẳng giữa của tấm, \(\TG_C} là tốc độ giải phóng năng lượng quan trọng được quy định bởi lý thuyết Griffiths, và \[\na= B_t_w \t_t_
+Và để xác định giá trị của biến trường pha s, trước tiên phải xác định vết nứt để xác định rõ chiều rộng và chiều dài của vết nứt. Tại thời điểm này, biểu thức cho năng lượng được giải phóng qua vết nứt được viết như sau [19-21]: ( ) ( ) ( ) / . c c s G B G 4l H x = d (20) cho c ≤ y ≤ lc, trong khi H(x) = 0 trong các trường hợp khác. Ở đây, Hs(x) có giá trị 1 khi x ≤ c và - Thể số c là chiều dài vết nứt, B là hằng số, và theo [18], B = 1000. Trong trường hợp chung, Gc là một vật liệu hằng số như được xác định trong [19-21].
+Tạp chí Khoa học Giao thông, Tập 73, Số 5 (06/2022), 470-485 3.
+Ví dụ 1: Phần này xác minh tải trọng uốn quan trọng của một tấm có vết nứt bằng cách so sánh với kết quả thử nghiệm như được trình bày trong [29].
+Các tấm được nén dọc theo hai cạnh bị kẹp đối diện, trong khi hai cạnh khác được tự do.
+Kết quả tính toán và so sánh được hiển thị trong Bảng 1. Có thể thấy rõ rằng độ lệch tối đa so với kết quả thử nghiệm là 0,559%, điều này chứng minh rằng lý thuyết tính toán được đề xuất trong bài báo đảm bảo độ chính xác cần thiết.
+So sánh tải buckling quan trọng của một tấm với một vết nứt, = 0.
+Thí nghiệm Tỷ lệ chiều dài nứt % Phân cách (c/a) Số phần tử Điều (N) Ví dụ 2: Ví dụ này xác minh tải trọng uốn lưng quan trọng của một tấm có độ dày thay đổi dọc theo trục x, với lực nén cũng được áp dụng theo hướng x. tấm có chiều dài a, chiều rộng b và độ dày thay đổi theo quy luật h = h0(1 + βx/a) nơi β = (ha/h0) 1 và h0 = a/100 tại x = 0, h = ha tại x = a.
+Bảng 2 trình bày so sánh các tải trọng uốn khúc quan trọng được tính toán bằng cách sử dụng lý thuyết được đề xuất trong bài viết này với các kết quả đã được công bố [30-32].
+Bảng 2.
+So sánh tải trọng uốn lưng quan trọng của tấm có độ dày thay đổi theo đường thẳng.
+a/b Giải pháp Giải pháp phân nửa phân tích [30] 3.970 3.878 3.720 3.560 3.317 3.2.
+Điều tra số Một tấm nano với một vết nứt dài c, với vết nứt nằm ở giữa tấm và song song với mặt a của tấm.
+Mảng có độ dày biến đổi có các thông số hình học sau: chiều dài a = 100 nm, chiều rộng b có thể thay đổi; vật liệu tấm là PZT-5H với các thông số vật liệu [2]: c11 = 102 GPa, c12 = 31 GPa, c33 = 35.50 GPa, e31 = -17.05 C / m^2, k33 = 1.76 × 10^-8 C / Vm. Mảng dày thay đổi theo bốn định luật như sau: Mảng có độ dày thay đổi tuyến tính dọc theo trục x: h = h0 1 - β x / a với h 0 = a / 100, h = h 0 tại x = 0. Mảng có độ dày thay đổi dọc theo trục x và y: h = h 0 1 - β x / a - β y / b với h 0 = a / 100, 0 tại x = y = 0,
+Mảng dày không tuyến tính biến đổi, loại I: h_0 (1 - \beta (x/a) ^ 2) \) với h_0 = a/100 \), h = h_0 \) tại x = 0 \). Mảng dày không tuyến tính biến đổi, loại II: h_0 (1 - \beta (x/a) ^ 2 + \beta (x/a)) \) với h_0 = a/100 \), h_0 = h_0 \) tại x = 0 \).
+Các thông số được nghiên cứu là tải trọng uốn không có chiều, được định nghĩa là: N_bk = Dπ; 3 11 0 0.1 M D c h = (21) - Hiệu ứng của hệ số f14 Để quan sát rõ ràng ảnh hưởng của hệ số f14 đối với phản ứng ổn định tĩnh của tấm, giá trị của hệ số này được thay đổi để f14 * có giá trị từ 0 đến 4 (f14 = 0 tương ứng với việc bỏ qua hiệu ứng flexoelectric).
+Ngoài ra, rõ ràng là tấm dày không tuyến tính thay đổi của Loại I thể hiện khả năng chịu tải trọng nén tốt nhất.
+Bảng 3.
+Sự phụ thuộc của tải trọng uốn quan trọng kb của tấm nano vào hệ số f14, với chiều dài nứt c = 0,2a.
+Luật biến đổi độ dày của tấm Độ dày thay đổi tuyến tính Độ dày thay đổi không tuyến tính dọc theo trục x Độ dày thay đổi không tuyến tính, loại I Độ dày thay đổi không tuyến tính, loại II Tạp chí Khoa học Giao thông, Tập 73, Số 5 (06/2022), 470-485 - Điều tra ảnh hưởng của chiều dài nứt Phần này kiểm tra ảnh hưởng của chiều dài nứt c đối với phản ứng ổn định tĩnh của tấm nano. tấm được hỗ trợ đơn giản dọc theo tất cả các cạnh, với * 14 f = 1. Giá trị của c được tăng dần để tỷ lệ c / a tăng từ 0 đến 0,6, trong đó c / a = 0 có nghĩa là tấm không bị nứt. Các tải trọng được trình bày trong Bảng 4.
+Bảng 4.
+Sự phụ thuộc của tải buckling quan trọng kb của tấm nano trên c, với f14 * = 1.
+Luật biến đổi độ dày tấm Độ dày biến đổi Độ dày biến đổi Độ dày biến đổi theo trục x Độ dày biến đổi theo trục x Không tuyến tính Độ dày biến đổi theo trục x Loại I Loại II * 14 f = Báo khoa học giao thông và truyền thông, Tập 73, Số 5 (06/2022), 470-485 * 14 f = Độ dày biến đổi Độ dày biến đổi Độ dày biến đổi theo trục x Độ dày biến đổi theo trục x Độ dày biến đổi theo trục x thay đổi theo trục x và y Độ dày biến đổi không tuyến tính Loại I Độ dày biến đổi không tuyến tính Loại II Hình 3.
+Chế độ bất ổn của tấm nano phụ thuộc vào hệ số f14, với β = 0,5 và c / a = 0,5. - Điều tra các hiệu ứng điều kiện biên giới Để quan sát rõ ràng ảnh hưởng của các điều kiện biên giới đối với phản ứng ổn định tĩnh của tấm, phần này tính toán tấm cho năm điều kiện biên giới khác nhau: chỉ đơn giản được hỗ trợ trên tất cả bốn cạnh (SSSS), bị kẹp trên tất cả bốn cạnh (CCCC), hai cạnh đối diện chỉ được hỗ trợ và hai cạnh khác được kẹp (CSCS), hai cạnh liền kề được kẹp và hai cạnh đối diện khác chỉ được hỗ trợ (CCSS), và hai cạnh đối diện được kẹp trong khi hai cạnh còn lại được miễn phí (CFCF); kết quả tính toán được hiển thị trong bảng 5. Các kết quả cho thấy rằng tấm bị kẹp trên tất cả các cạnh thể hiện tải trọng quan trọng cao nhất,
+Bảng 5.
+Sự phụ thuộc của tải buckling quan trọng kb của tấm nano vào các điều kiện biên giới, với hệ số f14 = 1.
+Luật biến đổi độ dày tấm Độ dày biến đổi Độ dày biến đổi không tuyến tính Độ dày biến đổi tuyến tính Độ dày biến đổi dọc theo trục x Sự thay đổi không tuyến tính Điều kiện biên giới Hình dạng tuyến tính Dọc theo trục x Loại I Tạp chí Khoa học Giao thông, Tập 73, Số 5 (06/2022), 470-485 Tạp chí Khoa học Giao thông và Truyền thông, Tập 73, Số 5 (06/2022), 470-485 Độ dày biến đổi Độ dày biến đổi Độ dày biến đổi theo trục x Độ dày biến đổi theo cả hai trục x và y Độ dày biến đổi không tuyến tính Loại I Độ dày biến đổi không tuyến tính Loại II Hình 4.
+Chế độ bất ổn của tấm nano phụ thuộc vào các điều kiện biên giới, với β = 0,5 và c / a = 0,5.
+5. Đánh giá
+Kết luận Bài viết này trình bày một nghiên cứu về sự ổn định tĩnh của các tấm nano bị nứt, tính đến tác động của điện xoắn. Các công thức nguyên tố hữu hạn được phát triển dựa trên lý thuyết biến dạng cắt thứ tự đầu tiên và lý thuyết trường pha, với độ dày tấm được giả định thay đổi theo cả các định luật tuyến tính và phi tuyến tính. Các kết quả so sánh đã được thực hiện để xác minh độ tin cậy của lý thuyết tính toán. Trên cơ sở này, bài báo điều tra ảnh hưởng của một số yếu tố, bao gồm hiệu ứng điện xoắn, độ dài nứt và điều kiện biên giới đối với phản ứng ổn định tĩnh của các tấm nano. Các kết quả tính toán cho thấy rằng tăng hệ số f14 làm cho tấm nano cứng hơn và cải thiện khả năng chịu tải của nó. Khi chiều dài nứt tăng, tấm trở nên linh hoạt hơn và khả năng chịu tải của nó giảm.
+THT CỦA CÁC Nghiên cứu này được tài trợ bởi quỹ NAFOSTED theo số tài trợ 107.02-2020.18. https://doi.org/10.1007/s00707-015-1373-8 [3] K.B.
+Shingare, S.I.
+Kundalwal, Phản ứng tĩnh và động của các tấm nanocomposite graphene với hiệu ứng flexoelectric, Cơ học vật liệu, 134 (2019) 69-84. https://doi.org/10.1016/j.mechmat.2019.04.006 [4] S. Amir, H.B.A.
+Zarei, M. Khorasani, Phân tích rung động điện linh hoạt của các tấm sandwich nanocomposite, Thiết kế cơ học dựa trên cấu trúc và máy móc: Tạp chí quốc tế, 48 (2020) 146-163. https://doi.org/10.1080/15397734.2019.1624175 [5] A. Ghobadi, Y.T.
+https://doi.org/10.1007/s00419-020-01708-0 Tạp chí Khoa học Giao thông, Tập 73, Số 5 (06/2022), 470-485 [6] A.G. Arani, A.H.S.
+Beni, K.K.
+Zur, M. Arefi, J. Kim, J.N.
+Shu, X.Y.
+Wei, T. Pang, X. Yao, C.L.
+Wang, Đối xứng của hệ số flexoelectric trong môi trường tinh thể.
+Tạp chí Vật lý ứng dụng, 110 (2011) 104106. https://doi.org/10.1063/1.3662196 [18] B. Zaouagui, S.A. Belalia, A. Boukhalfa, phân tích rung động nguyên tố hữu hạn h-p của các tấm nano hình chữ nhật bị nứt bên dựa trên lý thuyết tính đàn hồi không địa phương, Tạp chí Vật lý Châu Âu Plus, 134 (2019).
+https://doi.org/10.1140/epjp/i2019-12724-9 [19] K. Josef, A. Marreddy, L.D.
+Frankfurt, JJ Marigo, Cách tiếp cận biến thể đối với gãy xương, Tạp chí Độ đàn hồi, 91 (2008) 5148.
+https://doi.org/10.1007/s10659-007-9107-3 Tạp chí Khoa học Giao thông và Truyền thông, Tập 73, Số 5 (06/2022), 470-485 [21] J.B. Michael, V.V.
+Clemens, A.S. Michael, J.R.H.
+Thomas, M.L.
+https://doi.org/10.1016/j.cma.2012.01.008 [22] V.D.
+Thom, H.D.
+Duc, N.D. Duc, Q.B. Duc, Q.B.
+Duc, V.D.
+Truong, V.D.
+Thom, H.D.
+Nam, H.D.
+Nguyễn, V.D.
+Thom, T.T.
+Wittrik, C.H.
+Nerantzaki, J.T.
+Thái, D.T.
+Luat, V.B.
+Phung, P.V.
+Minh, D.V.
+https://doi.org/10.1007/s00419-021-02048-3.
+[34] D.H. Doan, A.M. Zenkour, D.V.
+Tạp chí Khoa học Đại học Dong Thap, Tập 13, Phiên bản đặc biệt (03), 2024, 113-122 TN ĐU CỦA CÁC THN HU CỦA CÁC THN HU CỦA THN HU CỦA THN HU CỦA THN HU CỦA THN HU CỦA THN HU CỦA THN HU CỦA THN HU CỦA THN HU CỦA THN HU CỦA THN HU CỦA THN HU CỦA THN HU CỦA THN HU CỦA THN HU CỦA THN HI CỦA THN
+DOI: https://doi.org/10.52714/dthu.13.03S.2024.1410 trích dẫn: Tran, C. K., & Phan.
+N. T. (2024).
+Tình trạng hiện tại của việc quản lý các hoạt động kinh nghiệm cho học sinh trung học cấp ba ở thành phố Bac Lieu, tỉnh Bac Lieu.
+Tạp chí Khoa học Đại học Đồng Tháp, 13 ((03S), 113-122. https://doi.org/10.52714/dthu.13.03S.2024.1410.
+Tạp chí Khoa học Đại học Dong Thap, Tập 13, Số đặc biệt (03), 2024, 113-122 Các hoạt động kinh nghiệm (EA) là một phần quan trọng của toàn bộ quá trình giáo dục, đóng vai trò là một liên kết và hoàn thành hệ thống giáo dục.
+Trong các trường giáo dục phổ thông, đặc biệt là ở cấp trung học cấp thấp, giáo dục và giảng dạy được coi là hai thành phần chính của toàn bộ quá trình giáo dục. Ngoài việc cung cấp kiến thức khoa học một cách có hệ thống, quá trình giảng dạy cũng phải tập trung vào giáo dục nhân vật, phát triển kỹ năng sống và khuyến khích học sinh đóng vai trò tích cực và tích cực trong các hoạt động cả trong trường và trong xã hội.
+(Nguyen, 2024).
+Các hoạt động kinh nghiệm ngày càng được nhấn mạnh kể từ khi Thủ tướng Chính phủ ký Quyết định số 404/QĐ-TTg ngày 27 tháng 3 năm 2015 liên quan đến dự án đổi mới chương trình giảng dạy giáo dục tổng quát và sách giáo khoa. Dự án này đảm bảo tính liên tục và gắn kết giữa các cấp giáo dục, lớp, môn học, nghiên cứu chủ đề và các hoạt động kinh nghiệm (Chính phủ, 2015). Tầm quan trọng của các hoạt động kinh nghiệm cũng được cụ thể hóa trong Chương trình giảng dạy giáo dục tổng quát năm 2018, được ban hành cùng với Thông tư số 32/2018/TT-BGDDT ngày 26 tháng 12 năm 2018, của Bộ Giáo dục và Đào tạo (Bộ Giáo dục và Đào tạo, 2018). Trên cơ sở đó, hiện đang được tổ chức các hình thức hoạt động kinh nghiệm khác nhau cho học sinh tại các trường trung học cấp ba ở thành phố Bac Lie
+Tuy nhiên, việc tổ chức các hoạt động này chưa được thường xuyên, chưa được mở rộng đến tất cả các cấp và chưa đáp ứng nhu cầu của học sinh.
+Nghiên cứu trình bày kết quả của một cuộc khảo sát về tình trạng hiện tại của việc quản lý các hoạt động kinh nghiệm cho học sinh tại các trường trung học cấp ba ở thành phố Bac Lieu, tỉnh Bac Lieu, cung cấp một nền tảng thực tế để đề xuất các biện pháp nâng cao chất lượng và hiệu quả của việc quản lý các hoạt động này tại địa phương.
+2. Đánh giá
+Nội dung 2.1.
+Khái niệm 2.1.1.
+Các hoạt động kinh nghiệm Trong giáo dục, kinh nghiệm được coi là một xu hướng và phương pháp tiếp cận giáo dục hiệu quả và thực tế. Các nhà tâm lý học và nhà giáo dục tin rằng, trong quá trình giáo dục, kinh nghiệm được coi là một xu hướng và phương pháp tiếp cận giáo dục hiệu quả và thực tế. Phương pháp này không chỉ chứng minh hiệu quả trong việc phát triển kỹ năng mà còn giúp người học phát triển tính cách, tư duy phê phán và khả năng giải quyết vấn đề.
+Hoạt động kinh nghiệm là một hình thức giáo dục kết nối kiến thức thu được ở trường với các tình huống thực tế. Thông qua các trải nghiệm cá nhân, học sinh có thể tích lũy thêm kinh nghiệm và chuyển đổi nó thành năng lực thực tế (Dinh, 2014). Hoạt động kinh nghiệm không chỉ liên quan đến sự tham gia của học sinh mà còn là sự hợp tác của các bên liên quan như các tổ chức giáo dục, gia đình và cộng đồng, tất cả đều đóng góp cho các tình huống kinh nghiệm cụ thể (Nguyen, 2020).
+Hoạt động kinh nghiệm là một hình thức giáo dục được thiết kế, định hướng và hướng dẫn bởi các nhà giáo dục. Mục tiêu của các hoạt động kinh nghiệm là tạo cơ hội cho học sinh tham gia vào các tình huống thực tế, trải nghiệm những cảm xúc tích cực và tích hợp kinh nghiệm hiện tại của họ với kiến thức và kỹ năng từ các môn học khác nhau để giải quyết các vấn đề thực tế trong trường học, gia đình và đời sống xã hội, phù hợp với độ tuổi của học sinh.
+(Bộ Giáo dục và Đào tạo, 2018).
+Do đó, có nhiều cách giải thích khác nhau về các hoạt động kinh nghiệm. Theo nghĩa rộng nhất, các hoạt động kinh nghiệm bao gồm nội dung, đặc điểm, bản chất và phương pháp thực hiện. Bản chất của các hoạt động kinh nghiệm là một hình thức giáo dục được định nghĩa hẹp, được thiết kế và tổ chức để tăng cường kinh nghiệm và sáng tạo của học sinh. Mục đích chính là giúp học sinh không chỉ có được kiến thức mà còn tích cực tham gia vào quá trình học tập, do đó phát triển các kỹ năng thực tế và sáng tạo để đáp ứng các mục tiêu giáo dục đã nêu.
+Tạp chí Khoa học Xã hội và Nhân văn 2.1.2.
+Quản lý các hoạt động kinh nghiệm cho học sinh trung học cấp thấp Quản lý các hoạt động kinh nghiệm (EA) ở các trường trung học cấp thấp là một quá trình mà trong đó hiệu trưởng trường ảnh hưởng đến cả giáo viên và học sinh, được thực hiện trong và ngoài giờ học thông thường theo một chương trình đã lên kế hoạch. Mục tiêu của quá trình này là để đạt được sự phát triển toàn diện cho học sinh, đồng thời đảm bảo rằng các hoạt động kinh nghiệm được tổ chức hiệu quả và phù hợp chặt chẽ với các mục tiêu giáo dục được đặt ra.
+(Dang, 2020).
+2.2.
+Quan điểm lý thuyết về quản lý các hoạt động kinh nghiệm cho học sinh trung học cấp ba quản lý là một quá trình có tổ chức với các mục tiêu và kế hoạch, trong đó thực thể quản lý ảnh hưởng đến đối tượng được quản lý để tối ưu hóa việc sử dụng các nguồn lực và cơ hội của tổ chức, do đó đạt được các mục tiêu đặt ra. quá trình này diễn ra trong bối cảnh tác động môi trường, đòi hỏi phải thích nghi và điều chỉnh liên tục để đạt được hiệu quả cao nhất có thể.
+(Nguyen và các cộng sự, 2016).
+Quản lý giáo dục là quá trình mà cơ quan quản lý có mục đích và có hệ thống ảnh hưởng đến hoạt động của trường thông qua việc thực hiện các chức năng quản lý như lập kế hoạch, tổ chức, chỉ đạo, kiểm tra, đánh giá và điều chỉnh kế hoạch để phối hợp các hoạt động trong trường. Mục đích của quá trình này là sử dụng hợp lý các nguồn lực từ nhà nước, xã hội và trường để phát triển tất cả các hoạt động của trường, với trọng tâm chính là giảng dạy và học tập, do đó đạt được hiệu quả trong việc đạt được các mục tiêu và kế hoạch giáo dục, và giúp trường tiến bộ và phát triển.
+(Dang, 2020).
+Các hoạt động kinh nghiệm (EA) là một phần của quá trình giáo dục; do đó, việc quản lý EA về cơ bản là quản lý một hoạt động giáo dục. Theo đó, việc quản lý EA có thể được định nghĩa là một quá trình liên tục liên quan đến lập kế hoạch, tổ chức, chỉ đạo và giám sát bởi thực thể quản lý đối với các hoạt động này, dựa trên một hệ thống các tiêu chí, tiêu chuẩn, chính sách, nguyên tắc và phương pháp cụ thể. Mục tiêu của việc quản lý EA là đạt được các mục tiêu giáo dục được đặt ra và đảm bảo hiệu quả trong việc tổ chức và thực hiện các hoạt động kinh nghiệm.
+(Tran, 2020).
+- Lập kế hoạch cho các hoạt động kinh nghiệm (EAs): Một trong những chức năng chính của quản lý là lập kế hoạch, xác định những nhiệm vụ nào cần ưu tiên và những nhiệm vụ nào cần trì hoãn để tránh bị thụ động về thời gian và khối lượng công việc. Có một kế hoạch cho EAs cho phép các quản trị viên và giáo viên truy cập vào các thiết lập thực tế, các hoạt động xã hội, các cơ sở sản xuất, thế giới nghề nghiệp và thị trường lao động, liên quan đến việc giáo dục học sinh về phẩm chất, năng lực và định hướng nghề nghiệp. Phát triển các kế hoạch chi tiết, cụ thể và khoa học cho EAs giúp các hiệu trưởng và những người được giao nhiệm vụ hiểu được các mục tiêu cần đạt được và dự đoán các điểm mạnh, điểm yếu, cơ hội và thách thức trong việc tổ chức các hoạt động này. Từ đó, các nguồn lực và biện pháp cần thiết
+(Bui, 2023).
+- Tổ chức các hoạt động kinh nghiệm cho học sinh: Thực hiện kế hoạch cho các hoạt động kinh nghiệm đòi hỏi phải thiết lập một bộ máy quản lý EA, phân công và chỉ định rõ ràng và cụ thể trách nhiệm để các hoạt động này có thể hoạt động trơn tru, đồng nhất và đồng bộ. Quá trình quản lý của EA đòi hỏi sự sắp xếp khoa học và hợp lý của nhiệm vụ và nhân viên để tối đa hóa tiềm năng của cả cá nhân và nhóm. Để có hiệu quả tối ưu, việc phân công công việc nên dựa trên khả năng và điểm mạnh của mỗi người, đồng thời tận dụng các điều kiện và cơ hội thuận lợi. Đồng thời, các khó khăn và thách thức gặp phải trong quá trình thực hiện phải được giải quyết. Giai đoạn này bao gồm việc thực hiện kế hoạch hành động: thông báo kế hoạch hoạt động chương trình cho tất cả các bên tham gia EA, cả trong và ngoài trường học, để
+(Tran, 2020).
+- Chỉ đạo các EA: Chỉ đạo việc thực hiện kế hoạch tổ chức các EA liên quan đến tác động chính của nó đối với toàn bộ quá trình quản lý các EA để đảm bảo rằng các hoạt động này được thực hiện theo hướng đúng, theo kế hoạch và phù hợp với các điều kiện thực tế của trường học và địa phương, do đó góp phần cải thiện chất lượng giáo dục toàn diện. Các nguồn nhân lực tham gia vào EA phải có kiến thức, kỹ năng và thái độ cần thiết để có thể hướng dẫn việc phát triển các kế hoạch EA, các chủ đề thiết kế EA, tổ chức các định dạng EA, huy động sự tham gia và phối hợp giữa các nhóm, tham gia vào quản lý, quản lý, tổ chức các hoạt động và đánh giá kết quả đạt được về phẩm chất và năng lực của học sinh thông qua các EA.
+(Chau, 2023).
+Kiểm tra và đánh giá kết quả thực hiện của EAs: Đây là bước cuối cùng trong chu kỳ quản lý của hiệu trưởng. Đánh giá kết quả giáo dục trong EAs là quá trình xác định mức độ học sinh đạt được các phẩm chất và năng lực cần thiết ở mỗi giai đoạn học tập. Mục đích của đánh giá này là xác định vị trí của mỗi học sinh, ghi lại tiến bộ trong sự phát triển cá nhân của họ và khuyến khích và hướng dẫn học sinh tiếp tục cải thiện và hoàn thiện kỹ năng và phẩm chất của họ. Kết quả đánh giá không chỉ phản ánh tiến bộ của học sinh mà còn đóng vai trò là cơ sở quan trọng cho các cơ quan quản lý giáo dục và giáo viên điều chỉnh chương trình giảng dạy và các hoạt động giáo dục trong trường để phù hợp hơn với nhu cầu và hoàn cảnh thực tế của học sinh. Nếu chú ý đến việc kiểm tra và đánh giá EAs, nó sẽ giúp đánh giá chất
+(Dinh, 2014).
+2.3.
+Phương pháp nghiên cứu Để khảo sát tình trạng hiện tại của quản lý hoạt động kinh nghiệm cho học sinh trung học cấp thấp tại thành phố Bac Lieu, tỉnh Bac Lieu, chúng tôi đã thu thập dữ liệu thông qua bảng câu hỏi, phỏng vấn và xử lý dữ liệu bằng thống kê toán học. Tổng số người được hỏi là 139, bao gồm 19 quản trị viên (nhà lãnh đạo, chuyên gia của Bộ Giáo dục và Đào tạo, hiệu trưởng và phó hiệu trưởng các trường trung học cấp thấp) và 120 giáo viên (người đứng đầu các nhóm môn học, giáo viên). Ngoài ra, một số quản trị viên và giáo viên đã được phỏng vấn chuyên sâu. Cuộc khảo sát được thực hiện từ tháng 7 năm 2024 đến tháng 9 năm 2024. Đánh giá mức độ biểu hiện của mỗi khía cạnh được dựa trên điểm số trung bình (AS) từ kết quả khảo sát, với phạm vi phân biệt 0,8 mỗi cấp, được
+2.4.
+Kết quả khảo sát 2.4.1.
+Tình trạng hiện tại của việc lập kế hoạch các hoạt động kinh nghiệm cho học sinh tại các trường trung học cấp dưới ở thành phố Bac Lieu Bảng 1.
+Đánh giá của quản trị viên và giáo viên về việc lập kế hoạch các hoạt động kinh nghiệm cho học sinh trung học cấp thấp ở thành phố Bac Lieu, tỉnh Bac Lieu Gói kế hoạch hành động cụ thể được phát triển Gói kế hoạch hành động cụ thể được phát triển Gói kế hoạch hành động cụ thể được phát triển Gói kế hoạch hành động cụ thể được phát triển Gói kế hoạch hành động cụ thể được phát triển Gói kế hoạch hành động cụ thể được phát triển Gói kế hoạch hành động cụ thể được phát triển Gói kế hoạch hành hành động cụ thể được phát triển Gói kế hoạch hành động cụ thể được phát triển Gói kế hoạch hành động cụ thể được phát triển Gói kế hoạch hành động cụ thể được phát triển Gói kế hoạch hành động cụ thể được phát triển Gói kế hoạch hành động cụ thể được phát triển Gói kế hoạch hành động cụ thể được phát triển Gói kế hoạch hành
+Trong các khía cạnh của Phát triển một kế hoạch chương trình hành động cụ thể với các mục tiêu của trường học được xác định rõ ràng để đạt được trong tương lai, vị trí đầu tiên và thứ hai được đánh giá ở mức khá cao với điểm trung bình lần lượt là 3,66 và 3,60.
+Ngoài cuộc khảo sát trên, chúng tôi đã tiến hành phỏng vấn chuyên sâu với bảy người quản lý, và ba người trong số họ nhận xét rằng: "Lập kế hoạch cho các hoạt động kinh nghiệm cho học sinh trung học cấp dưới ở Thành phố Bac Lieu đôi khi chỉ đơn thuần là chính thức", trong khi hai người khác tuyên bố, "Việc thực hiện kế hoạch gặp nhiều khó khăn". Những ý kiến này phù hợp với kết quả khảo sát, nơi các quản lý và giáo viên quan sát thấy rằng việc thực hiện kế hoạch đã không hiệu quả. Các kết quả và phân tích trên cho thấy rằng việc lập kế hoạch cho các hoạt động kinh nghiệm cho học sinh trung học cấp dưới ở Thành phố Lieu Bac vẫn có một số thiếu sót nhất định trong mỗi trường học, và chất lượng của việc lập kế hoạch chỉ ở mức trung bình (thấp). Do đó, cần chú ý đến việc đảm bảo chất lượng kế hoạch, phù hợp
+2.4.2.
+Tình hình hiện tại của việc tổ chức các hoạt động kinh nghiệm cho học sinh trung học cấp ba tại Thành phố Bac Lieu Bảng 2.
+Đánh giá các nhà quản trị và giáo viên về việc tổ chức các hoạt động kinh nghiệm cho học sinh trung học cấp thấp tại thành phố Bac Lieu, tỉnh Bac Lieu Mức tổng hợp số Nội dung 1 2 3 4 5 Cấp trung bình SD 1 Việc thành lập Ủy ban điều hành tổ chức 2 Giải thích các mục tiêu và yêu cầu của kế hoạch 3 Việc sắp xếp và phân bổ nhân sự, phân bổ trách nhiệm cho mỗi thành viên 0 1 40 63 35 3.95 1 0.75 4 Cung cấp các điều kiện vật chất cho tổ chức 5 Xây dựng năng lực tổ chức các hoạt động kinh nghiệm Đại học Đồng Tháp Tạp chí Khoa học, Tập 13, Phiên bản đặc biệt (03), 2024, 113-122 Mức tổng hợp số Nội dung 1 2 3 4 5 Cấp trung bình SD Sự phối hợp các lực lượng bên trong và bên ngoài, huy động các nguồn lực để thực hiện các hoạt động kinh nghiệm
+Tuy nhiên, các tiêu chí "Hợp tác lực lượng trong và ngoài trường, huy động nguồn lực để thực hiện các hoạt động kinh nghiệm (EA) cho học sinh" và "Tăng cường năng lực của giáo viên để tổ chức EA" không được coi trọng, lần lượt xếp thứ 5 và thứ 6. Điều này cho thấy một số nhà quản lý vẫn chưa nhận ra vai trò quan trọng của giáo viên trong việc thiết kế và tổ chức EA, dẫn đến sự thiếu chú ý đến đào tạo giáo viên và phát triển chuyên môn. Hầu hết các trường chỉ tổ chức EA đơn giản trong lớp học hoặc cơ sở trường học, do đó bỏ qua các nỗ lực huy động nguồn lực xã hội hoặc phối hợp các lực lượng giáo dục cả trong và ngoài trường. Ngoài các nội dung khảo sát trên, chúng tôi đã tiến hành phỏng vấn chuyên sâu với 7 nhà quản lý, trong đó 5 trường cho biết chủ yếu dựa vào các nguồn lực nội bộ để tổ chức EA
+2.4.3.
+Tình trạng hiện tại của việc chỉ đạo các hoạt động kinh nghiệm cho học sinh trung học cấp ba tại Thành phố Bac Lieu Bảng 3.
+Đánh giá của các quản trị viên và giáo viên về hướng hoạt động kinh nghiệm cho học sinh trung học cấp dưới ở thành phố Bac Lieu, tỉnh Bac Lieu Cấp độ tổng thể số Nội dung 1 2 3 4 5 Trung bình Cấp độ SD 1 Chỉ đạo các nhóm đối tượng và giáo viên để phát triển các kế hoạch hoạt động kinh nghiệm 0 1 33 68 37 4.01 1 0.73 2 Chỉ đạo giáo viên để đổi mới các phương pháp và hình thức tổ chức các hoạt động kinh nghiệm 0 4 39 65 31 3.88 5 0.78 3 Chỉ đạo việc thực hiện nội dung chương trình hoạt động kinh nghiệm 4 Chỉ đạo việc nâng cao các cơ sở vật chất và nguồn tài chính để phục vụ các hoạt động kinh nghiệm 0 1 38 73 27 3.91 3 0.70 5 Chỉ đạo các bên liên quan phối hợp tổ chức các hoạt động kinh nghiệm 0 0 43 68 28 3.89 4 0.71 6 Chỉ đạo đánh giá và đánh giá kết quả
+Ngoài nội dung khảo sát trên, chúng tôi cũng đã tiến hành phỏng vấn chuyên sâu với bảy người quản trị, trong đó bốn người cho biết hiện nay các trường học tập trung chủ yếu vào việc hướng dẫn giáo viên thực hiện nội dung của các hoạt động kinh nghiệm (EA), mà không chú ý đến các phương pháp đổi mới, hình thức tổ chức EA, hoặc sự phối hợp giữa các lực lượng khác nhau để tổ chức EA. Tình hình này đòi hỏi các quản trị viên trường học phải thực hiện các biện pháp quyết định hơn trong việc hướng dẫn đổi mới phương pháp giảng dạy, đánh giá học sinh và phối hợp giữa các lực lượng khác nhau trong việc tổ chức EA trong giai đoạn tới. Họ cũng cần phát triển các giải pháp cho các nhiệm vụ chính liên quan đến việc thúc đẩy và nâng cao năng lực giảng dạy và khả năng tổ chức các hoạt động kinh nghiệm.
+2.3.4.
+Tình hình hiện tại của việc kiểm tra và đánh giá các hoạt động kinh nghiệm cho học sinh trung học cấp dưới ở thành phố Bac Lieu Bảng 4.
+Đánh giá của quản trị viên và giáo viên về kiểm tra và đánh giá các hoạt động kinh nghiệm cho học sinh trung học cấp dưới ở thành phố Bac Lieu, tỉnh Bac Lieu Số Nội dung Mức tổng hợp 1 2 3 4 5 Trung bình Cấp SD 1 Quy định nghiên cứu để đánh giá kết quả EA cho học sinh 0 11 51 60 17 3.60 4 0.81 Phát triển và hoàn thành các tiêu chí và xác định mức độ của từng tiêu chí đánh giá Thực hiện đánh giá và so sánh kết quả với từng cấp trong các tiêu chí 4 Quản trị viên và giáo viên tiến hành đánh giá của học sinh Kết quả EA 0 4 46 62 27 3.81 1 0.78 Tổ chức các hoạt động đánh giá chất lượng và hiệu quả của giáo viên Tổ chức EA 6 Tổ chức các hoạt động tự đánh giá của giáo viên và học sinh về tổ chức EA 0 21 48 54 16 3.47 6 89 0.62 Trung bình Bảng 4
+Các nhà quản trị trường học đặt trọng tâm lớn vào việc kiểm tra và đánh giá kết quả giáo dục kinh nghiệm, từ việc chuẩn bị cho các hoạt động giảng dạy đến quá trình đánh giá các hoạt động giảng dạy. Cụ thể, mục "Quản lý và giáo viên thực hiện đánh giá kết quả hoạt động kinh nghiệm của học sinh" đứng đầu với điểm trung bình 3,81; tiếp theo là "Phát triển và tinh chỉnh các tiêu chí và xác định mức độ cho từng tiêu chí đánh giá" đứng thứ hai với điểm trung bình 3,69. Điều này cho thấy các nhà quản trị trường học rất quan tâm, bởi vì việc xác định các tiêu chí đánh giá kết quả hoạt động kinh nghiệm là vô cùng quan trọng; thông qua điều này, các nhà quản trị trường có thể xác định điểm mạnh và điểm yếu, do đó điều chỉnh hiệu quả hơn các hoạt động kinh nghiệm. Tuy nhiên, việc thực hiện các hoạt động "Tổ chức đánh
+Từ tình hình trên, có thể nói rằng việc kiểm tra và đánh giá các hoạt động kinh nghiệm cho học sinh trung học cấp dưới ở thành phố Bac Lieu đã không thực sự nghiêm ngặt.
+Vấn đề này đòi hỏi các đơn vị phải cải thiện công việc kiểm tra và đánh giá trong tương lai gần để đảm bảo tính khách quan và sự nghiêm ngặt khoa học.
+Đánh giá chung tình hình hiện tại Dựa trên kết quả nghiên cứu và khảo sát tình hình hiện tại, có thể thấy rằng các quản trị viên và giáo viên của các trường trung học cơ sở tại Thành phố Bac Lieu, tỉnh Bac Lieu về cơ bản nhận ra tầm quan trọng của các hoạt động kinh nghiệm (EA); việc tổ chức EA cho học sinh đóng vai trò quan trọng trong việc giúp các công đoàn trường học và giáo viên đạt được các mục tiêu đặt ra, đồng thời phản ánh khả năng thực tế của các quản trị viên và giáo viên tại trường; hướng dẫn về EA cho học sinh tại các trường trung học cơ sở tại Thành phố Bac Lieu về cơ bản đáp ứng các yêu cầu; và kiểm tra và đánh giá EA cho học sinh được chú ý. Tuy nhiên, vẫn còn một số hạn chế và thiếu sót trong việc quản lý EA. Thứ nhất, một số nhỏ các quản trị viên và giáo viên chưa nhận ra đầy đủ
+3.
+Kết luận Qua khảo sát về tình hình quản lý hoạt động kinh nghiệm tại các trường trung học cơ sở tại thành phố Bạch Lai, tỉnh Bạch Lai, có thể khẳng định rằng các hoạt động quản lý theo bốn chức năng cơ bản (quá trình lập kế hoạch, tổ chức, chỉ đạo, kiểm tra) đều đạt được mức độ khá tốt. Tuy nhiên, vẫn còn nhiều hạn chế cần được giải quyết, đặc biệt là trong các lĩnh vực sau: Tăng cường nhận thức của các quản trị viên và giáo viên về vai trò của các hoạt động kinh nghiệm; đổi mới phương pháp, đa dạng hóa nội dung, và tăng cường tính liên quan thực tế trong việc tổ chức các hoạt động kinh nghiệm; tăng cường kiểm tra và giám sát để đảm bảo hiệu quả và khách quan; và thúc đẩy sự phối hợp giữa các tổ chức trường và bên ngoài để hỗ trợ tốt hơn các hoạt động kinh nghiệm. Dựa trên đánh giá và đánh giá tình
+Tham khảo Bộ Giáo dục và Đào tạo.
+(2018).
+Thông tư số 32/2018/TT-BGDĐT ngày 26 tháng 12 năm 2018 về ban hành chương trình giảng dạy giáo dục tổng quát.
+Bui, T. T. H. (2023).
+Quản lý các hoạt động hướng dẫn kinh nghiệm và nghề nghiệp cho học sinh ở các trường trung học cơ sở.
+Tạp chí Khoa học Quản lý Giáo dục, Trường Quản lý Giáo dục Thành phố Hồ Chí Minh, 02 (38), 78-83.
+Chau, T. T. P., & Phan, N. T. (2023).
+Tình hình hiện tại của quản lý hoạt động kinh nghiệm cho trẻ em trong các trường mẫu giáo ở thành phố Bac Lieu, tỉnh Bac Lieu.
+Tạp chí Giáo dục, 23 (thư mục đặc biệt 11), 138-143.
+Tạp chí Khoa học Xã hội và Nhân văn Đường, T. T. T. (2020).
+Quản lý các hoạt động kinh nghiệm cho học sinh ở các trường trung học cơ sở ở Hà Nội để đáp ứng các đổi mới giáo dục hiện tại.
+Luận án tiến sĩ, Quản lý giáo dục, Học viện Khoa học Xã hội, Học viện Khoa học Xã hội Việt Nam.
+Dinh, T. K. T. (2014).
+Các hoạt động kinh nghiệm sáng tạo một thành phần quan trọng của chương trình giảng dạy giáo dục tổng quát mới.
+Hà Nội: Vietnam National University Press.
+Nguyễn, M. H., Đặng, Q.
+B., Pham, D. N. T., Dang, B. L., Dang, T. T. H., Le, P. M., Tran, N. G., Tran, H. H., & Ha, T. T. (2016).
+Quản lý giáo dục Việt Nam đang được cải cách và phát triển.
+Hà Nội: Nhà xuất bản Giáo dục Việt Nam.
+Nguyễn, T. H. (2020).
+Quản lý học tập kinh nghiệm.
+Tạp chí Khoa học Giáo dục Việt Nam, số Nguyễn, T. V. H. (2024).
+Tình trạng quản lý các hoạt động kinh nghiệm cho học sinh tại các trường trung học cấp dưới ở thành phố Đà Lạt, tỉnh Lâm Đồng.
+Tạp chí Khoa học Đại học Đồng Tháp, 13 ((01S), 341-350. https://doi.org/10.52714/dthu.13.01S.2024.1327.
+Pham, N. C. T., Tran, V. D., & Phan, N. T. (2022).
+Tổng quan về một số nghiên cứu về các hoạt động kinh nghiệm trong khoa học tự nhiên hướng tới giáo dục STEM.
+Tạp chí Giáo dục, 22 (Special Issue 10), 57-62.
+Trần, D. N. (2020). Quản lý các hoạt động giáo dục kinh nghiệm trong các trường trung học chuyên ngành ở khu vực Trung Bắc Việt Nam. Luận án tiến sĩ, Khoa học giáo dục, Viện Khoa học Giáo dục Việt Nam.
+Phòng phẫu thuật laparoscopic đơn châm (SILS) cung cấp nhiều lợi thế nhưng hiếm khi được sử dụng ở bệnh nhân nhi. Chúng tôi đã đánh giá kết quả của việc áp dụng SILS trong điều trị bệnh Hirschsprung ở trẻ sơ sinh. Đây là một nghiên cứu mô tả tương lai được thực hiện trên bệnh nhân Hirschsprung trung bình 128 ngày tuổi đã trải qua phẫu thuật laparoscopic đơn châm tại Bệnh viện Quốc gia từ tháng 1 năm 2020 đến tháng 12 năm 2021. Nghiên cứu này đã chứng minh rằng không có trường hợp tử vong ở trẻ sơ sinh trong bệnh viện là không an toàn (37,5 ngày, 237,5 phút) và thời gian điều trị là không có nguy cơ tử vong ở trẻ sơ sinh. Kết quả của nghiên cứu này bao gồm: 4 ngày, 57,5 phút (trong bệnh nhân có tuổi trung bình là 175,5 ngày), không có trường hợp
+Từ khóa: Phẫu thuật ống nội soi cắt đơn, Bệnh Hirschsprung, đại tràng bẩm sinh.
+I. THƯC bệnh Hirschsprung là một rối loạn phát triển được đặc trưng bởi sự vắng mặt của các tế bào hạch ở đường tiêu hóa xa, dẫn đến tắc nghẽn chức năng ruột. Hầu hết các trường hợp bệnh Hirschsprung hiện được chẩn đoán trong giai đoạn sơ sinh, với các triệu chứng phổ biến bao gồm thất bại trong việc vượt qua meconium trong vòng 24-48 giờ sau khi sinh. [1] Phẫu thuật là trụ cột của điều trị, được thực hiện sau khi chẩn đoán dứt khoát được thiết lập bởi bệnh lý của ông. Phẫu thuật laparoscopic một vết rạch được thực hiện thông qua một vết rạch rạch rạch rạch sử dụng ba dụng cụ laparoscopic tiêu chuẩn. [2] Trong khi phẫu thuật laparoscopic một vết rạch rạch đã được sử dụng rộng rãi ở bệnh nhân trưởng thành, việc sử dụng nó ở bệnh nhân
+Tiêu chí loại trừ - Sự hiện diện của chống chỉ định cho phẫu thuật ống nội soi như coagulopathy, bệnh tim bẩm sinh nghiêm trọng hoặc các bệnh hô hấp cấp tính (phổi phổi); - Phẫu thuật không thành công trước đây được thực hiện ở nơi khác.
+2. Đánh giá
+Phương pháp Thiết kế nghiên cứu Một nghiên cứu mô tả triển vọng.
+Thủ tục phẫu thuật nội soi cắt đơn: Sự đồng thuận hiện tại giữa các bác sĩ phẫu thuật nhi khoa trên toàn thế giới về điều trị bệnh Hirschsprung là phẫu thuật sớm, được thực hiện trong một giai đoạn bằng các kỹ thuật xâm lấn tối thiểu.
+Thời gian phẫu thuật kéo qua cho trẻ sơ sinh vẫn đang được tranh luận. Nghiên cứu của Kastenberg cho thấy phẫu thuật kéo qua một giai đoạn được thực hiện trong thời kỳ sơ sinh mang lại kết quả chức năng ruột sau phẫu thuật tương đương với những trẻ sơ sinh lớn tuổi hơn.6 Phẫu thuật trên trẻ sơ sinh mang lại một số lợi thế, chẳng hạn như mở rộng đại tràng ít hơn so với trẻ lớn tuổi, thành bụng mỏng hơn và một lĩnh vực mổ phân dễ dàng hơn; tuy nhiên, thời gian phục hồi sau phẫu thuật có thể kéo dài và có nguy cơ bị mất các đoạn nhũ giác cao hơn.6 Phẫu thuật laparoscopic cắt đơn đã được thực hiện thành công ở trẻ sơ sinh với kết quả đầy hứa hẹn, nhưng số lượng nghiên cứu vẫn còn hạn chế và cần đánh giá thêm hiệu quả của nó.
+Do đó, chúng tôi đã tiến hành nghiên cứu này với mục tiêu đánh giá kết quả của phẫu thuật laparoscopic một vết cắt trong điều trị bệnh Hirschsprung ở trẻ sơ sinh.
+II.
+Các chủ thể và phương pháp Chuẩn bị trước khi phẫu thuật bao gồm tưới đại tràng hàng ngày bằng nước muối trong khoảng 2 đến 3 ngày trước khi phẫu thuật, có thể được kéo dài tùy thuộc vào mức độ tĩnh phân và giãn đại tràng, nhằm làm sạch và giảm giãn đại tràng.
+1.
+Phương pháp: Giai đoạn laparoscopic liên quan đến việc đặt 3 trocars thông qua một vết rạch 1,5 cm ngay trên rốn, sử dụng hai trocars 5 mm và một trocar 3 mm (Hình 1); Áp lực insufflation CO2 được duy trì ở 7-8 mmHg. Nghiên cứu bao gồm các bệnh nhân sơ sinh được chẩn đoán mắc bệnh Hirschsprung và trải qua phẫu thuật laparoscopic một vết rạch tại Phòng phẫu thuật Bệnh viện Nhi khoa Quốc gia trong giai đoạn từ tháng 1 năm 2020 đến tháng 12 năm 2021, đáp ứng các tiêu chí sau: Tiêu chí bao gồm: Tuổi từ 1 đến 28 ngày, đáp ứng các tiêu chí sau: (1) Chẩn đoán bệnh Hirschsprung dựa trên các triệu chứng lâm sàng, enema tương phản cho thấy một vùng chuyển tiếp và bệnh lý phần đông lạnh trong phẫu thuật xác nhận sự vắng mặt của các
+Tạp chí nghiên cứu y tế Hình 1.
+Giai đoạn ngoại tràng: Một bộ thu hồi sao Lone được sử dụng để mở hậu môn. Một vết cắt bao quát được thực hiện trong ống nhầy hậu môn, 0,5 cm trên đường răng. Các ống nhầy được mổ xẻ lên khoảng 5 7 cm. Lớp huyết quản trực tràng trước được kéo xuống và cắt theo chiều dọc để vào khoang bụng thông qua khu vực cắt được tạo ra trong giai đoạn laparoscopic. Sau đó, một vết cắt tròn được thực hiện xung quanh lớp huyết quản theo chiều dọc của trực tràng để giải phóng hoàn toàn trực tràng và kênh trực tràng.
+Khối đại tràng bình thường (cơ quan) được giải phẫu với bộ phận cơ bắp của kênh hậu môn 0,5 cm trên đường răng bằng kỹ thuật Soave sửa đổi với các khâu bị gián đoạn.
+Dữ liệu trước phẫu thuật (tuổi tác, giới tính, cân nặng, các bệnh đồng phát), dữ liệu trong phẫu thuật (nơi của bệnh lồng mạch, độ dài của đại tràng cắt bỏ, thời gian phẫu thuật) và theo dõi sau phẫu thuật để đánh giá kết quả phẫu thuật (thời gian sau phẫu thuật, biến chứng, thời gian theo dõi sau phẫu thuật và thông tin về chuyến thăm tiếp theo).
+Đánh giá viêm ruột sau phẫu thuật được thực hiện theo tiêu chí Delphi.7 Đánh giá vết sẹo ít nhất 6 tháng sau khi phẫu thuật được thực hiện bằng cách sử dụng thang đo SCAR (The Scar Cosmesis Assessment and Rating).8 Chăm sóc sau phẫu thuật: nước được cho trẻ sơ sinh 6 giờ sau khi phẫu thuật, và cho ăn sữa có thể bắt đầu từ 12 đến 24 giờ sau khi phẫu thuật.
+Ống trực tràng được lấy ra khi bệnh nhân thoát khí hoặc phân.
+Anastomosis được mở rộng thường xuyên, bắt đầu hai tuần sau khi phẫu thuật, với mở rộng hàng ngày trong một tháng. Các cuộc kiểm tra theo dõi được thực hiện sau một tháng, ba tháng sau phẫu thuật và sau đó cứ sau sáu tháng.
+Tạp chí nghiên cứu y tế Quản lý dữ liệu III.
+Kết quả Theo các phương pháp thống kê y tế, phần mềm SPSS phiên bản 26.0 đã được sử dụng.
+3.
+Tổng cộng 23 trẻ sơ sinh mắc bệnh Hirschsprung đã trải qua phẫu thuật ống nội soi cắt đơn được thực hiện bởi cùng một nhóm phẫu thuật tại Bệnh viện Nhi khoa quốc gia từ tháng 1 năm 2020 đến tháng 12 năm 2021, với kết quả sau: Tỷ lệ nam-nữ là 22:1; tuổi trung bình là 22,3 ± 3,15 ngày (dân số, 1728 ngày). Tỷ lệ trọng lượng trung bình là 3,33 ± 0,36 kg (dân số, 2,74,2 kg). Tất cả bệnh nhân đều đã trì hoãn quá trình meconium 24 giờ sau khi sinh. Có 2 trường hợp mắc hội chứng Down đồng thời (8,7%), và 1 trường hợp (4,3%) với hydrocele song phương (patent processus vaginalis).
+Nghiên cứu này hoàn toàn tuân thủ tất cả các nguyên tắc đạo đức trong nghiên cứu y sinh học. Nghiên cứu này đã được Ủy ban Đạo đức trong Nghiên cứu y sinh học của Đại học Y Hà Nội (Không HS50 / BB HĐĐĐ, ngày 10 tháng 4 năm 2017).
+Thủ tục phẫu thuật laparoscopic một vết cắt để điều trị bệnh Hirschsprung đã được phát triển và nghiên cứu như là kết quả của dự án cấp quốc gia "Nghiên cứu và ứng dụng phẫu thuật laparoscopic một vết cắt để điều trị một số bệnh nhi, mã KC.10.42/11-15".
+Bảng 1.
+Đánh giá trong phẫu thuật Đánh giá kết quả Vị trí của bệnh aganglionosis, n (%) Rektum: 11 (47,8%) Colon sigmoid: 12 (52,2%) Chiều dài của đoạn đại tràng cắt bỏ, cm (tối thiểu tối đa): 19,35 ± 4,27 (1230) Giai đoạn laparoscopic: 23,39 ± 7,01 (1335) Giai đoạn ngoại tuyến: 29,52 ± 9,56 (1849) Thời gian phẫu thuật, phút (Min Max) Tổng số: 53,83 ± 11,95 (3575) Ghi chú: Hầu hết các đoạn aganglionic được đặt trong đại tràng sigmoid xuống trực tràng. Chiều dài của đoạn aganglionic cắt bỏ là khoảng 19 cm, với thời gian phẫu thuật trung bình là 53 phút (từ 35 đến 75 phút).
+Bảng 2.
+Mối quan hệ giữa chiều dài ruột cắt bỏ và thời gian phẫu thuật theo vị trí của bệnh hạch tràng đánh giá vị trí của bệnh hạch tràng p-giá trị trực tràng (n = 11) đại tràng sigmoid (n = 12) Độ dài trung bình của đoạn cắt bỏ (cm) 17,18 ± 2,96 21,33 ± 4,42 0,015 Thời gian phẫu thuật trung bình (phút) 53,18 ± 14,75 54,42 ± 9,32 0,068 Ghi chú: Không có sự khác biệt về thời gian phẫu thuật giữa các nhóm dựa trên chiều dài ruột cắt bỏ.
+Báo chí nghiên cứu y tế Bảng 3.
+Kết quả sau phẫu thuật Kết quả đặc trưng Viêm ruột 4 (17,4) Các biến chứng, n (%) Cắt chặt anastomotic 1 (4.3) Tử vong 0 Thời gian sau phẫu thuật (ngày) ± SD (Min - Max) 4,48 ± 1,08 (3-7) Thời gian theo dõi (tháng) ± SD (Min - Max) 24,70 ± 4,07 (13-32) Bình luận: Viêm ruột là biến chứng sau phẫu thuật phổ biến nhất (17,4%), với một trường hợp hẹp ruột đại tràng-trong-trong-trong-trong-trong-trong-trong-trong-trong-trong-trong-trong-trong-trong-trong-trong-trong-trong-trong-trong-trong-trong-trong-trong-trong-trong-trong-tr
+Đánh giá vết sẹo bằng cách sử dụng thang điểm SCAR đã dẫn đến điểm 12 điểm.
+IV.
+Phần aganglionic được cắt bỏ và tính liên tục của ruột được khôi phục bằng cách đưa ruột bình thường xuống để anastomose với kênh hậu môn trong khi duy trì chức năng của cơ nhọn.
+Với những tiến bộ trong các dụng cụ quang học và kỹ thuật phẫu thuật, các phương pháp điều trị xâm lấn tối thiểu đã trở thành xu hướng ngày càng tăng để quản lý bệnh Hirschsprung, mang lại những lợi thế như giảm chấn thương, giảm chảy máu và cải thiện kết quả thẩm mỹ trong khi vẫn đảm bảo an toàn và hiệu quả. Thời gian phẫu thuật kéo qua cho trẻ sơ sinh mắc bệnh Hirschsprung vẫn là một chủ đề thảo luận liên tục.
+Phẫu thuật trong giai đoạn sơ sinh giúp ngăn ngừa viêm ruột trước khi phẫu thuật; tuy nhiên, cần lưu ý rằng trẻ em châu Á có tỷ lệ mắc bệnh Hirschsprung cao, với tỷ lệ khoảng 3 trên 5.000 trẻ sinh sống, và nam giới bị ảnh hưởng nhiều hơn nữ giới với tỷ lệ nam / nữ khoảng 4: 1.
+Bệnh Hirschsprung thường xuất hiện trong một trong ba hình thức lâm sàng: tắc nghẽn ruột ở trẻ sơ sinh, táo bón mãn tính ở trẻ lớn hơn hoặc viêm ruột.
+Theo tài liệu, sự chậm trễ của meconium trong 24 giờ đầu tiên hoặc tắc nghẽn ruột trong thời gian sơ sinh xảy ra ở 80-90% trẻ sơ sinh trong giai đoạn này. 1 Tất cả trẻ sơ sinh trong nghiên cứu này đã cho thấy sự chậm trễ của meconium sau 24 giờ sau khi phẫu thuật, tiếp theo là giãn bụng và nôn mửa thường xuyên; chúng tôi không gặp bất kỳ trường hợp nào của lỗ trục cecal như đã mô tả trước đây trong tài liệu. 1 Họ phải đối mặt với các rủi ro như chẩn đoán sai, viêm ruột sau phẫu thuật và thời gian phục hồi kéo dài sau phẫu thuật.
+Việc trì hoãn phẫu thuật kéo qua cho đến sau thời gian sơ sinh cung cấp thêm thời gian để chẩn đoán dứt khoát. Nghiên cứu của Kastenberg cho thấy phẫu thuật kéo qua một giai đoạn được thực hiện sau thời gian sơ sinh mang lại kết quả chức năng tương đương với phẫu thuật sơ sinh. Sự đồng thuận toàn cầu hiện tại giữa các bác sĩ phẫu thuật nhi khoa về điều trị bệnh Hirschsprung là phẫu thuật sớm, một giai đoạn sử dụng các kỹ thuật xâm lấn tối thiểu. Sự vắng mặt của các tế bào hạch trong thành đại tràng trên bệnh nhân là tiêu chuẩn vàng để chẩn đoán bệnh Hirschsprung. Việc cắt bỏ phẫu thuật của phân đoạn hạch là nguyên tắc cơ bản trong việc điều trị tình trạng này.
+Swenson lần đầu tiên mô tả kỹ thuật phẫu thuật vào năm 1948.9 Cho đến nay, mặc dù nhiều kỹ thuật đã được phát triển, hai thủ tục phổ biến nhất là phương pháp tiếp cận qua hậu môn được hỗ trợ bằng kính áp tràng của Georgeson và thủ tục hoàn toàn qua hậu môn của De La Torre.1,2,10 Mục tiêu của phẫu thuật là cắt bỏ toàn bộ đoạn aganglionic; Ngoài ra, điều cần thiết là đảm bảo rằng anastomosis cổ hậu môn không bị căng thẳng bằng cách vận động đại tràng và tránh xoắn đại tràng trong khi kéo xuống để tạo ra anastomosis. Thứ ba, đại tràng nội mạc nên được giữ nguyên để ngăn ngừa ô nhiễm khoang bụng. Thứ tư, vận động đại tràng và trực tràng tạo điều kiện dễ dàng xác định các mốc phẫu thuật và giảm thiểu chấn thương sàn chậu, giảm nguy cơ quá mức của xương sống
+Năm 2010, Muensterer là người đầu tiên báo cáo về việc áp dụng phẫu thuật ống nội soi cắt đơn để điều trị bệnh Hirschsprung ở sáu bệnh nhân có độ tuổi trung bình là 28 ± 32 ngày, bao gồm bốn trẻ sơ sinh. Kết quả cho thấy thời gian phẫu thuật trung bình là 145 ± 44 phút, không có biến chứng trong khi phẫu thuật; thời gian sau phẫu thuật trung bình là bảy ngày, và tất cả bệnh nhân không có vết sẹo rõ ràng, được nuôi dưỡng tốt, có chuyển động ruột bình thường và tăng cân thích hợp.
+Tác giả lưu ý rằng phẫu thuật cắt bụng đơn đặt ra những thách thức kỹ thuật trong quá trình, nhưng nó vẫn có thể được thực hiện một cách an toàn thông qua một vết cắt rốn đơn, mang lại kết quả hậu phẫu tốt và kết quả thẩm mỹ vượt trội. Ba năm sau, Tang đã tiến hành một nghiên cứu so sánh về tác dụng ngắn hạn của phẫu thuật cắt bụng đơn so với phẫu thuật cắt bụng thông thường trong điều trị bệnh Hirschsprung, trong đó 28 trường hợp được điều trị bằng phẫu thuật cắt bụng đơn, với độ tuổi trung bình là 3,4 ± 2,1 tháng (dân vuông: 178,8 tháng) và thời gian phẫu thuật trung bình là 122 ± 18 phút. Không có biến chứng trong phẫu thuật xảy ra, và hiệu quả điều trị ngắn hạn của hai phương pháp phẫu thuật tương đương.
+Năm 2015, Xia đã báo cáo một so sánh kết quả theo dõi giữa kỳ giữa phẫu thuật nội soi cắt một vết và phẫu thuật nội soi thông thường trong điều trị bệnh Hirschsprung, liên quan đến 40 trường hợp được điều trị bằng phẫu thuật nội soi cắt một vết, với độ tuổi trung bình là 16,9 ± 19,6 tháng. Việc áp dụng phẫu thuật nội soi cắt một vết cho trẻ em mắc bệnh Hirschsprung đã chứng minh hiệu quả tương đương với phẫu thuật nội soi thông thường.
+Tại Việt Nam, Nguyễn Thanh Liêm đã báo cáo kết quả của việc áp dụng phẫu thuật bao tràng cắt đơn để điều trị 40 trẻ em mắc bệnh Hirschsprung trong giai đoạn 2013 2015, cho thấy độ tuổi trung bình là 2,7 tháng (dân vuông, 1 17 tháng); thời gian phẫu thuật là 96 ± 23 phút (dân vuông, 50 150 phút), với mất máu không đáng kể, và thời gian ở bệnh viện sau phẫu thuật là 4,5 ± 2 ngày. Với thời gian theo dõi trung bình là 65 ± 9,9 tháng, hai bệnh nhân (5,3%) bị viêm ruột, và không có trường hợp ngứa ran hoặc táo bón. Tất cả bệnh nhân được phân loại là có kết quả tuyệt vời theo hệ thống xếp hạng Rintala cho ngứa ran ruột.5 với thời gian phẫu thuật là 226 ± 4 phút và kết quả tương tự giữa hai nhóm
+Đầu tiên, sinh thiết nội soi cho phép xác định phạm vi của phân đoạn aganglion trước khi tiến hành huy động cơ tràng tràng đại tràng hoặc cắt bỏ trực tràng.
+Thứ hai, việc cắt bỏ các chân mạch đại tràng được thực hiện rõ ràng dưới kính áp tràng, giảm thiểu chấn thương bụng, đặc biệt là trong trường hợp... Kỹ thuật phẫu thuật kính áp tràng cắt đơn trong nghiên cứu của chúng tôi cũng sử dụng các dụng cụ kính áp tràng thông thường, tương tự như thủ tục được mô tả trong nghiên cứu của Nguyễn Thanh Liêm, nhưng chúng tôi không sử dụng các khâu treo hỗ trợ.
+Thời gian phẫu thuật trung bình trong nghiên cứu của chúng tôi là 53,8 ± 11,9 phút, ngắn hơn nhiều so với những nghiên cứu khác trong và ngoài Việt Nam.5,12-14 Điều này có thể được giải thích bởi thực tế là nhóm nghiên cứu của chúng tôi chỉ thực hiện thủ tục trên trẻ sơ sinh, trong khi các tác giả khác bao gồm trẻ lớn hơn.
+Chúng tôi thấy rằng thực hiện phẫu thuật ở trẻ sơ sinh cung cấp một số lợi thế so với trẻ lớn hơn do thành bụng mỏng hơn, dễ thao tác hơn, cấu trúc giải phẫu dễ nhận dạng hơn, mở rộng đại tràng ít hơn so với trẻ lớn hơn, và một thành ruột mỏng hơn do không có các đợt tái phát của viêm ruột, làm cho nó dễ dàng hơn để tạo ra anastomosis đại tràng. phẫu thuật laparoscopic một vết rạch duy nhất vẫn được coi là thách thức hơn để thực hiện, và do đó các chỉ định cho việc sử dụng nó vẫn còn hạn chế hơn so với phẫu thuật laparoscopic thông thường. Những khó khăn hiện có trong thực hiện phẫu thuật laparoscopic một vết rạch duy nhất bao gồm làm việc trong các vị trí ít thuận lợi cho bác sĩ phẫu thuật, va chạm và va chạm với máy ảnh, thao tác phẫu thuật khó
+Viêm ruột là một biến chứng sau phẫu thuật phổ biến sau khi điều trị bệnh Hirschsprung, với tỷ lệ mắc bệnh dao động từ 30-40%. biến chứng này có thể xảy ra cả trước và sau khi phẫu thuật, ở bệnh nhân ở mọi lứa tuổi từ trẻ sơ sinh đến người lớn, và có thể không nhất thiết phải liên quan đến chính thủ tục phẫu thuật. Tỷ lệ tử vong đã giảm đáng kể trong 30 năm qua, từ 30% xuống 1%.1 Tất cả bệnh nhân trong nghiên cứu của chúng tôi đã được đánh giá về viêm ruột sau phẫu thuật theo tiêu chí Delphi7, với điểm ≥10 điểm; tỷ lệ viêm ruột quan sát của chúng tôi (17,4%) thấp hơn so với báo cáo trong tài liệu.7 Ngưng tụ đại tràng kết hợp với độ nhầy miễn dịch chưa trưởng thành được coi là một yếu tố gây nghiện cho sự phát triển của viêm ruột.7 Một số nghiên
+Tuy nhiên, cho đến nay, phẫu thuật đã được chứng minh là khả thi về mặt kỹ thuật, an toàn và hiệu quả trong điều trị bệnh Hirschsprung ở trẻ sơ sinh. Một trường hợp hẹp cơ trong nghiên cứu của chúng tôi đã được quản lý bằng cách mở rộng hậu môn.
+Phương pháp này có ít biến chứng nghiêm trọng và là một phương pháp xâm lấn tối thiểu mang lại những lợi thế của phẫu thuật ống nội soi.
+HI Đ 1.
+Langer JC.
+Bệnh Hirschsprung.
+2013; 25(3): 368-374.
+2. Đánh giá
+Georgeson KE, Fuenfer MM, và Hardin WD.
+J Phẫu thuật nhi.
+1995; 30(7): 1017-1022. Không có kết quả; đứa trẻ phát triển nhiều đợt viêm ruột và cần phẫu thuật kéo qua đại tràng trong tháng thứ tư sau khi phẫu thuật ban đầu.
+Khó khăn anastomotic sau khi điều trị phẫu thuật bệnh Hirschsprung là một biến chứng nghiêm trọng; các yếu tố nguy cơ bao gồm ischemia tại vị trí anastomotic, ischemia tại cột trực tràng, rò rỉ anastomotic và đường kính anastomotic nhỏ. Swenson cho rằng thực hiện một anastomosis coloanal ngang có thể tránh được sự phức tạp của khó khăn anastomotic. Khó khăn anastomotic có thể dẫn đến viêm ruột sau phẫu thuật. Thông thường, khó khăn anastomotic nhẹ có thể được quản lý dễ dàng bằng cách mở rộng hậu môn hàng ngày sau khi phẫu thuật bắt đầu từ tuần thứ ba và tiếp tục trong 12 tháng. Trong một số trường hợp, có thể cần phẫu thuật cắt bỏ và tái tạo của khó khăn hoặc làm lại anastomosis.
+Muensterer OJ, Chong A, Hansen EN et al.
+J Gastrointest Surg.
+2010; 14(12): 1950-1954.
+Tất cả bệnh nhân của chúng tôi đã được đánh giá về vết sẹo ít nhất 6 tháng sau phẫu thuật bằng cách sử dụng thang điểm SCAR,8 với điểm số từ 1 đến 2, chứng minh rằng phẫu thuật cắt bụng bằng kính áp tràng cắt đơn mang lại kết quả thẩm mỹ tuyệt vời
+Morales-Conde S, Peeters A, Meyer YM, et al.
+Phẫu thuật Endosc.
+2019; 33:996-1019.
+5. Đánh giá
+Liem NT, Anh NT, Quang NT, et al.
+2021; 21: 274.
+6.
+Kastenberg ZJ, Taylor MA, Durham MM, et al (2021).
+J Phẫu thuật nhi.
+2021; 56(8): 1465-1469.
+Nghiên cứu của chúng tôi đã chứng minh rằng phẫu thuật cắt răng bằng kính áp trục đơn là an toàn và khả thi về mặt kỹ thuật ở những bệnh nhân được lựa chọn, với tỷ lệ ở lại bệnh viện và biến chứng so với các kỹ thuật cắt răng thông thường. Những hạn chế chính của nghiên cứu này là số lượng bệnh nhân nhỏ và thời gian theo dõi sau phẫu thuật tương đối ngắn.
+Nghiên cứu này không thể chứng minh rằng phẫu thuật cắt bụng bằng kính áp tròng đơn có thể được áp dụng thường xuyên cho tất cả các hình thức của bệnh khớp vú trong bệnh Hirschsprung. Hiệu quả thực sự của phẫu thuật cắt bụng bằng kính áp tròng đơn ở trẻ sơ sinh vẫn cần được đánh giá thêm.
+Sự cải tiến liên tục của kỹ thuật phẫu thuật và tích lũy kinh nghiệm có thể cho phép phương pháp này được chỉ định rộng rãi hơn.
+7.
+Pastor A, Osman F, Teitelbaum D, và các cộng sự.
+J Phẫu thuật nhi.
+2009; 44(1): 251-256.
+V. Kết luận 8.
+Kantor J.
+Độ tin cậy và tương đương hình ảnh của đánh giá cosmesis vết sẹo Phẫu thuật laparoscopic cắt một vết có thể đạt được kết quả phẫu thuật lâu dài.
+J Phẫu thuật nhi.
+JAMA Dermatol.
+2017; 153 ((1)): 55-60.
+9.
+Bệnh Swenson O. Hirschsprung: Một đánh giá.
+Nhi khoa, 2002; 109 ((5): 914-918.
+13 tuổi.
+Xia X, Li N, Wei J, v.v.
+J Phẫu thuật nhi.
+2016; 51(3): 440-443.
+Mười.
+J Phẫu thuật nhi.
+1998; 338): 1283-1286.
+14.
+Li W, Lin M, Hu H, v.v.
+Phẫu thuật mặt trước.
+2022; 9: 924850.
+11 tuổi.
+Bác sĩ phẫu thuật nhi.
+2016; 32(8): 751-757.
+15 người.
+Liem NT, Hau BD, Son HT.
+J Phẫu thuật nhi.
+2005; 40 ((3): 547-550.
+12 tuổi.
+Tang ST, Yang Y, Li SW, v.v.
+Tác động của hệ sinh thái fintech đối với sinh viên Việt Nam Ý định bắt đầu kinh doanh kỹ thuật số Nguyễn Thủy Đại học Kinh tế Quốc gia Email: thuyntqtkd@neu.edu.vn Đạo Trương Đại học Kinh tế Quốc gia Địa chỉ: daotrangforstudy@gmail.com Nguyễn Thủy Đại học Kinh tế Quốc gia Địa chỉ: hatuly08042004@gmail.com Tran Bao Đại học Kinh tế Quốc gia: Email: tranbaottdramlc@gmail.com Lê Thi Ngoc Linh Đại học Kinh tế Quốc gia Email: lengoclinh2062004@gmail.com Pham Thi Thi Thi Nguyễn Đại học Kinh tế Quốc gia: Email: Thao Thiuyen14neu@gmail.com Mã bản: JED-1562 Ngày: 03/03/20 Ngày sửa đổi: 16
+Trong khi đó, sự hỗ trợ kinh doanh của chính phủ không ảnh hưởng đến ý định bắt đầu một doanh nghiệp kỹ thuật số.
+Ngoài ra, thái độ và kiểm soát hành vi nhận thức liên quan đến doanh nghiệp kỹ thuật số trung gian mối quan hệ giữa hệ sinh thái Fintech và ý định bắt đầu một doanh nghiệp kỹ thuật số. Trong bối cảnh chuyển đổi kỹ thuật số mạnh mẽ hiện tại, nghiên cứu này cung cấp bằng chứng thực nghiệm để hỗ trợ phát triển kinh doanh kỹ thuật số ở Việt Nam.
+Từ khóa: AI, Blockchain, Crowdfunding, ý định khởi nghiệp kỹ thuật số, Fintech, lý thuyết về hành vi có kế hoạch.
+Mã JEL: G13; M1; M13.
+Mã JEL: G13; M1; M13.
+Số 327 Tháng 9 năm 2024 89 1.
+Giới thiệu Ngày nay, công nghệ kỹ thuật số hiện đại ngày càng mang lại những thay đổi sâu sắc cho lĩnh vực kinh doanh và kinh doanh. Trong số này, Fintech đã trở thành một trong những động lực chính trong việc định hình và phát triển lĩnh vực kinh doanh kỹ thuật số (Leong và cộng sự, 2017). Trong khi đó, Việt Nam là một quốc gia mà nền kinh tế kỹ thuật số và lĩnh vực kinh doanh vẫn đang trong quá trình phát triển (Nathan và cộng sự, 2022). Do đó, việc khám phá các yếu tố công nghệ kỹ thuật số - đặc biệt là Fintech - về việc hình thành ý định bắt đầu các doanh nghiệp kỹ thuật số ở Việt Nam đóng một vai trò quan trọng đối với các nhà hoạch định chính sách.
+Các nghiên cứu trước đây thường tập trung vào ý định bắt đầu các doanh nghiệp truyền thống, trong khi nghiên cứu về tinh thần kinh doanh trong bối cảnh chuyển đổi kỹ thuật số vẫn còn tương đối hạn chế (Ismail et al., 2012). Ngoài ra, mặc dù các công nghệ đã được chứng minh là đóng vai trò quan trọng trong việc hình thành các doanh nghiệp khởi nghiệp kỹ thuật số (Nambisan, 2017), các công trình trước đây về tinh thần kinh doanh kỹ thuật số chủ yếu đã điều tra nhận thức kỹ thuật số (Chan et al., 2017; Zaheer et al., 2019), tiếp cận Fintech (Hasan et al., 2023), ứng dụng của Fintech (Nathan et al., 2022; Stolper & Walter, 2017), hoặc hiểu biết tài chính (Hasan et al., 2023), mà không phân tích kỹ lưỡng mối quan hệ giữa các công nghệ khác nhau và kinh doanh, đặc biệt là Fintech và
+2. Đánh giá
+Tổng quan và Giả thuyết nghiên cứu 2.1.
+Lý thuyết về hành vi có kế hoạch và ý định bắt đầu một doanh nghiệp kỹ thuật số Doanh nghiệp kỹ thuật số liên quan đến việc áp dụng các công nghệ kỹ thuật số cho các quy trình sản xuất hoặc quản lý kinh doanh với mục đích tạo ra giá trị mới, và các hoạt động này diễn ra trên Internet (Kraus và cộng sự, 2019).
+Lý thuyết hành vi có kế hoạch (Ajzen, 1991) là một trong những lý thuyết nổi tiếng nhất được sử dụng để khám phá các hành vi có chủ ý của cá nhân (Maheshwari & Kha, 2022). Theo lý thuyết này, ý định thực hiện một hành vi bị ảnh hưởng bởi ba yếu tố: thái độ đối với hành vi, các chuẩn mực chủ quan và kiểm soát hành vi được nhận thức. Thái độ đối với doanh nghiệp kỹ thuật số được hiểu là đánh giá tích cực hoặc tiêu cực của một cá nhân về hành động bắt đầu một doanh nghiệp kỹ thuật số - thái độ càng tích cực, ý định của họ để bắt đầu một doanh nghiệp kỹ thuật số càng cao. Kiểm soát hành vi nhận thức đối với doanh nghiệp kỹ thuật số phản ánh nhận thức của một cá nhân về khả năng thực hiện một hành vi cụ thể (Ajzen, 1991). Khi một người nhận thức rằng họ có đủ nguồn lực cần thiết để bắt
+Tuy nhiên, mối quan hệ giữa các chuẩn mực chủ quan và ý định bắt đầu kinh doanh vẫn còn gây tranh cãi, với nhiều học giả cho rằng các chuẩn mực chủ quan có tác động không đáng kể đến ý định kinh doanh ở Việt Nam (Doanh & Bernat, 2019).
+Do đó, nghiên cứu này không xem xét ảnh hưởng của các chuẩn mực chủ quan.
+Dựa trên lý do trên, các giả thuyết sau đây được đề xuất: Giả thuyết 1a (H1a): Sự kiểm soát hành vi đối với doanh nghiệp kỹ thuật số có ảnh hưởng tích cực đến ý định bắt đầu một doanh nghiệp kỹ thuật số trong số sinh viên Việt Nam Giả thuyết 1b (H1b): Thái độ đối với doanh nghiệp kỹ thuật số có ảnh hưởng tích cực đến ý định bắt đầu một doanh nghiệp kỹ thuật số trong số sinh viên Việt Nam.
+2.2.
+Vai trò của hệ sinh thái Fintech Hệ sinh thái Fintech bao gồm các yếu tố làm việc cùng nhau để thúc đẩy nền kinh tế, thúc đẩy sự hòa nhập xã hội và nâng cao trải nghiệm của khách hàng. Những yếu tố này bao gồm công nghệ Blockchain, Crowdfunding, Trí tuệ nhân tạo (AI), hỗ trợ doanh nghiệp của chính phủ (Lee & Shin, 2018) và hỗ trợ doanh nghiệp của trường đại học (Muthukannan và cộng sự, 2020).
+Số 327, tháng 9 năm 2024 90 2.2.1.
+Fintech Perception Hiện tại, Fintech bao gồm công nghệ Blockchain, Crowdfunding và Trí tuệ nhân tạo (AI) (Von Briel và cộng sự, 2021). Trong bối cảnh này, nhận thức Fintech đề cập đến thái độ và khả năng của các cá nhân trong việc sử dụng các công cụ kỹ thuật số để quản lý, phân tích và tổng hợp các tài nguyên kỹ thuật số (Hasan và cộng sự, 2023).
+Do đó, các nguồn lực thiết yếu như tài chính vốn và tiếp thị để tiến hành các hoạt động kinh doanh chỉ được cung cấp đầy đủ thông qua nền tảng Blockchain.
+Việc sử dụng các công nghệ mới nổi như Blockchain có thể góp phần tăng hiệu quả kinh doanh; các công ty có thể tận dụng và đổi mới để phát triển các sản phẩm, dịch vụ và quy trình kinh doanh không chỉ tận dụng các khả năng mới này mà còn tạo ra các cơ hội và đột phá mới (Festa et al., 2022). Được hỗ trợ bởi công nghệ Blockchain, Fintech đã khuyến khích hàng trăm công ty khởi nghiệp xây dựng các dịch vụ như thanh toán di động và chuyển tiền quốc tế, đặc biệt là không có bất kỳ trung gian nào (Mukherjee & Pradhan, 2021), do đó đóng một vai trò quan trọng trong quy định và phân phối tài chính toàn cầu. Hơn nữa, Blockchain có thể làm cho các mối quan hệ trở nên minh bạch và đáng tin cậy hơn cho các doanh nhân và nhà đầu tư tiềm năng (Morkunas et al., 2019). Hiểu được tất cả những lợi ích của Blockchain
+Do đó, các tác giả đề xuất các giả thuyết sau: Giả thuyết 2a (H2a): Nhận thức về tiện ích của Blockchain có tác động tích cực đến sinh viên Việt Nam nhận thức kiểm soát hành vi liên quan đến kinh doanh kỹ thuật số. Giả thuyết 2b (H2b): Nhận thức về tiện ích của Blockchain có tác động tích cực đến thái độ của sinh viên Việt Nam đối với kinh doanh kỹ thuật số. Giả thuyết 2c (H2c): Nhận thức về tiện ích của Blockchain có tác động tích cực đến ý định của sinh viên Việt Nam để bắt đầu một doanh nghiệp kỹ thuật số.
+Nhận thức về tính hữu ích của Crowdfunding Internet-Based Community Fundraising: Xuất hiện như một nguồn tài trợ thay thế có giá trị trong việc tìm kiếm các nguồn tài chính bên ngoài (Belleflamme et al., 2014), crowdfunding thông qua Internet tạo ra một môi trường trung gian kết nối các cá nhân hoặc các công ty mới thành lập tìm kiếm vốn đầu tư cho các dự án của họ với các nhà tài trợ có mục tiêu đầu tư hoặc quan tâm đến các sản phẩm (Mollick, 2014). Một trong những thách thức lớn đối với các công ty khởi nghiệp trong giai đoạn đầu của họ là khó khăn tài chính (Acs, 2008). Crowdfunding được coi là một giải pháp tài chính để giải quyết các rào cản trong việc tiếp cận tài chính và tài nguyên (Beltrame et al., 2023). Các công ty khởi nghiệp có thể huy động số tiền tài trợ đáng
+Theo đó, các giả thuyết được đề xuất như sau: Giả thuyết 3a (H3a): Nhận thức về tính hữu ích của Crowdfunding ảnh hưởng tích cực đến sinh viên Việt Nam nhận thức kiểm soát hành vi đối với doanh nghiệp kỹ thuật số. Giả thuyết 3b (H3b): Nhận thức về tính hữu ích của Crowdfunding ảnh hưởng tích cực đến thái độ của sinh viên Việt Nam đối với doanh nghiệp kỹ thuật số. Giả thuyết 3c (H3c): Nhận thức về tính hữu ích của Crowdfunding ảnh hưởng tích cực đến ý định của sinh viên Việt Nam để bắt đầu một doanh nghiệp kỹ thuật số.
+Nhận thức về tính hữu ích của trí tuệ nhân tạo (AI): Các nghiên cứu trước đây đã phát hiện ra rằng công nghệ AI có thể nâng cao khả năng cạnh tranh của cá nhân, do đó góp phần vào ý định mở rộng kinh doanh (Wang et al., 2022). Cụ thể, thông qua việc áp dụng linh hoạt các thuật toán trong việc truy cập, thu thập dữ liệu và phân tích thị trường, AI mang lại những thay đổi cơ bản đối với tư duy kinh doanh bằng cách ảnh hưởng đến thái độ của cá nhân đối với các cơ hội kinh doanh kỹ thuật số (Buxmann et al., 2021). Việc triển khai AI có chọn lọc hoặc rộng rãi có khả năng ảnh hưởng đến cả quyết định bắt đầu kinh doanh của cá nhân và loại hình liên doanh mà họ chọn để thành lập (Chalmers et al., 2021; Hendrikse et al., 2018). Do đó, nhận thức về AI được coi là một chất tạo
+Giả thuyết 4a (H4a): Nhận thức về tính hữu ích của AI ảnh hưởng tích cực đến sinh viên Việt Nam nhận thức kiểm soát hành vi về việc bắt đầu một doanh nghiệp kỹ thuật số. Giả thuyết 4b (H4b): Nhận thức về tính hữu ích của AI ảnh hưởng tích cực đến thái độ của sinh viên Việt Nam đối với kinh doanh kỹ thuật số. Giả thuyết 4c (H4c): Nhận thức về tính hữu ích của AI ảnh hưởng tích cực đến ý định của sinh viên Việt Nam bắt đầu một doanh nghiệp kỹ thuật số.
+2.2.2.
+Hỗ trợ môi trường Hỗ trợ doanh nghiệp đại học: Cung cấp giáo dục chất lượng là cách tốt nhất để thúc đẩy tinh thần doanh nghiệp trong sinh viên (Maheshwari & Kha, 2022). Ngày nay, ngày càng có nhiều trường đại học tập trung vào việc thúc đẩy tư duy doanh nghiệp của sinh viên bằng cách đầu tư vào các chương trình đào tạo doanh nghiệp và nâng cấp các cơ sở công nghệ thông tin. Ngoài ra, việc áp dụng rộng rãi các công nghệ kỹ thuật số trong giáo dục đại học giúp đặt nền tảng cho sự sáng tạo và áp dụng công nghệ, do đó ảnh hưởng mạnh mẽ đến ý định kinh doanh, đặc biệt là ý định bắt đầu một doanh nghiệp kỹ thuật số (Dabbous & Boustani, 2023; Youseff et al., 2021).
+Dựa trên lý do trên, nghiên cứu đề xuất các giả thuyết sau: Hình 1: Mô hình nghiên cứu đề xuất Nguồn: Tác giả Giả thuyết 5a (H5a): Hỗ trợ doanh nghiệp đại học có tác động tích cực đến sinh viên Việt Nam nhận thức kiểm soát hành vi đối với doanh nghiệp kỹ thuật số Giả thuyết 5b (H5b): Hỗ trợ doanh nghiệp đại học có tác động tích cực đến thái độ của sinh viên Việt Nam đối với doanh nghiệp kỹ thuật số.
+Giả thuyết 5c (H5c): Hỗ trợ kinh doanh của trường đại học có tác động tích cực đến ý định bắt đầu một doanh nghiệp kỹ thuật số trong số các sinh viên Việt Nam.
+Hỗ trợ kinh doanh của chính phủ: Hỗ trợ của chính phủ cho kinh doanh bao gồm các kế hoạch và chính sách tài trợ cho các dự án khởi nghiệp, chẳng hạn như ưu đãi thuế, hỗ trợ tài chính bao gồm các khoản vay cho sinh viên và hỗ trợ vốn khởi nghiệp (Turker & Selcuk, 2009). Mặc dù vẫn còn tranh luận, nhưng nói chung, sự hỗ trợ của chính phủ cho kinh doanh nhằm thúc đẩy tinh thần kinh doanh và tăng cường hoạt động khởi nghiệp (Al Halbusi et al., 2023), giúp chuyển đổi niềm đam mê kinh doanh của sinh viên đại học thành ý định và hành động liên quan đến kinh doanh kỹ thuật số (Batool et al., 2015).
+Theo đó, các giả thuyết được đề xuất như sau: Giả thuyết 6a (H6a): Sự hỗ trợ kinh doanh của chính phủ có tác động tích cực đến việc kiểm soát hành vi đối với kinh doanh kỹ thuật số trong số sinh viên Việt Nam. Giả thuyết 6b (H6b): Sự hỗ trợ kinh doanh của chính phủ có tác động tích cực đến thái độ đối với kinh doanh kỹ thuật số trong số sinh viên Việt Nam. Giả thuyết 6c (H6c): Sự hỗ trợ kinh doanh của chính phủ có tác động tích cực đến ý định bắt đầu kinh doanh kỹ thuật số trong số sinh viên Việt Nam.
+3.
+Phương pháp nghiên cứu 3.1.
+Các biến trong mô hình được đo bằng cách sử dụng các thang đo được điều chỉnh và sửa đổi bởi các tác giả từ các nghiên cứu trước đó. Tất cả các thang này được đánh giá trên thang điểm Likert năm điểm, từ 1 rất không đồng ý đến 5 rất đồng ý. Các thang Blockchain và Crowdfunding đã được điều chỉnh từ Festa et al. (2022). Thang AI đã được áp dụng từ Dabbous et al. (2023). Các thang Hỗ trợ Doanh nhân Đại học và Hỗ trợ Doanh nhân Chính phủ đã được lấy từ Youssef et al. (2021). Các thang Quan sát hành vi, Thái độ đối với Doanh nhân kỹ thuật số, và Ý định bắt đầu một doanh nghiệp được phát triển từ Chen & Liñan Digital (2009).
+3.2.
+Kích thước mẫu và thu thập dữ liệu Bảng 1: Đặc điểm nhân khẩu học của mẫu nghiên cứu Tần suất nhân khẩu học % Giới tính Lĩnh vực nghiên cứu Kinh tế và Kinh doanh 296 53.92 Kỹ thuật và các lĩnh vực khác 253 46.08 No 449 81.79 Bạn đã bao giờ bắt đầu kinh doanh hoặc đóng góp vốn để thành lập một doanh nghiệp?
+Nguồn: Các tác giả Dữ liệu được thu thập cả trực tuyến và ngoại tuyến. Câu hỏi trực tuyến được thiết kế bằng cách sử dụng Google Forms và phân phối cho sinh viên thông qua các nền tảng truyền thông xã hội. Trong khi đó, câu hỏi ngoại tuyến được sinh viên điền bằng tay trong lớp học của họ. Sau khi loại trừ các trường hợp không đáp ứng các tiêu chí phân tích, mẫu cuối cùng bao gồm 549 sinh viên.
+No. 327 Tháng 9 năm 2024 93 AIP - Trí tuệ nhân tạo (Cronbach s alpha = 0,893) BLC - Blockchain (Cronbach s alpha = 0,901) CRF - Crowdfunding (Cronbach s alpha = 0,915) STS - Hỗ trợ doanh nghiệp của chính phủ (Cronbach s alpha = 0,847) HES - Hỗ trợ doanh nghiệp của trường đại học (Cronbach s alpha = 0,881) Bảng 2: Thống kê mô tả, độ tin cậy của Cronbach s Alpha và tải trọng yếu tố chỉ số Xây dựng và chỉ số SD Skewness Kurtosis Factor No. 327 Tháng 9 năm 2024 94 DEI - Ý định kinh doanh kỹ thuật số (Cronbach s alpha = 0,929) ATT - Thái độ đối với doanh nghiệp kỹ thuật số (Cronbach
+3.3.
+Phương pháp phân tích dữ liệu Để đánh giá các mối quan hệ tác động trong mô hình nghiên cứu, các tác giả đã sử dụng các phương pháp phân tích định lượng. Đầu tiên, các thang đo được đánh giá bằng cách sử dụng phân tích thống kê mô tả, thử nghiệm độ tin cậy alpha của Cronbach, phân tích yếu tố thăm dò (EFA) và phân tích yếu tố xác nhận (CFA). Sau đó, mô hình và các giả thuyết được đề xuất đã được kiểm tra bằng cách sử dụng mô hình hóa phương trình cấu trúc (SEM) và phương pháp Bootstrapping.
+4.
+Kết quả nghiên cứu 4.1.
+Thang đo đánh giá thang đo 2 cho thấy tất cả các chỉ số có giá trị lệch dưới 3 và giá trị kurtosis dưới 8 (Hair et al., 2010). Do đó, các thang đo đáp ứng các yêu cầu cho tính bình thường không biến. Ngoài ra, tất cả các giá trị Cronbach's Alpha đều trên ngưỡng dự kiến là 0,6 (Hair et al., 2010). Hơn nữa, tải trọng nhân cho tất cả các mục vượt quá ngưỡng 0,3. Vì vậy, các thang đo đáp ứng các tiêu chí độ tin cậy. Tính hợp lệ hội tụ và phân biệt của tất cả các thang đo đã được đánh giá bằng cách sử dụng mô hình đo lường với phân tích nhân xác nhận (CFA). Kết quả như sau: CMIN/df = 1,710 < 3 (tốt), CFI = 0,968 > 0,95 (rất tốt), GFI = 0,9 (tốt), TLI =
+Ngoài ra, Phân biến trung bình được trích xuất (AVE) và độ tin cậy tổng hợp (CR) đã được sử dụng để đánh giá giá trị hội tụ và phân biệt của các cấu trúc (Anderson & Gerbing, 1988; Hair et al., 2010). Các kết quả trong Bảng 3 cho thấy các giá trị CR cho tất cả các cấu trúc trên 0,8, và các giá trị AVE trên 0,5. Đồng thời, phân tích nhân tố xác nhận (CFA) cũng chỉ ra rằng tất cả các biến có trọng số hồi quy tiêu chuẩn lớn hơn 0,6. Do đó, các thang đo đáp ứng các yêu cầu cho cả giá trị hội tụ và phân biệt. Bảng 3: Độ tin cậy, giá trị hội tụ và giá trị phân biệt của các thang đo đo CR AVE MSVR Max (((H) PBCI DEV CRF HLC B BIC HICH AT S S S S S S S S S S
+Mô hình và thử nghiệm giả thuyết Mô hình hóa phương trình cấu trúc (SEM) được thực hiện để khám phá các mối quan hệ trong mô hình nghiên cứu. Tương tự như mô hình đo lường, các chỉ số cũng cho thấy mô hình phương trình cấu trúc phù hợp với dữ liệu đầu vào. Ngoài ra, chỉ số GFI = 0,892 > 0,8 phù hợp với các khuyến nghị của Doll et al. (1994) và Baumgartner & Homburg (1996). Kết quả của các giả thuyết được trình bày trong Hình 2 và Bảng 4.
+Hầu hết các giả thuyết được chấp nhận, ngoại trừ tác động trực tiếp của sự hỗ trợ kinh doanh của chính phủ đối với việc kiểm soát hành vi đối với kinh doanh kỹ thuật số, thái độ đối với kinh doanh kỹ thuật số và ý định bắt đầu kinh doanh kỹ thuật số, khi giá trị p > 0,05. Kết quả nghiên cứu cho thấy rằng việc kiểm soát hành vi đối với kinh doanh kỹ thuật số và thái độ đối với kinh doanh kỹ thuật số có tác động tích cực đến ý định kinh doanh kỹ thuật số (β = 0,286; β = 0,195). Phát hiện này phù hợp với các nghiên cứu trước đây (Al Halbusi et al., 2023; Youssef et al., 2021).
+Hình 2: Kết quả Phân tích Mô hình hóa phương trình cấu trúc - SEM (định chuẩn hóa) Nguồn: Nhóm nghiên cứu Về vai trò của nhận thức Fintech, kết quả cho thấy Blockchain, Crowdfunding và AI có tác động tích cực đến việc kiểm soát hành vi được nhận thức đối với doanh nghiệp kỹ thuật số (β = 0.252; β = 0.097; β = 0.496). Ngoài ra, Blockchain, Crowdfunding và AI cũng ảnh hưởng tích cực đến thái độ đối với doanh nghiệp kỹ thuật số (β = 0.188; β = 0.182; β = 0.296). Những kết quả này phù hợp với nhiều nghiên cứu trước đây (Chalmers et al., 2021; Akhter et al., 2022). Hơn nữa, Blockchain, Crowdfunding và AI được tìm thấy có tác động tích cực và trực tiếp đến ý định bắt đầu một doanh nghiệp kỹ thuật số (β = 0.09
+Theo đó, kiến thức và kỹ năng trong việc áp dụng Fintech giúp các doanh nhân tiềm năng tăng cường sự sáng tạo của họ, tạo cơ hội cho sự đổi mới và cải thiện khả năng thích nghi linh hoạt trong môi trường kinh doanh kỹ thuật số.
+Kết quả nghiên cứu cho thấy sự hỗ trợ doanh nghiệp của trường đại học có tác động tích cực đến việc kiểm soát hành vi nhận thức về doanh nghiệp kỹ thuật số (β = 0,089) và thái độ đối với doanh nghiệp (β = 0,205). Phát hiện này phù hợp với các nghiên cứu trước đây (Baterna và cộng sự, 2020; Mugion và cộng sự, 2020).
+Trong khi đó, sự hỗ trợ kinh doanh của chính phủ không ảnh hưởng đến sự kiểm soát hành vi được nhận thức đối với kinh doanh kỹ thuật số, thái độ đối với kinh doanh kỹ thuật số hoặc ý định bắt đầu một doanh nghiệp kỹ thuật số.
+Số 327 Tháng 9 năm 2024 97 Bảng 4: Kết quả thử nghiệm giả thuyết (định chuẩn hóa) Giả thuyết Giá trị P-giá trị Kết luận H1a PBC -> DEI 0,286 *** Được chấp nhận H1b ATT -> DEI 0,195 *** Được chấp nhận H2a BLC -> PBC 0,252 *** Được chấp nhận H2b BLC -> ATT 0,188 *** Được chấp nhận H2c BLC -> DEI 0,096 * Được chấp nhận H3a CRF -> PBC 0,097 * Được chấp nhận H3b CRF -> ATT 0,182 ** Được chấp nhận H3c CRF -> DEI 0,122 ** Được chấp nhận H4a AIP -> PBC 0,496 *** Được chấp nhận H4b AIP -> ATT 0,269 *** Được chấp nhận H4c AIP -> DEI 0,160 ** Được chấp
+Kết quả cho thấy rằng sự kiểm soát hành vi được nhận thức đối với doanh nghiệp kỹ thuật số và thái độ cả hai đều đóng vai trò là trung gian giữa nhận thức Fintech (Blockchain, Crowdfunding, AI), hỗ trợ doanh nghiệp đại học và ý định bắt đầu một doanh nghiệp kỹ thuật số.
+Tuy nhiên, mối quan hệ giữa sự hỗ trợ kinh doanh của chính phủ và ý định bắt đầu một doanh nghiệp kỹ thuật số không đáng kể.
+5. Đánh giá
+Kết luận và khuyến nghị Nghiên cứu này dựa trên Lý thuyết Hành vi Kế hoạch (TPB) để khám phá tác động của hệ sinh thái Fintech đối với ý định của sinh viên Việt Nam bắt đầu một doanh nghiệp kỹ thuật số, thông qua các thành phần nhận thức Fintech và hỗ trợ môi trường.
+Đối với các trường đại học, đây là một thành phần đóng vai trò quan trọng trong việc thúc đẩy tinh thần kinh doanh. Do đó, các trường đại học có thể nâng cao kiến thức, nhận thức và kỹ năng Fintech bằng cách kết hợp các chương trình giáo dục liên quan đến kinh doanh kỹ thuật số và Fintech. Các hoạt động có thể bao gồm tổ chức các câu lạc bộ kinh doanh, sắp xếp các chương trình giáo dục mời các doanh nhân nổi tiếng mang hình ảnh của các doanh nhân thành công đến gần hơn với sinh viên, cũng như các hoạt động kỹ năng thực tế và các cuộc thi kinh doanh kỹ thuật số để khuyến khích sinh viên có được kinh nghiệm và tiếp cận thực tiễn trong thế giới thực sớm. Các trường đại học cũng có thể tổ chức các hoạt động ngoại khóa, các cuộc thi ý tưởng và cuộc thi kinh doanh kỹ thuật số, cũng như các hội thảo cấp trường và liên trường để nâng cao sự hiểu
+Đối với Chính phủ, doanh nghiệp kỹ thuật số có thể làm giảm tỷ lệ thất nghiệp đồng thời tăng GDP và thúc đẩy phát triển kinh tế bền vững. Do đó, Chính phủ nên thiết lập một hệ sinh thái thuận lợi để khuyến khích tinh thần kinh doanh của sinh viên thông qua các tổ chức, luật pháp và chính sách thúc đẩy môi trường thân thiện với khởi nghiệp. Ngoài ra, chính phủ nên tăng cường các chiến dịch nâng cao nhận thức về Fintech và thực hiện các chính sách hỗ trợ tốt hơn cho các doanh nghiệp hoạt động trong lĩnh vực kinh doanh kỹ thuật số.
+Nghiên cứu này vẫn có những hạn chế nhất định. Thứ nhất, nó có tính chất cắt ngang, trong khi nghiên cứu hành vi cá nhân đòi hỏi một cách tiếp cận theo chiều dọc để có được kết quả chính xác hơn.
+Do đó, các nghiên cứu trong tương lai có thể áp dụng một cách tiếp cận theo chiều dọc để kiểm tra tác động của nhận thức Fintech đối với hành vi kinh doanh. Thứ hai, hệ sinh thái Fintech bao gồm nhiều yếu tố ảnh hưởng đến ý định bắt đầu một doanh nghiệp kỹ thuật số; tuy nhiên, nghiên cứu này chỉ kiểm tra tác động của nhận thức Fintech và hỗ trợ môi trường. Do đó, nghiên cứu trong tương lai nên xem xét một loạt các yếu tố ảnh hưởng đến ý định bắt đầu một doanh nghiệp kỹ thuật số.
+Tham khảo Acs, Z. J.
+Md., Karim M. và Latif, W.B.
+Alkhalaileh, M. Y. Belanche, D., Casaló, L. V., & Flavián, C. (2019), Trí tuệ nhân tạo trong FinTech: hiểu được việc áp dụng các cố vấn robot trong số khách hàng, Quản lý công nghiệp và hệ thống dữ liệu, 119(7), 1411-1430.
+Belleflamme, P., Lambert, T., & Schwienbacher, A. Beltrame, F., Grassetti, L., Bertinetti, G. S., & Sclip, A. Buxmann, P., Hess, T., & Thatcher, J.
+B. Dabbous, A., & Boustani, N. M. (2023).
+Hasan, M., Noor, T., Gao, J., Usman, M., & Abedin, M. Z. Hu, L. T., & Bentler, P. M. (1999), Tiêu chí cắt đối với các chỉ số phù hợp trong phân tích cấu trúc đồng biến: Tiêu chí thông thường so với các lựa chọn thay thế mới, Mô hình hóa phương trình cấu trúc, 61), 1-55.
+Kraus, S., Palmer, C., Kailer, N., Kallinger, F. L., & Spitzer, J. Lee, I., & Shin, Y. J. Leong, C., Tan, B., Xiao, X., Tan, F. T. C., & Sun, Y. Muthukannan, P., Tan, B., Gozman, D., & Johnson, L. (2020), Sự xuất hiện của một hệ sinh thái fintech: Một nghiên cứu trường hợp của thung lũng Fintech Vizag ở Ấn Độ, lấy lại vào ngày 12 tháng 10 năm 2023, từ <https://doi.org/10.1016/j.im.2020.103385>.
+(Đạo.
+DOI: https:// doi.org/10.3390/jrfm15030125.
+Stolper, O.
+A., & Walter, A.
+Von Briel, F., Selander, L., Hukal, P., Lehmann, J., Rothe, H., Fürstenau, D., ... & Wurm, B. Wang, Z., Li, M., Lu, J., & Cheng, X. Youssef, A. No. 327, tháng 9 năm 2024, trang 100 Tạp chí được phân phối thông qua Mạng lưới Bưu điện Việt Nam
+Từ khóa: vấn đề khả thi chia, phương pháp dốc liên kết, kích thước bước Polyak, phương pháp CQ, hội tụ yếu, vấn đề thu hồi thưa thớt © 2023 Đại học Giao thông và Truyền thông Giao thông và Truyền thông Khoa học Tạp chí, Tập 74, Số 6 (08/2023), 752-763 Giao thông và Truyền thông Khoa học Tạp chí Phương pháp chiếu CQ thích ứng với hướng dốc liên kết để giải quyết vấn đề khả năng chia và ứng dụng của Nguyễn Văn Vinh * Đại học Giao thông và Truyền thông, số 3 Cauay, Hà Nội, Việt Nam THC THC: Nghiên cứu khoa học Được nhận: 21/03/2023 Được sửa đổi: 20/06/2023 Được chấp nhận: 01/07/2023 Xuất bản trực tuyến: 15/08/2023 https://dcs
+Từ khóa: Vấn đề khả thi phân chia, phương pháp gradient liên hợp, kích thước bước Polyak, phương pháp CQ, hội tụ yếu, vấn đề khôi phục thưa thớt.
+© 2023 Đại học Giao thông và Truyền thông 1.
+HI NGƯỜI V Đ C và Q là các tập con nonempty, đóng, lồi của các không gian Hilbert thực H1 và H2 tương ứng.
+, .
+, chuẩn cảm ứng là ‖.
+‖, toán tử đồng nhất là I, và A: H1 → H2 là một toán tử tuyến tính giới hạn, A là toán tử phụ của A. Vấn đề khả thi phân chia (SFP) được định nghĩa là vấn đề tìm một điểm x∈C như Ax∈Q.
+Bộ giải pháp của vấn đề được biểu thị bằng Ω, nghĩa là Ω = {x* ∈ C: Ax* ∈ Q}.
+Vấn đề khả thi phân chia, lần đầu tiên được giới thiệu bởi Censor và Elfving [1] vào năm 1994, có nhiều ứng dụng trong xử lý tín hiệu, xử lý hình ảnh, v.v. (xem, ví dụ, [1-12]).
+Cụ thể, hãy xem xét một biến đổi tuyến tính như sau: y = Ax, trong đó A là ma trận lấy mẫu có kích thước M × N, x là vector tín hiệu ban đầu có kích thước N, và y là vector đo được có kích thước M. Thông thường, M nhỏ hơn nhiều so với N, vì vậy làm thế nào chúng ta có thể lấy lại x cho y và A? Chúng ta biết rằng trong trường hợp này, có các phương trình M cho N không biết, nhưng vì M nhỏ hơn N, không có giải pháp duy nhất. Kịch bản này có thể được minh họa bằng cách sử dụng Biến đổi Fourier rời rạc (DFT), trong đó y chỉ bao gồm M tần số trong tổng tần số N từ biến đổi Fourier đầy đủ. Câu hỏi đặt ra là liệu có thể lấy lại tín hiệu x từ M chỉ tần số của tín hiệu đo được y. Điều thú vị
+Vấn đề khả thi phân chia ban đầu được nghiên cứu bởi Censor và Elfving trong không gian có giới hạn, và sau đó được nhiều nhà toán học khác điều tra trong không gian vô hạn (xem, ví dụ, các bài viết và các tài liệu tham khảo liên quan [2,5,6,8,9,11,12,14-19]).
+Phương pháp này là một trường hợp đặc biệt của thuật toán gradient dự kiến cho vấn đề tối ưu hóa lồi với giá trị tối ưu 0: 2‖Ax - PQAx‖ Như chúng ta biết, hàm f là lồi và có thể phân giải, và f(x) = A*(I - PQ) Ax, x ∈ H1 là ngược đơn vị mạnh với hằng số 1/‖A‖2, đó là: f(x) - f(y), x - y ≥ (1/‖A‖2) f(x) - f(y) ‖2 cho tất cả x, y ∈ H1.
+Tuy nhiên, thuật toán CQ đòi hỏi kiến thức về chuẩn của toán tử tuyến tính giới hạn, rõ ràng không dễ tính toán.
+Do đó, các phương pháp thích ứng đã được đề xuất; xem, ví dụ, [9,18,20,21]. Đặc biệt, López và cộng sự trong [9] đã phát triển một phương pháp lựa chọn kích thước bước để khi áp dụng thuật toán CQ, thông tin về chuẩn của nhà điều hành không được yêu cầu.
+Cần lưu ý rằng phương pháp CQ chỉ đạt được sự hội tụ yếu trong không gian Hilbert.
+Đối với các kết quả thú vị khác liên quan đến vấn đề khả thi phân chia, xem khảo sát của Ansari và Rehan [22] và kết quả gần đây trong [5,7,11,15 17,19].
+Năm 2022, Huang và Liu [7] kết hợp thuật toán gradient nhiều bước của Kesornprom, Pholasa và Cholamjiak [8] với phương pháp gradient liên kết của Sakurai và Iiduka [23] để đề xuất một thuật toán gradient liên kết mới để giải quyết vấn đề khả thi phân chia và trình bày một ứng dụng trong lĩnh vực xử lý tín hiệu.
+Tuy nhiên, sau khi xem xét kỹ lưỡng bài báo này, chúng tôi đã xác định một số nhược điểm như sau: khối lượng công việc tính toán vẫn khá lớn (yêu cầu hai đánh giá về hàm và độ dốc của nó); bằng chứng hội tụ của thuật toán chứa một khoảng trống sau công thức (19) (chỉ có thể suy ra rằng trình tự lặp lại là gần như Fejér đơn vị, không phải Fejér đơn vị như đã nêu trong bài báo); và giả định (C4) không đủ để đảm bảo rằng các đại lượng M và M̂ là hữu hạn.
+Dựa trên những phân tích này, trong bài viết này chúng tôi đề xuất một thuật toán CQ với một hướng gradient liên kết mới và chứng minh sự hội tụ yếu của nó. Thuật toán của chúng tôi vượt qua những hạn chế của thuật toán 1 trong [7], đồng thời cung cấp một cách tiếp cận thống nhất cho các thuật toán loại CQ sử dụng kích thước bước Polyak như được trình bày trong các nghiên cứu gần đây, chẳng hạn như trong [9,18,24]. Phần còn lại của bài báo được tổ chức như sau: Phần đầu tiên của Phần 2 trình bày một số kết quả cơ bản được sử dụng để chứng minh và phân tích sự hội tụ của thuật toán CQ với hướng gradient liên kết trong phần sau của phần này.
+Kết quả số để giải quyết vấn đề LASSO minh họa hiệu quả của thuật toán mà chúng tôi đã đề xuất.
+Phần 3 là kết luận của bài báo.
+2. Đánh giá
+Nội dung chính 2.1.
+Kiến thức sơ bộ Cho {xk} H1 là một chuỗi và C là một tập con lồi khép kín không rỗng của H1.
+Sự hội tụ mạnh (tương ứng, yếu) của chuỗi {xk} đến x được biểu thị bằng xk→x (tương ứng, xkx). Chúng ta biểu thị bằng ωw(xk) tập hợp tất cả các điểm cụm yếu của {xk}: ωw(xk) {x ∈ H1: x_{k_j} x cho mỗi chuỗi con {k_j} của {k}} .
+Đối với mỗi x ∈ H1, có một điểm gần nhất trong C, được ký hiệu là PC ((x), như vậy ‖x − PCx‖ = min{‖x − y‖: y ∈ C}. PC được gọi là chiếu đo của H1 lên C. Tài sản cơ bản của PC được đưa ra trong Lemma 2.1.
+Lêmma 2.1.
+Máy tính toán chiếu PC đáp ứng các bất bình đẳng sau: (i) x−PC(x), y−PC(x) ≤ 0, ∀x ∈ H1, y ∈ C; (ii) ‖PC(x) − y‖2 ≤ ‖x−y‖2 − ‖x−PC(x)‖2, ∀x ∈ H1, y ∈ C.
+Để chứng minh sự hội tụ của thuật toán được đề xuất, chúng ta cần khái niệm và kết quả sau.
+Định nghĩa 2.1.
+([25]) Một chuỗi {xk} H1 được gọi là Fejér đơn vị đối với một tập hợp S nếu có tồn tại N1 ∈ N như vậy đối với tất cả z ∈ S: ‖xk+1 − z‖2 ≤ ‖xk − z‖2 + σk cho tất cả k ≥ N1, trong đó {σk} là một chuỗi các số dương như vậy mà σk < ∞ từ k = 0 đến ∞.
+Lêmma 2.2.
+([25]) Cho phép \(\mathcal{H}_1\) là một không gian Hilbert thực và \(\{x_k\} \subset \mathcal{H}_1\) là Fejér đơn vị đối với một tập nón nón khúc kín không rỗng \(S \subset \mathcal{H}_1\).
+Sau đó Journal of Transport Science, Tập 74, Số 6 (08/2023), 752-763 (i) Đối với mỗi z ∈ S, giới hạn lim_{k→∞}‖xk−z‖ tồn tại, (ii) Nếu mọi điểm cụm yếu của {xk} thuộc về S, thì tồn tại x̅ ∈ S như vậy mà {xk} hội tụ yếu đến x̅.
+2.2.
+Thuật toán và hội tụ 2.2.1. Thuật toán CQ thích ứng với hướng gradient phối hợp Trong phần này, chúng tôi đề xuất một thuật toán CQ quán tính với hướng gradient phối hợp để giải quyết vấn đề khả thi phân chia (1).
+• Thuật toán 2.1.
+(Chiến thuật CQ thích ứng với hướng gradient liên hợp) Bắt đầu: Lấy ε > 0; 0 ≤ θ < 1 và các chuỗi dương {ρk}, {εk}, {βk}, {θk} như 0 < ρk < 4, 0 < θk, βk < 1, và k=0^∞ εk < ∞, k=0^∞ βk < ∞. Chọn x0, x1, d0 tùy ý trong H1 và đặt k = 1. Bước k: Tính toán αk = { min {θ, εk / ‖xk − xk−1‖ } nếu xk ≠ xk−1, nếu θk = xk−1. wk = xk + αk∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+Thuật toán của chúng tôi cải thiện so với Huang và Liu [7] trong hai khía cạnh. Thứ nhất, khối lượng công việc tính toán được giảm, chỉ yêu cầu một đánh giá của hàm và gradient cho mỗi lần lặp lại. Thứ hai, chúng tôi sử dụng phương pháp quán tính để tăng tốc thuật toán.
+2.2.2.
+Phân tích hội tụ Để chứng minh sự hội tụ của thuật toán 2.1, chúng ta yêu cầu các giả định sau: (C1) inf k k k k) > 0, (C2) {xk} và {{I−PQ) Awk} là hai chuỗi bị giới hạn.
+Ghi chú 2.2.
+Nếu tập hợp C bị giới hạn, thì vì {xk} C, phần đầu tiên của điều kiện (C2) rõ ràng là thỏa mãn. Lưu ý rằng nếu chuỗi {xk} bị giới hạn, thì điều đó cũng có nghĩa là {wk} cũng bị giới hạn. Do đó, khi xem xét một không gian Hilbert có chiều hữu hạn, vì I-PQ là một bản đồ không mở rộng, điều đó cũng có nghĩa là {(I-PQ) Awk} cũng bị giới hạn. Do đó, điều kiện (C2) không hề hạn chế vì trong các ví dụ thực tế như các vấn đề xử lý tín hiệu hoặc hình ảnh thưa thớt, chúng ta coi tập hợp C bị giới hạn là quả bóng 1-norm, tức là C = {x ∈ H1 :xNUMXxNUMXxNUMXxNUMXxNUMXxNUMXxNUMXxNUMXxNUMXxNUMXxNUMXx},
+Định lý 2.1. Giả sử rằng điều kiện (C1) và (C2) được đáp ứng {x_k} là chuỗi được tạo ra bởi thuật toán 2.1. Sau đó, chuỗi {x_k} hội tụ yếu đến một phần tử của Ω. Bằng chứng: Từ việc lựa chọn β_k, theo sau tồn tại k0 như vậy mà β_k ≤ 2 cho tất cả k ≥ k0. Không mất tính tổng quát, chúng ta có thể giả định rằng f{\displaystyle f{\displaystyle f{\displaystyle f{\displaystyle f{\displaystyle f{\displaystyle f{\displaystyle f{\displaystyle f{\displaystyle f{\mathrm {w}}}}_{\mathrm {aw}}}}}}) có ≥ ε cho tất cả k ≥ k0. Theo (C2), theo sau đó tồn tại M1
+Trong trường hợp này, các hàm của hàm số n được tính theo thứ tự n của hàm số n. Thực ra, giả sử rằng hàm số n của hàm số n ≤ M k (k ≥ k0). Từ (5), f (k) f (k) f (k) f (k) f (k) f (k) f (k) f (k) f (k) f (k) f (k) f (k) f (k) f (k) f (k) f (k) f (k) f (k) f (k) f (k) f (k) f (k) f (k) f (k) f (k) f (
+(8) ≥ ‖(I−PQ) Aw_k‖ Từ (7) và (8), chúng ta có 2 ‖f) ‖^2 − 4λ_k f) ‖w) ‖w) ‖z ‖^2 ≤ ‖w) ‖z ‖^2 + λ_k = ‖w) ‖z ‖z ‖z ‖z ‖z ‖z ‖z ‖z ‖z ‖z ‖z ‖z ‖z ‖z ‖z ‖z) ‖z ‖z ‖z ‖z ‖z ‖z ‖z ‖z ‖z) ‖z ‖z ‖z ‖z ‖z ‖z ‖z ‖z ‖z ‖z ‖z ‖z ‖z ‖z ‖z
+Do đó, ‖x_{k+1} − z‖^2 ≤ ‖w_k − z‖^2 − ρ_k(4 − ρ_k) = (‖x_k − z‖ + α_k‖x_k − x_{k−1}‖) ^2 − ρ_k(4 − ρ_k) Do đó, ‖x_{k+1} − z‖^2 ≤ ‖x_k − z‖^2 + 2‖x_k − z‖α_k‖_x_k − x_{k−1}‖ + (α_k‖x_k − x_{k−1}‖) ^2 − ρ_k(4 − ρ_k) 2 ≤ ‖_x_k − z‖^2 − ‖_k{1} − z‖_k{1} − z‖_
+(10) Vì chuỗi {x_k} bị giới hạn, kết hợp với chú ý 2.1 và bất bình đẳng (9), chúng ta thấy rằng chuỗi này là Fejér đơn điệu đối với tập hợp giải pháp. Sau đó, theo Lemma 2.2 với σ_k = 2‖x_k−z‖α_k‖x_k−x_{k−1}‖ + (α_k‖x_k−x_{k−1}‖) ^ 2 + β_k M^ 2, sau đó là lim_{k→∞}‖x_k−z‖ tồn tại, và bằng cách lấy giới hạn trong (10) chúng ta có được lim_{k→∞} ρ_k(4 − ρ_k) f^2(w_k) ‖f_{w_k) ‖2 = 0. Dưới giả định (C1), chúng ta suy ra rằng 2 = 0.
+(11) Vì f là Lipschitz, chúng ta có ‖f(w_k)‖ = ‖f(w_k) − f(z)‖ ≤ ‖A‖^2‖w_k − z‖ cho tất cả z ∈ Ω.
+Tạp chí Khoa học Giao thông và Truyền thông, Tập 74, Số 6 (08/2023), 752-763 Từ đây, chúng ta suy luận rằng chuỗi {f(wk) } bị giới hạn (hoặc chúng ta có thể lập luận như trong phần đầu tiên của bằng chứng để có được ‖f(wk) ‖ ≤ √2M1‖A*‖).
+Kết hợp điều này với (11), chúng ta có được \[ \lim_{k \to \infty} f(w_k) = 0. \]
+(12) Chúng ta sẽ cho thấy rằng \(\omega_w(x_k) \subset \Omega. Hãy lấy bất kỳ \(\bar{x} \in \omega_w(x_k) nào. Vì chuỗi \({x_k}) được ràng buộc, có một chuỗi con \({x_{k_l}\) hội tụ yếu đến \(bar{x}\). Mặt khác, theo thuật toán, \(w_k = x_k + \alpha_k - x{k-1})), vì vậy \(w_k - x_k\fadfadfad = \alpha_k_x - x{k-1}) \leq \epsilon 0 \k_{x_{k} (13)). Từ đó, chúng ta có thể suy ra rằng \ ({x_{k_{x}{x}{k
+Do đó, chúng ta có Ax̅ ∈ Q. Điều này dẫn đến x̅ ∈ Ω. Vì x̅ được chọn tùy ý từ ω_w(x_k), điều này dẫn đến ω_w(x_k) Ω.
+Theo Lemma 2.2, tuyên bố cần chứng minh như sau.
+Ghi chú 2.3. Kết quả hội tụ của chúng tôi mở rộng và cải thiện kết quả trong [69, 24].
+Bằng chứng hội tụ cho thuật toán được đề xuất của chúng tôi cũng khác với các kết quả khác sử dụng các kỹ thuật quán tính [6,16-19].
+Bình luận 2.4.
+Nếu β_k = 0 cho tất cả k, thì trong chứng minh Định lý 2.1, thuật ngữ β_kw_k − λ_kf(w_k) + 2β_kd_k − z, d_k sẽ không còn xuất hiện, và do đó điều kiện (C2) không còn cần thiết.
+2.3.
+Kết quả số Trong phần này, chúng ta xem xét vấn đề LASSO sau: 2 như ‖x‖1 ≤ t, (14) giảm thiểu trên x∈Rn nơi b∈Rm là tín hiệu được quan sát với tiếng ồn η, x∈Rn là tín hiệu được thu hồi và A (m×n) là ma trận lấy mẫu. Nói chung, A là ma trận không có điều kiện. Thiết lập C {x: ‖x‖1 ≤ t} và Q = {b} sau đó vấn đề tối ưu hóa bị ràng buộc (14) giảm xuống vấn đề khả thi phân chia (1).
+Chúng ta chọn dữ liệu như sau.
+Vector x∈Rn là một tín hiệu l-sparse được tạo ra từ một phân phối Gaussian với l yếu tố không bằng 0 được chọn ngẫu nhiên.
+Ma trận A (m × n) được tạo ra từ một phân phối bình thường với trung bình là 0 và độ biến dạng là 1.
+Chúng ta sẽ so sánh thuật toán 2.1 (CGCQ) với thuật toán CQ [9] (Lopez et al. thuật toán), thuật toán tăng tốc của Gibali-Mai-Vinh (iCQ) [6], thuật toán 1 của Kesornprom et al. [8] (CQ-gradient), và thuật toán 1 của Huang-Liu [7] (CGCQ-gradient).
+Vector quan sát được là b = Ax + η, trong đó η là tiếng ồn Gaussian trắng với độ phân biến bằng 1.
+Chúng ta lấy Tạp chí Khoa học Giao thông và Truyền thông, Tập 74, Số 6 (08/2023), 752-763 m = 2048, n = 4096, l = 160 (số thành phần không bằng 0, εk = βk = k1.1, ρk = 3.9, θ = 0.6 và cùng một điểm ban đầu x0 = (0, ..., 0) cho cả ba thuật toán.
+Tham số quán tính trong Thuật toán 2.1 và Thuật toán 1 của Gibali-Mai-Vinh được chọn như sau: θ, xk = xk−1, αk = { min {θ, 1 / k^{1.1}‖xk−xk−1‖^2}, nếu xk ≠ xk−1.
+Các thuật toán kết thúc khi lỗi bình phương trung bình MSE = (1/n) ‖x_k − x ‖2 < 10−6 hoặc khi số lần lặp đạt 1000.
+Tín hiệu x được phục hồi bằng cách giải quyết vấn đề LASSO (14).
+Kết quả số được tính toán bằng Matlab 2016a. Hình 1 và 2 dưới đây minh họa các kết quả số cho trường hợp m = 2048, n = 4096, l = 160; Hình 3 và 4 tiếp tục minh họa các kết quả số cho trường hợp m = 512, n = 1024, l = 40. Hình 1: Tín hiệu ban đầu và tín hiệu quan sát với m = 2048, n = 4096, l = 160. Hình 2: Tín hiệu thu hồi và so sánh MSE (thời gian tính toán trong giây) cho trường hợp 1. Hình 3: Tín hiệu ban đầu và tín hiệu quan sát với n = 1024, m = 512, l = 40. Hình 4: Tín hiệu thu hồi và so sánh MSE (thời gian tính toán trong giây) cho trường hợp 2.
+Từ việc quan sát các kết quả số, chúng ta thấy rằng tất cả các thuật toán lấy tín hiệu rải rác ban đầu với độ chính xác khá cao. Với cùng mức độ lỗi ε = 10−6, thuật toán của chúng tôi đạt được thời gian tính toán nhanh nhất, cho thấy hiệu quả của việc xây dựng chuỗi vector {dk}.
+Từ hình 4 (trường hợp 2), trong so sánh MSE chúng ta thấy rằng, ngoài các thuật toán CGCQ và CGCQ-gradient, các thuật toán còn lại đã không đạt đến mức lỗi ngay cả sau 1000 lần lặp lại. Chúng ta cũng quan sát thấy rằng thuật toán CGCQ-gradient hiệu quả hơn khi chiều thấp. Điều này cũng cho thấy rằng, đối với các thuật toán yêu cầu nhiều bước tính toán và đánh giá thường xuyên của hàm và các dẫn xuất của nó, thuật toán chạy tương đối chậm.
+3.
+Kết luận Trong bài viết này, chúng tôi đề xuất một thuật toán CQ quán tính với hướng gradient liên hợp để giải quyết vấn đề khả thi phân chia (1) trong không gian Hilbert. Kích thước bước được tính toán bằng công thức Polyak, rất hiệu quả khi giá trị tối ưu được biết đến. Chúng tôi cho thấy rằng trình tự được tạo ra bởi thuật toán được đề xuất hội tụ yếu đến một giải pháp của vấn đề khả thi phân chia.
+Thuật toán của chúng tôi đã cải thiện và mở rộng một số phương pháp CQ với kích thước bước Polyak được trình bày trong các nghiên cứu gần đây. Kết quả số cho thấy hiệu quả của nó so với các thuật toán đã biết.
+Tạp chí Khoa học Giao thông và Truyền thông, Tập 74, Số 6 (08/2023), 752-763 KẾT QUẢ THT Nghiên cứu này được tài trợ bởi Đại học Giao thông và Truyền thông theo mã dự án T2023-CB-001.
+REFERENCES [1] (Tạm dịch:
+Y.
+Algor., 8 (1994) 221-239. https://doi.org/10.1007/BF02142692 [2].
+P.K.
+Anh, N.T Vinh, V.T.
+https://doi.org/10.1088/0266-5611/18/2/310 [4].
+Y. Med.
+Biol., 51 (2003) 2353-2365. https://doi.org/10.1088/0031-9155/51/10/001 [5].
+Q.L.
+Dong, S. He, M.T.
+Optim., 79 (2021) 813 836.
+https://doi.org/10.1007/s10898-020-00963-3 [6].
+A. Gibali, D.T.
+Mai, N.T.
+Quản lý.
+Optim., 15 (2019) 963-984. https://doi.org/10.3934/jimo.2018080 [7].
+Phys., 10 (2022) 1053353. https://doi.org/10.3389/fphy.2022.1053353 [8].
+Algor., 84 (2020) 997-1017. https://doi.org/10.1007/s11075-019-00790-y [9].
+Algor., 78 (2018) 739757.
+https://doi.org/10.1007/s11075-017-0398-6 [11].
+Lett., 16 (2022) 17251744.
+https://doi.org/10.1007/s11590-021-01798-x [12].
+Algor., 77 (2018) 925-938. https://doi.org/10.1007/s11075-017-0347-4 [13].
+Apple tinh khiết.
+Math., 59 (2006) 1207-1223. https://doi.org/10.1002/cpa.20124 [14].
+Algor., 76 (2017) 783798.
+https://doi.org/10.1007/s11075-017-0282-4 [15].
+Q.L.
+https://doi.org/10.1080/02331934.2022.2069567 [16].
+Tạp chí Khoa học Giao thông và Truyền thông, Tập 74, Số 6 (08/2023), 752-763 [17].
+Toán học.
+Comput., 68 (2022) 1699-1717. https://doi.org/10.1007/s12190-021-01585-y [18].
+N.T.
+Vinh, P.T.
+Meth.
+Sci., 39 (2016) 38083823.
+https://doi.org/10.1002/mma.3826 [19].
+https://doi.org/10.1080/02331934.2022.2070066 [20].
+https://doi.org/10.1088/0266-5611/21/5/009 [21].
+Toán học.
+- Đâm.
+https://doi.org/10.1016/j.jmaa.2004.07.048 [22].
+Alber, A.N.
+Iusem, M.V.
+Chương trình, 81 (1998) 23-35. https://doi.org/10.1007/BF01584842
+JOURNAL OF 108 - CLINICAL MEDICINE AND PHARMACY Vol.18 - No3/2023 DOI: https://doi.org/10.52389/ydls.v18i3.1810 Các đặc điểm dịch tễ học của các loại huyết thanh virus Dengue gây ra sốt xuất huyết ở một số quận của Hà Nội (2017-2019) Nguyễn Thị Văn*, Lê Anh*, Do Ngoc Anh*, Do Thi Thi Thi Dung**, Nguyễn Khác Luc* * Học viện Y tế Quân sự, ** Đại học Điều dưỡng Nam Dinh Mục tiêu tóm tắt: Xác tính dịch tễ học của các loại huyết thanh DENV gây ra sốt xuất huyết (DHF) ở một số quận của Hà Nội từ năm 2017 đến năm 2019. Các đối tượng và phương pháp: Phân tích hồi dữ liệu từ 270 trường hợp nhiễm huyết thanh DH
+Được nhận vào ngày 25 tháng 12 năm 2022; được chấp nhận xuất bản vào ngày 30 tháng 3 năm 2023.
+Email: bs.vank61@gmail.com - Học viện Y tế Quân sự Tạp chí 108 Y Tâm và Dược Phương Tập 18 - Số 3/2023 DOI: https://doi.org/10.52389/ydls.v18i3.1810 1.
+Tuyên bố vấn đề Kích thước mẫu và phương pháp lấy mẫu: Tổng số mẫu. Tất cả bệnh nhân sốt xuất huyết do bệnh dịch dengue báo cáo bởi CDC Hà Nội trong ba năm từ 2017 đến 2019 đã được đưa vào phân tích dịch tễ học của sốt xuất huyết do bệnh dịch dengue, cụ thể là 16.977 bệnh nhân.
+Bệnh nhân bị sốt xuất huyết Dengue có kết quả xét nghiệm huyết thanh đã được đưa vào để phân tích dịch tễ học của các loại huyết thanh virus Dengue, cụ thể là tổng cộng 270 bệnh nhân.
+Tài liệu nghiên cứu: Báo cáo thống kê bệnh nhân thu thập tại Trung tâm kiểm soát dịch bệnh Hà Nội. Mẫu máu được lấy từ 270 bệnh nhân mắc bệnh sốt xuất huyết Dengue và được thử nghiệm DENV ở Trung tâm kiểm soát dịch bệnh Hà Nội bằng phương pháp PCR.
+Định nghĩa biến và phương pháp đo lường: Một năm dịch được định nghĩa là một năm trong đó số trường hợp sốt xuất huyết do sốt xuất huyết tăng bất thường, ít nhất gấp đôi số trường hợp trong các năm khác [7].
+2.3.
+Quá trình xử lý dữ liệu Dữ liệu đã được phân tích bằng phương pháp thống kê sinh học với phần mềm SPSS 22 và Excel 2016.
+3.
+Kết quả Sốt dengue là một bệnh truyền nhiễm do virus Dengue gây ra.
+Đây là một trong 20 bệnh truyền nhiễm nổi bật được theo dõi, theo dõi và báo cáo thường xuyên thông qua hệ thống giám sát dịch bệnh quốc gia hàng tuần [1].
+Virus Dengue bao gồm bốn loại huyết thanh: DENV1, DENV2, DENV3 và DENV4. Theo các nghiên cứu trước đây, sự phân bố của các loại huyết thanh virus Dengue khác nhau trong các khu vực địa lý khác nhau, và loại huyết thanh chủ yếu chịu trách nhiệm cho các đợt bùng phát thay thế theo thời gian và theo địa điểm. [2] Các biểu hiện lâm sàng gây ra bởi các loại huyết thanh DENV khác nhau tương đối tương tự.
+Ở Hà Nội, đã có nhiều nghiên cứu về sốt xuất huyết do sốt xuất huyết nặng, nhưng hầu hết đều tập trung vào chính bệnh và vi-rút vector, với một số ít điều tra sự phân bố của các loại huyết thanh theo thời gian, không gian và trong số các quần thể bị ảnh hưởng. Nghiên cứu này nhằm mô tả một số đặc điểm dịch tễ học của các loại huyết thanh virus Dengue gây ra sốt xuất huyết do sốt xuất huyết nặng ở các quận được chọn của Hà Nội trong khoảng thời gian ba năm từ 2017 đến 2019.
+2. Đánh giá
+Chủ đề và phương pháp 2.1.
+Các đối tượng hình 1.
+Số ca mắc sốt xuất huyết theo năm Bệnh nhân mắc sốt xuất huyết do bệnh nhân xuất huyết được Trung tâm kiểm soát dịch bệnh Hà Nội (CDC) báo cáo hàng năm theo hướng dẫn trong Quyết định số 3711/QD-BYT ngày 19 tháng 9 năm 2014, do Bộ Y tế ban hành. Thời gian: Từ ngày 1 tháng 1 năm 2017 đến ngày 31 tháng 12 năm 2019.
+Vị trí: Bốn quận của Hà Nội đại diện cho hai khu vực sinh thái: đô thị (Dong Da, Hoang Mai) và nông thôn (Thuong Tin, Hoai Duc).
+2.2.
+Phương pháp Trong ba năm, tổng cộng có 16.977 trường hợp sốt xuất huyết do sốt xuất huyết nặng đã được biên soạn và báo cáo bởi CDC Hà Nội. 2017 là năm có số trường hợp cao nhất, đạt 12.162. Với số trường hợp này, 2017 được phân loại là năm dịch bệnh. Trong năm 2018 và 2019, số trường hợp lần lượt là 1.380 và 3.435 , vì vậy hai năm này được phân loại là năm không dịch bệnh.
+Thiết kế nghiên cứu: Nghiên cứu mô tả, hồi tưởng.
+Kết quả của năm cô lập virus sốt xuất huyết DENV Loại 2017 2018 2019 Tổng số phần trăm (%) Số phần trăm (%) Số phần trăm (%) Số phần trăm (%) Trong ba năm, mẫu máu từ 270 bệnh nhân đã được kiểm tra để xác định loại huyết thanh virus sốt xuất huyết. Kết quả cho thấy ba loại huyết thanh DENV1, DENV2 và DENV4 đang lưu hành tại các địa điểm nghiên cứu. Trong số này, DENV1 chiếm tỷ lệ cao nhất (60%). DENV4 có tỷ lệ thấp nhất (1,5%).
+Bảng 2.
+Phân phối các loại huyết thanh DENV theo đối tượng nghiên cứu DENV1 Số lượng DENV khác Tỷ lệ phần trăm (%) Số lượng phần trăm (%) Đặc điểm huyết thanh Nhóm tuổi ≤ 15 (n = 25) 20 80, 0 5 20, 0 p=0, 054 > 15 (n = 245) 142 58, 0 103 42, 0 Giới tính Phụ nữ (n = 147) 89 60, 5 58 39, 5 p=0, 85 Nam (n = 123) 59, 733 50 40, 7 Tổng 162 108 Tỷ lệ nhiễm DENV1 ở trẻ em (≤ 15 tuổi) là 80, 0%, cao hơn so với nhóm > 15 tuổi (58, 0%), tuy nhiên, sự khác biệt gần như không đáng kể.
+Phân phối các loại huyết thanh DENV theo thời gian Năm DENV huyết thanh năm dịch 2017 Những năm không dịch 2018, 2019 p Số tỷ lệ (%) Số tỷ lệ (%) DENV1 (n = 162) 118 68.2 44 45.4 <0.001 DENV khác (n = 108) 55 31.8 53 54.6 Tổng số 173 97 Sự lưu hành của các loại huyết thanh DENV theo thời gian cho thấy sự khác biệt có ý nghĩa thống kê với p < 0.001. Trong năm dịch (2017), lưu hành của DENV1 (68.2%) cao hơn so với những năm không dịch (45.4%).
+Bảng 4.
+Phân bố các loại huyết thanh DENV theo vùng sinh thái DENV serotype Khu vực sinh thái DENV1 DENV khác p Số Tỷ lệ phần trăm (%) Số Tỷ lệ phần trăm (%) Nông thôn (n = 102) 66 64.7 36 35.3 = 0.33 Thành phố (n = 168) 96 57.1 72 42.9 Tổng số 162 108 4.
+Trong các khu vực đô thị, lưu thông của DENV1 thấp hơn so với các khu vực nông thôn; tuy nhiên, sự khác biệt không có ý nghĩa thống kê với p> 0,05.
+Sự phân bố của các loại huyết thanh của virus Dengue thay đổi theo từng năm và từ một khu vực này sang khu vực khác. [1] Kết quả trong Bảng 1 cho thấy, trong ba năm từ 2017 đến 2019 tại Hà Nội, ba loại huyết thanh đã lưu hành: DENV1, DENV2 và DENV4, dần dần thay thế các loại huyết thanh chiếm ưu thế trước đó.
+Theo nghiên cứu của Truong Uyen Ninh, virus DENV1 có chu kỳ hoạt động khoảng 8 năm: vào năm 1989, 1996 và 2000 [15].
+Trong số ba loại huyết thanh lưu hành được xác định tại địa điểm nghiên cứu, DENV1 chiếm đa số (60%), tiếp theo là DENV2 (38,5%); DENV4 chiếm tỷ lệ rất nhỏ. Kết quả giám sát virus học trong gần hai thập kỷ cũng đã ghi nhận DENV-1 và DENV2 là hai loại huyết thanh chủ yếu gây bệnh trên khắp Việt Nam [8]. Phát hiện của chúng tôi phù hợp với các báo cáo của Đường Thị Thuy và Takemura trong đợt bùng phát sốt xuất huyết dengue năm 2017, trong đó DENV1 đóng vai trò gây bệnh chính [9], [10]. Các nghiên cứu khác ở châu Á cũng đã chứng minh rằng sự phân bố của các loại huyết thanh lưu hành DENV khác nhau theo khu vực. Ví dụ, một nghiên cứu của Cao et al. ở Trung Quốc trong năm 2014-2015 cho thấy DENV1 chiếm ưu thế ở Quảng
+Sự phân bố của các loại huyết thanh DENV ở Nhật Bản, theo một nghiên cứu của Ommer và các đồng nghiệp được công bố vào năm 2021, bao gồm sự lưu hành của ba loại huyết thanh: DENV1, DENV2 và DENV3, với DENV2 đóng vai trò chính trong gây bệnh [12].
+Sự khác biệt giữa bốn loại huyết thanh DENV trong các triệu chứng lâm sàng là khó xác định vì biểu hiện của chúng tương đối tương tự [3].
+Kết quả trong Bảng 2 cho thấy không có sự khác biệt về tỷ lệ nhiễm trùng với các loại huyết thanh DENV trong các nhóm nghiên cứu, giữa trẻ em và người lớn, hoặc giữa nam giới và nữ giới.
+Một nghiên cứu ở Ả Rập Saudi cho thấy sự phân bố của các loại huyết thanh DENV không khác nhau giữa hai giới, trong khi sự phân bố của DENV2 và DENV3 khác nhau giữa các nhóm tuổi; tuy nhiên, sự phân bố của DENV1 tương tự nhau giữa các nhóm tuổi [12]. Trong nghiên cứu này, DENV1 chiếm phần lớn các trường hợp, vì vậy phát hiện rằng không có sự khác biệt trong sự phân bố của các loại huyết thanh DENV giữa các nhóm nghiên cứu là phù hợp.
+Kết quả của chúng tôi phù hợp với một nghiên cứu ở Sri Lanka, trong đó phát hiện ra rằng sự phân bố của các loại huyết thanh DENV không khác nhau theo độ tuổi hoặc giới tính [16].
+Ở Sri Lanka, sự phân bố của DENV1 và DENV3 khác nhau giữa các khu vực; tuy nhiên, không có sự khác biệt trong sự phân bố của DENV2 và DENV4 [16].
+Ở Campuchia, trong giai đoạn 2012-2015, DENV4 chỉ chiếm 9% và chủ yếu được tìm thấy ở các khu vực nông thôn; trong năm 2016 và 2017, DENV4 chiếm 70% và 67%, xuất hiện ở cả các khu vực nông thôn và thành phố thủ đô Vientiane (vùng đô thị) [17].
+Ở Việt Nam, vẫn còn rất ít nghiên cứu phân tích sự phân bố các loại huyết thanh DENV theo khu vực sinh thái; do đó, cần nghiên cứu thêm trong các lĩnh vực khác.
+5. Đánh giá
+Kết luận Nghiên cứu về sự phân bố theo thời gian của các loại huyết thanh DENV trong Bảng 3 cho thấy tỷ lệ của loại huyết thanh DENV1 trong năm dịch 2017 (68,2%) cao hơn so với những năm không dịch (45,4%). Sự phổ biến cao hơn của DENV1 trong năm dịch 2017 có thể là do số lượng virus có mặt trong huyết thanh của các cá nhân bị nhiễm DENV1 cao hơn so với các loại huyết thanh DENV khác [13]. Điều này có thể được giải thích một phần bằng hiện tượng tăng cường phụ thuộc kháng thể (ADE), trong đó các kháng thể từ nhiễm Dengue chính liên kết với các hạt DENV trong một nhiễm trùng tiếp theo với một loại huyết thanh DENV khác. Các kháng thể được tạo ra từ nhiễm trùng ban đầu không thể vô hiệu hóa virus.
+Thay vào đó, phức hợp kháng thể virus gắn vào các thụ thể được gọi là thụ thể Fcγ trên các tế bào đơn hạt nhân lưu thông. Các kháng thể giúp virus lây nhiễm monocyte hiệu quả hơn.
+Kết quả là sự gia tăng tổng thể trong sự sao chép virus, dẫn đến tải virus cao hơn trong cơ thể [6].
+Thông qua phân tích dữ liệu từ 270 bệnh nhân mắc bệnh sốt xuất huyết Dengue có loại huyết thanh gây bệnh sốt xuất huyết được xác định trong ba năm (2017 2019) tại Hà Nội, chúng tôi rút ra các kết luận và khuyến nghị sau: Mỗi loại huyết thanh DENV gây bệnh thường lưu hành theo chu kỳ [14], bởi vì sau khi nhiễm một loại huyết thanh DENV cụ thể, bệnh nhân phát triển khả năng miễn dịch cụ thể đối với loại huyết thanh đó.
+Ba loại huyết thanh DENV gây bệnh đã được phát hiện, với DENV1 có tỷ lệ cao nhất (60%), tiếp theo là DENV2 (38,5%) và DENV4 chiếm tỷ lệ rất thấp (1,5%).
+Sự phân bố của các loại huyết thanh DENV thay đổi theo thời gian, với tỷ lệ DENV1 trong năm dịch bệnh năm 2017 (68,2%) cao hơn so với các năm không dịch bệnh năm 2018 và 2019 (45,4%).
+Nam Việt Nam trong giai đoạn từ năm 2005 đến năm 2004.
+Tạp chí Y học phòng ngừa 5 (165), trang.
+4246.
+9.
+Dang Thi Thuy (2021) Đặc điểm sinh học phân tử và tương quan lâm sàng của bệnh sốt xuất huyết loại 1 gây ra đợt bùng phát năm 2017.
+Tạp chí Nghiên cứu Y khoa 139 (3), trang.
+108-116.
+Mười.
+Takemura T, Nguyen CT, Pham HC et al. (2022) Sự phân bố của DENV1 so với các loại huyết thanh DENV khác theo đối tượng (trẻ em, người lớn, nam và nữ) và theo khu vực sinh thái (nhà quê, thành phố) không cho thấy sự khác biệt.
+Khuyến nghị: Tiến hành xét nghiệm huyết thanh cho DENV từ đầu mùa bùng phát trên quy mô rộng để giúp dự đoán mức độ dịch bệnh trong năm trong khu vực.
+11 tuổi.
+Cao J, Deng H, Ye L và các cộng sự (2019) Bệnh dịch
+Bộ Y tế (2014) Quyết định số 3711/QĐ-BYT 2014 hướng dẫn và đặc điểm lâm sàng của dịch virus Dengue ở hai khu vực của Trung Quốc, 2014-2015.
+PLoS One 14: 0213353. https://doi.org/10.1371/journal.pone.0213353.
+12 tuổi.
+Ommer D, Abdulaziz H, Elsiddig N và các cộng sự (2021) đã tiến hành giám sát để phòng ngừa và kiểm soát sốt xuất huyết.
+https://thuvienphapluat.vn/van-ban/The-thao-Y-te/Quyết định-3711-QD-BYT-2014-hướng dẫn-đối với-quan sát-phòng ngừa-và-kiểm soát-sốt dengue-251556.aspx.
+WHO (2021) Dengue và sốt xuất huyết Dengue.
+https://doi.org/10.36959/856/520.
+13 tuổi.
+3.
+Dang Thi Thuy (2013) Đặc điểm lâm sàng của sốt xuất huyết Dengue theo các loại huyết thanh virus gây ra Dengue.
+Tạp chí Y học phòng ngừa, số 2 (137), trang.
+30-34.
+4.
+PLoS Negl Trop Dis 5: 1244. https://doi.org/10.1371/journal.pntd.0001244.
+14.
+PLoS Negl Trop Dis 4: 617.
+pntd.0000617.
+5. Đánh giá
+Rev Med Virol 29: 2037. https://doi.org/10.1002/rmv.2037.
+15 người.
+Truong Uyen Ninh (2002) Giám sát các loại huyết thanh virus Dengue lưu hành ở Việt Nam, 1987-2001.
+Tạp chí Y học phòng ngừa số 5 (56), Tập XII, trang.
+21 đến 26.
+16 tuổi.
+Jayadas TTP, Kumanan T, Gomes L và các cộng sự (2021) Phân tích tổng hợp mức độ nghiêm trọng của bệnh sốt xuất huyết trong khi nhiễm trùng bởi các loại huyết thanh virus sốt xuất huyết khác nhau trong các bệnh nhiễm trùng sơ cấp và thứ cấp.
+PLoS One 11:e0154760.
+https://doi.org/10.1371/journal.pone.0154760.
+6.
+Mô hình tăng cường phụ thuộc kháng thể của sự thay đổi khu vực trong các loại huyết thanh virus sốt xuất huyết ở Sri Lanka và sự liên quan lâm sàng và dịch tễ học của nó.
+Chẩn đoán (Basel) 11: 2084. https://doi.org/10.3390/diagnostics11112084.
+17 tuổi.
+Calvez E, Pommelet V, Somlor S et al. (2020) Xu hướng lưu hành của Dengue Serotype-4 với những hiểu biết về dịch tễ học, sinh học và côn trùng học ở Lào giữa năm 2015 và 2019.
+7.
+8.
+Cao Minh Thang (2015) Giám sát virus học của bệnh sốt xuất huyết trong chương trình mục tiêu quốc gia để phòng ngừa và kiểm soát bệnh xuất huyết trong khu vực
+Công nghệ sinh học và các giống cây trồng Nghiên cứu về chiết xuất tổng số polysaccharides từ một số nấm Ganoderma lucidum và đánh giá các hoạt động sinh học của chiết xuất Nguyễn Nhạc Ngọc*, Nguyễn Thị Hồng Nhung, Kieu Tra My, Nguyễn Hồng Phan, Vu Cao Tuyet Ngan Đại học lâm nghiệp quốc gia Việt Nam Chiết xuất tổng số polysaccharide và các hoạt động sinh học đánh giá các chiết xuất Nguyễn Nhạc Ngọc*, Nguyễn Hồng Nhung, Kieu Tra My, Nguyễn Hồng Phan, Vu Cao Tuyet Ngan Đại học lâm nghiệp quốc gia Việt Nam * Tác giả tương ứng: ngocnn@vnuf.edu.vn https://doi.org/10.55250/jov.nuf.13.5.2024.019-011 Thông tin
+Ganoderma lucidum là một loại nấm thuốc có giá trị được sử dụng rộng rãi ở nhiều quốc gia do tác dụng chống ung thư, chống oxy hóa, chống viêm và điều chế miễn dịch. Ganoderma lucidum chứa nhiều chất chuyển hóa hoạt tính sinh học, trong đó polysaccharides (PS) đã được chứng minh là một trong những nhóm hoạt tính sinh học nổi bật nhất. Hàm lượng và hoạt tính của các hợp chất này phụ thuộc vào điều kiện trồng trọt, phương pháp chiết xuất và loài. Nghiên cứu này được thực hiện để chiết xuất các hợp chất PS và đánh giá hoạt tính sinh học của chiết xuất từ bốn loại nấm Ganoderma lucidum: Ganoderma Hàn Quốc (CHL), Ganoderma trồng trọt (LCV), Ganoderma hoang dã (XLR) và Lim xanh trồng trọt (LXV). Các kết quả chiết xuất
+1.
+Lakshmi et al. (2006) phát hiện ra rằng việc sử dụng Ganoderma lucidum chiết xuất cho chuột với liều 500 mg / kg / ngày trong 30 ngày trước khi gây tổn thương gan với benzo ((a) pyrene đã mang lại tác dụng bảo vệ gan. Chiết xuất này ngăn ngừa sự gia tăng hoạt động của AST, ALT và phosphatase kiềm (ALP) trong huyết thanh gây ra bởi benzo ((a) pyrene và tăng mức GSH, SOD, GpX, CAT và glutathione S-transferase (GST) [3].
+Gao và cộng sự cũng báo cáo trong một nghiên cứu liên quan đến 71 bệnh nhân trưởng thành mắc bệnh tiểu đường loại 2. Những bệnh nhân này đã được bổ sung Ganopoly (một phân đoạn polysaccharide chiết xuất từ Ganoderma lucidum) uống với liều 1800 mg, ba lần một ngày trong 12 tuần.
+Ganoderma lucidum là một loại nấm dược liệu đã được sử dụng như một chất dược liệu có giá trị trong y học truyền thống của một số quốc gia như Trung Quốc, Hàn Quốc, Nhật Bản và Việt Nam trong nhiều thế kỷ. Ganoderma lucidum được biết là có nhiều tác dụng đối với sức khỏe con người, bao gồm chống ung thư, chống oxy hóa, hoạt động chống viêm, ổn định huyết áp, điều chỉnh các rối loạn trao đổi chất như tiểu đường và béo phì, và tăng cường miễn dịch, trong số những người khác. Các nghiên cứu về chiết xuất G. lucidum đã chỉ ra rằng thành phần hóa học của chúng bao gồm 11,1% glucose, 10,2% khoáng chất (bao gồm K, Mg, và Ca), và 7,3% protein. Đáng chú ý, các hợp chất hoạt tính sinh học quan trọng bao gồm polysaccharides, triterpenes
+Mendel Friedman đã nghiên cứu cơ chế hoạt động của các hợp chất polysaccharide chiết xuất từ một số loại nấm dược phẩm như Maitake (Grifola frondosa), Shiitake (Lentinus edodes), Ganoderma (Ganoderma lucidum) và Cordyceps (Cordyceps sinensis). Kết quả cho thấy polysaccharides thể hiện tác dụng chống ung thư, điều chế miễn dịch, chống viêm, chống nhiễm trùng, kháng virus, chống oxy hóa, hạ đường huyết và bảo vệ gan, cũng như bảo vệ chống căng thẳng mãn tính. [2] Trong một thử nghiệm lâm sàng được thực hiện trên chuột bởi một nhóm tác giả Với sự phát triển của ngành công nghiệp dược phẩm và nhu cầu ngày càng tăng đối với việc sử dụng các sản phẩm tự nhiên trong chăm sóc sức khỏe, các hợp chất dược phẩm có giá trị từ nấm hiện đang được
+2.1.2.
+Các chủng vi khuẩn đã được sử dụng để thử nghiệm nấm Ganoderma lucidum, với mục đích đóng góp vào cơ sở dữ liệu hiện có về chiết xuất các hợp chất hoạt tính sinh học từ Ganoderma lucidum ở Việt Nam và cung cấp cơ sở khoa học cho nghiên cứu thêm về cấu trúc và hoạt động sinh học của Ganoderma lucidum, do đó định hướng phát triển các sản phẩm thực phẩm chức năng có giá trị cao với lợi ích dược phẩm.
+2. Đánh giá
+Phương pháp nghiên cứu 2.1.
+Vật liệu 2.1.1.
+Ganoderma lucidum - Nấm xanh hoang dã Lim (LXR) đã được thu thập tại quận Son Dong, tỉnh Bac Giang.
+Bốn chủng vi khuẩn kiểm soát, bao gồm một chủng dương tính gram: Bacillus cereus, và ba chủng âm gram: Escherichia coli, Shigella sp và Salmonella sp, là các chủng tiêu chuẩn quốc tế (ATCC), được cung cấp bởi Khoa Vi sinh và Công nghệ Hóa sinh học, Viện Công nghệ sinh học rừng, Đại học lâm nghiệp quốc gia Việt Nam.
+Hình 1.
+Mẫu Ganoderma lucidum nấm 2.2.
+Phương pháp 2.2.1.
+Xác định hàm lượng độ ẩm của mẫu 2.2.2.
+Phương pháp chiết xuất và định lượng polysaccharide Các mẫu nấm Ganoderma lucidum đã được sấy khô, cắt lát và nghiền thành bột để xác định hàm lượng độ ẩm và tổng phế theo Tiểu sử dược phẩm Việt Nam V, Ganoderma [5].
+Trọng lượng 1 g mẫu khô, thêm nước hoặc 80% ethanol để chiết xuất polysaccharides theo tỷ lệ được chỉ định. Đối với các mẫu thể hiện hoạt động mạnh, với sự ức chế trên 50% ở nồng độ 10 μg / ml, thử nghiệm tiếp theo được thực hiện ở nồng độ thấp hơn 5, 2 và 1 μg / ml.
+Chuẩn bị một đường cong hiệu chuẩn axit gallic ở nồng độ 0, 2, 4, 6, 8 và 10 μg / ml. Tất cả các thí nghiệm được thực hiện ba lần.
+Hoạt động chống oxy hóa Hoạt động quét gốc (RSA) được tính như sau: Tỷ lệ mẫu khô với dung môi là 1/25 (w/v); chiết xuất được thực hiện ở 90 ° C trong 120 phút, lặp lại hai lần. Chiết xuất được kết tủa với ethanol tuyệt đối với tỷ lệ 1: 4, để kết tủa qua đêm ở 4 ° C và ly tâm để thu thập kết tủa ở 8000 vòng/phút trong 30 phút. Các kết tủa được rửa với 70% v/v ethanol, sau đó khô ở 45 ° C trong 24 giờ để có được polysaccharides thô.
+Hàm lượng polysaccharide được định lượng bằng phương pháp sulfuric phenol [7]. cụ thể, 3000 μl 98% H2SO4 được thêm vào một ống Eppendorf chứa 1000 μl dung dịch mẫu và trộn kỹ. Sau đó, 600 μl 5% phenol được thêm vào ống. Hỗn hợp được xoáy mạnh trong 30 giây. Phản ứng được thực hiện trong bồn tắm nước ở 95 100 ° C trong 5 phút. Sau khi làm mát, độ hấp thụ được đo ở 490 nm.
+Một đường cong tiêu chuẩn glucose (0200 μg/mL) đã được sử dụng để xác định hàm lượng polysaccharide trong các mẫu [8].
+2.2.3.
+Phương pháp chuẩn bị chiết xuất RSA (%) = (Akc Atn) / Akc x 100%, trong đó Akc và Atn là giá trị OD517nm của đối chứng âm và mẫu thử hoặc đối chứng dương, tương ứng.
+Xác định IC50 (nồng độ mẫu có khả năng loại bỏ 50% các gốc tự do): Dựa trên RSA (%) được xác định ở các nồng độ mẫu khác nhau, một phương trình hiệu chuẩn cho khả năng loại bỏ gốc của mẫu được xây dựng. IC50 được xác định bằng công thức sau: X = (50 b) / a, nơi X là nồng độ mẫu loại bỏ 50% các gốc tự do, và a và b là hệ số của phương trình RSA (%) dưới dạng y = ax + b, được xây dựng từ các nồng độ mẫu khác nhau. Giá trị IC50 càng thấp, hoạt động chống oxy hóa càng cao và ngược lại.
+Ganoderma lucidum bột (20 g) được chiết xuất với 80% dung môi ethanol (tỷ lệ rắn / lỏng 1:40 1:45), ngâm ở nhiệt độ phòng trong 72 giờ. dung dịch chiết xuất được lọc và dung môi được loại bỏ bằng cách bốc hơi chân không để có được chiết xuất. Chiết xuất sau đó được sử dụng để xác định hoạt động chống oxy hóa và hoạt động kháng khuẩn.
+2.2.4.
+Phương pháp xác định hoạt động chống oxy hóa Việc phân loại khả năng chống oxy hóa của các mẫu đã được nhóm theo phương pháp của Tukiran (2016) [10].
+IC50 < 50 μg/ ml: rất hoạt động; 50 μg/ ml < IC50 < 100 μg/ ml: hoạt động; 100 μg/ ml < IC50 < 200 μg/ ml: có khả năng chống oxy hóa; IC50 > 200 μg/ ml: yếu hoặc không có khả năng chống oxy hóa.
+2.2.5.
+Phương pháp xác định hoạt động kháng khuẩn Cân một lượng thích hợp chiết xuất, hòa tan nó trong 90% ethanol, và pha loãng đến nồng độ 100, 50, 25 và 10 μg / ml. Thêm 1,5 ml dung dịch DPPH 0,1 mM vào 1,5 ml dung dịch mẫu ở mỗi nồng độ tương ứng (100, 50, 25, 10 μg / ml) trong 90% ethanol, sau đó ủ các dung dịch trong bóng tối trong 30 phút. Đo độ hấp thụ ở 517 nm.
+Chiết xuất được hòa tan trong Dimethyl Sulfoxide đến nồng độ 1 mg / ml cho các thủ tục tiếp theo.
+Phương pháp thu thập và xử lý dữ liệu Các thí nghiệm được lặp lại ba lần, sau đó kết quả được thu thập và xử lý bằng phần mềm Excel.
+3.
+Kết quả và thảo luận 3.1. Kết quả kiểm tra độ ẩm và độ tinh khiết của mẫu 3.1.1. Khảo sát các vật liệu đầu vào để thử nghiệm hoạt động kháng khuẩn. Khả năng ức chế sự phát triển của vi khuẩn được xác định bằng phương pháp khuếch tán agar. Sau khi đổ agar và dải các chủng vi khuẩn kiểm soát, một vòng vô trùng được sử dụng để tạo ra bốn giếng, với 100 μl dung dịch chiết xuất được thêm vào mỗi giếng. Các tấm agar được đặt trong tủ lạnh ở 4 ° C trong 15 phút, sau đó ủ ở 37 ° C trong 24 giờ. Các quan sát và kết quả sau đó được ghi lại. Streptomycin được sử dụng làm đối chứng dương và nước làm đối chứng âm. Việc xác định hàm lượng độ ẩm của các mẫu nguyên liệu cho thấy: hàm lượng độ ẩm là khoảng 10,8%, và hàm lượng tro tổng cộng là
+3.1.2.
+Tổng hàm lượng polysaccharide Hiệu ứng ức chế của vi khuẩn được đánh giá bằng cách đo đường kính của vùng rõ ràng được hình thành xung quanh các giếng.
+Hoạt động kháng khuẩn của chiết xuất đã được đánh giá theo bốn cấp (Faikoh và các cộng sự, 2014): D ≥ 15 mm: đối kháng mạnh; 15 mm > D ≥ 7,5 mm: đối kháng vừa phải; D < 7,5 mm: đối kháng yếu; D = 0 mm: không có đối kháng. Ở đây, D đề cập đến đường kính của vùng rõ ràng được hình thành xung quanh các giếng (không bao gồm đường kính của chính giếng) [11].
+Trong thí nghiệm này, để đánh giá tác động của các dung môi đối với hiệu quả chiết xuất polysaccharide, các mẫu được chiết xuất bằng hai loại dung môi: nước và 80% ethanol, ở nhiệt độ chiết xuất 90 ° C trong 120 phút, với hai chu kỳ chiết xuất. Các chiết xuất sau đó đã được phân tích tổng hàm lượng polysaccharide và kết quả được trình bày trong biểu đồ trong Hình 2.
+Hình 2.
+Hàm lượng polysaccharide trong các mẫu Chất hòa tan chiết xuất được sử dụng là nước, với nhiệt độ chiết xuất là 90 ° C, kích thước nguyên liệu là 0,4 cm, tỷ lệ vật liệu / dung môi là 1:20, và thời gian chiết xuất là 5 giờ, dẫn đến hàm lượng polysaccharide là 0,92% [13].
+Trong nghiên cứu của Tran Nhan Dung và các đồng nghiệp, khi sử dụng 1M NaOH làm dung môi, nhiệt độ chiết xuất 60,90 °C, thời gian chiết xuất 73,64 phút, tỷ lệ (v / w) là 1:20, siêu âm ở 300 W trong 30 phút, năng suất chiết xuất polysaccharides đạt 9,2995% [14].
+3.1.3.
+Xác định hoạt động chống oxy hóa Từ kết quả trên, có thể thấy rằng trong tất cả bốn mẫu nấm, chiết xuất với dung môi 80% ethanol mang lại hàm lượng polysaccharide cao hơn chiết xuất với nước. Trong mẫu LXN, chiết xuất với 80% ethanol dẫn đến hàm lượng polysaccharide 4,73 mg / g trọng lượng khô, cao hơn 126% so với hàm lượng thu được bằng nước. Những kết quả này cũng cho thấy mẫu LXN có hàm lượng polysaccharide cao nhất, lần lượt đạt 3,75 và 4,73 mg / g, trong khi mẫu LCH có hàm lượng thấp nhất là 3,71 và 3,53 mg / g trọng lượng khô. Kết quả nghiên cứu này khá giống với kết quả của nhóm do Hong Son và cộng sự (2020) dẫn đầu, người đã báo cáo hàm lượng polysaccharide 5,83 mg / g khi chiết xuất trong
+Với dung môi chiết xuất Nhiều nghiên cứu đã báo cáo rằng việc sử dụng các loại thực vật giàu chất chống oxy hóa có thể giúp ngăn ngừa ung thư và các bệnh mãn tính khác [15].
+Để xác định hoạt động chống oxy hóa của một số loại nấm Ganoderma lucidum, chiết xuất ethanol từ các cơ thể sinh quả của bốn mẫu Ganoderma lucidum khô đã được đánh giá về hoạt động dọn dẹp gốc DPPH (khả năng chống oxy hóa) theo phương pháp của Chanda và các cộng sự, với axit gallic được sử dụng làm đối chứng dương. Các kết quả của hoạt động chống oxy hóa của các mẫu Ganoderma được thử nghiệm được ghi lại trong Bảng 1.
+Về hoạt động chống oxy hóa, Nguyen Thi Kim Ngan và các cộng sự đã báo cáo rằng khi chiết xuất được thực hiện bằng phương pháp kết hợp enzym và siêu âm, khả năng chống oxy hóa của chiết xuất cao hơn so với các kỹ thuật khác, như được chứng minh bởi xét nghiệm thu gom gốc DPPH, với kết quả là 42,334% [16].
+Ngoài ra, nhóm nghiên cứu do Kolniak-Ostek J et al. điều tra hai hoạt động sinh học - chống ung thư và đặc tính chống oxy hóa - trong các mẫu nấm Ganoderma lucidum thu thập được từ tự nhiên ở Ba Lan, cho thấy hoạt động chống oxy hóa dẫn đến các giá trị IC50 dao động từ khoảng 25,38 đến 47,90 μg / ml. Những kết quả nghiên cứu này khá giống với những phát hiện về hoạt động chống oxy hóa của chiết xuất ethanol từ tất cả bốn mẫu Ganoderma lucidum trong nghiên cứu hiện tại [17].
+16 Tạp chí Khoa học và Công nghệ Rừng TC 13, số 5 (2024) Công nghệ sinh học và giống cây trồng 3.1.4.
+Việc xác định hoạt động kháng khuẩn của chiết xuất Hoạt động kháng khuẩn chống lại một số chủng kiểm soát vi khuẩn nhất định được đánh giá để xác nhận một phần cơ sở rằng các hợp chất hoạt động trong chiết xuất có thể có hoạt động kháng khuẩn và chống viêm. Các kết quả kháng khuẩn của chiết xuất từ bốn mẫu được chứng minh bằng đường kính của các vùng rõ ràng (nếu có) hình thành xung quanh các giếng chứa chiết xuất ở nồng độ 1 mg / ml. Nước cất phục vụ như là đối chứng tiêu cực và Streptomycin ở 0.2 mg / ml như là đối chứng dương. Các kết quả được trình bày trong Bảng 2. 2. Đường kính của các vùng kháng khuẩn (mm) của chiết xuất Vi khuẩn chiết xuất LCH LCV LXR LXN K nước Gram-negative Salmon sp 0.00 ± 0.00 ± 0.00 ± 0.00 ± 0.00
+Elif Ekiz, Emel Oz, AM Abd El-Aty, Charalampos Proestos, Charles Brennan, Maomao Zeng, Igor Tomasevic, Tahra Elobeid, Kenan Çadırcı & Muharrem Bayrak (2023).
+Thực phẩm.
+12 (7).: 1512.
+[2]
+Mendel Friedman (2016).
+Thực phẩm.
+5(4): 80.
+Các kết quả liên quan đến hoạt động kháng khuẩn của chiết xuất từ bốn loại nấm Ganoderma trong nghiên cứu này khá phù hợp với kết quả nghiên cứu của các tác giả Kairat Mustafin, Nina Bisko và Raushan Blieva, người cũng đã công bố vào năm 2022 rằng chiết xuất từ một chủng Ganoderma lucidum 1621 thể hiện các đặc tính kháng khuẩn mạnh chống lại hầu hết các loài vi khuẩn Gram âm và Gram dương, với vùng ức chế từ 3 đến 12 mm sau 14 ngày [18].
+[3]
+B Lakshmi, TA Ajith, Nayana Jose và KK Janardhanan (2006).
+107 (2): 297-303.
+[4]
+Yihuai Gao, Jin Lan, Xihu Dai, Jingxian Ye & Shufeng Zhou (2004).
+Một nghiên cứu giai đoạn I / II về Ganoderma lucidum (nấm Ling Zhi) (W. Curt.: Fr.)
+Lloyd (Aphyllophoromycetideae) chiết xuất ở bệnh nhân tiểu đường loại II.
+6(1): 33-40.
+R. Radhika cũng kết luận rằng chiết xuất từ Ganoderma lucidum đã chứng minh rõ ràng khả năng kháng với một số chủng Escherichia coli và Pseudomonas aeruginosa, với vùng ức chế đạt đến 19 mm, lớn hơn so với các loại kháng sinh như streptomycin và penicillin. Tất cả các nghiên cứu này cho thấy rằng G. lucidum ức chế sự phát triển của các bệnh vi khuẩn khác nhau [19].
+4.
+Kết luận [5].
+Dược điển Việt Nam V (2017).
+Nhà xuất bản y khoa.
+[6]
+Thulasi G Pillai, Cherupally Krishnan Krishnan Nair và KK Janardhanan (2008).
+26 ((1): 80-85.
+[7]
+M Dubois, KA Gilles, JK Hamilton, PA Rebers & FAJN Smith (1951).
+Thiên nhiên.
+168{\ 4265}: 167-167.
+[8].
+Hesham A El Enshasy và Rajni Hatti-Kaul (2013).
+31 12): 668-677.
+[9]
+S Chanda & R Dave (2009).
+3{\ 13}: 981 - 996.
+[10].
+Tukiran Tukiran, Fitriyatul Mahmudah, Nurul Hidayati và Kuniyoshi Shimizu (2016).
+Axit Gallic: Một axit phenolic và hoạt động chống oxy hóa của nó từ chiết xuất chloroform vỏ gốc của Syzygium litorale (Blume) Amshoff (Myrtaceae).
+Mô-lơ-lơ.
+11(2): 180-189.
+[11].
+Mounyr Balouiri, Moulay Sadiki và Saad Koraichi Ibnsouda (2016).
+6(2): 71-79.
+Trong nghiên cứu này, hàm lượng polysaccharide, hoạt động chống oxy hóa và hoạt động kháng khuẩn của chiết xuất từ các cơ thể sinh quả của bốn loại nấm Ganoderma lucidum đã được đánh giá.
+Trong tất cả các mẫu thuốc, chiết xuất với dung môi 80% ethanol mang lại hàm lượng polysaccharide cao hơn chiết xuất với nước. Trong mẫu LXN, hàm lượng polysaccharide cao nhất đạt được là 4,73 mg / g trọng lượng khô, cao hơn 126% so với chiết xuất với nước; trong mẫu LCH, nó là thấp nhất, với giá trị 3,71 và 3,53 mg / g trọng lượng khô khi chiết xuất với nước và ethanol.
+Kết quả của nghiên cứu này cho thấy tất cả các chiết xuất ethanol từ các cơ thể sinh quả của nấm dược đã được nghiên cứu đều thể hiện hoạt động chống oxy hóa trong phạm vi 50 μg / ml < IC50 < 100 μg / ml. Mẫu LXN đã thể hiện hoạt động chống oxy hóa cao nhất với giá trị IC50 là 51,35 μg / ml, trong khi mẫu LCH có giá trị IC50 thấp nhất là 59,04 μg / ml.
+Hoạt động kháng khuẩn của chiết xuất LXN được chứng minh tốt nhất bằng sự ức chế tốt của nó đối với tất cả bốn chủng vi khuẩn kiểm soát, cho thấy một vùng ức chế khá mạnh.
+Hoạt động kháng khuẩn của chiết xuất LCH là yếu nhất.
+18 Tạp chí Khoa học và Công nghệ Rừng TC 13, số 5 (2024) Công nghệ sinh học và giống cây trồng [12].
+Luu Hong Son, Ta Thi Luong, Vi Dai Lam, Nguyen Thi Tinh, Dinh Thi Kim Hoa, Trinh Thi Chung & Huynh Thi Thiep (2020).
+Nghiên cứu về quá trình chiết xuất polysaccharides từ nấm xanh Lim (Ganoderma lucidum).
+Tạp chí Khoa học Đại học Tân Trào.
+6 và 17): 20-25.
+[16].
+Nguyễn Thị Kim Ngan, Ngo Thi Thuy Linh, Tran Do Dat, Nguyễn Đức Việt, Hồng Minh Nam, Mai Thanh Phong & Nguyễn Hữu Hữu (2022).
+Tác động của các kỹ thuật chiết xuất đối với hoạt động sinh học của nấm Ganoderma lucidum giàu polysaccharide.
+Phần B của Tạp chí Khoa học và Công nghệ Việt Nam.
+64 11 32-37.
+[13].
+Nguyễn Văn Bình, Pham Thi Phuong & Nguyễn Ta Loi (2018).
+Nghiên cứu về các yếu tố ảnh hưởng đến việc chiết xuất tổng hàm lượng polysaccharide trong nấm Ganoderma lucidum đỏ.
+Tạp chí Khoa học và Công nghệ Đại học Thái Nguyên.
+1804): 3-8.
+[17].
+J Kolniak-Ostek, J Oszmianski, A. Szyjka, H. Moreira & E. Barg (2022).
+Int.
+J. Mol.
+Khoa học.
+23h9h359.
+[14].
+Trần Nhãn Dũng, Nguyễn Tuông Vị, Trần Gia Huy & Pham Bao Đăng (2019).
+Kiểm tra năng suất chiết xuất polysaccharide từ nấm Ganoderma lucidum bằng cách sử dụng năm dung môi khác nhau.
+Tạp chí Đại học Can Tho.
+Tạp chí chuyên ngành nấm và công nghệ sinh học.
+74-81.
+[18]
+Kairat Mustafin, Nina Bisko, Raushan Blieva, Galeb Al-Maali, Tatyana Krupodorova, Zhanar Narmuratova, Zhazira Saduyeva và Aigerim Zhakipbekova (2022).
+Khả năng chống oxy hóa và kháng khuẩn của Ganoderma lucidum và Trametes versicolor.
+47 (4): 483-489.
+[15].
+41 13): 1923-1930.
+[19].
+R Radhika (2021).
+Int.
+J. Mod.
+Nông nghiệp.
+10(2): 3488-3493.
+Tạp chí Khoa học và Công nghệ Rừng TM 13, TÍNH 5 (2024) 19

@@ -1,16 +1,20 @@
 from dotenv import load_dotenv
 from utils import load_paths, load_config
 from baselines.google_translate import gtranslate_sentences
-from baselines.nllb import nllb_translate_sentences
+from baselines.nllb600 import nllb_translate_sentences600
+from baselines.nllb3 import nllb_translate_sentences
+from baselines.openai_chatgpt import chatgpt_translate_sentences
 import json
 
 
 BASELINES = {
     "google_translate": gtranslate_sentences,
-    "nllb": nllb_translate_sentences,
+    "nllb-600m": nllb_translate_sentences600,
+    "nllb-3.3b": nllb_translate_sentences,
+    "chatgpt-4.1": chatgpt_translate_sentences,
 }
 
-SELECTED_BASELINES = ["nllb"]
+SELECTED_BASELINES = ["nllb-600m", "chatgpt-4.1", "nllb-3.3b"]
 
 
 def main():
@@ -22,6 +26,7 @@ def main():
 
         target_lang_code = config["languages"][lang_pair]["target_code"]
         for baseline_name in SELECTED_BASELINES:
+            print(f"DOING {baseline_name}")
             translator = BASELINES.get(baseline_name)
             if translator is None:
                 raise ValueError(f"Unknown baseline: {baseline_name}")

@@ -1,0 +1,39 @@
+{
+  "lang_pair": "en-tr",
+  "model": "Unbabel/wmt22-comet-da",
+  "gpus": 1,
+  "batch_size": 8,
+  "n_segments": 2093,
+  "systems": {
+    "base": {
+      "comet": 0.929195249601807,
+      "bleu": 43.03,
+      "chrf": 67.02,
+      "ter": 50.02
+    },
+    "chatgpt-4.1": {
+      "comet": 0.9196354213139114,
+      "bleu": 40.25,
+      "chrf": 64.73,
+      "ter": 52.34
+    },
+    "google_translate": {
+      "comet": 0.9209370958822171,
+      "bleu": 42.41,
+      "chrf": 66.37,
+      "ter": 48.9
+    },
+    "nllb-3.3b": {
+      "comet": 0.8965180039092564,
+      "bleu": 29.05,
+      "chrf": 50.59,
+      "ter": 66.96
+    },
+    "nllb-600m": {
+      "comet": 0.8767093058570514,
+      "bleu": 24.76,
+      "chrf": 45.43,
+      "ter": 71.49
+    }
+  }
+}

@@ -1,0 +1,598 @@
+{
+  "language_pair": "en-th",
+  "source_document": "(+66)867324742 (Received 01/09/2024, Revised 07/05/2025, Accepted 28/06/2025)\n\nAbstract  \nThe objective of this research was to study the effects of control parameters on the performance of cocoa bean drying using a heat pump dryer. The drying rate, heat pump coefficient of performance, specific moisture extraction rate, and color quality were analyzed to indicate the drying performance of cocoa beans. The control parameters consisted of temperatures of 40, 50, and 60 ºC, and air velocities of 1.5, 3.5, and 5.5 m/s, using a small-scale heat pump dryer with a closed air circulation system utilizing 60% cross-flow over the evaporator. The raw material used was 1 kg of fermented cocoa beans, with an initial moisture content of 142.42±0.52% (dry basis), and was tested until reaching a final moisture content of 6.09±0.56% (dry basis). The experimental results showed that at the same temperature, when the air velocity increased, the drying rate and heat pump coefficient of performance increased, but the specific moisture extraction rate decreased. Under constant velocity conditions, increasing the temperature resulted in an increase in both the drying rate and heat pump coefficient of performance, while the specific moisture extraction rate decreased. Regarding color quality, increasing temperature and velocity decreased both the lightness value (L*) and yellowness (b*), but increased the redness value (a*). Finally, the conditions of 40 ºC and air velocity of 1.5 m/s should be used as they provided the highest average specific moisture extraction rate and the dried cocoa bean quality met the requirements of the occupational group.\n\nKeywords: cocoa beans, drying performance, heat pump dryer Keywords: Cocoa beans, Drying performance, Heat pump dryer\n\nFrom field observations, one significant issue in the cocoa product processing steps is the moisture reduction stage of cocoa beans following fermentation. Currently, occupational groups sun-dry the beans using solar heat, making it impossible to control drying temperatures and ambient relative humidity, which in turn reduces product quality. With expertise in drying technology, the research team proposes a solution using heat pump dryer technology. The first step involves studying the effects of controlled parameters on the drying performance of cocoa beans with a laboratory-scale heat pump dryer, serving as a guideline for designing heat pump dryers for such occupational groups.\n\nCocoa is an alternative crop that can be grown as a substitute or as an intercrop in mixed plantations. It is easy to maintain, fast-growing, drought-resistant, and produces high yields. Once processed, it has a fragrant aroma and is in market demand. After harvesting, the fresh cocoa beans are not yet chocolate. The beans are transformed into chocolate during the fermentation process. The method farmers use to ferment fresh cocoa beans depends on market requirements and consumer demand. Laongsri (2020) suggested in the cocoa knowledge manual that fermenting fresh cocoa beans takes 6 days, with the cocoa piles being turned on the 2nd and 4th days of fermentation to allow microorganisms to function thoroughly throughout the process. The beans are then sun-dried until their moisture content reaches 5–7%. Once fully dried, they can be stored for many years awaiting sale. The drying duration critically affects the taste and quality of the dried cocoa beans. If drying is too slow, mold may penetrate the beans, altering the cocoa flavor. Sun drying is suitable for countries harvesting cocoa in the dry season. Cocoa beans may be dried on dirt yards or cement yards lined with plastic, or on wooden racks or elevated thick plastic mesh trays covered with a plastic roof. This method takes about 7 days to dry. Hii et al. (2006) conducted research on drying different quantities of cocoa beans—20, 30, and 60 kilograms—using a solar energy dryer and found that the drying times were 5, 7.5, and 9.5 days, respectively. For dryers applied at the community enterprise level, most cases reduce energy costs by using biomass dryers (Chunkaew et al., 2024; Khadwilard et al., 2024). For large-scale farmers who need to harvest cocoa during the rainy season, when rainfall is frequent and sun-drying is challenging, ovens are used to dry the cocoa beans. The most commonly used ovens are of two types: (1) Non-fan ovens, such as the Samoa oven, where the lower part contains iron pipes for fuel and a smoke vent at the back. This type of oven uses conduction heating and takes approximately two days to dry at temperatures of 60–80 °C. The drying time may vary according to the thickness of the cocoa beans in the trays. (2) Fan-assisted ovens are more efficient than the Samoa type because the fan distributes hot air uniformly across the trays (Horticultural Research Institute, 2021).\n\nHeat pump dryer technology has the advantage of high performance and can dry cocoa beans under low humidity conditions using a closed-air system (Achariyaviriya et al., 2005), as it uses an evaporator to extract moisture from the air and recovers heat back into the heat pump system. Its limitation is that it cannot achieve high drying air temperatures. According to published articles, when using only a heat pump system without auxiliary heating coils, the maximum drying temperature is 60 °C in a closed circulation system (Chunkaew, 2021; Guan et al., 2025). For comparison, when drying kaffir lime leaves at the same temperature, resistance coil dryers consumed more specific energy than heat pump dryers (Sanpang et al., 2022). In addition, published work on drying cocoa beans using a heat pump dryer combined with heating coils at 56 °C reported a drying time of 26 hours (Hii et al., 2013). Tests on drying cocoa beans with heat pump technology found that as the moisture content of the cocoa beans decreased, their hardness increased (Hii et al., 2012). According to the article by Herman et al. (2018) The drying of cocoa beans was tested using a hot air system under the following conditions (temperature, air velocity): 30 °C, 0.6 m/s; 40 °C, 0.6 m/s; 50 °C, 0.6 m/s; 60 °C, 0.3 m/s; 60 °C, 0.6 m/s; and 60 °C, 1 m/s. It was found that the drying times required were 40.5, 35.8, 25.5, 20.8, 20.8, and 20.8 hours, respectively. Additionally, research on hot air drying of cocoa beans (Chungsiriporn et al., 2023), which studied the effects of temperatures at 50, 60, 70, and 80 °C and air velocities of 0.05, 0.067, 0.085, and 0.1 m/s, found that the optimal condition for drying, with the shortest time and the lowest specific energy consumption, was drying at 60 °C with an air velocity of 0.1 m/s.\n\nDue to Thailand’s seasonal issues—rainy, cold, and dry seasons—there are periods when sun drying of cocoa beans is not possible. This presents a problem for cocoa farmers, as weaker sunlight during rainy or cloudy days prevents the beans from being sun-dried as intended. According to field surveys of cocoa product processing groups in Tak Province, there is a need to address this issue. Further field interviews with cocoa product processors in Khane Chue subdistrict, Mae Ramat district, Tak Province, regarding the use of parabola domes, revealed that when solar irradiance is high, the temperature inside the parabolic dome can become excessive, which also lowers the quality of the cocoa product. The heat pump drying technology stands out for its ability to perform drying in a closed system, resulting in low relative humidity in the drying chamber because moisture is removed from the air at the evaporator. Furthermore, it offers high performance and can utilize modified components from vapor compression refrigeration systems.\n\nTherefore, the objective of this article is to study the effects of controlled parameters on the drying performance of cocoa beans using a heat pump dryer, as a guideline for developing heat pump dryers for cocoa product processing groups in Tak Province. Research Methods  \n2.1 Heat Pump Dryer  \nFigure 1 shows a small heat pump dryer with walls insulated with fiberglass, developed from Chunkaew (2021). The electric valve in the heat pump system, which was previously installed before the expansion valve, was removed to address the issue of the electric valve malfunctioning, which caused high-side pressure buildup and increased compressor workload. Additionally, the blower was replaced to allow for reduced speed by adjusting the frequency via an inverter. The heat pump system uses a hermetically sealed compressor, Kultorn AE1360Y model, with a capacity of 497 W. The condenser can transfer heat at 1,800 W, and the evaporator can transfer heat at 1,300 W, both of which are automotive components.  \n\nThe operating principle of the heat pump dryer is as follows: When the heat pump system is turned on, the condenser transfers heat to the air at the set temperature. The heat in the air is transferred to the drying material, causing moisture in the cocoa beans to evaporate. Consequently, the air temperature exiting the drying chamber decreases, but the moisture content in the air increases. The air leaving the drying chamber passes through the evaporator (40% of the air), while 60% of the air is bypassed past the evaporator. The portion passing through the evaporator experiences a drop in temperature, causing the water vapor to be condensed on the cold pipes of the evaporator and then discharged outside the dryer. The reason for bypassing some air past the evaporator is due to the large amount of heat in the air leaving the chamber; without bypassing, the water vapor in the hot air would not condense into liquid at the evaporator. Finally, as the moisture on the surface of the drying material decreases, the moisture inside the material migrates to the surface.  \n\nFor temperature control, a TOHO TTM-004 controller is used to control the operation of the compressor motor, stopping its operation when the set temperature is reached.  \n\nISSN 3027-8325 (Online) RMUTTO Research Journal Vol.18 No.1 (January - June 2025) DOI: 10.63271/rmuttorj.v18i1.264551  \n(a) (b) Figure 1 Small heat pump dryer for testing: (a) Pre-renovated heat pump dryer (adapted from Chunkaew, 2021); (b) Renovated heat pump dryer. 2.2 Studied Variables  \nThe variables studied comprised air velocities of 1.5, 3.5, and 5.5 m/s and temperatures of 40, 50, and 60 °C. The range of control for these variables was quite broad, as it aimed to observe differences in drying performance. The maximum values chosen for air velocity and temperature represent the upper limits achievable by the heat pump dryer used in the tests.\n\n2.3 Materials Used in Testing  \nFigure 2 shows the amount of cocoa beans that had undergone the fermentation process for 6 days, with each batch weighing 1,000 grams and an initial moisture content of 119.97–165.56% (dry basis). For each test, the drying conditions were controlled until the final moisture content was less than 7% (dry basis) (Laongsri, 2020).  \nFigure 2 Fermented cocoa beans (1,000 g) prepared for testing. 2.4 Instruments for Data Collection\n(1) LG digital scale, model CN1530, maximum capacity 3 kg, resolution 0.1 g.\n(2) Thermometer, model TM-1947SD, capable of measuring 4 channels, resolution 0.1 ºC, and data recording during the experiment.\n(3) Air moisture meter, brand UNI-T, model U333S, resolution 0.1% RH (temperature range -10 to 60 ºC).\n(4) Kilowatt-hour meter (kWh meter), accuracy: ±2%.\n(5) Air velocity meter, model AMF028, resolution 0.1 m/s, accuracy: ±3%.\n(6) Color meter, brand Linshang, model LS170.\n\n2.5 Testing and Data Collection Procedures\n2.5.1 Preparation of Cocoa Beans\nFermented cocoa beans, 1,000 g, were arranged on three trays using beans of similar size. The beans were placed on the trays without overlapping to ensure exposure to hot air, thus facilitating rapid reduction of moisture content (Figure 3).\n\nFigure 3 Arrangement of cocoa beans on the trays\n\n2.5.2 Loading Cocoa Beans into the Dryer\nThe dryer was turned on after closing the drying chamber door, and the first trial results were recorded.\n\n2.5.3 Collection of Cocoa Bean Weight Data\nCocoa bean weight data was collected using a continuous weighing scale at 15-minute intervals for 3 hours and then every 1 hour until the final moisture content was reached.\n\n2.5.4 Collection of Energy Consumption Data for Compressor and Blower Motors\nData was collected using a digital kilowatt-hour meter in both kWh and kW units every 15 minutes for 3 hours and then every 1 hour until the final moisture content was reached.\n\n2.5.5 Collection of Temperature Data\nTemperature data was collected using the TM-1947SD thermometer, and relative humidity data was collected using the UNI-T U333S. The sensor installation locations are shown in Figure 4. Data was collected at 15-minute intervals for 3 hours and then every 1 hour until the final moisture content was reached.\n\n2.5.6 Collection of Cocoa Bean Color Data after Drying\nColor data (L*, a*, and b*) of the cocoa beans after drying was collected using the Linshang color meter, model LS170.\n\n2.5.7 Test Replication\nEach test was replicated 3 times, totaling 27 experiments.\n\nT0 (Air temperature before entering the condenser)\nT2 (Air drying chamber outlet temperature)\nT4 (Air temperature before entering the evaporator)\nRH (Air relative humidity measurement location)\nT1 (Air temperature before entering the dryer)\nT3 (Air evaporator outlet temperature)\nT5 (Air temperature before entering the blower)\n\nFigure 4 Temperature and relative humidity measurement locations in the heat pump dryer. 2.6 Data Analysis  \nThe collected experimental data were analyzed for drying performance, which includes the drying rate according to Equation (1), the specific moisture extraction rate as per Equation (2), the coefficient of performance (COP) of the heat pump as per Equation (3), and color quality.  \n\nDR = Wi – Wf  \nwhere DR is the drying rate (kg/h), Wi is the initial weight of the material (kg), Wf is the final weight of the dried product (kg), and t is the drying time (h).  \n\nSMER = Wi – Wf  \nwhere SMER is the specific moisture extraction rate (kg/h) and PE is the electrical energy consumed during drying (kWh).  \n\nCOPh = Q̇ac  \n           Wcomp  \nwhere COPh is the coefficient of performance of the heat pump (–), Q̇ac is the heat output of the condenser (kW), and Wcomp is the compressor work as measured by the electrical energy supplied to the compressor motor (kW). The heat output at the condenser can be calculated according to Equation (4).  \n\nRMUTTO Research Journal Vol.18 No.1 (January - June 2025) ISSN 3027-8325 (Online) DOI: 10.63271/rmuttorj.v18i1.264551  \n\nQ̇ac = ṁa Ca (Tco – Tci) + ṁa Wd Cv (Tco – Tci) (4)  \nwhere Q̇ac is the heat output of the condenser (kW), Tci is the air temperature before entering the condenser (°C), Tco is the air temperature leaving the condenser (°C), Wd is the humidity ratio of air before entering the condenser (kgwater/kgdryair), Ca is the specific heat of dry air (kJ/kg °C), Cv is the specific heat of moist air (kJ/kg °C), and ṁa is the mass flow rate of dry air passing through the condenser (kg/s).  \n3. Experimental Results and Discussion\n\n3.1 Effects of Temperature and Air Velocity on the Change in Drying Rate\n\nThe drying of cocoa beans using a small-scale heat pump dryer was conducted at temperatures of 40, 50, and 60 °C with air velocities of 1.5, 3.5, and 5.5 m/s, and an air flow ratio across the evaporator of 60%. Drying was carried out from the initial to the final moisture content. It was found that at 40 °C with air velocities of 1.5, 3.5, and 5.5 m/s, the drying time required was 660 minutes (11 hours). At 50 °C and an air velocity of 1.5 m/s, the drying time was 540 minutes (9 hours), while at air velocities of 3.5 and 5.5 m/s, the drying time was 480 minutes (8 hours). Lastly, at 60 °C and air velocities of 1.5 and 3.5 m/s, the drying time was 480 minutes (8 hours), whereas at an air velocity of 5.5 m/s, the drying time was 420 minutes (7 hours). In comparison with the study by Chungsiriporn et al. (2023), which used a hot air dryer with an electric coil at 60 °C and an air velocity of 0.1 m/s, a drying time of 485 minutes was reported. Therefore, the heat pump dryer achieved shorter drying times, likely due to higher air velocities and lower relative humidity in the hot air. Furthermore, the removal of moisture by the evaporator resulted in a higher heat transfer rate than the hot air dryer with an electric coil, although the general trend remained similar.\n\nAs shown in Figure 5, at the beginning of the drying process, the drying rate was high and gradually decreased over time in all conditions. This is because at first, water is present on the surface of the cocoa beans, and as the weight decreases, internal moisture slowly migrates to the surface, resulting in a lower drying rate towards the end. Thus, increases in temperature and air velocity lead to higher drying rates. This is because, with elevated temperatures and velocities, the heat content of pre-drying air rises, enabling more moisture inside the cocoa beans to change from liquid to vapor phases, as illustrated in Figure 6. These findings are consistent with other drying technologies; for example, higher drying temperatures generally shorten drying times, such as in the drying of whole bananas using a biomass dryer (Chunkaew et al., 2018) and cocoa beans with a hot air electric coil dryer (Herman et al., 2018). Correspondently, banana drying using a heat pump dryer with R32 refrigerant at 50, 55, and 60 °C and air velocities of 1, 1.5, and 2 m/s (Somsila et al., 2023), as well as radish slices dried using a heat pump dryer combined with a recovery wheel at 35, 40, and 45 °C and an air velocity of 1 m/s (Yan et al., 2025), demonstrated similar results.\n\n3.2 Effects of Temperature and Air Velocity on Specific Moisture Extraction Rate (SMER)\n\nFigure 7 shows that as temperature and air velocity increase, the specific moisture extraction rate (SMER) decreases. This occurs because higher temperatures and air velocities reduce the drying time, but the compressor motor power increases in correspondence with velocity and temperature, and the blower motor power increases as higher frequencies are required for blower operation. This finding corresponds with the drying of banana slices at 60 °C with three airflow rates—0.117, 0.128, and 0.140 m³/s—using a heat pump dryer (Chunkaew, 2021). However, it differs from the banana drying by a heat pump dryer using R32 refrigerant at 50, 55, and 60 °C, with air velocities of 1, 1.5, and 2 m/s (Somsila et al., 2023), because the temperature control systems were different: this study employed a compressor motor running at all times with temperature regulation via bypassing refrigerant to the external condenser at set points, while the compared system controlled by stopping the compressor motor.\n\n3.3 Effects of Temperature and Air Velocity on the Coefficient of Performance of the Heat Pump (COPh)\n\nThe behavior of the heat pump’s coefficient of performance (COPh) when adjusting temperature and air velocity was examined. Initially, during the early stages of drying at all velocities, the COPh increases as the dryer is started and temperature rises to the target. At this stage, the system is not yet in a steady-state, as part of the supplied heat is used for heating the structure and the rest for raising the temperature of the cocoa beans. Once the dryer system reaches equilibrium and the moisture content of the cocoa beans decreases, the COPh tends to decline (Figure 8). Figure 9 presents the average COPh test results: at all air velocities, the highest COPh was recorded at 60 °C, followed by 50 °C, and the lowest at 40 °C. This is because increasing the drying air temperature raises the pressure and temperature of the refrigerant on the discharge side of the compressor, resulting in an increase in compressor work (Wcomp) and heat flow at the condenser (Q̇ac). Additionally, higher air velocity was found to increase the COPh, in agreement with the findings for drying banana slices at 60 °C with three airflow rates (0.117, 0.128, and 0.140 m³/s) using a heat pump dryer (Chunkaew, 2021).\n\n3.4 Summary of Drying Performance of Cocoa Beans Using a Heat Pump Dryer\n\nAt 40 °C and air velocities of 1.5, 3.5, and 5.5 m/s, the average drying rates (DR) were 0.78±0.008, 0.79±0.007, and 0.85±0.002 g/min, respectively; the average SMER were 358.77±20.98, 302.55±1.02, and 261.72±14.23 g/kWh, respectively; and the COPh were 0.85±0.23, 1.56±0.39, and 2.01±0.49, respectively.\n\nAt 50 °C and air velocities of 1.5, 3.5, and 5.5 m/s, the average DR were 1.11±0.005, 1.25±0.007, and 1.25±0.002 g/min, respectively; the average SMER were 336.57±13.53, 296.65±15.34, and 229.65±10.39 g/kWh, respectively; and the COPh were 2.45±0.74, 2.93±0.74, and 3.36±0.86, respectively.\n\nAt 60 °C and air velocities of 1.5, 3.5, and 5.5 m/s, the average DR were 1.20±0.002, 1.25±0.007, and 1.37±0.004 g/min, respectively; the average SMER were 240.74±11.30, 236.21±14.40, and 223.36±7.78 g/kWh, respectively; and the COPh were 3.94±0.08, 4.48±0.20, and 5.17±0.10, respectively.\n\n3.5 Effects of Temperature and Air Velocity on the Color Quality of Cocoa Beans\n\nAccording to Table 1, as temperature and air velocity increased, the lightness (L*) and yellowness (b*) values decreased, while the redness (a*) value increased. This is because higher temperature and velocity result in greater heat applied during drying, which enhances browning reactions. These results align with studies on agricultural product drying, such as the drying of longan using high-temperature hot air (Chunthaworn et al., 2012; Khadwilard et al., 2025) and the color changes in okra dried by microwave, where increases in microwave power led to decreased lightness (L*) and yellowness (b*) but increased redness (a*) (Dadali et al., 2007). The visual appearance of dried cocoa beans at their final moisture content is shown in Figure 10. ISSN 3027-8325 (Online) RMUTTO Research Journal Vol.18 No.1 (January - June 2025) DOI: 10.63271/rmuttorj.v18i1.264551\n\nA study on the effects of controlled parameters on the drying performance of cocoa beans using an innovative heat pump dryer revealed that increasing temperature and air velocity led to higher drying rates (DR), lower specific moisture extraction rates (SMER), and increased average coefficient of performance of the heat pump (COPh). The test results for the color quality of dried cocoa beans, represented by lightness (L*), redness (a*), and yellowness (b*) values, showed that as temperature and air velocity increased, the lightness (L*) and yellowness (b*) values decreased, while the redness (a*) value increased.\n\nIt is recommended to use conditions of 40°C and an air velocity of 1.5 m/s, as these yield the highest average specific moisture extraction rate, which means lower electrical energy costs compared to other conditions. This is consistent with the needs of the cocoa product processing group in Khane Chue subdistrict, Mae Ramat district, Tak province, which requires drying at a temperature that is neither too high nor too low in order to obtain quality dried cocoa beans.\n\nFuture work should investigate other aspects of the quality performance of dried cocoa beans, such as nutritional value, essential nutrients, and antioxidant content, as well as the development of a heat pump dryer suitable for cocoa product processing groups in Tak province. The dryer should be designed to match the quantity of cocoa beans processed and the equipment selected for the heat pump system. Key areas for further study include the effects of variable-speed compressor motor control on the drying performance of cocoa beans using an innovative heat pump dryer, and the application of solar panels as a hybrid energy source to reduce electricity costs. Acknowledgments\n\nThe authors would like to thank the Office of the National Science, Research and Innovation Fund (NSRF) for providing financial support through the Fundamental Fund (FF) for the fiscal year 2024, and Rajamangala University of Technology Lanna for their support in conducting research on enhancing cocoa bean yield efficiency through innovation in Tak province. References Achariyaviriya, A., Achariyaviriya, S., Namsanguan, Y., & Chunkaew, P. (2005). Chungsiriporn, J., Pongyeela, P., & Chairerk, N. (2023). Chunkaew P., Khadwilard A., Tavata A., Thawonngamyingsakul, Ch., & Kosalanun, S. (2024). Chunkaew P., Tavata A., Khadwilard A., & Sriudom Y. (2018). Chunkaew, P. (2021). Chunthaworn, S., Achariyaviriya, S., Achariyaviriya, A., & Namsanguan, K. (2012). Dadalı, G., Kılıç Apar, D., & Özbek, B. (2007). (2025). https://doi.org/10.1016/j.ijrefrig.2025.01.034 Herman, Chr., Spreutels, L., Turomzsa, N., Konagano, E.M., & Haut, B. (2018). Forasteiro). https://doi.org/10.1016/j.fbp.2018.01.002 Hii, C.L., Rahman, R.A., Jinap, S., & Che Man, YB. (2006). https://doi.org/10.1002/jsfa.2475 Hii, C.L., Law, C.L., & Suzannah, S. (2012). https://doi.org/10.1016/j.jfoodeng.2011.08.017 Hii, C.L., Law, C.L., & Law, M.C. (2013). https://doi.org/10.1016/j.applthermaleng.2013.02.010 Horticultural Research Institute. (2021). Khadwilard, A., Chunkaew, P., & Kosalanun, S. (2024). Khadwilard, A., Chunkaew, P., Thawonngamyingsakul, Ch., & Kosalanun, S. (2025). Sanpang, P., Tanongkankit, Y., & Khongkrapan, P. (2022). Somsila, P., Pumchumpol, S., Teeboonma, U., & Namkhat, A. (2023). [in English] Yan, J., Han, W., Wei, B., Liu, Y., Gao, L., Wang, L., Wang, S., Zhu, M., & Huo, Z. (2025).",
+  "final_document": "(+66) 867324742 (รับ 01/09/2024, ปรับ 07/05/2025, ยอม 28/06/2025) สรุปวัตถุประสงค์ของการวิจัยนี้คือการศึกษาอิทธิพลของปาราเมตรควบคุมต่อการทําการแห้งถั่วโคโคโก้โดยใช้เครื่องแห้งปั๊มความร้อน อัตราการแห้ง, อัตราการทํางานของเครื่องสูบความร้อน, อัตราการสกัดความชื้นเฉพาะ และคุณภาพสีถูกวิเคราะห์เพื่อแสดงถึงการทําการแห้งถั่วโคโก้ ปาราเมตรหลักในการควบคุมประกอบด้วยอุณหภูมิ 40, 50 และ 60 oC, และความเร็วของอากาศ 1.5, 3.5 และ 5.5 ม / s, โดยใช้เครื่องสูบความร้อนขนาดเล็กที่มีระบบหมุนเวียนอากาศปิดโดย คําสําคัญ: ถั่วโคโค, การแห้ง, เครื่องแห้งปั๊มความร้อน จากการสังเกตในสนาม, ปัญหาสําคัญหนึ่งในขั้นตอนการประมวลผลผลิตภัณฑ์โคโค คือขั้นตอนการลดความชื้นของถั่วโคโคหลังจากการหมัก. ปัจจุบัน, กลุ่มอาชีพแห้งถั่วโคโคโดยใช้ความร้อนจากแสงอาทิตย์, ทําให้ไม่สามารถควบคุมอุณหภูมิการแห้งและความชื้นสัมพันธ์รอบ, ซึ่งกลับทําให้คุณภาพของผลิตภัณฑ์ลดลง. ด้วยความชํานาญในเทคโนโลยีการแห้ง, ทีมวิจัยเสนอวิธีการใช้เทคโนโลยีเครื่องแห้งปั๊มความร้อน. ขั้นตอนแรกเกี่ยวข้องกับการศึกษาผลกระทบของปาราเมตรที่ (2006) ได้ทําการวิจัยเกี่ยวกับการแห้งถั่วโคโกะในปริมาณที่แตกต่างกัน 20, 30 และ 60 กิโลกรัมโดยใช้เครื่องแห้งพลังแสงอาทิตย์และพบว่าเวลาแห้งเป็น 5, 7.5 และ 9.5 วัน ตามลําดับ สําหรับเครื่องแห้งที่ใช้ในระดับองค์กรชุมชนในส่วนใหญ่จะลดต้นทุนพลังงานโดยใช้เครื่องแห้งไบโอมาส (Chunkaew et al., 2024; Khadwilard et al., 2024) สําหรับเกษตรกรขนาดใหญ่ที่ต้องการเก็บเกี่ยวโคโกะในช่วงฤดูกาลฝน เมื่อฝนตกบ่อยและการแห้งด้วยแสงอาทิตย์เป็นความท้าทาย, เตาไฟจะใช้ในการแห้งถั่วโคโกะ. เตาไฟที่ใช้บ่อยที่สุดมีสองชนิด: (1) เตาไฟที่ไม่ใช่แฟน เช่น เตาไฟซามัว ที่ส่วน (2018) การแห้งถั่วโคโค ได้ถูกทดสอบโดยใช้ระบบอากาศร้อนในสภาพดังต่อไปนี้ (อุณหภูมิ ความเร็วของอากาศ): 30 ° C, 0.6 m / s; 40 ° C, 0.6 m / s; 50 ° C, 0.6 m / s; 60 ° C, 0.3 m / s; 60 ° C, 0.6 m / s; และ 60 ° C, 1 m / s. ผลการทดสอบเพิ่มเติมพบว่าเวลาแห้งที่จําเป็นคือ 40.5, 35.8, 25.5, 20.8, 20.8 และ 20.8 ชั่วโมง ตามลําดับ. นอกจากนี้, การวิจัยเกี่ยวกับการแห้งถั่วโคโค (Chungsiriporn et al., 2023) ซึ่งศึกษาผลกระทบของอุณหภูมิที่ 50, 60 และ 70 ° C และความเร็วของอากาศที่ 0.05, 0.067, 0.08 การทดสอบวิธีการ 2.1 เครื่องอบแห้งปั๊มความร้อน รูปที่ 1 แสดงเครื่องอบแห้งปั๊มความร้อนขนาดเล็กที่มีผนังที่งัดด้วยเส้นใยแก้ว ที่พัฒนาจาก Chunkaew (2021) วาล์วไฟฟ้าในระบบปั๊มความร้อน ซึ่งถูกติดตั้งก่อนหน้านี้ก่อนวาล์วขยายได้ถูกถอดออกเพื่อแก้ปัญหาความผิดปกติของวาล์วไฟฟ้าที่ทําให้เกิดความกดดันสูงและเพิ่มภาระงานคอมเพรสเซอร์ นอกจากนี้ยังมีการเปลี่ยนเครื่องเป่าเพื่อให้ความเร็วลดลงโดยการปรับความถี่ผ่านเครื่องปรับเปลี่ยนระบบระบบปั๊มความร้อนใช้เครื่องกดดันแบบปิดอย่าง hermetically, Kultorn AE1360Y, ความจุ 497 W ระบบสามารถถ่ายทอดความร้อนได้ 1,800 2.3 วัสดุที่ใช้ในการทดสอบ รูปที่ 2 แสดงปริมาณถั่วโคโคอาที่ผ่านกระบวนการหมักหมักมาเป็นเวลา 6 วัน โดยแต่ละชุดมีน้ําหนัก 1,000 กรัมและความชื้นในตอนแรก 119.97165.56% (ฐานแห้ง) สําหรับแต่ละการทดสอบ เงื่อนไขในการหมักหมักถูกควบคุมจนกระทั่งความชื้นในตอนสุดท้ายต่ํากว่า 7% (ฐานแห้ง) (Laongri, 2020) รูปที่ 2 ถั่วโคอาหมัก (1,000 กก) เตรียมไว้สําหรับการทดสอบ 2.4 อุปกรณ์สําหรับการเก็บข้อมูล (1) LG digital scale, model T CN1530, ความจุสูงสุด 3 กิโลกรัม, ความละเอียด 0.1 g. (2) Thermometer, model TM-1947SD, capable of measuring 4 channels, resolution 0.1 oC, and data recording during the experiment. (3) อุปกรณ์วัดความชื้นอากาศ, ยี่ห้อ UNI-T, model U333S, resolution 0.1% RH (ระยะอุณหภูมิ -10 ถึง 60 oC) (4) คิโลวัตต์-ชั่วโมงวัด (kWh meter), ความแม่นยํา: ± 2%. (5) Air velocity meter, model AMF028, resolution 0.1 m/s, accuracy: ± 3%. (6) Color meter, brand Linshang, model LS170. 2.5 Testing and Data Collection Procedures 2.5.1 การจัด DR = Wi  Wf ที่ DR คือการแห้งอัตรา (กก/ชม), Wi คือน้ําหนักเริ่มต้นของวัสดุ (กก), Wf คือน้ําหนักสุดท้ายของผลิตภัณฑ์แห้ง (กก), และ t คือการแห้งเวลา (h). SMER =  Wf ที่ SMER คือการแห้งอัตรา (กก/ชม) และ PE คือพลังงานไฟฟ้าที่ใช้ในการแห้ง (กกWh). COPh = Q ̇ac Wph ที่มีสัมประสิทธิ์ของความสามารถของปั๊มความร้อน (            ) Q ผลการทดลองและการหารือ 3.1 ผลของอุณหภูมิและอากาศ Velocity บนการเปลี่ยนแปลงในอัตราการแห้ง RCO 55, 1. การแห้งของถั่วโคโก้โดยใช้เครื่องสูบความร้อนขนาดเล็กที่มีความเร็วสูงขึ้นโดยทั่วไปในช่วงเวลาที่สัดส่วนสูงขึ้นโดยการใช้เครื่องสูบความเร็วสูงขึ้นโดยทั่วไปจาก 1.2023 m3/0.2023 m3/0.2023 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 ผลกระทบนี้จะเพิ่มขึ้นโดยเฉพาะเมื่ออากาศและการ ISSN 3027-8325 (ออนไลน์) RMUTTO Research Journal Vol.18 No.1 (มกราคม - มิถุนายน 2025) DOI: 10.63271/rmuttorj.v18i1.264551 การศึกษาเกี่ยวกับอิทธิพลของพาราเมตรที่ควบคุมได้ต่อการทําความแห้งของถั่วโคโค โดยใช้เครื่องแห้งปั๊มความร้อนที่นวัตกรรมใหม่ เปิดเผยว่า การเพิ่มอุณหภูมิและความเร็วของอากาศทําให้มีอัตราการแห้งที่สูงขึ้น (DR), อัตราการสกัดความชื้นเฉพาะที่ต่ํากว่า (SMER), และเพิ่มค่าสัมประสิทธิภาพเฉลี่ยของการทําความสําเร็จของเครื่องสูบความร้อน (COPh) ผลการทดสอบสําหรับคุณภาพสีของถั่วโคโคแห้งแห้ง, ที่ การแสดงความยินดี ผู้เขียนขอขอบคุณสํานักงานกองทุนวิทยาศาสตร์ วิจัยและนวัตกรรมแห่งชาติ (NSRF) ที่ให้การสนับสนุนทางการเงินผ่านกองทุนพื้นฐาน (FF) สําหรับปีงบประมาณ 2024 และมหาวิทยาลัยเทคโนโลยีราชมงคลลานนา สําหรับการสนับสนุนในการดําเนินการวิจัยเพื่อเพิ่มประสิทธิภาพผลผลิตถั่วโคโกะผ่านการนวัตกรรมในจังหวัดทาค อ้างอิง Achariyaviriya, A., Achariyaviriya, S., Namsanguan, Y., & Chunkaew, P. (2005). Chungsiriporn, J., Pongyeela, P., & Chairerk, N. (2023) ชุนคาว ป. คัดวิลาร์ด เอ. ทาวตา เอ. ทาวอนงามิงซากุล ช. และ โคซาลานูน เอส. (2024) ชุนคาว ป. ทาวตา เอ. คัดวิลาร์ด เอ. และ ศรีดูม ย. (2018) ครับ Chunkaew, P. (2021) ชุนธาวอร์น, S., อัชารียาวิริยะ, S., อัชารียาวิริยะ, A., & นามสังกวน, K. (2012). Dadalı, G., Kılıç Apar, D., และ Özbek, B. (2007) รายงาน (2025) รายการ https://doi.org/10.1016/j.ijrefrig.2025.01.034 Herman, Chr., Spreutels, L., Turomzsa, N., Konagano, E.M., & Haut, B. (2018) ครับ Forasteiro) https://doi.org/10.1016/j.fbp.2018.01.002 Hii, CL, Rahman, R.A., Jinap, S., & Che Man, YB. (2006) รายงาน https://doi.org/10.1002/jsfa.2475 Hii, C.L., Law, C.L., & Suzannah, S. (2012). https://doi.org/10.1016/j.jfoodeng.2011.08.017 Hii, C.L., Law, C.L., & Law, M.C. (2013) ครับ https://doi.org/10.1016/j.applthermaleng.2013.02.010 สถาบันวิจัยการสวน (2021) Khadwilard, A., Chunkaew, P., และ Kosalanun, S. (2024) Khadwilard, A., Chunkaew, P., Thawonngamyingsakul, Ch., & Kosalanun, S. (2025) ซานปัง, ป., ทานองคานกิต, ย., และ คองคราปาน, ป. (2022). Somsila, P., Pumchumpol, S., Teeboonma, U., & Namkhat, A. (2023) รายการ [ภาษา อังกฤษ] ยัน, จ., ฮัน, วี, เวี, บี., ลิว, ย., กาโอ, ล., วัง, ล., วัง, ส., จู, ม., & ฮูโอะ, ซี. (2025) รายการ",
+  "discourses": [
+    {
+      "idx": 0,
+      "source_txt": "(+66)867324742 (Received 01/09/2024, Revised 07/05/2025, Accepted 28/06/2025)\n\nAbstract  \nThe objective of this research was to study the effects of control parameters on the performance of cocoa bean drying using a heat pump dryer. The drying rate, heat pump coefficient of performance, specific moisture extraction rate, and color quality were analyzed to indicate the drying performance of cocoa beans. The control parameters consisted of temperatures of 40, 50, and 60 ºC, and air velocities of 1.5, 3.5, and 5.5 m/s, using a small-scale heat pump dryer with a closed air circulation system utilizing 60% cross-flow over the evaporator. The raw material used was 1 kg of fermented cocoa beans, with an initial moisture content of 142.42±0.52% (dry basis), and was tested until reaching a final moisture content of 6.09±0.56% (dry basis). The experimental results showed that at the same temperature, when the air velocity increased, the drying rate and heat pump coefficient of performance increased, but the specific moisture extraction rate decreased. Under constant velocity conditions, increasing the temperature resulted in an increase in both the drying rate and heat pump coefficient of performance, while the specific moisture extraction rate decreased. Regarding color quality, increasing temperature and velocity decreased both the lightness value (L*) and yellowness (b*), but increased the redness value (a*). Finally, the conditions of 40 ºC and air velocity of 1.5 m/s should be used as they provided the highest average specific moisture extraction rate and the dried cocoa bean quality met the requirements of the occupational group.\n\nKeywords: cocoa beans, drying performance, heat pump dryer",
+      "translated_txt": "(+66) 867324742 (รับ 01/09/2024, ปรับ 07/05/2025, ยอม 28/06/2025) สรุปวัตถุประสงค์ของการวิจัยนี้คือการศึกษาอิทธิพลของปาราเมตรควบคุมต่อการทําการแห้งถั่วโคโคโก้โดยใช้เครื่องแห้งปั๊มความร้อน อัตราการแห้ง, อัตราการทํางานของเครื่องสูบความร้อน, อัตราการสกัดความชื้นเฉพาะ และคุณภาพสีถูกวิเคราะห์เพื่อแสดงถึงการทําการแห้งถั่วโคโก้ ปาราเมตรหลักในการควบคุมประกอบด้วยอุณหภูมิ 40, 50 และ 60 oC, และความเร็วของอากาศ 1.5, 3.5 และ 5.5 ม / s, โดยใช้เครื่องสูบความร้อนขนาดเล็กที่มีระบบหมุนเวียนอากาศปิดโดย"
+    },
+    {
+      "idx": 1,
+      "source_txt": "Keywords: Cocoa beans, Drying performance, Heat pump dryer\n\nFrom field observations, one significant issue in the cocoa product processing steps is the moisture reduction stage of cocoa beans following fermentation. Currently, occupational groups sun-dry the beans using solar heat, making it impossible to control drying temperatures and ambient relative humidity, which in turn reduces product quality. With expertise in drying technology, the research team proposes a solution using heat pump dryer technology. The first step involves studying the effects of controlled parameters on the drying performance of cocoa beans with a laboratory-scale heat pump dryer, serving as a guideline for designing heat pump dryers for such occupational groups.\n\nCocoa is an alternative crop that can be grown as a substitute or as an intercrop in mixed plantations. It is easy to maintain, fast-growing, drought-resistant, and produces high yields. Once processed, it has a fragrant aroma and is in market demand. After harvesting, the fresh cocoa beans are not yet chocolate. The beans are transformed into chocolate during the fermentation process. The method farmers use to ferment fresh cocoa beans depends on market requirements and consumer demand. Laongsri (2020) suggested in the cocoa knowledge manual that fermenting fresh cocoa beans takes 6 days, with the cocoa piles being turned on the 2nd and 4th days of fermentation to allow microorganisms to function thoroughly throughout the process. The beans are then sun-dried until their moisture content reaches 5–7%. Once fully dried, they can be stored for many years awaiting sale. The drying duration critically affects the taste and quality of the dried cocoa beans. If drying is too slow, mold may penetrate the beans, altering the cocoa flavor. Sun drying is suitable for countries harvesting cocoa in the dry season. Cocoa beans may be dried on dirt yards or cement yards lined with plastic, or on wooden racks or elevated thick plastic mesh trays covered with a plastic roof. This method takes about 7 days to dry. Hii et al.",
+      "translated_txt": "คําสําคัญ: ถั่วโคโค, การแห้ง, เครื่องแห้งปั๊มความร้อน จากการสังเกตในสนาม, ปัญหาสําคัญหนึ่งในขั้นตอนการประมวลผลผลิตภัณฑ์โคโค คือขั้นตอนการลดความชื้นของถั่วโคโคหลังจากการหมัก. ปัจจุบัน, กลุ่มอาชีพแห้งถั่วโคโคโดยใช้ความร้อนจากแสงอาทิตย์, ทําให้ไม่สามารถควบคุมอุณหภูมิการแห้งและความชื้นสัมพันธ์รอบ, ซึ่งกลับทําให้คุณภาพของผลิตภัณฑ์ลดลง. ด้วยความชํานาญในเทคโนโลยีการแห้ง, ทีมวิจัยเสนอวิธีการใช้เทคโนโลยีเครื่องแห้งปั๊มความร้อน. ขั้นตอนแรกเกี่ยวข้องกับการศึกษาผลกระทบของปาราเมตรที่"
+    },
+    {
+      "idx": 2,
+      "source_txt": "(2006) conducted research on drying different quantities of cocoa beans—20, 30, and 60 kilograms—using a solar energy dryer and found that the drying times were 5, 7.5, and 9.5 days, respectively. For dryers applied at the community enterprise level, most cases reduce energy costs by using biomass dryers (Chunkaew et al., 2024; Khadwilard et al., 2024). For large-scale farmers who need to harvest cocoa during the rainy season, when rainfall is frequent and sun-drying is challenging, ovens are used to dry the cocoa beans. The most commonly used ovens are of two types: (1) Non-fan ovens, such as the Samoa oven, where the lower part contains iron pipes for fuel and a smoke vent at the back. This type of oven uses conduction heating and takes approximately two days to dry at temperatures of 60–80 °C. The drying time may vary according to the thickness of the cocoa beans in the trays. (2) Fan-assisted ovens are more efficient than the Samoa type because the fan distributes hot air uniformly across the trays (Horticultural Research Institute, 2021).\n\nHeat pump dryer technology has the advantage of high performance and can dry cocoa beans under low humidity conditions using a closed-air system (Achariyaviriya et al., 2005), as it uses an evaporator to extract moisture from the air and recovers heat back into the heat pump system. Its limitation is that it cannot achieve high drying air temperatures. According to published articles, when using only a heat pump system without auxiliary heating coils, the maximum drying temperature is 60 °C in a closed circulation system (Chunkaew, 2021; Guan et al., 2025). For comparison, when drying kaffir lime leaves at the same temperature, resistance coil dryers consumed more specific energy than heat pump dryers (Sanpang et al., 2022). In addition, published work on drying cocoa beans using a heat pump dryer combined with heating coils at 56 °C reported a drying time of 26 hours (Hii et al., 2013). Tests on drying cocoa beans with heat pump technology found that as the moisture content of the cocoa beans decreased, their hardness increased (Hii et al., 2012). According to the article by Herman et al.",
+      "translated_txt": "(2006) ได้ทําการวิจัยเกี่ยวกับการแห้งถั่วโคโกะในปริมาณที่แตกต่างกัน 20, 30 และ 60 กิโลกรัมโดยใช้เครื่องแห้งพลังแสงอาทิตย์และพบว่าเวลาแห้งเป็น 5, 7.5 และ 9.5 วัน ตามลําดับ สําหรับเครื่องแห้งที่ใช้ในระดับองค์กรชุมชนในส่วนใหญ่จะลดต้นทุนพลังงานโดยใช้เครื่องแห้งไบโอมาส (Chunkaew et al., 2024; Khadwilard et al., 2024) สําหรับเกษตรกรขนาดใหญ่ที่ต้องการเก็บเกี่ยวโคโกะในช่วงฤดูกาลฝน เมื่อฝนตกบ่อยและการแห้งด้วยแสงอาทิตย์เป็นความท้าทาย, เตาไฟจะใช้ในการแห้งถั่วโคโกะ. เตาไฟที่ใช้บ่อยที่สุดมีสองชนิด: (1) เตาไฟที่ไม่ใช่แฟน เช่น เตาไฟซามัว ที่ส่วน"
+    },
+    {
+      "idx": 3,
+      "source_txt": "(2018) The drying of cocoa beans was tested using a hot air system under the following conditions (temperature, air velocity): 30 °C, 0.6 m/s; 40 °C, 0.6 m/s; 50 °C, 0.6 m/s; 60 °C, 0.3 m/s; 60 °C, 0.6 m/s; and 60 °C, 1 m/s. It was found that the drying times required were 40.5, 35.8, 25.5, 20.8, 20.8, and 20.8 hours, respectively. Additionally, research on hot air drying of cocoa beans (Chungsiriporn et al., 2023), which studied the effects of temperatures at 50, 60, 70, and 80 °C and air velocities of 0.05, 0.067, 0.085, and 0.1 m/s, found that the optimal condition for drying, with the shortest time and the lowest specific energy consumption, was drying at 60 °C with an air velocity of 0.1 m/s.\n\nDue to Thailand’s seasonal issues—rainy, cold, and dry seasons—there are periods when sun drying of cocoa beans is not possible. This presents a problem for cocoa farmers, as weaker sunlight during rainy or cloudy days prevents the beans from being sun-dried as intended. According to field surveys of cocoa product processing groups in Tak Province, there is a need to address this issue. Further field interviews with cocoa product processors in Khane Chue subdistrict, Mae Ramat district, Tak Province, regarding the use of parabola domes, revealed that when solar irradiance is high, the temperature inside the parabolic dome can become excessive, which also lowers the quality of the cocoa product. The heat pump drying technology stands out for its ability to perform drying in a closed system, resulting in low relative humidity in the drying chamber because moisture is removed from the air at the evaporator. Furthermore, it offers high performance and can utilize modified components from vapor compression refrigeration systems.\n\nTherefore, the objective of this article is to study the effects of controlled parameters on the drying performance of cocoa beans using a heat pump dryer, as a guideline for developing heat pump dryers for cocoa product processing groups in Tak Province.",
+      "translated_txt": "(2018) การแห้งถั่วโคโค ได้ถูกทดสอบโดยใช้ระบบอากาศร้อนในสภาพดังต่อไปนี้ (อุณหภูมิ ความเร็วของอากาศ): 30 ° C, 0.6 m / s; 40 ° C, 0.6 m / s; 50 ° C, 0.6 m / s; 60 ° C, 0.3 m / s; 60 ° C, 0.6 m / s; และ 60 ° C, 1 m / s. ผลการทดสอบเพิ่มเติมพบว่าเวลาแห้งที่จําเป็นคือ 40.5, 35.8, 25.5, 20.8, 20.8 และ 20.8 ชั่วโมง ตามลําดับ. นอกจากนี้, การวิจัยเกี่ยวกับการแห้งถั่วโคโค (Chungsiriporn et al., 2023) ซึ่งศึกษาผลกระทบของอุณหภูมิที่ 50, 60 และ 70 ° C และความเร็วของอากาศที่ 0.05, 0.067, 0.08"
+    },
+    {
+      "idx": 4,
+      "source_txt": "Research Methods  \n2.1 Heat Pump Dryer  \nFigure 1 shows a small heat pump dryer with walls insulated with fiberglass, developed from Chunkaew (2021). The electric valve in the heat pump system, which was previously installed before the expansion valve, was removed to address the issue of the electric valve malfunctioning, which caused high-side pressure buildup and increased compressor workload. Additionally, the blower was replaced to allow for reduced speed by adjusting the frequency via an inverter. The heat pump system uses a hermetically sealed compressor, Kultorn AE1360Y model, with a capacity of 497 W. The condenser can transfer heat at 1,800 W, and the evaporator can transfer heat at 1,300 W, both of which are automotive components.  \n\nThe operating principle of the heat pump dryer is as follows: When the heat pump system is turned on, the condenser transfers heat to the air at the set temperature. The heat in the air is transferred to the drying material, causing moisture in the cocoa beans to evaporate. Consequently, the air temperature exiting the drying chamber decreases, but the moisture content in the air increases. The air leaving the drying chamber passes through the evaporator (40% of the air), while 60% of the air is bypassed past the evaporator. The portion passing through the evaporator experiences a drop in temperature, causing the water vapor to be condensed on the cold pipes of the evaporator and then discharged outside the dryer. The reason for bypassing some air past the evaporator is due to the large amount of heat in the air leaving the chamber; without bypassing, the water vapor in the hot air would not condense into liquid at the evaporator. Finally, as the moisture on the surface of the drying material decreases, the moisture inside the material migrates to the surface.  \n\nFor temperature control, a TOHO TTM-004 controller is used to control the operation of the compressor motor, stopping its operation when the set temperature is reached.  \n\nISSN 3027-8325 (Online) RMUTTO Research Journal Vol.18 No.1 (January - June 2025) DOI: 10.63271/rmuttorj.v18i1.264551  \n(a) (b) Figure 1 Small heat pump dryer for testing: (a) Pre-renovated heat pump dryer (adapted from Chunkaew, 2021); (b) Renovated heat pump dryer.",
+      "translated_txt": "การทดสอบวิธีการ 2.1 เครื่องอบแห้งปั๊มความร้อน รูปที่ 1 แสดงเครื่องอบแห้งปั๊มความร้อนขนาดเล็กที่มีผนังที่งัดด้วยเส้นใยแก้ว ที่พัฒนาจาก Chunkaew (2021) วาล์วไฟฟ้าในระบบปั๊มความร้อน ซึ่งถูกติดตั้งก่อนหน้านี้ก่อนวาล์วขยายได้ถูกถอดออกเพื่อแก้ปัญหาความผิดปกติของวาล์วไฟฟ้าที่ทําให้เกิดความกดดันสูงและเพิ่มภาระงานคอมเพรสเซอร์ นอกจากนี้ยังมีการเปลี่ยนเครื่องเป่าเพื่อให้ความเร็วลดลงโดยการปรับความถี่ผ่านเครื่องปรับเปลี่ยนระบบระบบปั๊มความร้อนใช้เครื่องกดดันแบบปิดอย่าง hermetically, Kultorn AE1360Y, ความจุ 497 W ระบบสามารถถ่ายทอดความร้อนได้ 1,800"
+    },
+    {
+      "idx": 5,
+      "source_txt": "2.2 Studied Variables  \nThe variables studied comprised air velocities of 1.5, 3.5, and 5.5 m/s and temperatures of 40, 50, and 60 °C. The range of control for these variables was quite broad, as it aimed to observe differences in drying performance. The maximum values chosen for air velocity and temperature represent the upper limits achievable by the heat pump dryer used in the tests.\n\n2.3 Materials Used in Testing  \nFigure 2 shows the amount of cocoa beans that had undergone the fermentation process for 6 days, with each batch weighing 1,000 grams and an initial moisture content of 119.97–165.56% (dry basis). For each test, the drying conditions were controlled until the final moisture content was less than 7% (dry basis) (Laongsri, 2020).  \nFigure 2 Fermented cocoa beans (1,000 g) prepared for testing.",
+      "translated_txt": "2.3 วัสดุที่ใช้ในการทดสอบ รูปที่ 2 แสดงปริมาณถั่วโคโคอาที่ผ่านกระบวนการหมักหมักมาเป็นเวลา 6 วัน โดยแต่ละชุดมีน้ําหนัก 1,000 กรัมและความชื้นในตอนแรก 119.97165.56% (ฐานแห้ง) สําหรับแต่ละการทดสอบ เงื่อนไขในการหมักหมักถูกควบคุมจนกระทั่งความชื้นในตอนสุดท้ายต่ํากว่า 7% (ฐานแห้ง) (Laongri, 2020) รูปที่ 2 ถั่วโคอาหมัก (1,000 กก) เตรียมไว้สําหรับการทดสอบ"
+    },
+    {
+      "idx": 6,
+      "source_txt": "2.4 Instruments for Data Collection\n(1) LG digital scale, model CN1530, maximum capacity 3 kg, resolution 0.1 g.\n(2) Thermometer, model TM-1947SD, capable of measuring 4 channels, resolution 0.1 ºC, and data recording during the experiment.\n(3) Air moisture meter, brand UNI-T, model U333S, resolution 0.1% RH (temperature range -10 to 60 ºC).\n(4) Kilowatt-hour meter (kWh meter), accuracy: ±2%.\n(5) Air velocity meter, model AMF028, resolution 0.1 m/s, accuracy: ±3%.\n(6) Color meter, brand Linshang, model LS170.\n\n2.5 Testing and Data Collection Procedures\n2.5.1 Preparation of Cocoa Beans\nFermented cocoa beans, 1,000 g, were arranged on three trays using beans of similar size. The beans were placed on the trays without overlapping to ensure exposure to hot air, thus facilitating rapid reduction of moisture content (Figure 3).\n\nFigure 3 Arrangement of cocoa beans on the trays\n\n2.5.2 Loading Cocoa Beans into the Dryer\nThe dryer was turned on after closing the drying chamber door, and the first trial results were recorded.\n\n2.5.3 Collection of Cocoa Bean Weight Data\nCocoa bean weight data was collected using a continuous weighing scale at 15-minute intervals for 3 hours and then every 1 hour until the final moisture content was reached.\n\n2.5.4 Collection of Energy Consumption Data for Compressor and Blower Motors\nData was collected using a digital kilowatt-hour meter in both kWh and kW units every 15 minutes for 3 hours and then every 1 hour until the final moisture content was reached.\n\n2.5.5 Collection of Temperature Data\nTemperature data was collected using the TM-1947SD thermometer, and relative humidity data was collected using the UNI-T U333S. The sensor installation locations are shown in Figure 4. Data was collected at 15-minute intervals for 3 hours and then every 1 hour until the final moisture content was reached.\n\n2.5.6 Collection of Cocoa Bean Color Data after Drying\nColor data (L*, a*, and b*) of the cocoa beans after drying was collected using the Linshang color meter, model LS170.\n\n2.5.7 Test Replication\nEach test was replicated 3 times, totaling 27 experiments.\n\nT0 (Air temperature before entering the condenser)\nT2 (Air drying chamber outlet temperature)\nT4 (Air temperature before entering the evaporator)\nRH (Air relative humidity measurement location)\nT1 (Air temperature before entering the dryer)\nT3 (Air evaporator outlet temperature)\nT5 (Air temperature before entering the blower)\n\nFigure 4 Temperature and relative humidity measurement locations in the heat pump dryer.",
+      "translated_txt": "2.4 อุปกรณ์สําหรับการเก็บข้อมูล (1) LG digital scale, model T CN1530, ความจุสูงสุด 3 กิโลกรัม, ความละเอียด 0.1 g. (2) Thermometer, model TM-1947SD, capable of measuring 4 channels, resolution 0.1 oC, and data recording during the experiment. (3) อุปกรณ์วัดความชื้นอากาศ, ยี่ห้อ UNI-T, model U333S, resolution 0.1% RH (ระยะอุณหภูมิ -10 ถึง 60 oC) (4) คิโลวัตต์-ชั่วโมงวัด (kWh meter), ความแม่นยํา: ± 2%. (5) Air velocity meter, model AMF028, resolution 0.1 m/s, accuracy: ± 3%. (6) Color meter, brand Linshang, model LS170. 2.5 Testing and Data Collection Procedures 2.5.1 การจัด"
+    },
+    {
+      "idx": 7,
+      "source_txt": "2.6 Data Analysis  \nThe collected experimental data were analyzed for drying performance, which includes the drying rate according to Equation (1), the specific moisture extraction rate as per Equation (2), the coefficient of performance (COP) of the heat pump as per Equation (3), and color quality.  \n\nDR = Wi – Wf  \nwhere DR is the drying rate (kg/h), Wi is the initial weight of the material (kg), Wf is the final weight of the dried product (kg), and t is the drying time (h).  \n\nSMER = Wi – Wf  \nwhere SMER is the specific moisture extraction rate (kg/h) and PE is the electrical energy consumed during drying (kWh).  \n\nCOPh = Q̇ac  \n           Wcomp  \nwhere COPh is the coefficient of performance of the heat pump (–), Q̇ac is the heat output of the condenser (kW), and Wcomp is the compressor work as measured by the electrical energy supplied to the compressor motor (kW). The heat output at the condenser can be calculated according to Equation (4).  \n\nRMUTTO Research Journal Vol.18 No.1 (January - June 2025) ISSN 3027-8325 (Online) DOI: 10.63271/rmuttorj.v18i1.264551  \n\nQ̇ac = ṁa Ca (Tco – Tci) + ṁa Wd Cv (Tco – Tci) (4)  \nwhere Q̇ac is the heat output of the condenser (kW), Tci is the air temperature before entering the condenser (°C), Tco is the air temperature leaving the condenser (°C), Wd is the humidity ratio of air before entering the condenser (kgwater/kgdryair), Ca is the specific heat of dry air (kJ/kg °C), Cv is the specific heat of moist air (kJ/kg °C), and ṁa is the mass flow rate of dry air passing through the condenser (kg/s).  \n3.",
+      "translated_txt": "DR = Wi  Wf ที่ DR คือการแห้งอัตรา (กก/ชม), Wi คือน้ําหนักเริ่มต้นของวัสดุ (กก), Wf คือน้ําหนักสุดท้ายของผลิตภัณฑ์แห้ง (กก), และ t คือการแห้งเวลา (h). SMER =  Wf ที่ SMER คือการแห้งอัตรา (กก/ชม) และ PE คือพลังงานไฟฟ้าที่ใช้ในการแห้ง (กกWh). COPh = Q ̇ac Wph ที่มีสัมประสิทธิ์ของความสามารถของปั๊มความร้อน (            ) Q"
+    },
+    {
+      "idx": 8,
+      "source_txt": "Experimental Results and Discussion\n\n3.1 Effects of Temperature and Air Velocity on the Change in Drying Rate\n\nThe drying of cocoa beans using a small-scale heat pump dryer was conducted at temperatures of 40, 50, and 60 °C with air velocities of 1.5, 3.5, and 5.5 m/s, and an air flow ratio across the evaporator of 60%. Drying was carried out from the initial to the final moisture content. It was found that at 40 °C with air velocities of 1.5, 3.5, and 5.5 m/s, the drying time required was 660 minutes (11 hours). At 50 °C and an air velocity of 1.5 m/s, the drying time was 540 minutes (9 hours), while at air velocities of 3.5 and 5.5 m/s, the drying time was 480 minutes (8 hours). Lastly, at 60 °C and air velocities of 1.5 and 3.5 m/s, the drying time was 480 minutes (8 hours), whereas at an air velocity of 5.5 m/s, the drying time was 420 minutes (7 hours). In comparison with the study by Chungsiriporn et al. (2023), which used a hot air dryer with an electric coil at 60 °C and an air velocity of 0.1 m/s, a drying time of 485 minutes was reported. Therefore, the heat pump dryer achieved shorter drying times, likely due to higher air velocities and lower relative humidity in the hot air. Furthermore, the removal of moisture by the evaporator resulted in a higher heat transfer rate than the hot air dryer with an electric coil, although the general trend remained similar.\n\nAs shown in Figure 5, at the beginning of the drying process, the drying rate was high and gradually decreased over time in all conditions. This is because at first, water is present on the surface of the cocoa beans, and as the weight decreases, internal moisture slowly migrates to the surface, resulting in a lower drying rate towards the end. Thus, increases in temperature and air velocity lead to higher drying rates. This is because, with elevated temperatures and velocities, the heat content of pre-drying air rises, enabling more moisture inside the cocoa beans to change from liquid to vapor phases, as illustrated in Figure 6. These findings are consistent with other drying technologies; for example, higher drying temperatures generally shorten drying times, such as in the drying of whole bananas using a biomass dryer (Chunkaew et al., 2018) and cocoa beans with a hot air electric coil dryer (Herman et al., 2018). Correspondently, banana drying using a heat pump dryer with R32 refrigerant at 50, 55, and 60 °C and air velocities of 1, 1.5, and 2 m/s (Somsila et al., 2023), as well as radish slices dried using a heat pump dryer combined with a recovery wheel at 35, 40, and 45 °C and an air velocity of 1 m/s (Yan et al., 2025), demonstrated similar results.\n\n3.2 Effects of Temperature and Air Velocity on Specific Moisture Extraction Rate (SMER)\n\nFigure 7 shows that as temperature and air velocity increase, the specific moisture extraction rate (SMER) decreases. This occurs because higher temperatures and air velocities reduce the drying time, but the compressor motor power increases in correspondence with velocity and temperature, and the blower motor power increases as higher frequencies are required for blower operation. This finding corresponds with the drying of banana slices at 60 °C with three airflow rates—0.117, 0.128, and 0.140 m³/s—using a heat pump dryer (Chunkaew, 2021). However, it differs from the banana drying by a heat pump dryer using R32 refrigerant at 50, 55, and 60 °C, with air velocities of 1, 1.5, and 2 m/s (Somsila et al., 2023), because the temperature control systems were different: this study employed a compressor motor running at all times with temperature regulation via bypassing refrigerant to the external condenser at set points, while the compared system controlled by stopping the compressor motor.\n\n3.3 Effects of Temperature and Air Velocity on the Coefficient of Performance of the Heat Pump (COPh)\n\nThe behavior of the heat pump’s coefficient of performance (COPh) when adjusting temperature and air velocity was examined. Initially, during the early stages of drying at all velocities, the COPh increases as the dryer is started and temperature rises to the target. At this stage, the system is not yet in a steady-state, as part of the supplied heat is used for heating the structure and the rest for raising the temperature of the cocoa beans. Once the dryer system reaches equilibrium and the moisture content of the cocoa beans decreases, the COPh tends to decline (Figure 8). Figure 9 presents the average COPh test results: at all air velocities, the highest COPh was recorded at 60 °C, followed by 50 °C, and the lowest at 40 °C. This is because increasing the drying air temperature raises the pressure and temperature of the refrigerant on the discharge side of the compressor, resulting in an increase in compressor work (Wcomp) and heat flow at the condenser (Q̇ac). Additionally, higher air velocity was found to increase the COPh, in agreement with the findings for drying banana slices at 60 °C with three airflow rates (0.117, 0.128, and 0.140 m³/s) using a heat pump dryer (Chunkaew, 2021).\n\n3.4 Summary of Drying Performance of Cocoa Beans Using a Heat Pump Dryer\n\nAt 40 °C and air velocities of 1.5, 3.5, and 5.5 m/s, the average drying rates (DR) were 0.78±0.008, 0.79±0.007, and 0.85±0.002 g/min, respectively; the average SMER were 358.77±20.98, 302.55±1.02, and 261.72±14.23 g/kWh, respectively; and the COPh were 0.85±0.23, 1.56±0.39, and 2.01±0.49, respectively.\n\nAt 50 °C and air velocities of 1.5, 3.5, and 5.5 m/s, the average DR were 1.11±0.005, 1.25±0.007, and 1.25±0.002 g/min, respectively; the average SMER were 336.57±13.53, 296.65±15.34, and 229.65±10.39 g/kWh, respectively; and the COPh were 2.45±0.74, 2.93±0.74, and 3.36±0.86, respectively.\n\nAt 60 °C and air velocities of 1.5, 3.5, and 5.5 m/s, the average DR were 1.20±0.002, 1.25±0.007, and 1.37±0.004 g/min, respectively; the average SMER were 240.74±11.30, 236.21±14.40, and 223.36±7.78 g/kWh, respectively; and the COPh were 3.94±0.08, 4.48±0.20, and 5.17±0.10, respectively.\n\n3.5 Effects of Temperature and Air Velocity on the Color Quality of Cocoa Beans\n\nAccording to Table 1, as temperature and air velocity increased, the lightness (L*) and yellowness (b*) values decreased, while the redness (a*) value increased. This is because higher temperature and velocity result in greater heat applied during drying, which enhances browning reactions. These results align with studies on agricultural product drying, such as the drying of longan using high-temperature hot air (Chunthaworn et al., 2012; Khadwilard et al., 2025) and the color changes in okra dried by microwave, where increases in microwave power led to decreased lightness (L*) and yellowness (b*) but increased redness (a*) (Dadali et al., 2007). The visual appearance of dried cocoa beans at their final moisture content is shown in Figure 10.",
+      "translated_txt": "ผลการทดลองและการหารือ 3.1 ผลของอุณหภูมิและอากาศ Velocity บนการเปลี่ยนแปลงในอัตราการแห้ง RCO 55, 1. การแห้งของถั่วโคโก้โดยใช้เครื่องสูบความร้อนขนาดเล็กที่มีความเร็วสูงขึ้นโดยทั่วไปในช่วงเวลาที่สัดส่วนสูงขึ้นโดยการใช้เครื่องสูบความเร็วสูงขึ้นโดยทั่วไปจาก 1.2023 m3/0.2023 m3/0.2023 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 m3/0.205 ผลกระทบนี้จะเพิ่มขึ้นโดยเฉพาะเมื่ออากาศและการ"
+    },
+    {
+      "idx": 9,
+      "source_txt": "ISSN 3027-8325 (Online) RMUTTO Research Journal Vol.18 No.1 (January - June 2025) DOI: 10.63271/rmuttorj.v18i1.264551\n\nA study on the effects of controlled parameters on the drying performance of cocoa beans using an innovative heat pump dryer revealed that increasing temperature and air velocity led to higher drying rates (DR), lower specific moisture extraction rates (SMER), and increased average coefficient of performance of the heat pump (COPh). The test results for the color quality of dried cocoa beans, represented by lightness (L*), redness (a*), and yellowness (b*) values, showed that as temperature and air velocity increased, the lightness (L*) and yellowness (b*) values decreased, while the redness (a*) value increased.\n\nIt is recommended to use conditions of 40°C and an air velocity of 1.5 m/s, as these yield the highest average specific moisture extraction rate, which means lower electrical energy costs compared to other conditions. This is consistent with the needs of the cocoa product processing group in Khane Chue subdistrict, Mae Ramat district, Tak province, which requires drying at a temperature that is neither too high nor too low in order to obtain quality dried cocoa beans.\n\nFuture work should investigate other aspects of the quality performance of dried cocoa beans, such as nutritional value, essential nutrients, and antioxidant content, as well as the development of a heat pump dryer suitable for cocoa product processing groups in Tak province. The dryer should be designed to match the quantity of cocoa beans processed and the equipment selected for the heat pump system. Key areas for further study include the effects of variable-speed compressor motor control on the drying performance of cocoa beans using an innovative heat pump dryer, and the application of solar panels as a hybrid energy source to reduce electricity costs.",
+      "translated_txt": "ISSN 3027-8325 (ออนไลน์) RMUTTO Research Journal Vol.18 No.1 (มกราคม - มิถุนายน 2025) DOI: 10.63271/rmuttorj.v18i1.264551 การศึกษาเกี่ยวกับอิทธิพลของพาราเมตรที่ควบคุมได้ต่อการทําความแห้งของถั่วโคโค โดยใช้เครื่องแห้งปั๊มความร้อนที่นวัตกรรมใหม่ เปิดเผยว่า การเพิ่มอุณหภูมิและความเร็วของอากาศทําให้มีอัตราการแห้งที่สูงขึ้น (DR), อัตราการสกัดความชื้นเฉพาะที่ต่ํากว่า (SMER), และเพิ่มค่าสัมประสิทธิภาพเฉลี่ยของการทําความสําเร็จของเครื่องสูบความร้อน (COPh) ผลการทดสอบสําหรับคุณภาพสีของถั่วโคโคแห้งแห้ง, ที่"
+    },
+    {
+      "idx": 10,
+      "source_txt": "Acknowledgments\n\nThe authors would like to thank the Office of the National Science, Research and Innovation Fund (NSRF) for providing financial support through the Fundamental Fund (FF) for the fiscal year 2024, and Rajamangala University of Technology Lanna for their support in conducting research on enhancing cocoa bean yield efficiency through innovation in Tak province.",
+      "translated_txt": "การแสดงความยินดี ผู้เขียนขอขอบคุณสํานักงานกองทุนวิทยาศาสตร์ วิจัยและนวัตกรรมแห่งชาติ (NSRF) ที่ให้การสนับสนุนทางการเงินผ่านกองทุนพื้นฐาน (FF) สําหรับปีงบประมาณ 2024 และมหาวิทยาลัยเทคโนโลยีราชมงคลลานนา สําหรับการสนับสนุนในการดําเนินการวิจัยเพื่อเพิ่มประสิทธิภาพผลผลิตถั่วโคโกะผ่านการนวัตกรรมในจังหวัดทาค"
+    },
+    {
+      "idx": 11,
+      "source_txt": "References Achariyaviriya, A., Achariyaviriya, S., Namsanguan, Y., & Chunkaew, P. (2005).",
+      "translated_txt": "อ้างอิง Achariyaviriya, A., Achariyaviriya, S., Namsanguan, Y., & Chunkaew, P. (2005)."
+    },
+    {
+      "idx": 12,
+      "source_txt": "Chungsiriporn, J., Pongyeela, P., & Chairerk, N. (2023).",
+      "translated_txt": "Chungsiriporn, J., Pongyeela, P., & Chairerk, N. (2023)"
+    },
+    {
+      "idx": 13,
+      "source_txt": "Chunkaew P., Khadwilard A., Tavata A., Thawonngamyingsakul, Ch., & Kosalanun, S. (2024). Chunkaew P., Tavata A., Khadwilard A., & Sriudom Y.",
+      "translated_txt": "ชุนคาว ป. คัดวิลาร์ด เอ. ทาวตา เอ. ทาวอนงามิงซากุล ช. และ โคซาลานูน เอส. (2024) ชุนคาว ป. ทาวตา เอ. คัดวิลาร์ด เอ. และ ศรีดูม ย."
+    },
+    {
+      "idx": 14,
+      "source_txt": "(2018).",
+      "translated_txt": "(2018) ครับ"
+    },
+    {
+      "idx": 15,
+      "source_txt": "Chunkaew, P. (2021).",
+      "translated_txt": "Chunkaew, P. (2021)"
+    },
+    {
+      "idx": 16,
+      "source_txt": "Chunthaworn, S., Achariyaviriya, S., Achariyaviriya, A., & Namsanguan, K. (2012).",
+      "translated_txt": "ชุนธาวอร์น, S., อัชารียาวิริยะ, S., อัชารียาวิริยะ, A., & นามสังกวน, K. (2012)."
+    },
+    {
+      "idx": 17,
+      "source_txt": "Dadalı, G., Kılıç Apar, D., & Özbek, B.",
+      "translated_txt": "Dadalı, G., Kılıç Apar, D., และ Özbek, B."
+    },
+    {
+      "idx": 18,
+      "source_txt": "(2007).",
+      "translated_txt": "(2007) รายงาน"
+    },
+    {
+      "idx": 19,
+      "source_txt": "(2025).",
+      "translated_txt": "(2025) รายการ"
+    },
+    {
+      "idx": 20,
+      "source_txt": "https://doi.org/10.1016/j.ijrefrig.2025.01.034 Herman, Chr., Spreutels, L., Turomzsa, N., Konagano, E.M., & Haut, B.",
+      "translated_txt": "https://doi.org/10.1016/j.ijrefrig.2025.01.034 Herman, Chr., Spreutels, L., Turomzsa, N., Konagano, E.M., & Haut, B."
+    },
+    {
+      "idx": 21,
+      "source_txt": "(2018).",
+      "translated_txt": "(2018) ครับ"
+    },
+    {
+      "idx": 22,
+      "source_txt": "Forasteiro).",
+      "translated_txt": "Forasteiro)"
+    },
+    {
+      "idx": 23,
+      "source_txt": "https://doi.org/10.1016/j.fbp.2018.01.002 Hii, C.L., Rahman, R.A., Jinap, S., & Che Man, YB.",
+      "translated_txt": "https://doi.org/10.1016/j.fbp.2018.01.002 Hii, CL, Rahman, R.A., Jinap, S., & Che Man, YB."
+    },
+    {
+      "idx": 24,
+      "source_txt": "(2006).",
+      "translated_txt": "(2006) รายงาน"
+    },
+    {
+      "idx": 25,
+      "source_txt": "https://doi.org/10.1002/jsfa.2475 Hii, C.L., Law, C.L., & Suzannah, S. (2012).",
+      "translated_txt": "https://doi.org/10.1002/jsfa.2475 Hii, C.L., Law, C.L., & Suzannah, S. (2012)."
+    },
+    {
+      "idx": 26,
+      "source_txt": "https://doi.org/10.1016/j.jfoodeng.2011.08.017 Hii, C.L., Law, C.L., & Law, M.C.",
+      "translated_txt": "https://doi.org/10.1016/j.jfoodeng.2011.08.017 Hii, C.L., Law, C.L., & Law, M.C."
+    },
+    {
+      "idx": 27,
+      "source_txt": "(2013).",
+      "translated_txt": "(2013) ครับ"
+    },
+    {
+      "idx": 28,
+      "source_txt": "https://doi.org/10.1016/j.applthermaleng.2013.02.010 Horticultural Research Institute.",
+      "translated_txt": "https://doi.org/10.1016/j.applthermaleng.2013.02.010 สถาบันวิจัยการสวน"
+    },
+    {
+      "idx": 29,
+      "source_txt": "(2021).",
+      "translated_txt": "(2021)"
+    },
+    {
+      "idx": 30,
+      "source_txt": "Khadwilard, A., Chunkaew, P., & Kosalanun, S. (2024).",
+      "translated_txt": "Khadwilard, A., Chunkaew, P., และ Kosalanun, S. (2024)"
+    },
+    {
+      "idx": 31,
+      "source_txt": "Khadwilard, A., Chunkaew, P., Thawonngamyingsakul, Ch., & Kosalanun, S. (2025).",
+      "translated_txt": "Khadwilard, A., Chunkaew, P., Thawonngamyingsakul, Ch., & Kosalanun, S. (2025)"
+    },
+    {
+      "idx": 32,
+      "source_txt": "Sanpang, P., Tanongkankit, Y., & Khongkrapan, P. (2022).",
+      "translated_txt": "ซานปัง, ป., ทานองคานกิต, ย., และ คองคราปาน, ป. (2022)."
+    },
+    {
+      "idx": 33,
+      "source_txt": "Somsila, P., Pumchumpol, S., Teeboonma, U., & Namkhat, A.",
+      "translated_txt": "Somsila, P., Pumchumpol, S., Teeboonma, U., & Namkhat, A."
+    },
+    {
+      "idx": 34,
+      "source_txt": "(2023).",
+      "translated_txt": "(2023) รายการ"
+    },
+    {
+      "idx": 35,
+      "source_txt": "[in English] Yan, J., Han, W., Wei, B., Liu, Y., Gao, L., Wang, L., Wang, S., Zhu, M., & Huo, Z.",
+      "translated_txt": "[ภาษา อังกฤษ] ยัน, จ., ฮัน, วี, เวี, บี., ลิว, ย., กาโอ, ล., วัง, ล., วัง, ส., จู, ม., & ฮูโอะ, ซี."
+    },
+    {
+      "idx": 36,
+      "source_txt": "(2025).",
+      "translated_txt": "(2025) รายการ"
+    }
+  ],
+  "edges": [
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      0,
+      7
+    ],
+    [
+      0,
+      8
+    ],
+    [
+      0,
+      9
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      1,
+      7
+    ],
+    [
+      1,
+      8
+    ],
+    [
+      1,
+      9
+    ],
+    [
+      1,
+      19
+    ],
+    [
+      1,
+      29
+    ],
+    [
+      1,
+      34
+    ],
+    [
+      1,
+      36
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      8
+    ],
+    [
+      2,
+      9
+    ],
+    [
+      2,
+      11
+    ],
+    [
+      2,
+      19
+    ],
+    [
+      2,
+      24
+    ],
+    [
+      2,
+      27
+    ],
+    [
+      2,
+      29
+    ],
+    [
+      2,
+      30
+    ],
+    [
+      2,
+      36
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      3,
+      8
+    ],
+    [
+      3,
+      9
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      4,
+      7
+    ],
+    [
+      4,
+      9
+    ],
+    [
+      4,
+      15
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      5,
+      8
+    ],
+    [
+      5,
+      9
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      6,
+      8
+    ],
+    [
+      6,
+      9
+    ],
+    [
+      6,
+      22
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      7,
+      9
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      8,
+      10
+    ],
+    [
+      8,
+      11
+    ],
+    [
+      8,
+      12
+    ],
+    [
+      8,
+      13
+    ],
+    [
+      8,
+      14
+    ],
+    [
+      8,
+      16
+    ],
+    [
+      8,
+      17
+    ],
+    [
+      8,
+      19
+    ],
+    [
+      8,
+      22
+    ],
+    [
+      8,
+      23
+    ],
+    [
+      8,
+      24
+    ],
+    [
+      8,
+      25
+    ],
+    [
+      8,
+      26
+    ],
+    [
+      8,
+      27
+    ],
+    [
+      8,
+      28
+    ],
+    [
+      8,
+      29
+    ],
+    [
+      8,
+      30
+    ],
+    [
+      8,
+      31
+    ],
+    [
+      8,
+      32
+    ],
+    [
+      8,
+      34
+    ],
+    [
+      8,
+      35
+    ],
+    [
+      8,
+      36
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      11,
+      12
+    ],
+    [
+      11,
+      15
+    ],
+    [
+      12,
+      13
+    ],
+    [
+      13,
+      14
+    ],
+    [
+      13,
+      30
+    ],
+    [
+      13,
+      31
+    ],
+    [
+      14,
+      15
+    ],
+    [
+      15,
+      16
+    ],
+    [
+      16,
+      17
+    ],
+    [
+      17,
+      18
+    ],
+    [
+      18,
+      19
+    ],
+    [
+      19,
+      20
+    ],
+    [
+      20,
+      21
+    ],
+    [
+      21,
+      22
+    ],
+    [
+      22,
+      23
+    ],
+    [
+      23,
+      24
+    ],
+    [
+      24,
+      25
+    ],
+    [
+      25,
+      26
+    ],
+    [
+      26,
+      27
+    ],
+    [
+      27,
+      28
+    ],
+    [
+      28,
+      29
+    ],
+    [
+      29,
+      30
+    ],
+    [
+      30,
+      31
+    ],
+    [
+      31,
+      32
+    ],
+    [
+      32,
+      33
+    ],
+    [
+      33,
+      34
+    ],
+    [
+      34,
+      35
+    ],
+    [
+      35,
+      36
+    ]
+  ]
+}

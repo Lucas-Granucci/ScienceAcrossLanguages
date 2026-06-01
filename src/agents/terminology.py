@@ -86,7 +86,7 @@ class TerminologyAgent:
         self.client = client
         self.model_name = model_name
         env = get_prompt_environment(language_pair)
-        self.user_prompt_template = env.get_template("terminology/user.jinja")
+        self.user_prompt_template = env.get_template("terminology_agent/user.jinja")
         self.wikidata = WikidataGlossary()
 
     def extract_terms(self, discourse: str, target_lang_code: str) -> str:
@@ -101,6 +101,7 @@ class TerminologyAgent:
             glossary_entries = []
 
             for term in extracted_terms:
+                print(f"Trying term: {term}")
                 wiki_result = self.wikidata.get_translation(term, target_lang_code)
                 if wiki_result:
                     glossary_entries.append(wiki_result)

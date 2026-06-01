@@ -18,7 +18,7 @@ class RAGAgent:
         self.client = client
         self.model_name = model_name
         env = get_prompt_environment(language_pair)
-        self.user_prompt_template = env.get_template("terminology/user.jinja")
+        self.user_prompt_template = env.get_template("terminology_agent/user.jinja")
 
     def extract_terms(
         self,

@@ -1,0 +1,657 @@
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 408
+Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 1
+Nazire Burçin HAMUTOĞLU 2, Özlem CANAN GÜNGÖREN 3, Gülden KAYA UYANIK4,
+Duygu GÜR ERDOĞAN5
+Geliş Tarihi: 15.11.2016 Kabul Tarihi: 07.05.2017
+Bu çalışmada Ng tarafından 2012 yılında geliştirilen 17 maddeden oluşan “Dijital Okuryazarlık Ölçeğinin” Türkçe ’ye uyarlaması yapılmıştır.
+Ölçeğin orijinali 4 faktörlü bir yapıya sahiptir.
+Bu faktörler tutum, teknik, bilişsel ve sosyal olarak isimlendirilmiştir.
+Ölçeğin Türkçe’ ye uyarlama çalışmaları dilsel eşdeğerlik ile başlamış, iyi derecede İngilizce ve Türkçe bilen 3 uzman tarafından İngilizce'den Türkçe'ye, farklı 3 uzman tarafından da Türkçe'den İngilizce'ye çevrilmiş, uzmanların görüşleri doğrultusunda Türkçe deneme formu elde edilerek İngilizce ve Türkçe bilen 37 akademisyene iki hafta arayla her iki form uygulanmış ve her iki form arasındaki korelasyon katsayıları anlamlı olarak bulunmuştur.
+Dilsel eşdeğerliğin ardından AFA, DFA ve güvenirlik analizleri ile gerçekleştirilmiştir.
+AFA için 185 öğrenciden elde edilen veriler, DFA için ise farklı 210 öğrenciden elde edilen veriler kullanılmıştır.
+Birinci düzey DFA ile araştırma grubundaki kişi sayısı faktör analizi için yeterli seviyede olduğu, ikinci düzey DFA ile dijital okuryazarlık örtük değişkenin anlamlı birer yordayıcısı olduğu bulunmuştur.
+İç tutarlılık katsayısı (Cronbach Alpha) ve test tekrar test yöntemleriyle de ölçeğin güvenirliğine bakılmıştır.
+Elde edilen bulgular sonucunda ölçeğin Türkçe formunun geçerli ve güvenilir bir yapıya sahip olduğu görülmüştür.
+Anahtar Kelimeler: dijital okuryazarlık, ölçek, güvenirlik, geçerlik.
+1 Çalışma 3.
+Uluslararası Eğitimde Yeni Yönelimler Konferansında (2016) bildiri olarak sunulmuştur.
+2 Arş.
+Gör., Sakarya Üniversitesi, bhamutoglu@sakarya.edu.tr 3 Yrd.
+Doç.
+Dr., Sakarya Üniversitesi, ocanan@sakarya.edu.tr 4 Yrd.
+Doç.
+Dr., Sakarya Üniversitesi, guldenk@sakarya.edu.tr 5 Yrd.
+Doç.
+Dr., Sakarya Üniversitesi, dgur@sakarya.edu.tr
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 409
+Adapting Digital Literacy Scale into Turkish
+Submitted by 15.11.2016 Accepted by 07.05.2017
+Abstract
+In this study it is aimed to adapt the “Digital Literacy Scale” to Turkish, which was developed by Ng (2012), and included 17 items.
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 410 Giriş
+Günümüzde her geçen gün birçok yeni teknoloji ortaya çıkmaktadır.
+Bunlar içerisinde ilk
+akla gelenler kablosuz internet teknolojileri ile mobil teknolojilerdir.
+Özellikle internet
+teknolojileri ile birlikte günlük hayatımızda yer eden ve bireylerin farklı amaçlarına
+ulaşmasını sağlayacak, bireylere kolaylık sağlayan, çok sayıda web sayfası bulunmaktadır.
+Son dönemde bireysel internet kullanımının eğitim, sağlık, iş ve özel sektörlerde
+yaygınlaşması göze çarpmaktadır.
+Bireylerin Sosyal ağları kullanma, belli bir gruba üye
+olma, haber okuma, görüşlerini dile getirme, müzik dinleme, film izleme vb.
+gibi birçok faklı
+amaçlar doğrultusunda internet kullandığı gözlenmektedir.
+Ancak bu web sayfaların hepsi
+aynı derece güvenilir olma özelliğine sahip değildir.
+Bununla birlikte, internette gezinirken
+farklı amaçlara hizmet etmekte olan kullanıcı profili ile karşılaşmak da mümkündür.
+Bu web
+sayfalarında gezinen bireyler, çevrimiçi hırsızlık, dolandırılma, yanlış yönlendirilme, sanal
+zorbalık, kişisel bilgilerin paylaşımı, zararlı yazılımlar istismar vb.
+istenmeyen davranışlara
+maruz kalabilmektedir (Telekomünikasyon İletişim Başkanlığı, TİB, 2012).
+Benzer şekilde,
+okuduğumuz bir haberin kaynağının güvenirliği, o konu hakkındaki tavır ve tutumumuzu
+belirlemede önemlidir.
+Herkes gibi özellikle, ergenlik çağındaki bireyler ile çok fazla internet
+deneyimi olmayan bireylerin; internette karşılaştıkları kullanıcı profilleri, gezindikleri
+sitelerden elde ettikleri bilgiler ve sosyal ağlarda tanıştıkları bireyler ile iletişimde bulunurken
+dikkat etmesi gerekmektedir.
+Bu durum bireylerin dijital okuryazarlık becerilerine sahip
+olmasını gerekli kılmaktadır.
+Farklı teknolojileri kullanarak güvenli internet kullanımını arttırmak, edinilen bilginin
+doğru/yanlışlığı hakkında karar verebilmek vb.
+becerilere sahip olabilmek için yapılan
+çalışmaların yanı sıra; bireylerin karşılaştıkları problemleri çözmede dijital okuryazarlık
+becerilerinin önemli olduğu düşünülmektedir.
+Aksi durumda, bilginin çok hızlı bir şekilde
+yayıldığı günümüzde, güvenirliği düşük, doğruluğu ispatlanmamış, provokasyon amaçlı
+yapılan yanlış bilgilendirilmeler bireyler ve toplum açısından yanıltıcı sonuçlar
+doğurabilmektedir.
+Çubukçu ve Bayzan (2013), internet risklerinin oluşmasındaki en büyük
+etkenin doğru olmayan, istismar edici, yanıltıcı bilgilerin üretilmesi ve paylaşılmasından
+kaynaklandığını belirtmektedir.
+Bu durumda, bireylerin dijital okuryazarlık becerilerinin
+öneminin tartışılması kaçınılmazdır (Ainley, Schulz ve Fraillon, 2016; Mohammadyari ve
+Singh, 2015).
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 411 Dijital okuryazarlık, dijital vatandaşlığın en önemli ayağını oluşturan boyutlarından
+birisidir (Ribble, 2011).
+Dijital ortam kullanıcıların sahip olması gereken becerileri
+tanımlama çabaları mevcuttur (Burnett ve McKinley, 1998 ; Zins, 2000).
+Dijital okuryazarlık,
+farklı teknolojilerin doğru kullanılabilmesi ile birlikte doğru bilgiye ulaşma, üretme ve
+paylaşımda bulunabilme ve öğrenme-öğretme süreçlerinde teknolojiyi kullanabilme
+becerilerine sahip olmayı gerektirmektedir.
+Çubukçu ve Bayzan (2013), dijital okuryazarlık
+becerileri ile ilgili FATIH Projesi’nin okullardaki eğitim sürecinde önemli bir yeri teşkil
+edecek olması ve okullarda Medya Okuryazarlığı dersinin seçmeli verilmeye başlamasını
+fırsat olarak değerlendirmektedir.
+Dijital ortamlar ile ilgili Avrupa Birliği için hazırlanan
+Dijital Okuryazarlık raporunda, “öğrencilerin yaratıcılıkları ile kendilerini ifade etme
+becerilerini geliştirdiği” belirtilmektedir (Tornero, 2004).
+Yaşanan teknolojik gelişmeler göz önünde bulundurulduğunda, ülkemizde dijital
+okuryazarlık becerilerinin ne düzeyde olduğunu belirleyen bir ölçme aracına ihtiyaç olduğu
+görülmektedir.
+Bu amaca hizmet etmek üzere, Ng (2012) tarafından geliştirilen dijital
+okuryazarlık ölçeğinin dilimize ve kültürümüze uyarlanması planlanmaktadır.
+21. yüzyıl
+bireyleri için, güvenilir bilgiye ulaşma, güvenli internet kullanımı ve bilinçli internet
+kullanımı gibi dijital okuryazarlık becerileri önemli görülmektedir.
+Literatürde dijital
+teknolojilerin kullanılarak okuma- yazma gerçekleştirilmesi ile ilgili yapılan çalışmalar ile
+yükseköğretimde dijital okuryazarlığın önemli olduğu ile ilgili çalışmalar mevcuttur (Özbay
+ve Özdemir, 2014; Prior, Mazanov, Meacheam, Heaslip ve Hanson, 2016; Radovanović,
+Hogan ve Lalić, 2015; Tüzel ve Tok, 2013).
+Sönmez ve Gül (2014), dijital çağda bireylerin
+karşılaştıkları dijital problemleri çözebilmeleri için, dijital okuryazarlık bilişsel becerilerine
+sahip olmaları gerektiğini vurgulamaktadır.
+Çubukçu ve Bayzan (2013) dijital okuryazarlığın
+bilinen okuryazarlıktan bile daha önemli bir hal almaya başladığını belirtmektedir.
+Bu
+çalışmalar ışığında eğitimde dijital okuryazarlık becerilerini kazandıracak olan öğretmenlerin
+bu konu hakkındaki becerileri önem kazanmaktadır.
+Türkiye’de öğretmen adaylarının
+internete erişim olanakları ve interneti kullanım amaçları ile ilgili yapılan istatistikler,
+öğretmen adaylarının büyük bir çoğunluğunun (%86,9) interneti kullandığını göstermektedir
+(Akkoyunlu ve Yılmaz, 2005; Atav, Akkoyunlu ve Sağlam, 2006).
+İnternetin yoğun bir
+şekilde kullanılmasına rağmen, öğretmen adaylarının dijital okuryazarlık becerilerini ortaya
+koyan bir ölçme aracının olmayışı bu çalışmayı önemli kılmaktadır.
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 412 Bu çalışmada dilimize uyarlanan Dijital Okuryazarlık ölçeği, öğretmen adaylarının
+hem dijital okuryazarlık becerilerinin belirlenmesi açısından hem de bu becerilerin
+geliştirilmesi ile ilgili yapılacak aktivitelere temel oluşturacağından önemli görülmektedir.
+Yöntem
+Çalışma Grubu
+Dijital Okuryazarlık Ölçeğinin geçerlik ve güvenirlik çalışmaları 2015-2016 öğretim yılı
+Bahar döneminde Sakarya Üniversitesi Eğitim fakültesinin farklı bölümlerinde okuyan
+öğrenciler ile yürütülmüştür.
+Araştırmanın örneklemini dört farklı çalışma grubu
+oluşturmakla beraber toplam 485 kişi oluşturmaktadır.
+İlk grup 20’si ( %54) kadın, 17’si
+(%46) erkek olmak üzere toplam 37 akademisyenden oluşmaktadır ve bu grup ile dilsel
+eşdeğerlilik çalışması yapılmıştır.
+İkinci grup 108’i (%58,4) kadın, 77’si (%41,6) erkek
+olmak üzere toplam 185 kişiden oluşmaktadır ve açımlayıcı faktör analizi ile iç tutarlık
+çalışmaları bu gruptan elde edilen verilerle gerçekleştirilmiştir.
+Üçüncü grup 118 kadın (%
+56,2) ve 92 erkek (%43,8) olmak üzere toplam 210 kişiden oluşmaktadır ve doğrulayıcı
+faktör analizi sonuçları bu gruptan elde edilmiştir.
+Dördüncü grup ise 20 kadın (% 37,7) ve
+33 erkek (%62,3) olmak üzere toplam 53 kişiden oluşmaktadır ve bu kişilerden elde edilen
+veriler üzerinden ölçeğin test tekrar test analizleri yapılmıştır.
+Veri Toplama Aracı: Dijital Okuryazarlık Ölçeği
+Dijital Okuryazarlık Ölçeği (DOYÖ) Ng (2012) tarafından geliştirilmiş 17 maddeden ve 4 faktörden
+(tutum, teknik, bilişsel ve sosyal) oluşan bir ölçektir.
+Ölçeğin orijinali Avustralya’da bulunan bir
+üniversitede öğrenim gören, yaşları 18 ile 30 arasında değişen öğretmen adayları üzerinde
+uygulanmıştır.
+Tersten puanlanan maddenin bulunmadığı ölçekte Kesinlikle Katılıyorum (5),
+Kesinlikle Katılmıyorum (1) şeklinde 5’li Likert tipi bir derecelendirme kullanılmıştır.
+İşlem
+Dijital Okuryazarlık Ölçeğinin Türkçeye uyarlama çalışması öncelikle orijinal dilde ölçeğin
+geliştiricisi olan Ng ile iletişime geçilerek ölçeğin uyarlanması için izin alınmasıyla
+başlamıştır.
+Gerekli izinler sağlandıktan sonra ölçeğin kaynak dil olan İngilizceden hedef dil
+olan Türkçeye çeviri süreci başlatılmıştır.
+Bir ölçme aracının geliştirildiği toplumdan farklı
+bir topluma uyarlanması sırasındaki en önemli işlemi ölçeğin kaynak dilden hedef dile
+çevirisi süreci oluşturmaktadır (Geisinger, 1994).
+Her iki formun yeteri kadar birbirine
+benzediği görüşü alındıktan sonra ölçeğin uygulama hazır, son hali ortaya çıkarılmıştır.
+Ölçek
+dil geçerliliği için yeterli hale getirilmiştir.
+Dilsel eşdeğerliliği çalışmaları 37 akademisyen ile
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 413 iki dilli desen yöntemiyle yürütülmüştür.
+Yapı geçerliliği için toplanan veri, veri ön işleme
+yöntemleri kullanılarak incelenmiştir (Oğuzlar, 2003).
+DOYÖ’nin yapı geçerliliği çalışması
+betimleyici faktör analizi (exploratory factor analysis) ve doğrulayıcı faktör analizi
+(confirmatory factor analysis) yöntemleri kullanılarak yürütülmüştür.
+Faktör analizi
+çalışmalarında bazı varsayımsal ölçütlerin aranması gerekmektedir.
+Bu amaçla varsayımsal
+ölçütler olarak AFA için normal dağılım, doğrusallık, aykırı değerlerin çıkarılması, boş
+değerlerin belirlenmesi incelenirken DFA için aranan tüm varsayımsal kriterlerle birlikte
+uyum iyiliği indekslerinin yeterlilik düzeyleri incelenmiştir.
+DOYÖ’nin uyarlama çalışmasında toplanan verinin yapı geçerliği çalışmaları için
+gereken yeterliliği gösterdiği gözlenerek yapı geçerliği çalışması yapılmıştır.
+Ölçeğin
+güvenirlik düzeyi Cronbach alfa iç tutarlılık ve test tekrar test yöntemleri aracılığıyla
+incelenmiştir.
+DOYÖ’nin uyarlama çalışmalarında kullanılan tüm istatistiksel analizler SPSS
+20.0 ve LISREL 8.7 paket programlarıyla yapılmıştır.
+Bulgular
+Dilsel Eşdeğerlik
+Dijital Okuryazarlık Ölçeğinin (DOYÖ) dilsel eşdeğerlik çalışması 37 kişi ile yürütülmüştür
+ve elde edilen bulgulara göre Türkçe ve orijinal İngilizce form puanları arasındaki korelasyon
+katsayıları ölçeğin bütünü için .89, Tutum alt boyutu için .80, Teknik alt boyutu için .93,
+Bilişsel alt boyutu için .73 ve Sosyal alt boyutu için .73olarak bulunmuştur.
+Tüm ilişkiler
+0,01 anlamlılık düzeyinde anlamlıdır.
+DOYÖ’nün Türkçe ve İngilizce formlarında yer alan
+maddelerin korelasyonlarına ilişkin bulgular Tablo 1’de gösterilmiştir.
+Tablo 1.
+DOYÖ'nin Maddelere Göre Dilsel Eşdeğerlik Bulguları
+Madde No r Madde No r Madde No r Madde No r DOYÖ 1 .42* DOYÖ 6 .50* DOYÖ 11 .81* DOYÖ 16 .74* DOYÖ 2 .59* DOYÖ 7 .72* DOYÖ 12 .62* DOYÖ 17 .55* DOYÖ 3 .49* DOYÖ 8 .75* DOYÖ 13 .78* DOYÖ 4 .77* DOYÖ 9 .62* DOYÖ 14 .55* DOYÖ 5 .61* DOYÖ 10 .67* DOYÖ 15 .50* * p< .01
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 414 Tablo 1’e göre İngilizce ve Türkçe formlarda yer alan tüm maddeler için korelasyon
+katsayısı .30’un üzerinde ve anlamlı olarak elde edilmiştir.
+Bulgulardan hareketle, ölçeğin
+Türkçe formu ile İngilizce formunun dilsel açıdan eşdeğer olduğu söylenebilir.
+Yapı Geçerliği
+DOYÖ’nün Türkçe formunun faktör yapısını incelemek amacıyla AFA ve DFA
+uygulanmıştır.
+Ayrıca ölçeğin yakınsak ve ayırt edici geçerliği de incelenmiştir.
+Açımlayıcı Faktör Analizi (AFA)
+Açımlayıcı faktör analizi gerçekleştirilmeden önce veri setinin faktör analizi için uygun olup
+olmadığının belirlenmesi gerekir.
+Örneklemin veri analizine uygun olup olmadığını
+belirlemek için yapılacak işlem Kaiser-Meyer-Oklin’in (KMO) ve Barlett Sphericity
+testlerinin gerçekleştirilmesidir.
+KMO 0 ile 1 arasında değişen değerler alabilmektedir ve
+0.5’in üzerindeki KMO değerleri kabul edilebilir değerdir (Field, 2009).
+Bununla birlikte; 0.5
+ile 0.7 arasındaki KMO değerlerinin orta, 0.7 ile 0.8 arasındaki değerlerin iyi, 0.8 ile 0.9
+arasındaki değerlerin çok iyi ve 0.9’un üzerindeki değerlerin ise mükemmel olduğu kabul
+edilmektedir (Field, 2009).
+Bu çalışmada KMO örneklem uygunluk katsayısı .91, Barlett
+Sphericity testi değeri ise 1549.40 (p<.01, sd=136) bulunmuştur.
+Bu sonuca göre, verilerin
+faktör analizine mükemmel uygunlukta olduğu söylenebilir.
+AFA’da temel bileşenler
+yöntemi (principal components) ve varimax döndürme tekniği kullanılmıştır.
+Temel
+bileşenler yöntemi bağımlılık yapısını yok etme amacıyla tanıma, sınıflandırma, boyut
+indirgenme ve yorumlanmasını sağlayan, çok değişkenli bir istatistiksel yöntemdir (Jolliffe,
+2002).
+Buna göre AFA sonucunda toplam varyansın %65.78’ini açıklayan ve orijinal
+formdaki maddelerle bire bir örtüşen 4 faktörlü bir yapı elde edilmiştir (Şekil 1).
+Şekil 1.
+Öz-değer Faktör Saçılma Grafiği
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 415 Şekil 1 incelendiğinde 4 boyutun öz değerinin birin üzerinde olduğu görülmüştür.
+Belirlenen faktörler orijinal ölçekte olduğu gibi “Tutum”, “Teknik”, “Bilişsel” ve
+“Sosyal” olarak isimlendirilmiştir.
+Ölçekte bulunan tüm maddelerin faktör yükleri .30’dan
+yüksek olduğu için ölçekten herhangi bir maddenin çıkarılmasına gerek duyulmamıştır.
+Ölçeğin faktör yükleri ve açıkladıkları varyans oranlarına ilişkin bilgiler Tablo 2’de
+sunulmuştur.
+Tablo 2.
+DOYÖ’nün Faktör Yapısı ve Faktör Yükleri
+Faktör Madde No Maddeler Faktör yükü
+DOYÖ 1 Öğrenme sürecinde Bilgi ve iletişim teknolojilerini kullanmak hoşuma gider.
+.82
+DOYÖ 2 Bilgi ve iletişim teknolojilerini kullanarak daha iyi öğrenirim.
+.83 DOYÖ 3 Bilgi ve iletişim teknolojilerini kullanarak öğrenmek daha ilgi çekicidir.
+.83
+Tutum
+DOYÖ 4 Bilgi ve iletişim teknolojilerini kullanarak öğrenmek beni daha motive eder.
+.76
+DOYÖ 5 Öğrenme etkinliklerim için arkadaşlarımdan sıklıkla İnternet aracılığıyla (Skype, Face ve Bloglarvb) yardım alırım.
+.31
+DOYÖ 6 Bilgi ve iletişim teknolojilerini kullanarak öğrenmek öz- yönetimli ve bağımsız olmamı sağlar.
+.66
+DOYÖ 7 Karşılaştığım teknik problemleri nasıl çözeceğimi bilirim.
+.49 Açıkladığı varyans % 10.52
+DOYÖ 8 Yeni teknolojilerin kullanımını kolaylıkla öğrenebilirim.
+.67 DOYÖ 9 Önemli olduğunu düşündüğüm yeni teknolojilere ayak uydurabilirim.
+.80
+Teknik
+DOYÖ 10 Birçok farklı teknoloji hakkında bilgim var.
+.72 DOYÖ 11 Öğrenmede ve yeni şeyler oluşturmada (Sunumlar, dijital hikâyeler, wikiler, bloglargb) bilgi ve iletişim teknolojilerini kullanmak için gerekli olan teknik becerilere sahibim.
+DOYÖ 12 İnternetten bilgi elde etmeye yönelik araştırma ve değerlendirme becerilerime güvenirim.
+.73
+DOYÖ 13 Öğrenme sürecinde mobil teknolojilerin (Cep telefonları, PDAs, Ipadler, akıllı telefonlar..vb) kullanım potansiyeli yüksektir.
+Açıkladığı varyans % 44.04
+DOYÖ 14 Öğretmenlerim ders anlatırken bilgi ve iletişim teknolojilerini daha çok kullanmalıdır.
+.67
+Bilişsel
+DOYÖ 15 Bilgi ve iletişim teknolojileri proje çalışmalarında ve diğer öğrenme etkinliklerinde arkadaşlarım ile daha iyi işbirliği içinde çalışmamı sağlar.
+Açıkladığı varyans % 6
+Sosyal
+DOYÖ 16 Bilgi ve iletişim teknolojileri becerilerim iyidir.
+.92 DOYÖ 17 İnternet tabanlı aktivitelerle ilgili konuları (Örn; siber güvenlik, eser hırsızlığı, araştırma konuları vb) bilirim.
+.51
+Açıkladığı varyans % 5.22 Açıklanan Toplam Varyans 65.78
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 416 AFA sonuçlarına göre, Tutum alt boyutu 7 maddeden oluşmakta ve toplam varyansın
+%10.52’sini açıklamaktadır.
+Tutum alt boyutunda yer alan maddelerin faktör yükleri .31 ile
+.83 arasında değişmektedir.
+Teknik alt boyutu 6 maddeden oluşmakta ve toplam varyansın
+%44.04’ünü açıklamaktadır.
+Teknik alt boyutunda yer alan maddelerin faktör yükleri .67 ile
+.80 arasında sıralanmaktadır.
+Bilişsel alt boyutu 2 maddeden oluşmakta ve toplam varyansın
+%6’sını açıklamaktadır.
+Bilişsel alt boyutunda yer alan iki maddenin faktör yükleri .40ve
+.67’dir.
+Sosyal alt boyutu da 2 maddeden oluşmakta ve toplam varyansın %5.22’sini
+açıklamaktadır.
+Sosyal alt boyutunda yer alan 2 maddenin faktör yükleri .51ve .92 olarak
+sıralanmaktadır.
+DOYÖ’den elde edilen dört faktörlü yapı dört ayrı ölçek olarak
+değerlendirilebildiği gibi, ölçekten dijital okuryazarlığa ilişkin toplam bir puan da elde
+edilebilmektedir.
+Doğrulayıcı Faktör Analizi (DFA)
+Bu araştırmada, DOYÖ’nün orijinal formunun faktör yapısının Türkiye örnekleminde
+doğrulanıp doğrulanmayacağını ortaya koymak üzere DFA uygulanmıştır.
+Bu çalışmada
+DFA’da sınanan modelin yeterliliğini ortaya koymak üzere Ki-Kare Uyum Testi (Chi-Square
+Goodness), iyilik uyum indeksi (Goodness of Fit Index, GFI), düzeltilmiş iyilik uyum indeksi
+(Adjustment Goodness of Fit Index, AGFI) karşılaştırmalı uyum indeksi (Comparative Fit
+Index, CFI), normlaştırılmış uyum indeksi (Normed Fit Index, NFI), normlaştırılmamış uyum
+indeksi (Non-Normed Fit Index, NNFI), tahmin hatalarının ortalamasının karekökü (Root
+Mean Square Error of Approximation, RMSEA) ve standartlaştırılmış hata kareleri
+ortalamasının karekökü (Standardized Root Mean Square Residual, SRMR) incelenmiştir.
+Uyum indekslerine ilişkin dikkate alınması gereken ölçütler genel olarak; GFI, CFI ve NFI,
+indeksleri için 0.90 değeri kabul edilebilir uyuma ve 0.95 değeri mükemmel uyuma işaret
+etmektedir.
+(Bentler, 1980; Bentler ve Bonett, 1980; Marsh, Hau, Artelt, Baumertv ve
+Peschar, 2006).
+NNFI için .95 değeri kabul edilebilir uyum ve .97 değeri mükemmel uyum
+ölçütü olarak alınmaktadır.
+AGFI için .85 değeri kabul edilebilir uyumu ve .90 değeri
+mükemmel uyumu ifade etmektedir (Schermelleh-Engel ve Moosbrugger, 2003).
+RMSEA
+için .08 kabul edilebilir uyuma ve .05 mükemmel uyuma işaret etmektedir (Brown ve
+Cudeck, 1993; Byrne ve Campbell, 1999).
+SRMR için ise .05 değeri mükemmel uyum ve .10
+değeri kabul edilebilir uyum ölçütü olarak alınmaktadır(Schermelleh-Engel ve Moosbrugger,
+2003).
+Yapılan DFA’da elde edilen modelin uyum indeksleri incelenmiş ve minimum ki-kare
+değerinin (χ2=268.45, Sd=113, p=0.00) anlamlı olduğu görülmüştür.
+Uyum indeksi değerleri
+ise RMSEA=.071, GFI=.93, AGFI=.91, CFI=.98, NFI=.96, NNFI=.97 ve SRMR=.05 olarak
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 417 bulunmuştur.
+İncelenen uyum indekslerine ilişkin mükemmel ve kabul edilebilir uyum
+ölçütleri, DFA’dan elde edilen dört faktörlü modelin uyumlu olduğunu ve ölçeğin orijinal
+formundaki faktör yapısının Türkiye örnekleminde doğrulandığını göstermektedir.
+Birinci
+düzey DFA’dan elde edilen dört boyutlu modele ilişkin faktör yükleri Şekil 2’de
+görülmektedir.
+Şekil 2.
+DOYÖ’ye İlişkin Birinci Düzey DFA’dan Elde Edilen Path Diyagramı ve Boyutlar
+Arası Korelasyon Değerleri
+Şekil 2’de görülebileceği gibi “Tutum” alt boyutu için faktör yükleri .54 ile .75 arasında,
+“Teknik” alt boyutu için .63 ile .79, “Bilişsel” alt boyutu için .60 ile .69 ve “Sosyal” alt boyutu için
+.61 ile .77 arasında değişmektedir.
+Ayrıca Şekil 2’de boyutlar arası korelasyon değerleri yer
+almaktadır.
+Buna göre boyutlar arası ilişkiler .65 ile .97 arasında değişmektedir.
+Birinci düzey DFA sonucunda elde edilen t değerleri Tablo 3’te sunulmuştur.
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 418 Tablo 3.
+DOYÖ için Birinci Düzey DFA’dan elde Edilen t Değerleri
+Madde No t Madde No t Madde No t Madde No t DOYÖ 1 13.85** DOYÖ 6 9.14** DOYÖ 11 12.36** DOYÖ 16 8.70** DOYÖ 2 14.90** DOYÖ 7 10.34** DOYÖ 12 14.88** DOYÖ 17 13.63** DOYÖ 3 13.81** DOYÖ 8 10.75** DOYÖ 13 15.44** DOYÖ 4 13.43** DOYÖ 9 14.51** DOYÖ 14 10.50** DOYÖ 5 9.41** DOYÖ 10 13.24** DOYÖ 15 9.99** ** p< .01
+Tablo 3’teki bulgulara göre, DOYÖ’de yer alan maddelere ilişkin t değerlerinin 8.70
+ile 15.44 arasında değiştiği belirlenmiştir.
+Hesaplanan t değerlerinin 1.96’dan büyük olması
+.05 düzeyinde; 2.58’den büyük olması ise .01 düzeyinde anlamlı olduğunu göstermektedir
+(Jöreskog ve Sörbom, 1993; Kline, 2011).
+Buna göre, birinci düzey DFA’da elde edilen tüm t
+değerlerinin .01 düzeyinde anlamlı olduğu saptanmıştır.
+Birinci düzey DFA sonucuna göre
+araştırma grubundaki kişi sayısı faktör analizi için yeterli seviyededir ve modelden
+çıkarılması gereken madde yoktur.
+Gerçekleştirilen birinci düzey DFA’ya ek olarak; Tutum, Teknik, Bilişsel ve Sosyal
+alt boyutlarının bir üst yapı olarak tanımlanan “Dijital Okuryazarlık” örtük değişkenine ne
+ölçüde uyum sağladığını belirlemek amacıyla ikinci düzey DFA uygulanmıştır.
+İkinci düzey
+DFA’da minimum χ2 değerinin (χ2=286.60, Sd=115, p=.00) anlamlı olduğu görülmüş ve
+uyum indeksi değerleri; RMSEA=.074, GFI=.96, AGFI=.92, CFI=.97, NFI=.96, NNFI=.97
+ve SRMR= .048, olarak bulunmuştur.
+Söz konusu uyum indekslerine ilişkin mükemmel ve
+kabul edilebilir uyum ölçütleri dikkate alındığında, ikinci düzey DFA’dan elde edilen uyum
+indekslerinin yeterli olduğu görülmektedir.
+Buna göre, Dijital okuryazarlığın; Tutum, Teknik,
+Bilişsel ve Sosyal olarak adlandırılan dört faktörlü bir yapı ile ölçülebileceği söylenebilir.
+Araştırmada incelenen uyum indekslerine ilişkin mükemmel ve kabul edilebilir uyum
+ölçütleri ile birinci ve ikinci düzey DFA’dan elde edilen uyum indeksleri Tablo 4’te
+sunulmuştur.
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 419 Tablo 4.
+Elde Edilen Uyum indeksleri Değerleri
+Kabul edilebilir Uyum
+Mükemmel Uyum
+İncelenen Uyum indeksleri
+Birinci Düzey DFA’dan Elde edilen Uyum İndeksleri
+.95 ≤ NNFI ≤ .97 .97 .97
+İkinci Düzey DFA’dan Elde Edilen Uyum İndeksleri Χ2 /sd 0 ≤ χ2/sd ≤ 2 0 2 ≤ χ2/sd ≤ 3 2.37 2.49 GFI .95 ≤ GFI ≤ 1.00 .90 ≤ GFI ≤ 95 .93 .96 AGFI 90 ≤ AGFI ≤ 1.00 85 ≤ AGFI ≤ .90.
+.91 .92 CFI .95 ≤ CFI ≤ 1.00 .90 ≤ CFI ≤ .95 .98 .97 NFI .95 ≤ NFI ≤ 1.00 .90 ≤ NFI ≤ .95 .96 .96 NNFI .97 ≤ NNFI ≤ 1.00
+RMSEA .00 ≤ RMSEA ≤ .
+.05 ≤ RMSEA ≤ .08 .071 .074
+SRMR .00 ≤ SRMR ≤ .05
+.05 ≤ SRMR ≤ .10 .05 .048
+Tablo 4’teki bulgulara göre, birinci ve ikinci düzey DFA’dan elde edilen uyum
+indekslerinin birbirine oldukça yakın olduğu görülmektedir.
+Buna göre her iki modelin
+uyumunun benzer olduğu söylenebilir.
+Birinci ve ikinci düzey DFA’dan elde edilen uyum
+indeksleri; DOYÖ’nün Türkçe formunun yapı geçerliğinin sağlandığına işaret etmektedir.
+İkinci düzey DFA sonucunda elde edilen t değerleri Şekil 3’te sunulmuştur.
+Tutum
+Şekil 3.
+DOYÖ Faktör- Ölçek ilişkisine Ait t Değerleri
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 420 Şekil 3’e göre, tüm t değerlerinin 2.58’den büyük olduğu için .01 düzeyinde istatistiksel
+olarak anlamlı olduğu belirlenmiştir.
+Dolayısıyla, Tutum, Teknik, Bilişsel ve Sosyal alt boyutlarının
+Dijital okuryazarlık örtük değişkenin anlamlı birer yordayıcısı olduğu söylenebilir.
+Yakınsama ve ayırt edicilik geçerliği
+Dijital okuryazarlık ölçeğinin 4 faktörlü yapısını ölçüp ölçmediğine ilişkin yapı geçerliği için
+yakınsama ve ayırt edici geçerliklerine bakılmıştır.
+Yakınsama geçerliği için her bir faktör
+için OAV değerleri incelenmiştir.
+Her bir faktörün sırasıyla OAV değerleri sırasıyla 0,62;
+0,58; 0,52 ve 0,61 olarak bulunmuştur.
+Bu değerlerin tamamı .50'den büyük olmasının
+yakınsama geçerliği için kanıt sunduğu ifade edilmektedir (Bagozzi ve Yi, 1988).
+Ayırt edici
+geçerlik ölçeklerin OAV kareköklerinin hem yapılar arasındaki korelasyondan hem de 0.70
+değerinden büyük olup olmadığı incelenmiş (Fornell ve Larcker, 1981) ve ölçeğin ayırtedici
+geçerliğinin olduğu görülmüştür (Tablo 5).
+Tablo 5.
+Ayırtedicilik Geçerliği Değerleri
+Tutum Teknik Bilişsel Sosyal
+Tutum 0,78485
+Güvenirlik
+DOYÖ’nün güvenirliği iç tutarlılık (Cronbach Alpha) ve test tekrar test yöntemleriyle
+hesaplanmıştır.
+Güvenirlik çalışmalarından elde edilen sonuçlar Tablo 6’da verilmiştir.
+Tablo 6.
+DOYÖ’nün iç tutarlık yöntemiyle hesaplanan güvenirlik katsayıları
+Alt Boyutlar Cronbach Alpha Test Tekrar Test Tutum .88 .89 Teknik .89 .90 Bilişsel .70 .87 Sosyal .72 .79 Tüm ölçek .93 .98
+Araştırmada, 185 öğrenciden elde edilen iç tutarlılık katsayısı ölçeğin tümü için .93
+olarak hesaplanmıştır.
+Alt boyutlara ilişkin iç tutarlılık katsayıları ise Tutum alt boyutu için
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 421 .88, Teknik alt boyutu için .89, Bilişsel alt boyutu için .70 ve Sosyal alt boyutu için .72 olarak
+bulunmuştur.
+DOYÖ’nün test tekrar test güvenirliğini saptamak için ölçek bilgisayar öğretimi
+ve teknoloji öğretmenliği bölümünde okuyan 53 öğrenciye üç hafta ara ile iki kez uygulanmış
+ve iki uygulama arasındaki korelasyonlar hesaplanmıştır.
+Test tekrar test yöntemi ile
+hesaplanan güvenirlik katsayıları ölçeğin tümü için .98, Tutum alt boyutu için .89, Teknik alt
+boyutu için .90, Bilişsel alt boyutu için .87 ve Sosyal alt boyutu için .79 şeklindedir.
+Güvenirlik katsayısı .70 ve üzerinde olan ölçeklerin güvenilir olduğu kabul edilmektedir
+(Büyüköztürk, 2010; Pallant, 2005; Tezbaşaran, 1996).
+Buna göre DOYÖ’nün tümü ve
+Tutum, Teknik, Bilişsel ve Sosyal alt boyutlarına ait güvenirlik katsayılarının yeterli düzeyde
+olduğu söylenebilir.
+DOYÖ’den alınan puanların değerlendirilmesi
+DOYÖ 17 maddeden oluşmaktadır.
+Ölçekte Kesinlikle Katılıyorum (5), Kesinlikle
+Katılmıyorum (1) şeklinde 5’li Likert tipi bir derecelendirme kullanılmıştır.
+Ölçekte tersten
+puanlanan madde bulunmamaktadır.
+Ölçek; tutum, teknik, bilişsel ve sosyal olmak üzere dört
+boyutlu bir yapıya sahiptir.
+Tutum alt boyutunda 7 madde yer aldığından bu boyuttan
+alınabilecek en düşük puan 7, en yüksek puan ise 35’tir.
+Teknik boyutunda 6 madde
+bulunmaktadır.
+Dolayısıyla bu boyuttan alınabilecek en düşük puan 6, en yüksek puan ise
+30’dur.
+Bilişsel alt boyutunda 2 madde yer almaktadır.
+Bu nedenle, bu boyuttan alınabilecek
+en düşük puan 2, en yüksek puan ise 10’dur.
+Benzer şekilde, sosyal boyutunda 2 madde
+bulunduğundan bu boyuttan alınabilecek en düşük puan 2, en yüksek puan ise 10’dur.
+DOYÖ’nün hem birinci düzey hem de ikinci düzey DFA’da yeterli uyum indeksleri vermesi;
+ölçeğin alt boyutlarından alınan puanlar üzerinden işlem yapılabileceği gibi ölçekten dijital
+okuryazarlığa ilişkin toplam bir puan da elde edilebileceğini ortaya koymaktadır.
+DOYÖ’nün
+alt boyutlarından ve ölçeğin genelinden alınan puanların yükselmesi, yüksek dijital
+okuryazarlığa işaret etmektedir.
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 422 Tartışma ve Sonuç
+Dijital çağ ve yeni teknolojiler ile birlikte dijital okuryazarlık kavramı ön plana çıkmakta ve
+bireylerin dijital okuryazar olması önemli görülmektedir.
+Bu bağlamda, çalışmada Ng
+(2012)’ın geliştirdiği 17 maddeden oluşan “Dijital Okuryazarlık Ölçeğinin” Türkçe ’ye
+uyarlaması amaçlanmıştır.
+Orijinal hali 4 faktörlü bir yapıya sahip ölçek tutum, teknik,
+bilişsel ve sosyal boyutlardan oluşmaktadır.
+Kesinlikle Katılıyorum (5), Kesinlikle
+Katılmıyorum (1) şeklinde 5’li Likert tipi bir derecelendirme kullanılan ölçekte tersten
+puanlanan madde bulunmamaktadır.
+Çalışmada öncelikle dilsel eşdeğerlik yapılmış: iyi derecede İngilizce ve Türkçe bilen
+3 uzman tarafından İngilizce'den Türkçe'ye, farklı 3 uzman tarafından da Türkçe'den
+İngilizce'ye çevrilmiş, uzmanların görüşleri doğrultusunda Türkçe deneme formu elde
+edilerek İngilizce ve Türkçe bilen 37 akademisyene iki hafta arayla her iki form uygulanmış
+ve her iki form arasındaki korelasyon katsayıları ölçeğin bütünü için .89, Tutum alt boyutu
+için .80, Teknik alt boyutu için .93, Bilişsel alt boyutu için .73, Sosyal alt boyutu için .73 ve
+her iki formda yer alan tüm maddeler için korelasyon katsayısı .30’un üzerinde ve anlamlı
+olarak bulunmuştur.
+Ölçeğin Türkçe formu ile İngilizce formunun dilsel açıdan eşdeğer olduğu
+bulunduktan sonra ölçeğin yapı geçerliliğine AFA ve DFA ile bakılmıştır.
+AFA için 185
+öğrenciden elde edilen verilerin faktör analizine uygunluğu için KMO örneklem uygunluk
+katsayısı (.91) ve Barlett Sphericity testi değeri (1549.40, p<.001, sd=136) mükemmel
+uygunlukta bulunmuştur.
+AFA’da temel bileşenler yöntemi (principal components) ve
+varimax döndürme sonucunda toplam varyansın %65.78’ini açıklayan ve orijinal formdaki
+maddelerle bire bir örtüşen 4 faktörlü bir yapı elde edilmiştir.
+Tutum alt boyutu 7, Teknik alt
+boyutu 6, Bilişsel alt boyutu 2, Sosyal alt boyutu de 2 maddeden oluşmaktadır.
+Tutum alt
+boyutu toplam varyansın %10.52’sini, Teknik alt boyutu toplam varyansın %44.04’ünü,
+Bilişsel alt boyutu toplam varyansın %6’sını, Sosyal alt boyutu toplam varyansın %5.22’sini
+açıklamaktadır.
+Faktör yükleri Tutum alt boyutu için .31 ile .83, Teknik alt boyutu için .67 ile
+.80, Bilişsel alt boyutu için .40 ve .67, Sosyal alt boyutu için de .51 ve .92 arasındadır.
+DFA, DOYÖ’nün orijinal formunun faktör yapısının Türkiye örnekleminde
+doğrulanıp doğrulanmayacağını ortaya koymak amacıyla 210 öğrenciden elde edilen veriler
+ile yapılmıştır.
+DFA’da sınanan modelin yeterliliğini ortaya koymak için uyum indeksleri
+incelenmiş ve χ2=268.45 (Sd=113, p=0.00), RMSEA=.071, GFI=.93, AGFI=.91, CFI=.98,
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 423 NFI=.96, NNFI=.97 ve SRMR=.05 olarak bulunmuştur.
+Elde edilen veriler ölçeğin orijinal
+formundaki faktör yapısının Türkiye örnekleminde doğrulandığını göstermektedir.
+Birinci
+düzey DFA’dan elde edilen dört boyutlu modele ilişkin faktör yükleri “Tutum” alt boyutu
+için .54 ile .75 arasında, “Teknik” alt boyutu için .63 ile .79, “Bilişsel” alt boyutu için .60 ile
+.69 ve “Sosyal” alt boyutu için .61 ile .77 arasında değişmektedir.
+t değerleri ise 8.70 ile
+15.44 arasında değişmektedir ve .01 düzeyinde anlamlı olduğu görülmektedir.
+Birinci düzey
+DFA ile araştırma grubundaki kişi sayısı faktör analizi için yeterli seviyede olduğu
+bulunmuştur.
+İkinci düzey DFA, alt boyutlarının bir üst yapı olarak tanımlanan “Dijital
+Okuryazarlık” örtük değişkenine ne ölçüde uyum sağladığını belirlemek amacıyla yapılmıştır.
+Analiz sonucunda χ2=286.60 (Sd=115, p=0.00), RMSEA=.074, GFI=.96, AGFI=.92,
+CFI=.97, NFI=.96, NNFI=.97 ve SRMR= .048 olarak bulunmuş ve bu değerlerin yeterli
+düzeyde olduğu görülmüştür.
+Buna göre, Dijital okuryazarlığın; Tutum, Teknik, Bilişsel ve
+Sosyal olarak adlandırılan dört faktörlü bir yapı ile ölçülebileceği söylenebilir.
+Birinci ve
+ikinci düzey DFA’dan elde edilen uyum indeksleri; DOYÖ’nün Türkçe formunun yapı
+geçerliğinin sağlandığına işaret etmektedir.
+Ayrıca tüm t değerleri .01 düzeyinde anlamlı
+olarak bulunmuş; Tutum, Teknik, Bilişsel ve Sosyal alt boyutlarının Dijital okuryazarlık
+örtük değişkenin anlamlı birer yordayıcısı olduğu belirlenmiştir.
+DOYÖ’nün hem birinci düzey hem de ikinci düzey DFA’da yeterli uyum indeksleri
+vermesi; ölçeğin alt boyutlarından alınan puanlar üzerinden işlem yapılabileceği gibi ölçekten
+dijital okuryazarlığa ilişkin toplam bir puan da elde edilebileceğini ortaya koymaktadır.
+DOYÖ’nün alt boyutlarından ve ölçeğin genelinden alınan puanların yükselmesi, yüksek
+dijital okuryazarlığa işaret etmektedir.
+Çalışmada ölçeğin yakınsama ve ayırt edicilik geçerliği incelenerek elde edilen
+bulgulara gore ölçeğin yakınsama ve ayırtedicilik geçerliğinin uygun değerler aralığında
+olduğu görülmüştür.
+İç tutarlılık katsayısı (Cronbach Alpha) ve test tekrar test yöntemleriyle DOYÖ’nün
+güvenirliğine bakılmıştır.
+185 öğrenciden elde edilen iç tutarlılık katsayısı ölçeğin tümü için
+.93, Tutum alt boyutu için .88, Teknik alt boyutu için .89, Bilişsel alt boyutu için .70 ve
+Sosyal alt boyutu için .72 olarak bulunmuştur.
+Test tekrar test güvenirliğini saptamak için
+ölçek bilgisayar ve öğretim teknolojileri öğretmenliği bölümünde okuyan 53 öğrenciye üç
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 424 hafta ara ile uygulanan iki uygulama arasındaki korelasyonlar hesaplanarak ölçeğin tümü için
+.98, Tutum alt boyutu için .89, Teknik alt boyutu için .90, Bilişsel alt boyutu için .87 ve
+Sosyal alt boyutu için .79 bulunmuştur.
+Elde edilen bulgular DOYÖ’nün tümü ve alt
+boyutları için yeterli düzeyde güvenirlik katsayılarının olduğunu göstermektedir.
+Çalışma ile elde edilen bulgular Ng (2012) tarafından geliştirilen ve Türkçe’ye
+uyarlanan DOYÖ’nün geçerlik ve güvenirliğine ilişkin kanıtlar sunmaktadır.
+Dijital
+okuryazarlık becerilerinin ölçülmesi konusunda yeterli düzeyde ölçme aracının olmayışı ve
+dijital okuryazarlık becerilerinin öneminin günümüzde gittikçe artmasından dolayı DOYÖ,
+ileride yapılacak araştırmalarda kullanılabilecek bir ölçektir.
+Gelecek çalışmalar için, yeterli
+düzeyde geçerlik ve güvenirlik kanıtı bulunan DOYÖ farklı örneklemlerde ölçüm
+değişmezliği yapılarak uygulanması önerilmektedir.
+Böylelikle günümüzde önemli bir yere
+sahip olan dijital okuryazarlık becerilerine ilişkin farklı örneklemlerden elde edilecek
+bulgular bu konuyu geliştirme noktasında destek sağlayacaktır.
+Kaynakça
+Ainley, J., Schulz, W., & Fraillon, J.
+(2016).
+Akkayonlu, B.
+& Yılmaz, M., (2005).
+Öğretmen adaylarının bilgi okuryazarlık düzeyleri ile
+internet kullanım sıklıkları ve internet kullanım amaçları.
+Eğitim Araştırmaları, 5
+Atav, E., Akkoyunlu, B.
+& Sağlam, N. (2006).
+Öğretmen adaylarının internete erişim
+olanakları ve kullanım amaçları.
+Hacettepe Üniversitesi Eğitim Fakültesi Dergisi, 30,
+Bagozzi, R. P., & Yi, Y.
+(1988).
+Bentler, P.M. (1980).
+Bentler, P.M., ve Bonett, D.G.
+(1980).
+K. A. Bollen
+ve J. S. Long (Eds.
+136-162).
+Beverly Hills,
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 425 Burnett, K. ve McKinley, E.G.
+(1998).
+Büyüköztürk, Ş.
+(2010).
+Sosyal bilimler için veri analizi el kitabı.
+Ankara: Pegem Akademi
+Yayınları.
+(1999).
+Çubukçu, A. ve Bayzan, ş.
+(2013).
+Türkiye’de Dijital Vatandaşlık Algısı ve Bu Algıyı
+İnternetin Bilinçli, Güvenli ve Etkin Kullanımı ile Artırma Yöntemleri.
+(2009).
+Geisinger, K. F. (1994).
+Hamutoğlu, N. B. ve Kıyıcı, M. (2014).
+Öğretmen Adaylarının Eğitimde Mobil Teknolojileri
+Kullanım Algısı.
+Jolliffe, I.
+(2002).
+Principal component analysis.
+John Wiley & Sons, Ltd.
+Jöreskog, K.G.,ve Sörbom, D. (1993).
+LISREL 8: User’sguide.
+Karaca, Ş. ve Gülmez, M. (2010).
+Mobil Pazarlama: Kavramsal Bir Değerlendirme.
+Akademik Yaklaşımlar Dergisi, 1(1), 69-81.
+Kline, R.B.
+(2011).
+Marsh, H.W.,Hau, K.T., Artelt, C., Baumert, J., ve Peschar, J.L.
+(2006).
+Mohammadyari, S., & Singh, H. (2015).
+Ng, W. (2012).
+Computers & Education, 59,
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 426 Oğuzlar, A.
+(2003).
+Veri ön işleme.
+Erciyes Üniversitesi İktisadi ve İdari Bilimler Fakültesi
+Dergisi, 21, 67-76.
+Özbay, M. ve Özdemir, O.
+(2014).
+Türkçe Öğretim Programı İçin Bir Öneri:
+Dijital Okuryazarlığa Yönelik Amaç ve Kazanımlar.
+Okuma Yazma
+Eğitimi Araştırmaları, 2 (2), 31-40.
+Pallant, J.
+(2005).
+Prior, D. D., Mazanov, J., Meacheam, D., Heaslip, G., & Hanson, J.
+(2016).
+Radovanović, D., Hogan, B., & Lalić, D. (2015).
+Schermelleh-Engel, K.,ve Moosbrugger, H. (2003).
+Sönmez, E. E.,ve Gül, H. Ü.
+(2014).
+Dijital Okuryazarlık ve Okul Yöneticileri.
+19.
+Türkiye’de İnternet Konferansı.
+http://inet-tr.org.tr/inetconf19/ozet/69.html
+adresinden 05.01.2016 tarihinde elde edilmiştir.
+Tezbaşaran, A.
+A.(1996).
+Likert Tipi Ölçek Geliştirme Kılavuzu.
+Ankara: Türk Psikoloji
+Derneği Yayınları.
+Tornero, J. M. P. (2004).
+Barcelona: University of Autonoma.
+Tüzel, S.ve Tok, M. (2013).
+Öğretmen Adaylarının Dijital Yazma Deneyimlerinin
+İncelenmesi.
+Tarih Okulu Dergisi (TOD), 6(15), 577-596.
+Zins, C. (2000).
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 427 Extended Abstract
+Within the digital age and emerging new technologies, digital literacy has come into
+prominence, and being digitally literate is considered important.
+To demonstrate the
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 428 adequacy of model which was tested by CFA, the fit indices were examined and found for
+χ2=268.45 (N=113, p=0.00), RMSEA=.071, GFI=.93, AGFI=.91, CFI=.98, NFI=.96,
+NNFI=.97, and SRMR=.05.
+Ege Eğitim Dergisi 2017(18) 1: 408- 429 Dijital Okuryazarlık Ölçeği: Türkçe ’ye Uyarlama Çalışması 429 In this study the findings demonstrate that the “Digital Literacy Scale” which was
+developed by Ng (2012) and adapted to Turkish is a valid and reliable scale.

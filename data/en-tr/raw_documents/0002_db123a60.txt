@@ -1,0 +1,695 @@
+Ankara Üniversitesi Çevrebilimleri Dergisi 4(2), 1-32 (2012)
+Türkiye’de Gözlenen ve Öngörülen Đklim Değişikliği, Kuraklık ve Çölleşme
+Observed and Projected Climate Change, Drought and Desertification in Turkey Murat TÜRKEŞ
+Đstatistik Bölümü Bağlantılı Orta Doğu Teknik Üniversitesi
+Özet: Bu makalenin başlıca amacı, küresel iklim değişikliği, kuraklık ve çölleşme ile Türkiye’de gözlenen ve öngörülen iklimsel değişimler, kuraklık ve çölleşmenin bilimsel bir değerlendirmesini yapmaktır.
+Sera gazlarının atmosferdeki birikimlerinin çeşitli insan etkinlikleri nedeniyle sanayi devriminden beri hızla artması sonucunda kuvvetlenen sera etkisinin en önemli sonucu, Yerküre’nin enerji dengesi üzerinde ek bir pozitif ışınımsal zorlama oluşturarak dünya ikliminin daha sıcak ve daha değişken olmasını sağlamasıdır.
+Öte yandan, ister küresel isterse bölgesel ölçekte olsun, iklim değişikliği, ekstrem (aşırı) hava ve iklim olaylarının sıklığında, şiddetinde, alansal dağılışında, uzunluğunda ve zamanlamasında da önemli değişikliklerin gerçekleşmesine neden olmaktadır.
+Alansal ve zamansal olarak yüksek bir değişkenlik gösteren yağış tutarlarında, 1900–2005 döneminde, dünyanın çeşitli bölgelerinde önemli azalış ve artış eğilimleri gözlenmiştir.
+Örneğin, Kuzey ve Güney Amerika’nın doğu bölümleri, kuzey Avrupa ve Asya’nın orta kesimleri ile kuzeyinde anlamlı artış eğilimleri gözlenirken, anlamlı kuraklaşma eğilimleri Sahel, Türkiye’yi de kapsayan Akdeniz havzası, Güney Asya’nın bir bölümü ile Afrika’nın güneyinde görülmüştür.
+Bu sonuçlara ek olarak, dünyanın birçok bölgesinde ve Türkiye’deki şiddetli yağış olaylarında (aşırı yüksek ve aşırı düşük yağışlar, vb.)
+da artışlar gözlenmiştir.
+Yağışların yanı sıra, uzun süreli klimatolojik ve meteorolojik gözlem dizilerinin çözümlemelerine dayanan yeni bulgular, 1950’lerden beri bazı ekstremlerde özellikle günlük ekstrem hava sıcaklıklarında (örn.
+en yüksek ve en düşük sıcaklıklar, tropikal ve yaz günleri, vb.
+), donlu gün sayılarında ve sıcak hava dalgalarının sıklığı ve uzunluğunda da önemli değişiklikler ortaya çıktığını göstermektedir.
+Bu tür değişiklikler, genel olarak Doğu Akdeniz ve Türkiye’de, özellikle 1990’lı yıllarla birlikte donlu ve kar yağışlı günlerin belirgin bir şekilde azalması, sıcak günlerin ve gecelerin sayıları ile gece en düşük ve gündüz en yüksek ortalama hava sıcaklıklarının artması, şeklinde kendisini hissettirmektedir.
+Anahtar sözcükler: Kuvvetlenen sera etkisi; Đklim Değişikliği; Küresel ısınma; Sera gazı salım senaryoları; Đklim model öngörüleri.
+Türkiye’de Gözlenen ve Öngörülen Đklim Değişikliği, Kuraklık ve Çölleşme
+Đklim değişikliği, iklimin ortalama durumunda ya da onun değişkenliğinde onlarca ya da daha uzun yıllar boyunca süren istatistiksel olarak anlamlı değişimler olarak tanımlanabilir (Türkeş, 2008ab).
+Đklim değişikliği, doğal iç süreçler ve dış zorlama etmenleri ile atmosferin bileşimindeki ya da arazi kullanımındaki sürekli antropojen (insan kaynaklı) değişiklikler nedeniyle oluşabilir.
+Konuyla ilgili bilinmesi gereken başka bir önemli kavram ise, iklim değişkenliği ya da iklimsel değişebilirliktir.
+Đklim değişkenliği ya da iklimsel değişebilirlikse, tüm zaman ve alan ölçeklerinde iklimin ortalama durumundaki ve standart sapmalar ile uç olayların oluşumu gibi öteki istatistiklerindeki değişimlerdir (Türkeş, 2010, 2012a).
+Đklimsel değişebilirlik, iklim sistemi içerisindeki doğal iç süreçlere (içsel değişebilirlik) ya da doğal kaynaklı dış zorlama etmenlerindeki değişimlere (dışsal değişebilirlik) bağlı olarak oluşabilir (Türkeş, 2010, 2011a).
+Küresel iklim, atmosfer (havaküre), hidrosfer (suküre), buz küre, litosfer (taşküre) ve biyosfer (yaşamküre) olarak adlandırılan başlıca beş bileşeni bulunan ve bu bileşenler arasındaki karşılıklı etkileşimleri de içeren çok karmaşık bir sistemdir ve genel olarak Fiziksel Đklim Sistemi ya da kısaca Đklim Sistemi olarak da adlandırılır (Türkeş, 2010, 2012a).
+Đklim sisteminin atmosfer bileşeni, iklimi en çok niteleyen ve denetleyen alt sistemdir.
+Đklim sistemi, zaman içinde kendi iç dinamiklerinin etkisiyle olanların yanı sıra, iklimi etkileyen çeşitli dış etmen ve süreçlerde ortaya çıkan değişiklikler (zorlamalar) ile insan kaynaklı zorlamalar (örn.
+ışınımsal zorlama) yüzünden evrimleşir.
+Yerküre’nin herhangi bir yerinde egemen olan iklim, iklim sisteminin çeşitli asal bileşenleri (alt sistemleri) arasındaki karmaşık etkileşimlerin bir sonucudur (Türkeş, 2011a, 2012a).
+Dış zorlamalar ve etmenler, fiziksel iklim sisteminin alt sistemleri ile etkileşim içinde bulunan ve onlardan etkilenen değişiklikleri, örneğin volkanik püskürmeler, Güneş etkinliklerindeki değişimler ve Yerküre – Güneş arasındaki astronomik ilişkilerdeki değişiklikler gibi doğal olaylar ile atmosferin bileşimindeki insan kaynaklı değişiklikleri içerir (Erinç, 1969; Erlat, 2010; Le Treut ve ark., 2007; Türkeş, 2010, 2011a).
+Đnsan etkinlikleri sonucunda atmosfere salınan sera gazları ve aerosoller, etki süreleri değişmekle birlikte, iklim değişikliklerine neden olabilecek başlıca dışsal zorlama ve etmenlerdir (Türkeş, 2008ab, 2011a, 2012a).
+Başka bir deyişle, dış zorlama ve etmenlerin neden olduğu değişiklikler, iklim sisteminin dışındaki doğal olaylar ile insan kaynaklı zorlama ve etmenlerin denetiminde ve etkisiyle gelişir.
+Đklim değişikliğinin potansiyel ‘dış’ nedenleri, temel olarak Yerküre’nin katı kabuğundaki (litosferdeki) levha hareketlerini, Güneş etkinliklerindeki ve Yerküre ile Güneş arasındaki astronomik ilişkilerdeki değişiklikleri içerir.
+Astronomik ilişkiler, Milankovitch döngüleri olarak da adlandırılan bir dizi dönemsel değişiklikleri içermekte ve uzun dönemli iklim değişikliklerinin açıklanması açısından önemli kanıtlar sunabilmektedir (Erlat, 2010; Türkeş, 2013).
+Bu çalışmanın amacı, Dünya’da ve Türkiye’de gözlenen iklim değişikliği, kuraklık ve çölleşme ile çeşitli sera gazı salım senaryolarına dayanarak çalıştırılan iklim model kestirimlerine göre gelecekteki iklim değişikliği ve değişkenliğinin, hem var olan çok sayıda yayımlanmış hakemli makale ve bildirilerden hem de bu çalışma için gerçekleştirilen özgün analiz (çözümleme) ve değerlendirmelerden yararlanarak geniş açılı ve çok disiplinli bilimsel bir sentezini (bireşimini) yapmak olarak belirlenmiştir.
+2.
+Küresel Đklim Değişikliklerinin Nedenleri
+2.1.
+Doğal Đklim Değişikliği ve Değişkenliği
+Küresel iklim, Yerküre’nin 4.6 milyar yıllık jeolojik tarihinin başlangıcından beri tüm alan ve zaman ölçeklerinde değişme eğiliminde olmuştur (Türkeş, 2013).
+Đklim milyonlarca yıl boyunca yıllık ortalama yüzey sıcaklıklarının kutup (polar) bölgelerinde 10 °C’nin üzerindeki sıcaklıklarla birlikte gerçekleşen çok sıcak koşullardan, inlandsis’lerin (buzul kalkanlarının ya da kıta buzullarının) orta enlem karalarının çoğunluğunu kapladığı buzul devirlerinde ya da çağlarındaki iklimleri arasında salınım göstermiştir (bkz.
+Şekil 6, 11).
+Bazı varsayımlara göre, geçmişteki bazı soğuk dönemlerde Yerküre’nin tüm yüzeyi buzla kaplanmıştır (Kartopu Yerküre Hipotezi).Paleozoik’ten (Birinci Zaman)
+Murat Türkeş
+günümüze yaklaşık 545 milyon yıl uzunluğundaki zaman dizisi izgesinin günümüze yakın bölümünde, daha düşük genlikli dalgalanmaların, içinde bulunduğumuz yaklaşık son 10,000 yıllık Holosen dönemindeyse neredeyse bir yılın kendinden önceki yıla göre tam olarak aynı olduğu bir yılın gözlenmediği yıllararası (yıldan yıla), onlarca ya da daha uzun yıllık zaman ölçeklerinde geliştiği görülür (Erlat, 2010; Türkeş, 2010, 2012; vb.).
+Şekil 1.
+Milankovitch döngülerinin yalınlaştırılmış birlikte gösterimi: Yerküre’nin yörüngesinin şeklindeki (E), eksen eğikliğindeki (T) ve iklimsel presesyonundaki (P) değişikliklerin yalınlaştırılmış çizimsel gösterimi (Jansen ve ark.
+2007’na göre Türkeş 2010’dan).
+Burada sözü edilen değişimlerin bir bölümü çeşitli zorlamalarca oluşturulur.
+Kendi evrimiyle bağlantılı olarak, ortalama Güneş-Yerküre uzaklığında Güneş’in fotosfer katmanından tüm dalga boylarında yaydığı ve atmosferin üst sınırında Güneş ışınlarına dik bir birim alana birim zamanda ulaşan toplam radyant enerji (toplam Güneş irradyansı ya da Güneş sabiti, W/m2), Yerküre’nin 4.6 milyar yıllık tarihi boyunca yaklaşık % 30 kadar artmıştır.
+Toplam Güneş irradyansında daha kısa zaman ölçeklerinde gerçekleşen değişimler, her ne kadar genliği tam olarak bilinmemesine karşın, benzer bir genliğe sahip olmaktadır.
+Yerküre yörüngesinin karakteristiklerinde oluşan düşük sıklıklı değişiklikler, Yerküre yüzeyindeki her nokta üzerinde belirli bir mevsimde alınan Güneş enerjisi tutarını değiştirir.
+Bu kapsamda oluşan en önemli dalgalanmalar, 10,000 – 100,000 yıl aralığında gözlenir.
+Tek volkan püskürmeleri, püskürmeyi izleyen yıllarda genel bir soğumaya yol açar (Erlat, 2010; Türkeş, 2010, 2013).
+Ayrıca, volkanik etkinlikler, belirli bir on yıllık ya da yüz yıllık dönemde yoğunlaşırsa, düşük sıklıklı bir zorlamadan sorumlu olabilir.
+Daha uzun zaman ölçeklerinde, örneğin, özellikle levha tektoniğine bağlı olarak bir okyanusal levha ile bir kıtasal levhanın ve/ve ya iki okyanusal levhanın birbirine yaklaşması ve çarpışması sonucunda oluşan sırasıyla büyük ölçekli dağ oluşum alanları (örn.
+Güney Amerika’da And Dağları) ve ada yayları (örn.
+Pasifikte) ile bağlantılı artan volkanik etkinlikler, binlerce yıldan milyonlarca yıla kadar uzun dönemler boyunca sürebilen kuvvetli bir soğuma eğiliminin oluşmasına neden olabilir (Türkeş, 2010).
+Milankovitch Döngüleri
+Atmosferin rolü ihmal edildiğinde, yeryüzünün belirli bir yerinde ve belirli bir zamandaki insolasyon (birim zamanda birim alana gelen radyant Güneş enerjisi, W/m2), Güneş-Yerküre uzaklığının ve Güneş’in zenith uzaklığının kosinüsünün bir fonksiyonudur (Türkeş, 2013).
+Bu iki değişken, günün zamanı, enlem ve Yerküre yörüngesinin karakteristiklerinden yararlanarak
+Türkiye’de Gözlenen ve Öngörülen Đklim Değişikliği, Kuraklık ve Çölleşme
+hesaplanabilir.
+Klimatolojide, Yerküre ile Güneş arasındaki astronomik ilişkiler Milankovitch döngüleri olarak adlandırılır.
+Astronomik ilişkiler, özellikle dünyanın Güneş’in çevresindeki yörüngesinin durumu, Eksen Eğikliği (T), Eksantrite (E) ve Presesyon (P) olarak bilinen üç orbital parametre tarafından belirlenir (Şekil 1).
+Kısaca, eğiklik (T), ekliptik düzleminin ekvator düzlemine göre olan eğikliğinin bir ölçüsü (daha eğik ya da daha dik) ve eksantrite (E), Yerküre’nin Güneş’in çevresindeki yörünge şeklinin bir ölçüsü [örn.
+daha fazla eliptik (yuvarlaklık az) ya da daha az eliptik (daha yuvarlak)] olarak tanımlanırken, iklimsel presesyon (P), yaz gündönümünde (solstis) Güneş- Yerküre uzaklığındaki daha açık bir söyleyişle, ‘günberi zamanındaki’ değişikliklerle bağlantılıdır.
+Bu yüzden, küresel iklimin değişmesine neden olabilecek başlıca astronomik ilişkiler, Yerküre’nin Güneşin çevresindeki yörüngesinin şeklindeki değişiklikler (orbital zorlama) ile Yerküre’nin eksen eğikliğindeki ve presesyonundaki (günberi zamanındaki) değişiklikleri içerir (Şekil 1).
+Şekil 2.
+Ocak 1958 – Mayıs 2013 döneminde Mauna Loa (Hawaii) Gözlemevi’nde ölçülen aylık ortalama atmosferik CO2 birikimindeki değişimler [Türkeş (2012a)’in “Anonymous (2013)” veri kaynağındaki Ocak 2009-Mayıs 2013 dönemi orijinal aylık ortalama veriler ile güncellenmesiyle yeniden analiz edildi ve çizildi].
+Aylık ortalama CO2 birikimi dizilerindekiyıllar arası değişimlere ve mevsimlik döngülere, üçüncü dereceden polinom regresyon eğrisi uyduruldu.
+2.2.
+Đnsan kaynaklı Đklim Değişikliği ve Küresel ısınma
+Atmosferdeki insan kaynaklı sera gazı birikimlerinde sanayi devriminden beri gözlenen artış sürmektedir.
+Özellikle atmosferdeki birikiminin büyüklüğü, artış hızı, 50-200 yıl arasında değişen yaşam süresi ve giden uzun dalga boylu (GUDB) kızılötesi yer ışınımının büyük bölümünü emme özelliği dikkate alındığında, CO2’nin önemi daha iyi anlaşılır.
+1958 yılından beri yapılmakta olan Mauna Loa ölçümlerine göre (Keeling ve Whorf, 2009; Anonymous, 2013), Yerküre atmosferindeki CO2 birikimi çok hızlı bir biçimde artmaktadır.
+Aylık ortalama CO2 zaman dizileri incelendiğinde, sanayi öncesinde yaklaşık 280 ppmv (milyon hacimde bir molekül ya da milyonda bir parçacık) ve 1958 yılında yaklaşık 315 ppmv olan atmosferdeki yıllık ortalama CO2 birikiminin, 2012’de yaklaşık 394 ppmv’ye ulaştığı görülür (Şekil 2).
+2013 yılı aylık ortalama Mayıs CO2 değeriyse, 400 ppmv olarak kaydedildi.
+Atmosferdeki CO2 birikiminin günümüzdeki düzeyi, geçmiş yaklaşık 700 bin yıllık kayıttaki doğal CO2 birikimi değişimlerinin (yaklaşık 180-300 ppmv arasında değişmiş) çok üzerindedir.
+Sera gazı birikimlerindeki bu artışlar, Yerküre’nin GUDB kızılötesi ışınım yoluyla soğuma etkinliğini zayıflatarak, onu daha fazla ısıtma eğilimindeki bir pozitif ışınımsal zorlamanın oluşmasını sağlar.
+Bu yüzden, Yerküre/atmosfer ortak sisteminin enerji dengesine yapılan pozitif katkı, kuvvetlenen sera etkisi olarak adlandırılır (Türkeş, 2008ab).
+Bu ise, Yerküre atmosferindeki doğal sera
+Murat Türkeş
+gazları (su buharı, CO2, CH4, N2O ve O3) sayesinde yüz milyonlarca yıldan beri çalışmakta olan doğal sera etkisinin kuvvetlenmesi anlamını taşır.
+(a) Küresel Ortalama Yüzey Hava Sıcaklığı
+Sıcaklık anomalisi (°C)
+(b) Kuzey Yarımküre Ortalaması Yüzey Hava Sıcaklığı
+Sıcaklık anomalisi (°C)
+(c) Güney Yarımküre Ortalaması Yüzey Hava Sıcaklığı
+Sıcaklık anomalisi (°C)
+Şekil 3.
+1961-1990 dönemi yıllık ortalamalarından farklara göre hesaplanan, küresel (a), Kuzey Yarımküre (b) ve Güney Yarımküre yıllık ortalama yüzey sıcaklığı anomalilerinin 1850-2011 dönemindeki değişimleri (Türkeş, 2012a).
+Değişim grafikleri CRU/UEA ve HadCentre/MetOffice’in güncelleştirdiği CRUTEM3 aylık sıcaklık verileri kullanılarak çizildi (veri kaynağı: Anonymous,2012).
+Sıcaklık dizilerindeki yıllar arası değişkenlik, 13 noktalı düşük geçirimli Binom süzgeci (▬▬) ile düzgünleştirildi.
+Küresel ısınma, “sanayi devriminden beri, özellikle fosil yakıtların yakılması, ormansızlaşma, tarımsal etkinlikler ve sanayi süreçleri gibi çeşitli insan etkinlikleri ile atmosfere salınan sera gazlarının atmosferdeki birikimlerindeki hızlı artışa bağlı olarak, şehirleşmenin de katkısıyla doğal sera etkisinin kuvvetlenmesi sonucunda, yeryüzünde ve atmosferin alt katmanlarında saptanan sıcaklık artışı” şeklinde tanımlanabilir (Türkeş, 2008ab, 2012a).
+Tanımdan da anlaşılabileceği gibi, insan kaynaklı iklim değişikliğine ve küresel ısınmaya yol açan sera gazları; çoğunlukla fosil yakıtların yakılması (enerji ve çevrim), sanayi (enerji ilişkili; kimyasal süreçler ve çimento üretimi, vb.
+enerji
+Türkiye’de Gözlenen ve Öngörülen Đklim Değişikliği, Kuraklık ve Çölleşme
+dışı), ulaştırma, arazi kullanımı değişikliği, atık yönetimi ve tarımsal (enerji ilişkili; anız yakma, çeltik üretimi, hayvancılık ve gübreleme vb.
+enerji dışı) etkinliklerden kaynaklanır.
+3.
+Dünyada ve Türkiye’de Gözlenen Đklim Değişimleri
+3.1.
+Dünya’da Gözlenen Đklim Değişikliği ve Değişkenliği
+Temel olarak insan etkinlikleri sonucunda atmosferin bileşiminde ortaya çıkan önemli değişiklikler sonucunda, yüzey sıcaklıklarında 19. yüzyılın sonlarında başlayan ısınma, 1980’lerin başında daha da belirginleşerek, hemen her yıl bir önceki yıla göre daha sıcak olmak üzere, küresel sıcaklık rekorları kırmaktadır (IPCC, 2001, 2007; Türkeş, 2001, 2008ab, 2012a).
+Son küresel değerlendirmeler de, iklim sistemindeki ısınmanın kuvvetlendiğini göstermiştir (IPCC, 2007).
+Küresel ortalama yüzey sıcaklıkları için güncellenen 100 yıllık (1906–2005) doğrusal artış eğiliminin büyüklüğü 0.74 °C’ye ulaşmıştır (0.74 ± 0.18 °C) (Solomon ve ark., 2007).
+Doğrusal ısınma eğilimi, son 50 yıllık dönemde geçen 100 yıllık dönemin yaklaşık iki katı olmuştur (0.13 °C/10 yıl).
+Ayrıca, aynı dönemde, ortalama minimum (gece en düşük) hava sıcaklıklarında yaklaşık her on yılda 0.2 °C olarak gerçekleşen artış, ortalama maksimum (gündüz en yüksek) hava sıcaklıklarındaki artışın yaklaşık iki katı düzeyindedir.
+Küresel ortalama yüzey sıcaklıklarında gözlenen artış eğilimine ek olarak, küresel olarak, 1990’lı ve 2000’li yıllar aletli gözlem kayıtlarındaki en sıcak yıllar, 1998 ise, en sıcak yıl olmuştur (Türkeş, 2001, 2003a, 2008ab).
+Şekil 3, iklimbilimi çalışmalarıyla bilinen Đngiliz iklim araştırma merkezlerinin (East Anglia Üniversitesi Đklim Araştırma Birimi (CRU/UEA) ve Đngiltere Meteoroloji Ofisi Hadley Merkezi (HadCentre/MetOffice)) ortaklaşa geliştirdiği ve güncelleştirdiği Đklim Araştırma Birimi 3.
+Sıcaklık Veri Seti’nin (CRUTEM3) aylık sıcaklık verileri (Brohan ve ark., 2006; Jones ve ark., 2012) temel alınarak çizildi.
+Bu verileri kullanarak gerçekleştirdiğimiz yeni zaman dizisi çözümlemelerimize göre, küresel olarak, 2000’li yıllar 1850-2011 dönemi aletli gözlem kayıtlarındaki en sıcak on yıl; 1998 ise, +0.548 °C’lik anomali ile en sıcak yıldır (Şekil 3a).
+Đkinci ve üçüncü en yüksek küresel sıcaklık rekoru ise, sırasıyla, +0.482 °C ile 2005 ve +0.478 °C ile 2010 yıllarında kırılmıştır.
+Burada yaptığımız güncelleştirilmiş yeni verilere dayanan değerlendirmeyi önceki küresel değerlendirmeler ve kendi değerlendirme çalışmalarımızın sonuçları ile karşılaştırdığımızdaysa, çok küçük sayısal farklılıklarla önceki yıllardaki değerlendirmelere çok benzer özellikler taşıdığını görürüz.
+Örneğin, en sıcak 10 yıl ile ikinci ve üçüncü en sıcak yılların sırasının değişmesine karşın, 1998 en sıcak yıl olma rekorunu korumuştur.
+Benzer ısınma eğilimleri ve yüksek sıcaklık rekorları, hem Kuzey Yarımkürenin hem de Güney Yarımkürenin yıllık ortalama yüzey sıcaklıklarında da gözlenir (Şekil 3b, 3c).
+Küresel olarak en sıcak ikinci yıl olan 2005, 1961-1990 dönemi ortalamasına göre 0.626 °C’lik yüksek bir yıllık sıcaklık artışı ile Kuzey Yarımkürenin en sıcak yılıdır (Şekil 3b).
+Güney Yarımkürenin en sıcak yılıysa, küresel ortalamada olduğu gibi, 0.485 °C ile 2005 yılıdır (Şekil 3c).
+Paleoiklim çalışmalarından elde edilen yeni bulgulara dayanan son değerlendirmelere göre (IPCC, 2007), geçen yarım yüzyıldaki ısınma, en azından geçmiş 1,300 yıldakine göre olağandışıdır.
+Kentsel ısı adasının etkisi, daha çok yerel düzeydedir ve sıcaklık değerleri üzerindeki etkilerinin (karalar üzerinde 0.006 °C/10 yıl’dan daha küçük) göz ardı edilebilir düzeyde olduğu kabul edilmiştir.
+Şekil 4, 1979-2005 döneminde yüzey ve uydu gözlemlerinden elde edilen küresel ortalama yıllık yüzey (a) ve troposfer (b) sıcaklık değerlerindeki doğrusal sıcaklık eğilimlerinin dünya üzerindeki coğrafi dağılış desenlerini gösterir.
+Haritalardaki gri renkler, verisi eksik olan alanlara karşılık gelir.
+Buna göre, Yerküre’nin yüzey hava sıcaklıklarında gözlenen kuvvetli ısınma eğilimlerine ek olarak, temel olarak atmosferin alt ve orta troposfer katmanlarına karşılık gelen en alt 8 kilometrelik bölümündeki hava sıcaklıkları da, geçen yaklaşık 30 yıllık dönemde belirgin bir artış eğilimi gösterir (Şekil 4).
+Öte yandan, uydu temelli troposfer kayıtlarında alansal olarak daha türdeş ısınma görülürken, yüzey sıcaklıklarındaki kuvvetli ısınma eğilimlerinin karalarla daha yakından bağlantılı olması, başka bir deyişle daha çok karalar üzerinde egemen oluşu dikkat çekicidir.
+Murat Türkeş
+Şekil 4.
+1979-2005 döneminde yeryüzü ve uydu gözlemlerinden elde edilen küresel ortalama yıllık yüzey (a) deniz ve hava sıcaklıkları ile troposfer (b) hava sıcaklıklarında belirlenen doğrusal sıcaklık eğilimlerinin dünya üzerindeki coğrafi dağılış desenleri (IPCC, 2007).
+Şekil 5.
+Yerküre karalarında 1901-2005 döneminde kaydedilen yıllık yağış tutarlarında gözlenen eğilimlerin (%) coğrafi dağılış desenleri (ortadaki harita) ile uzun süreli bölgesel değişimler ve eğilimler (kenarlardaki zaman dizisi çizimleri) (Trenberth ve ark., 2007).
+Dünyanın birçok bölgesi ile Avrupa ve Akdeniz havzasına komşu ülkelerin çoğunda olduğu gibi, Türkiye’nin pek çok kentinde de özellikle ilkbahar ve yaz mevsimi gece en düşük hava sıcaklıkları, istatistiksel ve klimatolojik açıdan önemli bir ısınma eğilimi göstermiştir (Türkeş ve ark., 2002; Türkeş ve Sümer, 2004).
+20. yüzyılda, orta enlem ve kutupsal kar örtüsü, kutupsal kara ve deniz buzları ile orta enlemlerin dağ buzulları eriyerek alansal ve hacimsel olarak azalırken, gel-git ve deniz seviyesi ölçerlerinin gözlem kayıtlarına göre küresel ortalama deniz seviyesi, yaklaşık 0.17 m (0.12- 0.22 m arasında) yükselmiş ve okyanusların ısı içerikleri artmıştır (IPCC, 2001, 2007).
+Deniz düzeyi
+Türkiye’de Gözlenen ve Öngörülen Đklim Değişikliği, Kuraklık ve Çölleşme
+yükselmesinin belirlenmesinde karşılaşılan başlıca belirsizlik, düşey yerkabuğu hareketlerinin (epirojenik hareketler) gel-git ve deniz seviyesi ölçümlerinin üzerindeki etkisidir.
+Yağışlar kuzey yarımkürenin orta ve yüksek enlem bölgelerinde her on yılda yaklaşık % 0.5 ile % 1 arasında artarken, Akdeniz Havzası’nı da içeren subtropikal kuşak karalarının önemli bir bölümünde her on yılda yaklaşık % 3 azalmıştır (Şekil 5).
+Türkiye’de ise, izleyen bölümde göreceğimiz gibi, Akdeniz yağış rejiminin egemen olduğu bölgelerde, özellikle kış toplam yağışlarında belirgin bir azalma eğilimi, başka bir sözle ‘kuraklaşma’ gözlenmektedir.
+3.2.
+Türkiye’de Gözlenen Đklim Değişikliği ve Değişkenliği
+Görülebileceği gibi, birçok etkisine ve olumsuz sonuçlarına ek olarak, ister küresel isterse bölgesel ölçekte olsun, iklim değişikliği ekstrem (aşırı) hava ve iklim olaylarının sıklığında, şiddetinde, alansal dağılışında, uzunluğunda ve zamanlamasında değişiklikler oluşmasına neden olmaktadır.
+Örneğin, yağış, alansal ve zamansal olarak yüksek bir değişkenlik gösterirmiş ve 1900– 2005 döneminde, çok geniş bölge ve kıtalar üzerinde yağış tutarlarında azalış (kuraklaşma) ve artış eğilimler gözlenmiştir.
+Buna göre, Kuzey ve Güney Amerika’nın doğu bölümleri, kuzey Avrupa ve Asya’nın orta kesimleri ile kuzeyinde anlamlı artış eğilimleri gözlenirken, anlamlı kuraklaşma ya da azalış eğilimleri ise Sahel, Türkiye’yi de kapsayan Akdeniz havzası, Güney Asya’nın bir bölümü ile Afrika’nın güneyinde görülür (örn.
+IPCC, 2001, 2007; Türkeş, 1996, 1998a, 1999, 2011a, 2012ab; Türkeş ve Erlat, 2003, 2005; Türkeş ve Tatlı, 2010, 2011a, vb.).
+Bu sonuçlara ek olarak, dünyanın birçok bölgesi ve Türkiye’deki şiddetli yağış olaylarında (aşırı yüksek ve aşırı düşük yağışlar, vb.)
+da artışlar gözlenir (örn.
+IPCC, 2001, 2007; Türkeş ve Tatlı, 2009; Türkeş ve ark., 2009ab, 2011; Yozgatlıgil ve ark., 2010; Tatlı ve Türkeş, 2011ab; Öztürk ve ark., 2012; Altınsoy ve ark., 2012; Sen ve ark., 2012, vb.).
+Yağışların yanı sıra, uzun süreli klimatolojik ve meteorolojik gözlemlerin çözümlemelerinden elde edilen yeni bulgular, 1950’lerden beri bazı ekstremlerde özellikle günlük ekstrem hava sıcaklıklarında (örn.
+en yüksek ve en düşük sıcaklıklar, tropikal ve yaz günleri, vb.
+), donlu gün sayılarında ve sıcak hava dalgalarının sıklığı ve uzunluğunda da önemli değişiklikler ortaya çıktığını göstermektedir.
+Bu tür değişiklikler, genel olarak Doğu Akdeniz ve Türkiye’de, özellikle 1990’lı yıllarla birlikte donlu ve kar yağışlı günlerin belirgin bir şekilde azalması (Erlat ve Türkeş, 2008, 2012; Kartum ve ark., 2011), sıcak günlerin ve gecelerin sayıları (Erlat ve Türkeş, 2013) ile gece en düşük ve gündüz en yüksek hava sıcaklıklarının artması (Türkeş ve ark., 2002; Türkeş ve Sümer, 2004; Kuglitsch ve ark., 2010, vb.
+), başka bir deyişle sıcak hava dalgalarının sıklığının ve şiddetinin kuvvetlenmesi şeklinde kendisini hissettirmektedir.
+Bu bölümde, Meteoroloji Genel Müdürlüğü’nün (MGM) klimatoloji ve meteoroloji istasyonlarında 1950-2010 döneminde kaydedilen aylık ortalama (günlük ortalamaların aylık ortalaması), aylık ortalama maksimum (en yüksek) ve aylık ortalama minimum (en düşük) hava sıcaklığı verileri (°C) ile aylık toplam yağış (mm ya da kg/m2) verileri kullanıldı.
+Bu verilerin istatistiksel ve klimatolojik zaman dizisi çözümlemeleri yapılarak, Türkiye’deki yağış ve hava sıcaklığı dizilerindeki uzun süreli eğilimler ve değişimler yeniden incelendi.
+Đstasyon verilerindeki eğilimleri belirlemek amacıyla, uzun süreli zaman dizilerine Mann- Kendall (M-K) sıra ilişki katsayısı yöntemi uygulandı (Sneyers, 1990; Türkeş ve ark., 2002).
+Verilerin türdeşliği, sürekliliği, aylık eksik verilerin o istasyondaki toplam verinin % 5’ini aşmaması vb.
+koşullar ve kurallar dikkate alınarak (Türkeş, 1996, 1998a, 1999), aylık ortalama hava sıcaklığı ve toplam yağış eğilimlerinin istatistiksel çözümlemesi ve anlamlılık sınaması için 138 istasyonun verileri kullanıldı.
+Ortalama maksimum ve ortalama minimum hava sıcaklığı dizilerindeki eğilimlerinin belirlenmesi içinse, ayrıntılı türdeşlik ve rasgelelik çözümlemeleri sonucunda Türkeş ve ark.
+(1996, 2002) tarafından belirlenen Türkiye’deki en uzun sıcaklık gözlemlerine sahip 70 istasyonun zaman dizileri kullanıldı.
+Analizler tüm verilerin mevsimlik ve yıllık dizileri için yapılmasına karşın, burada ortalama hava sıcaklığı ve yağış toplamları için yıllık ve mevsimlik M-K sonuçları, ortalama maksimum ve ortalama minimum hava sıcaklıkları içinse yalnız yıllık M-K sonuçları verildi.
+Murat Türkeş
+Şekil 6.1.Mann-Kendall (M-K) sıra ilişki katsayısı anlamlılık sınamasına göre, Türkiye kış (a) ve ilkbahar (b) mevsimi ortalama hava sıcaklığı dizilerindeki uzun süreli eğilimlerin alansal dağılış desenleri.
+Mavi renkli ters üçgen simgeleri, hava sıcaklığı dizilerindeki azalış eğilimlerini gösterirken, kırmızı renkli artı simgeleri dizilerdeki artış eğilimlerini gösterir.
+Đçi noktalı ve dolu daha iri mavi üçgen simgeler (görece kalın ve daha kalın kırmızı artı simgeler), M-K u(t) sınama örneklem değerlerine karşılık gelen harita simgelerini içeren lejanta göre, sırasıyla dizilerdeki % 5 ve % 1 anlamlılık düzeyindeki azalma (artma) eğilimlerini gösterir.
+3.2.1.
+Hava Sıcaklıklarında Gözlenen Değişimler ve Eğilimler
+Türkiye’nin mevsimlik ortalama hava sıcaklıklarındaki uzun süreli eğilimler incelendiğinde, kış mevsiminde bir bölümü istatistiksel açıdan anlamlı olmak üzere, hem artış hem de azalış eğilimleri görülür (Şekil 6.1a).
+Mann-Kendall sınamasının sonuçlarına göre, istatistiksel açıdan anlamlı (önemli) ısınma eğilimleri genel olarak Akdeniz Bölgesi’nde egemendir.
+Çok azı istatistiksel açıdan anlamlı olmak üzere, soğuma eğilimleri Karadeniz Bölgesi ile iç ve batı bölgelerinde görülür.
+Đlkbahar ortalama hava sıcaklıkları, birkaç istasyon dışında, Türkiye’nin çok büyük bölümünde artma eğilimi gösterir (Şekil 6.1a).
+Özellikle Marmara, Ege, Akdeniz, Đç Anadolu ve Güneydoğu Anadolu bölgelerinde gözlenen ısınma eğilimleri, istatistiksel açıdan önemlidir.
+Isınma eğilimleri, kentleşmenin hızlı ve yaygın, buna bağlı kentsel ısı adası etkilerinin kuvvetli olduğu Đstanbul yöresinde, Ege ve Akdeniz bölgelerinin kıyı istasyonlarında ve Güneydoğu Anadolu Bölgesi istasyonlarında çoğunlukla % 1 anlamlılık düzeyinde önemli ve klimatolojik olarak dikkat çekicidir (Şekil 6.1b).
+Türkiye’de Gözlenen ve Öngörülen Đklim Değişikliği, Kuraklık ve Çölleşme
+Şekil 6.2.Mann-Kendall (M-K) sıra ilişki katsayısı anlamlılık sınamasına göre, Türkiye yaz (c) ve sonbahar (d) mevsimi ortalama hava sıcaklığı dizilerindeki uzun süreli eğilimlerin alansal dağılış desenleri.
+Harita açıklaması Şekil 6.1’deki ile aynıdır.
+Burada sonuçları verilen yeni çalışmanın, Türkiye için gerçekleştirilen önceki hava sıcaklığı eğilim çalışmalarından en önemli farkı, ısınma eğilimlerinin giderek daha da kuvvetlendiği yaz ve sonbahar mevsimlerinde görülmesidir (Şekil 6.2c, 6.2d).
+Yaz mevsiminde gözlenen kuvvetli ısınma eğilimleri, istasyonların büyük çoğunluğunda istatistiksel olarak % 1 anlamlılık düzeyinde anlamlıdır (Şekil 6.2c).
+Bu durum bölgesel iklim değişikliği sinyallerinin kuvvetlenmesi açısından önemli ve üzerinde durulması gereken bir sonuçtur.
+Zaman dizisi çözümlemelerine göre, gözlenen ısınma eğilimi, kentleşme düzeyi ne olursa olsun neredeyse tüm istasyonlarda 1980’li yıllarla birlikte hızlanmış ve önemli bir sıçramayla birlikte yaklaşık son 20 yılda önemli bir sıcak döneme dönüşmüştür (zaman dizisi çizimleri burada verilmedi).
+Uzun süreli ortalamaya göre daha sıcak koşulların egemen olduğu bir döneme geçiş (iklim değişikliği sinyali), bazı istasyonlarda 1980’li yılların ortasında, bazılarındaysa 1990’ların başında gerçekleşmiştir.
+Sonbahar ortalama hava sıcaklıkları da, çoğunlukla ısınma eğilimi gösterir (Şekil 6.2d).
+Birkaç istasyonda gözlenen soğuma eğilimi yalnız bir istasyonda istatistiksel açıdan önemliyken, gözlenen ısınma eğilimleri, Ege, Akdeniz ve Đç Anadolu bölgelerinde çoğunluğu % 1 anlamlılık düzeyinde istatistiksel olarak önemlidir.
+Murat Türkeş
+Şekil 7.M-K sıra ilişki katsayısı anlamlılık sınamasına göre, Türkiye yıllık ortalama (a), yıllık ortalama maksimum (b) ve yıllık ortalama minimum (c) hava sıcaklıklarındaki uzun süreli eğilimlerin alansal dağılış desenleri.
+Harita açıklaması Şekil 6.1’deki ile aynıdır.
+Yıllık ortalama, yıllık ortalama maksimum ve yıllık ortalama minimum hava sıcaklıklarında da, mevsimlik hava sıcaklıklarında belirlendiği gibi (mevsimlik çözümleme sonuçlarının tümü burada verilmedi), Türkiye için yapılan önceki gözlenen sıcaklık eğilimleri çalışmalarının sonuçlarına göre ısınmanın giderek daha da kuvvetlendiği görülür (Şekil 7a, 7b, 7c).
+Yıllık ortalama, yıllık ortalama maksimum ve yıllık ortalama minimum hava sıcaklıklarında, rastgele bir dağılış gösteren azalma eğilimiyle nitelenen birkaç istasyon dışında, istasyonların çoğunluğunda belirgin bir ısınma eğilimi görülür.
+Gözlenen ısınma eğilimi, çoğu istasyonda istatistiksel açıdan önemlidir.
+Zayıf ısınma ve soğuma eğilimleri, genel olarak Karadeniz Bölgesi ile Đç ve Doğu Anadolu bölgelerinin kuzey bölümlerine dağılmış durumdadır.
+Đstatistiksel açıdan anlamlı ısınma sinyalleriyse, çok belirgin bir
+Türkiye’de Gözlenen ve Öngörülen Đklim Değişikliği, Kuraklık ve Çölleşme
+alansal tutarlılık deseni gösterir (Şekil 7a, 7b, 7c).
+Tüm bu sonuçlar, ötekilerin yanı sıra, insan kaynaklı küresel iklim değişikliğinin en belirgin ve görece kolay belirlenen sonuçlarından birisi olan küresel ısınmanın Türkiye’de etkili olduğunu ortaya koymaktadır.
+Şekil 8.1.M-K sıra ilişki katsayısı anlamlılık sınamasına göre, Türkiye kış (a) ve ilkbahar mevsimi toplam yağış tutarlarındaki uzun süreli eğilimlerin alansal dağılış desenleri.
+Kırmızı renkli ters üçgen simgeleri, toplam yağış dizilerindeki azalma ya da kuraklaşma eğilimlerini gösterirken, koyu yeşil renkli artı simgeleri toplam yağış dizilerindeki artma ya da daha yağışlı (nemli) olma eğilimlerini gösterir.
+Đçi noktalı ve dolu daha iri kırmızı üçgen simgeler (görece kalın ve daha kalın koyu yeşil artı simgeler), M-K u(t) sınama örneklem değerlerine karşılık gelen harita simgelerini içeren lejanta göre, sırasıyla dizilerdeki % 5 ve % 1 anlamlılık düzeyindeki azalma (artma) eğilimlerini gösterir.
+3.2.2.
+Yağış Toplamlarında Gözlenen Değişimler ve Eğilimler
+Çok kurak ile yarınemli arasındaki iklim kuşakları, iklimdeki kuvvetli değişimlerin etkilerine karşı açıktır.
+Bölgesel yağıştaki kısa süreli değişimler ve uzun dönemli dalgalanmalar, kurak ve yarıkurak arazilerin bilinen bir özelliğidir.
+Örneğin, Afrika’nın Sahra ve Sahel bölgelerindeki yağış tutarı, 1960’lı yıllardan başlayarak önemli ölçüde azalmıştır (Şekil 5).
+Benzer kurak dönemler son jeolojik devirde (Kuvaterner) ve tarihsel geçmişte de oluşmasına karşın, Sahra’daki bu son kurak dönemin anakarasal ölçekteki bir kuraklığa daha fazla eğilimli olduğu kaydedilmiştir.
+Yağışlardaki uzun süreli azalma eğilimleri ve belirgin kurak koşullar, özellikle 1970’lerin başından başlayarak, subtropikal kuşağın ve Türkiye’yi de içerecek bir biçimde Akdeniz Havzası’nın önemli bir bölümünde de etkili olmuştur (Şekil 5).
+Murat Türkeş
+Şekil 8.2.M-K sıra ilişki katsayısı anlamlılık sınamasına göre, Türkiye kış (a), ilkbahar (b), yaz (c) ve sonbahar (d) mevsimi toplam yağış tutarlarındaki uzun süreli eğilimlerin alansal dağılış desenleri.
+Harita açıklaması Şekil 7.1’dekinin aynısıdır.
+Gerçekte, bir karşılaştırma yapılırsa, Türkiye’de gözlenen mevsimlik ve yıllık yağış eğilimleri, hava sıcaklıklarında gözlenen eğilimler kadar kuvvetli olmadığı görülür.
+Dünyanın birçok bölgesinde olduğu gibi, yağış değişimleri uzun süreli eğilimlerden çok, çeşitli değişim ve dalgalanma biçimleriyle birlikte kurak ve nemli (yağış) dönemlerin sıklıklarında ve büyüklüklerinde belirlenen önemli değişiklikler biçiminde olmaktadır (örn.
+Tatlı ve Türkeş, 2011a; Trenberth ve ark.,2007; Trigove ark., 2006; Türkeş, 1996, 1998, 2003, 2011a; Türkeş ve Erlat, 2003, 2005; Türkeş ve Tatlı, 2009; Türkeş ve ark., 2009ab, vb.).
+Yağış değişimlerinin alansal değişkenliği de kuvvetlidir.
+Sözü edilen bu kuraklaşma eğiliminden Türkiye’de en fazla, Ege, Akdeniz, Marmara ve Güneydoğu Anadolu bölgeleri etkilenmiştir.
+Son 40 yılda özellikle kış mevsimindeki ve yıllık yağış değişiklikleri dikkate alındığında, Türkiye’deki kuraklık olaylarının en şiddetli ve geniş yayılımlı olanları, 1971-1974, 1983- 1984, 1989-1990 ve 2007-2008 dönemleri ile 1996 ve 2001 yıllarında oluşmuştur (örn.
+Türkeş, 1996, 1998ab, 1999, 2003b, 2008abc; Türkeş ve Erlat, 2003, 2005; Türkeş ve Tatlı, 2009; Türkeş ve ark., 2009ab, vb.).
+Türkiye’nin birçok bölgesinde etkili olan bu kuraklık olaylarının ve su sıkıntısının, yalnız tarım ve enerji üretimi açısından değil, sulamayı, içme suyunu, öteki hidrolojik sistemleri ve etkinlikleri içeren su kaynakları yönetimi açısından da kritik bir noktaya ulaştığı gözlenmiştir.
+Türkiye’de Gözlenen ve Öngörülen Đklim Değişikliği, Kuraklık ve Çölleşme
+Türkiye yağışlarındaki uzun süreli eğilimler ve değişimler incelendiğinde, genel olarak kış ve ilkbahar yağış toplamlarında Türkiye’nin Akdeniz yağış rejiminin egemen olduğu Marmara, Ege, Akdeniz ve Güneydoğu Anadolu bölgeleri ile Đç ve Doğu Anadolu bölgelerinin iç ve güney bölümlerinde belirgin bir azalma eğiliminin (kuraklaşma) olduğu görülür (Şekil 8.1a, 8.1b).
+Kış mevsiminde Ege, Akdeniz ve Güneydoğu Anadolu bölgelerinde gözlenen kuraklaşma eğilimlerinin bazıları istatistiksel olarak önemlidir (Şekil 8.1a).
+Bu sonuç Türkiye için daha önce yapılan yağış eğilimleri ve değişimlerine ilişkin çalışmalarla genel olarak uyumludur.
+Başka bir deyişle, kış mevsiminde Türkiye’nin özellikle batı, güney ve karasal iç-güney bölgelerinde gözlenen kuraklaşma eğilimi, yaklaşık olarak bu bölgelerde son 2 yılda (2008/2009-2009/2010) egemen olan ortalamadan daha yağışlı (nemli) koşulların varlığına karşın sürmektedir.
+Türkiye’de gözlenen kuraklaşma eğilimi, istasyonların bir bölümünde 1970’li yılların başında, bir bölümünde ise 1980’li yılların başında etkili olmaya başlamış, Karadeniz (örn.
+Doğu Karadeniz bölümünde, Rize istasyonu) ve Akdeniz kıyısındaki bazı istasyonlar (örn.
+Alanya) ile karasal Güneydoğu Anadolu Bölgesi’ndeki bazı istasyonlarda (örn.
+Mardin) son yıllara kadar etkili olmuştur (zaman dizisi çizimleri burada verilmedi).
+K A R A D E N Đ Z
+Marmara Denizi
+Ege Denizi
+A K D E N Đ Z
+Yıllık toplam yağış tutarlarındaki eğilimler
+Şekil 9.
+M-K sıra ilişki katsayısı anlamlılık sınamasına göre, Türkiye yıllık toplam yağış tutarlarındaki uzun süreli eğilimlerin alansal dağılış desenleri.
+Harita açıklaması Şekil 7.1’dekinin aynısıdır.
+Yazın, önceki çalışmaların sonuçlarına benzer olarak, birkaçı istatistiksel olarak önemli olmak üzere, hem artış hem de azalış eğilimleri egemendir (Şekil 8.2c).
+Sonbaharda ise, önceki çalışmalardan ayrı olarak, daha önce gözlenen artış eğilimlerinin kuvvetlendiği ve artış eğilimi gösteren istasyon sayısının arttığı görülür.
+Sonbaharda, Türkiye’nin güneydoğu köşesini kaplayan bir alan dışında yağışlarda artış egemendir.
+Gözlenen artış eğilimleri, Đç Anadolu’da, Batı Karadeniz Bölümü’nde, Güney Marmara ve Kuzey Ege bölümlerinde çoğu % 1 anlamlılık düzeyinde olmak üzere, istatistiksel olarak önemlidir (Şekil 8.2d.).
+Bu artış eğilimlerinin ortaya çıkmasında, Azorlar bölgesi üzerindeki subtropikal yüksek basınç ile Grönland ve Đzlanda üzerindeki orta enlem alçak basıncı arasındaki geniş ölçekli atmosferik basınç dalgalanması olarak tanımlanan Kuzey Atlantik Salınımı’nın (NAO) negatif evresiyle bağlantılı olarak son yıllarda gözlenen uzun süreli ortalamadan daha nemli koşullar etkili olmuş olabilir.
+Türkiye’deki yıllık toplam yağışlardaysa, temel olarak kış ve sonbahar yağışlarındaki eğilim ve değişimlerin beklenen bir yansıması olarak, Türkiye’nin Akdeniz yağış rejiminin egemen olduğu batı ve güney bölgelerinde bir azalma eğilimi görülür (Şekil 9).
+Öte yandan, Trakya’nın Tekirdağ ve
+Murat Türkeş
+Đstanbul yöreleri ve Karadeniz Bölgesi ile Đç ve Doğu Anadolu bölgelerinin kuzey ve doğu bölümlerinde yıllık toplam yağışlarda bir artma eğilimi egemendir.
+Gözlenen artış ve azalış eğilimlerinin ancak birkaçı istatistiksel olarak önemlidir.
+3.2.3.
+Kuraklık ve Nemlilik Koşullarında Gözlenen Değişimler
+Đklim değişikliği ve değişkenliği çalışmalarında, yağış toplamlarındaki ve yağışlı gün sayılarındaki (yağış olasılıklarındaki) değişimlerin ve eğilimlerin incelenmesinde kullanılan yöntem ve yaklaşımlara ek olarak, kuraklık olaylarını belirlemek, nitelendirmek ve izlemek amacıyla, farklı kuraklık indisleri ve yöntemleri de kullanılır.
+Kuraklık indislerinin bazıları, yağış dizilerine dayanır ve meteorolojik kuraklıklarla ilgiliyken, bazıları ise, hidrolojik ya da tarımsal kuraklıkları ve kentsel su sağlama sistemlerindeki su açıklarını tanımlamaya yöneliktir.
+Bunlardan, Standartlaştırılmış Yağış Đndisi (SPI), Normalleştirilmiş Yağış Anomali Đndisi (NPAI), Palmer Kuraklık Şiddet Đndisi (PDSI) ve onda birler (desiller), günümüzde dünyada en yaygın olarak uygulanan kuraklık indislerindendir.
+Yeni ya da Değiştirilmiş Standartlaştırılmış Yağış Đndisi (MSPI) yöntemi (Türkeş ve Tatlı, 2009) kullanılarak, Aralık 2008’e göre elde edilen kuraklık şiddetleri ve etkilenen kurak bölgelerin, Kasım/Aralık 2006 - Aralık 2008 arasında özellikle Türkiye’nin Akdeniz yağış rejiminin egemen olduğu batı ve güney bölgelerinde ve bu bölgelere kuzeyden komşu karasal iç bölgelerde egemen olan uzun süreli ve şiddetli kuraklık olaylarını açık bir biçimde belirlemesi dikkat çekicidir (Şekil 10) (Türkeş ve Tatlı, 2010).
+Aralık 2008’e göre 360 aylık MSPI değerleri de (Şekil 10d), uzun zamandan beri yıllık ve kış mevsimi yağış toplamı ve yağışlı gün sayısı dizilerinde gözlendiği gibi (örn.
+Türkeş, 1996, 1998a, 1999; Türkeş ve ark., 2009b, vb.
+), geçen 30 yıllık dönemde genel olarak Türkiye’nin Akdeniz yağış rejiminin etkili olduğu batı ve güney bölgelerinde bir kuraklaşma eğiliminin egemen olduğunu gösterir.
+Bu hesaplamanın temeli MSPI’nin 2008’den geriye doğru 30 yıllık kayan ortalamalarına dayandığı için, güncelleştirilmiş verilere dayanan bu yeni yağış eğilimlerinin, özellikle kış ve yıllık toplam yağış dizilerinde Türkiye’nin genel olarak subtropikal Akdeniz iklimi ve yağış rejiminin egemen olduğu batı ve güney bölgelerinde gözlenen istatistiksel açıdan anlamlı azalma (kuraklaşma) eğilimleriyle tutarlı oluşu dikkat çekicidir (Şekil 8.1 ve Şekil 9).
+Genel olarak Doğu Akdeniz Havzası’nın ve Türkiye’nin yıllık ve özellikle kış yağışlarında gözlenen önemli azalma eğilimleri, bu bölgede egemen olan cephesel orta enlem ve Akdeniz alçak basınçlarının sıklıklarında özellikle kışın gözlenen azalma ile yüksek basınç koşullarında gözlenen artışlarla bağlantılı olabilir.
+Türkiye yağışlarındaki değişkenliğin ve değişikliklerin atmosferik nedenlerine ilişkin yeni çalışmalara göre (Türkeş ve Erlat, 2003, 2005), Türkiye’deki şiddetli ve geniş alanlı kış kuraklıklarının önemli bir bölümü de, NAO’nun kuvvetli pozitif indis evrelerine karşılık gelir.
+Türkiye’de Gözlenen ve Öngörülen Đklim Değişikliği, Kuraklık ve Çölleşme
+Şekil 10.
+Aralık 2008 12 aylık (a), Aralık 2008 24 aylık (b), Aralık 2008 36 aylık (c) ve Aralık 2008 30 yıllık (360 ay) (d) yeni SPI (MSPI) değerlerine göre, çeşitli
+kuraklık (nemlilik) koşullarının Türkiye üzerindeki alansal dağılış desenleri (Türkeş ve Tatlı, 2010).
+Murat Türkeş
+4.
+Türkiye’de Kuraklık ve Çölleşme
+Kuraklık ve çölleşme, insan kaynaklı iklim değişikliğiyle birlikte, sonuçları açısından günümüzde insanoğlunun karşı karşıya olduğu ve mutlaka ciddiye alması gereken en önemli küresel ve bölgesel çevre konularından biridir.
+Çölleşme, Birleşmiş Milletler Şiddetli Kuraklık ve /ya da Çölleşmeden Etkilenen Ülkelerdeki, Özellikle Afrika Ülkelerindeki, Çölleşme ile Savaşım Sözleşmesi’nde (UNCCD, 1995), “iklimsel değişimleri ve insan etkinliklerini de içeren, fiziksel, biyolojik, siyasal, sosyal, kültürel ve ekonomik etmenler arasındaki karmaşık etkileşimlerin, kurak, yarıkurak ve kuru-yarınemli alanlarda oluşturduğu arazi degradasyonu” olarak tanımlanmıştır (Türkeş, 2012ab).
+Buna göre, dünyanın hemen her bölgesinde oluşabilen arazi degradasyonu, kurak, yarıkurak ve kuru-yarınemli arazilerde oluşması koşuluyla çölleşme olarak kabul edilmiştir.
+Çölleşme, düşük toplam yağışa, yetersiz su kaynaklarına, uzun kurak mevsimlere, yinelenen kuraklık olaylarına, gevşek yüzey malzemesine ve ince toprak katmanına sahip, seyrek ve aynı zamanda hassas bir vejetasyon ile kaplanmış ortamlarda, hem daha sık oluşur hem de daha fazla etkili olur.
+Uzun süreli ve şiddetli kuraklık olayları gibi iklim değişikliği ve değişkenliği ile bağlantılı etmenler, arazinin çölleşmeden etkilenebilirliğinde ve çölleşme süreçlerinin hızlanmasında bir artışa yol açabilir (Türkeş, 2012ab).
+Günümüzde gerçek çöllerin, yarı çöllerin (çölümsü step) ve çölleşmeye eğilimli alanların bulunduğu, çok kurak, kurak, yarıkurak ve kuru-yarınemli araziler, Yerküre karalarının yaklaşık % 41.3’nü kaplar (bkz.
+Çizelge 1; Şekil 11).
+Türkiye’de ise, çölleşmeye eğilimli yarıkurak ve kuru- yarınemli araziler, ülke topraklarının yaklaşık % 35’ini kaplar; yarınemli iklim koşulları ile birlikte bu oran yaklaşık % 60’a ulaşır (Türkeş, 1998b, 1999, 2012ab), (bkz.
+Çizelge 2; Şekil 12).
+Çölleşme bir bölgenin çöl haline gelmesi değil, yenilenemez bir kaynak olan toprağın üretkenliğini kaybetmesidir.
+Arazi bozulumu, su ve rüzgâr erozyonuyla toprakların kaybedilmesi, toprakların fiziksel, kimyasal ve biyolojik özelliklerinin bozulması ve bunun sonucunda toprakların verimliliğinin azalması ile oluşan ekonomik kayıpları ve bitki örtüsünün uzun süreli kaybını ifade eder.
+Toprak bozulumu sadece tarım alanlarında değil, bozkır, mera, orman ya da maki/fundalık gibi alanlarda ortaya çıkan bir süreçtir.
+Ormansızlaşma, meralarda kapasitelerinin üzerinde otlatma, yanlış ve amaç dışı arazi kullanımları, tarım alanlarında aşırı üretim yapılması ve bu amaçla aşırı gübreleme ve ilaçlama yapılması, anızların yakılması, aşırı ve bilinçsiz sulama, endüstriyel atıklar gibi insan etmenleri; taşkınlar, kuraklık ve seller gibi doğal olaylar; toprak organik maddesinin kaybı, toprakların betonlaşması, toprak bozulumu ve toprakların kirlenmesi gibi olumsuz sonuçlar doğurmaktadır.
+Dünyada yaklaşık olarak 2 milyar insanın kurak bölgelerde yaşaması, bu insanların temiz içme suyundan yoksun ve yoksulluk sınırının altında olması, dünyadaki kara yüzeylerinin % 41.3’nün, tarım alanlarının ise % 44’nün kurak alanlarda yer alması çölleşme ile mücadelenin önemini arttırmaktadır.
+Ortalama olarak her yıl 20 milyon ton tahılın üretilebileceği 12 milyon ha büyüklüğünde arazi tahrip olmaktadır (EMG, 2011).
+Bu nedenle kurak alanlarda ekosistem ve arazi bozulumunun azaltılması ya da önlenmesi, bozulmuş arazilerin iyileştirilmesi ve toprakların sürdürülebilir olarak kullanımının sağlanması vb.
+konularına özel bir önem ve öncelik verilmesi gerekir (Safriel ve Adeel, 2005; Türkeş, 2012ab, vb.).
+Öte yandan, iklim, iklim değişikliği ve kurak koşullar ile çölleşme arasındaki ilişki bu kadar açık olmasına karşın, Türkiye’de Birleşmiş Milletler Çölleşme ile Savaşım Sözleşmesi (BMÇSS) yükümlülükleri kapsamında yürütülen ulusal ve uluslararası düzeydeki çalışmalarda, yayınlarda ve ulusal rapor ve eylem planlarında çoğu kez konuya çeşitli insan etkinlikleri ve doğal etmenler ile erozyon nedeniyle oluşan arazi degradasyonu açısından bakılmaktadır.
+Konunun iklim değişikliği/değişkenliği ve kuraklık ilişkisi ve boyutu ise göz ardı edilmektedir.
+Bu yüzden, makalenin bu bölümünde, kuraklık ve çölleşmeye ilişkin temel kavram ve tanımlar ile Türkiye’de çölleşmenin iklim, iklim değişikliği/değişkenliği ve kuraklık açısından ayrıntılı bir çözümlemesinin yapılması amaçlanmıştır.
+Türkiye’de Gözlenen ve Öngörülen Đklim Değişikliği, Kuraklık ve Çölleşme
+4.1.
+Kuraklık ve Çölleşme Sorunu: Bilimsel/Teknik Tanımlar ve Değerlendirme
+Bugün yeryüzünde, kurak arazilere sahip yaklaşık 110 ülke potansiyel bir çölleşme tehlikesiyle karşı karşıyadır (Lean, 1995 ve 2008).
+Birleşmiş Milletler Çevre Programı (UNEP), çölleşmenin küresel maliyetinin yılda 42 milyar ABD $ olduğunu öngörmüştür.
+Dünya Đzleme Enstitüsü’nün öngörülerine göre, anakaralar her yıl 24 milyar ton verimli üst toprak kaybına uğramaktadır.
+Ayrıca, karaların yaklaşık % 30’u, doğal bitki örtüsünün seyrek olduğu kurak arazilerdeki şiddetli degradasyon (arazi bozunumu ve yitirimi) yüzünden çölleşmeden zarar görmektedir.
+Çeşitli iklim modelleri, gelecekteki daha sıcak iklim koşullarında buharlaşma ve terlemenin (evapotranspirasyon) artacağını, küresel ortalama yağış tutarında ve şiddetli yağış olaylarının sıklığında bir artış olacağını gösterir (Altınsoy ve ark., 2011, 2012; Öztürk ve ark., 2012, 2013; Türkeş, 2011a, 2012a; Türkeş ve ark., 2011; vb.).
+Buna karşılık, bazı alanlarda yağış artışı olurken, başka alanlarda yağış azalışları yaşanacağı, hatta yağışlarda artış olan kara alanlarında artan buharlaşma yüzünden akışlarda ve toprak neminde azalışlar olabileceği öngörülür.
+Bunların dışında, yağış rejimlerinde önemli mevsimsel değişikliklerin ve alansal kaymaların olabileceği de öngörülür.
+Genel olarak, yağış yüksek enlemlerde yaz ve kış mevsimlerinde artabilecektir.
+Yağışların, kışın, orta enlemler, tropikal Afrika ve Antarktika’da, yazın ise, güney ve doğu Asya’da artacağı öngörülmektedir.
+Bu kapsamda, Avustralya, Orta Amerika ve Güney Afrika’nın kış yağışlarında sürekli bir azalış (kuraklaşma) beklenmektedir.
+Ayrıca, akarsu akımlarının, yüksek enlemlerde ve Güneydoğu Asya’da artacağı, Orta Asya’da, Akdeniz havzasının çevresinde, Güney Afrika ve Avustralya’da azalacağı öngörülmektedir.
+Farklı sera gazı salım senaryolarına dayanarak çalıştırılan çeşitli iklim modellerinin kestirimlerine göre, özellikle Kuzey Afrika ve Akdeniz havzasının büyük bölümü, Türkiye ve Orta Doğu için, yağışlarda, su kaynaklarında ve akımlarda gelecek yüzyıl için önemli azalmalar, yüzey hava sıcakları ve evapotranspirasyon ile ekstrem hava ve iklim olaylarındaysa önemli artışlar oluşabilecektir (Altınsoy ve ark., 2011, 2012; Krichak ve ark., 2007; Giorgi ve Lionelle, 2008; Sen ve ark., 2012; Ozturk ve ark., 2012, 2013; Tatlı ve Türkeş, 2008, 2011ab; vb.).
+Bu yüzden iklim değişikliği, kuraklığın zaten yinelenen bir doğal iklimsel değişkenlik özelliği olduğu bazı bölgelerde, kuraklık olaylarının büyüklüğünü ve sıklığını şiddetlendirirken, birçoğu kurak ve yarıkurak alanlarda bulunan gelişmekte olan ülkelerin iklim değişikliğine duyarlılıklarını daha yüksek düzeylere çıkaracaktır (Tatlı ve Türkeş, 2011ab; Türkeş, 2010, 2011a; Türkeş, 2012ab; vb.).
+Kurak ve yarıkurak alanlar ya da bölgeler ile çölleşme üzerinde doğru bir değerlendirme ve bireşim yapabilmek için, önce aridite (klimatolojik kuraklık), arid (kurak) bölge, kuraklık, çöl ve çölleşme kavramlarının tanımlanması ve bu kavramların bilimsel ölçütler temel alınarak birbirlerinden ayrılması yararlı olacaktır:
+Aridite (Đng: aridity), “yeryüzünün herhangi bir yerinde egemen olan fiziki coğrafya denetçilerinin ve uzun süreli atmosfer dolaşımı düzeneklerinin oluşturduğu sürekli yağış ve nem açığı koşulları ya da klimatolojik kuraklık” şeklinde tanımlanabilir (Türkeş, 1998b, 2008a, 2012ab).
+Bu koşulların yıl boyunca ya da yılın çok büyük bir bölümünde egemen olduğu alanlara, arid ya da kurak bölge adı verilir.
+Bu tanımda, iklimsel dalgalanma ve değişikliklerin olasılığı göz ardı edilmektedir.
+BMÇSS’de, kurak, yarıkurak ve kuru-yarınemli araziler, “kutup ve kutupaltı bölgeler dışında olmak üzere, yıllık yağışın potansiyel evapotranspirasyona oranı 0.05-0.65 aralığında kalan alanlar” olarak belirlenmiştir (UNCCD, 1995).
+Hidrolojik, tarımsal ve meteorolojik kuraklık gibi bir ayrıma gidilmeksizin, genel olarak, “yeryüzündeki çeşitli sistemlerce kullanılan doğal su varlığının, belirli bir zaman süresince ve bölgesel ölçekte uzun süreli ortalamanın ya da normalin altında gerçekleşmesi sonucunda oluşan su açığı” olarak tanımlanan (Türkeş, 2012ab) kuraklık (Đng: drought) ise, temel olarak şiddet, süre ve coğrafi yayılış bileşenleri ile nitelendirilebilen üç boyutlu bir doğa olayıdır.
+Uzun süreli kuraklık olayları, tarım, orman ve hayvancılığı, yeraltı ve yerüstü kaynaklarını, yeterli ve nitelikli içme suyuna
+Murat Türkeş
+erişimi, enerji üretimini, özellikle dağ ve karasal sucul ekosistemleri çok olumsuz etkiler (Türkeş, 2010, 2012ab).
+Kuraklık olaylarının sonuçları, özellikle yaşam tarzları ve geleneksel üretim sistemleri doğrudan yağışlara ya da yeraltı sularına bağlı olan az gelişmiş toplumlarda, çok şiddetli olumsuzluklara yol açmaktadır.
+Öte yandan, suyun kullanımı ve yönetimi ile ilgili etkinliklerden, yağışların yetersizliğinden ya da yağış şeklinin ve şiddetinin değişmesi (örn.
+kar yağışının azalması, hızlı kar erimesi ve kısa süreli sağanakların ya da şiddetli yağışların sıklığının artması, vb.
+), etkilenme süresine göre kuraklık olgusunun izlenmesi ve planlanmasını zorunlu kılmaktadır.
+Kuraklığın başlangıç ve bitiş zamanlarının belirsiz olması, toplam etkinin artması, aynı anda birden fazla kaynak üzerinde etkili ve ekonomik etkisinin yüksek olması ve doğasının karmaşık olması yüzünden, kuraklık olaylarını belirlemek ve izlemek kolay değildir (Türkeş, 2010, 2012ab).
+Meteorolojik kuraklık sonucunda tarım alanlarının sulanmasında önemli sorunların yaşanması, hidrolojik açıdan ise, barajlarda yeterli tutarda su toplanamaması, içme suyu kaynaklarının yetersiz kalması ve çevrenin, toplumsal yaşamın ve sosyoekonomik sistemlerinin olumsuz yönde etkilenmesi gibi önemli sorunların ortaya çıkması kaçınılmaz olarak beklenen olumsuz sonuçlardır.
+Kuraklık, BMÇSS’de, “yağışın, normal düzeyinin oldukça altında olduğunda ortaya çıkan ve arazi kaynakları üretim sistemlerini olumsuz biçimde etkileyerek ciddi hidrolojik dengesizliklere yol açan, doğal oluşumlu bir olay” olarak tanımlanmıştır (Türkeş, 2012ab).
+Çizelge 1.
+Yeryüzündeki çok kurak, kurak, yarıkurak ve kuru-yarınemli arazilerin BMÇMS Kuraklık Đndisine (KĐ) göre sınıflandırılması ve bunların kapladığı alanlar Karakteristik Kuraklık Đndisi Alan Pay Biyom/ekosistem Sınıflandırma (KĐ = Y / PE) (milyon km2) (%) Gerçek çöl Çok kurak KĐ < 0.05 9.8 6.6 Yarıçöl, çölümsü step Kurak 0.05 <KĐ< 0.20 15.7 10.6 Bozkır, çayır, çalı Yarıkurak 0.20 <KĐ< 0.50 22.6 15.2 Çalı, savan, kuru orman Kuru-yarınemli 0.50 <KĐ< 0.65 12.8 8.7 Toplam 60.9 41.3 Çöl, fiziki coğrafya bilimi açısından, “yüksek günlük sıcaklık farkları, yıl içinde ve yıllar arasında büyük değişkenlik gösteren çok düşük yağış tutarları (yıllık ortalama yağış tutarı 250 mm’nin altında) ve zayıf bitki örtüsüyle tanımlanan, çok kurak arazi ya da biyom” şeklinde tanımlanabilir (Türkeş, 2012bc).
+Çöl biyomu, aynı zamanda, çöldeki yaşam koşullarına uyum göstermiş kendine özgü fauna ve florasıyla nitelenen bir ekosistemdir.
+Çöl havası çok kuru olduğu (su buharı karışma oranı ya da su buharı içeriği çok düşük, sıfıra yakın) için, hem gelen kısa dalga boylu Güneş ışınımı hem de giden uzun dalga boylu termal (kızılötesi) ışınım çok şiddetlidir.
+Çöllerde, yaklaşık 30°C’ye ulaşabilen yüksek günlük sıcaklık değişimleri oluşur ve potansiyel evapotranspirasyon yüksektir.
+Çöl biyotasındaki ve habitatlarındaki yüksek alansal ve zamansal değişkenlik, temel olarak suyun varlığı ile denetlenir.
+Çöllerin birçok tanımı yapılmasına karşın, burada önemli olan, suyun ekosistem süreçlerini ve insan yaşamını denetleyen ana etmen oluşudur.
+Yaygın kabul gören bir tanımlamayla, çöl ekosistemleri, yıllık ortalama yağış tutarı 100 mm’den az olduğunda, şiddetli kurak olarak sınıflandırılır (Noble ve Gitay, 1996).
+Gerçek ya da iklimsel çöl, BMÇMS’nde temel alınan kuraklık indisi (KĐ = Y/PE) dikkate alındığında, iklimsel açıdan KĐ< 0.05 olan çok kurak koşullar ile bağlantılıdır.
+Bu sınıflandırmaya göre, Türkiye’de gerçek iklimsel çöl yoktur (bkz.
+Şekil 12).
+BMÇSS’ye göre (1995), arazi degradasyonu, kurak, yarıkurak ve kuru-yarınemli alanlarda doğal yağışlar ile beslenen tarım arazilerinin, çayır ve otlakların, korulukların ve ormanların, çeşitli arazi kullanımlarından ya da insan etkinliklerinden ve yerleşme düzenlerinden kaynaklanan birçok sürecin bileşimi sonucunda biyolojik ya da ekonomik verimliliklerinin azalması ya da kaybı olarak tanımlanır (Türkeş, 2012ab).
+Arazi degradasyonu, birbiriyle yakından bağlantılı birçok toplumsal
+Türkiye’de Gözlenen ve Öngörülen Đklim Değişikliği, Kuraklık ve Çölleşme
+etmen tarafından yönlendirilen çeşitli arazi kullanımı değişikliği süreçlerinden önemli derecede kaynaklanır ve arazi örtüsünün değişmesine neden olur.
+BMÇSS’de birinci dereceden temel alındığı ve tanımlandığı şekilde, örneğin Akdeniz bölgesinin kurak, yarıkurak ve kuru-yarınemli iklim kuşaklarında egemen olan olumsuz biyofiziksel ve fiziki coğrafi etmen ve koşullar altında, bu olgu çoğunlukla arazinin üretkenlik kapasitesinde zamanla bir azalmaya yol açar.
+Biyofiziksel ve fiziki coğrafi etmen ve süreçler, göreceli önem sırasına göre, iklim (sıcaklık ve yağış rejimi ve değişkenliği, rüzgar etkinliği ve kuraklık, şiddetli hava olayları, vb.
+), toprak, yüzey ve yer altı suyu, topografya, jeomorfoloji ve jeolojiyi içerir.
+Genel olarak fiziksel süreçler, su ve/ya da rüzgar kökenli toprak erozyonu, toprakların fiziksel, kimyasal, biyolojik ve ekonomik özelliklerinin bozulması (örn.
+tuzlanma ve azotlanma) ve vejetasyonun (bitki örtüsünün) uzun dönemli kaybını içerir.
+Bu etmenler dikkate alınarak, gelecekte kuraklık ve küresel iklim değişikliğinin, çölleşmeye açık (etkilenebilirliği yüksek) arazilerin bugünkü coğrafyasını genişletmesi beklenmektedir.
+Çölleşme (Đng: desertification) ise, “ekonomik ve biyolojik olarak üretken bir arazinin daha az üretken olması sonucunda ortaya çıkan ekolojik bozulma sürecidir” (Türkeş, 2011a, 2012ab).
+Çölleşmenin ileri aşamalarında, fiziksel bozulmalar ya da yeni jeomorfolojik oluşumlar (örn.
+kumul alanları, çöller, vb.)
+ortaya çıkabilir (Türkeş, 2011b, 2012bc).
+Çölleşme, BMÇSS’de (2005), iklimsel değişimleri ve insan etkinliklerini de içeren, fiziksel, biyolojik, siyasal, sosyal, kültürel ve ekonomik etmenler arasındaki karmaşık etkileşimlerin, kurak, yarıkurak ve kuru-yarınemli alanlarda oluşturduğu arazi bozulumu” olarak tanımlanmıştır (Türkeş, 2012ab).
+Buna göre, kutup ve kutupaltı coğrafi kuşakları dışında dünyanın hemen her bölgesinde oluşabilen arazi yitirimi, kurak, yarıkurak ve kuru-yarınemli arazilerde oluştuğunda çölleşme olarak kabul edilmiştir.
+Çölleşme, düşük toplam yağışa, yetersiz su kaynaklarına, uzun kurak mevsimlere, yinelenen kuraklık olaylarına, gevşek yüzey malzemesine ve ince toprak katmanına sahip, seyrek ve aynı zamanda hassas bir vejetasyon ile kaplanmış ortamlarda, hem daha sık oluşur hem de daha fazla etkili olur.
+Uzun süreli ve şiddetli kuraklık olayları gibi iklimle ilişkili etmenler, arazinin çölleşmeden etkilenebilirliğinde (etkiye açık olma düzeyi) ve çölleşme süreçlerinin hızlanmasında bir artışa yol açabilir.
+Şekil 11.
+BMÇSS kuraklık indisine ve sınıflandırmasına göre (bkz.
+Çizelge 1) iklim çeşitlerinin Yerküre karaları üzerindeki coğrafi dağılışı (Türkeş, 2010, 2012ab).
+Murat Türkeş
+Günümüzde gerçek çöllerin, çölümsü steplerin ve çölleşmeye eğilimli alanların bulunduğu, çok kurak, kurak, yarıkurak ve kuru-yarınemli araziler, Yerküre karalarının yaklaşık % 41.3’nü kaplar (Şekil 11; Çizelge 1).
+Yeryüzündeki gerçek çöllere, Büyük Sahra, Gobi, Takla Makan, Sonoran ve Navajo, Atacama, Namib, Kalahari, Arabistan, Suriye, Kızıl Kum ve Kara Kum çölleri ile Avustralya çölleri örnek verilebilir (Türkeş, 2010).
+Kurak ve yarıkurak alanlarda su noksanlığı çok belirgindir ve yağışlar düzensizdir.
+Bu bölgelerde yağış azlığı yanında, günlük ve yıllık sıcaklık farklarının yüksek, havanın nem içeriğinin (su buharı karışma oranı) düşük ve evapotranspirasyonun yüksek olması tanıtıcı bir özelliktir (Türkeş, 2010, 2012bc).
+Ayrıca toprakların organik madde içerikleri düşüktür.
+Toprak derinlikleri fazla olsa bile yağış yetersiz olduğu için, topraklarda biriken yararlanılabilir su tutarı da azdır.
+Kurak ve yarıkurak alanlarda çoğunlukla açıklanan ekolojik koşullara uyum sağlamış klimaks flora ve fauna bulunmaktadır.
+Bu alanlarda, sırasıyla, genellikle bozkır (step) ve çayır (preri) ile çalı (maki ya da çaparal), savan ve kuru orman biyom ve ekosistemleri geniş alanlar kaplamaktadır (Türkeş, 2012c).
+Coğrafi olarak, BMÇSS’de çölleşmeden etkilenen ülkeler açısından, Türkiye’nin de içerisinde yer aldığı Kuzey Akdeniz Đçin Bölgesel Yürütme Eki’ndeki (kısaca, Kuzey Akdeniz Eki) ülkeler, genel olarak yazı kurak ve sıcak kışı ılık ve yağışlı subtropikal Akdeniz ikliminin etkisinde ve denetimindedir.
+Bu kapsamda Kuzey Akdeniz (bölgesi) çölleşmesinin toplumsal yönlendiricileri ya da denetçileri, nüfus ve sosyoekonomik yapı, bağlantı, etkileşim ve dinamikler, kırsal nüfus hareketleri, kültür (değer sistemleri, yaşam tarzı ve alışkanlıklar) ve kültürel ve teknolojik değişiklikler, yasal, kurumsal, yönetsel ve anayasal kuruluşlar ve örgütlenme düzeyi ile ulusal politika ve önlemleri içerir.
+Burada sıralanan insan etmen ve zorlamaları, doğrudan arazi degradasyonuna yol açan son etkinlikler gibi, olayların en temel kaynaklarını belirler.
+Bunlarsa, entansif (teknolojik, yaygın ve emek yoğun) tarım uygulamaları, mono kültürler, teraslama (sekileme) gibi geleneksel uygulamaların terk edilmesi, kırsal pazarların varlığı ya da yetersizliği, geleneksel aşırı kırsal hayvancılık ve otlatma, ormansızlaşma, orman yangınları, yüzey ve yeraltı sularının aşırı kullanımı ve biyokimyasal kirlenmesi, sulak alanların drenajı, konut, altyapı ve turizm gibi büyük inşaat ve yatırımları içerir (MEDACTION, 2004ab; Türkeş, 2012ab; Briassoulis, 2005; Wilson and Juntti, 2005).
+Bu etkinliklerle ilişkili başlıca arazi kullanımı uygulamaları, tarım, sığır yetiştiriciliği, ormancılık, konut ve turizm sektörlerindeki gelişmelerin yanı sıra, ikincil olarak ulaştırma, sanayi ve madencilikten oluşur.
+Bu belirleyicilerin çeşitli alan ve zaman ölçeklerindeki kendine özgü birleşimleri, çölleşmeyi de karmaşık bir coğrafi, sosyal, ekonomik ve çevresel sorun yapmaktadır (Reynolds ve Stafford-Smith, 2002; Prince, 2002; Türkeş, 2012ab).
+Her tür kamu politikaları doğrudan ya da dolaylı şekilde, olumlu (pozitif) ya da olumsuz (negatif) etkileri olan insan davranışları üzerinde çeşitli olanaklar ve fırsatlar sunarak ya da baskı ve olumsuz davranış biçimleri oluşturarak, çölleşmenin belirleyicilerini etkiler.
+Ayrıca, hükümetlerin uyguladığı politikalar, “hangi kaynaklar ne zaman, nasıl ve çok çeşitli ekonomik etkinliklerin gereksinimlerini karşılamak için ne kadar kullanılmalıdır?” gibi yaşamsal soru ya da konular üzerindeki bireysel ve kolektif kararları da etkileme gücüne sahiptir.
+Türkiye’de Gözlenen ve Öngörülen Đklim Değişikliği, Kuraklık ve Çölleşme
+Şekil 12.
+Yıllık kuraklık indisi değerlerinin Türkiye üzerindeki coğrafi dağılışı (Türkeş, 2010, 2012ab).
+Haritada, (i) tam dolgu (yarıkurak), (ii) çapraz tarama (kuru-yarınemli) ve (iii) kare tarama (yarınemli) ile gösterilen tüm alanlar, Türkiye’nin klimatolojik olarak yıllık su açığı bulunan, kuraklık ve çölleşmeye eğilimli bölgelerine karşılık gelir.
+Haritadaki taranmamış yerlerde, indis değerleri 1-2 arasında kalan (iv) alanlar nemli ve 2’den yüksek olan (v) alanlar ise çok nemli bölgeleri gösterir.
+4.2.
+Türkiye’de Kuraklık ve Çölleşme
+Çalışmanın bu bölümünde, Türkiye’deki kurak arazileri ve Türkiye’nin çölleşmeye eğilimini nesnel olarak açıklayabilmek amacıyla, BMÇSS’nin uygulanmasında temel alınan Aridite Đndisi (Kuraklık Đndisi - KĐ) kullanıldı (Çizelge 1).
+KĐ, PE Y KĐ / = basit eşitliği ile hesaplanır.
+Eşitlikte; Y, yıllık yağış toplamı (mm) ve PE, yıllık toplam düzeltilmiş potansiyel evapotranspirasyondur (mm).
+Türkiye’deki kurak ve nemli alanları tanımlamak içinse, Türkeş (1999)’teki sınıflandırma temel alındı.
+KĐ değerlerinin coğrafi dağılışını gösteren haritada (Şekil 12), KĐ<1.0 olan değerler, Türkiye’de yıllık su açığı bulunan alanları gösterir.
+KĐ< 0.80 olan yarıkurak, kurak-yarınemli ve yarınemli iklim koşulları ve KĐ< 0.65 olan yarıkurak ve kurak-yarınemli iklim koşulları, çalışmada kullanılan 90 istasyonun, sırayla yaklaşık % 59’unda ve % 34’ünde egemendir.
+Kurak-yarınemli iklim koşulları, karasal Đç Anadolu ve Güneydoğu Anadolu bölgelerinin büyük bir bölümü ile Orta ve Doğu Akdeniz’in bir bölümünde, Doğu Anadolu’nun doğusunda ve batısında yayılmaktadır.
+Yarıkurak ve kurak-yarınemli koşullar, Đç Anadolu ve Güneydoğu Anadolu bölgelerindeki istasyonların sırayla % 75 ve % 62.5’ini kapsar.
+Yarıkurak iklim koşullarına sahip araziler, Konya Ovası’nda ve Iğdır yöresinde egemendir (Şekil 12).
+En kurak istasyon 0.3KĐ değeri ile Iğdır, en nemli istasyon ise KĐ değeri 3.0 olan Rize’dir.
+5.
+Türkiye ve Akdeniz Havzasının Gelecek Đklim Kestirimleri
+Türkiye’de ve onu çevreleyen bölgelerde (genel olarak Balkanları ve Orta Doğu Bölgesini içeren Doğu Akdeniz Havzası) gözlenen iklim değişikliği ve değişkenliğine ilişkin çalışmalar ile küresel ve bölgesel iklim modellerinin benzeştirmeleri ve kestirimleri, Türkiye’de önemli iklimsel
+Murat Türkeş
+değişimlerin olduğunu ve Akdeniz havzasındaki birçok ülke ile birlikte gelecekte Türkiye’nin de iklim değişikliğinden olumsuz etkileneceğini gösterir (Altınsoy ve ark., 2011; Demir ve ark.
+2008; IPCC, 2001, 2007; Trigo ve ark., 2006; Türkeş, 1996, 1998, 1999, 2003ab, 2008bc; Türkeş ve Sümer, 2004; Türkeş ve Tatlı, 2008, 2009; Türkeş ve ark., 2002; Türkeş ve ark., 2009ab; Türkeş ve ark., 2011, vb.).
+Tüm bu nedenlerle, iklim değişikliğinin etkilerini önlemek ya da en azından azaltabilmek ve ona uyum açısından, Türkiye’nin gelecekteki ikliminin öngörülmesi yaşamsal bir önem taşır.
+Demir ve ark.
+(2008), Tatlı ve Türkeş (2008, 2011a), Altınsoy ve ark.
+(2011, 2012), Öztürk ve ark.
+(2012, 2013), Türkeş ve ark.
+(2011) ve Sen ve ark.
+(2012), Türkiye’nin gelecek iklimini ve iklimsel değişkenliklerini ortaya koymaya yönelik sınırlıdır bölgesel iklim modeli çalışmalarına örnek olarak verilebilir.
+Bu bölümde, Altınsoy ve ark.
+(2011)’nın iki küresel iklim modeli çıktısı kullanarak gerçekleştirdiği, “Küresel Đklim Modeli Kullanılarak Akdeniz Havzasının Gelecek Hava Sıcaklığı ve Yağış Değişikliklerinin Kestirilmesi” başlıklı çalışmadan yararlanıldı.
+Bu çerçevede, gelecekte Akdeniz havzası ve onu çevreleyen bölgelerde ortalama hava sıcaklıkları (°C) ve toplam yağış tutarlarında (mm) olabilecek değişiklikler ile aynı iklim öğelerinin yıllar arası değişkenliklerindeki (değişim katsayısı (%), DK) değişiklikler incelendi.
+Çalışmada, 2071-2100 dönemi yıllık ve mevsimlik hava sıcaklıklarının ve toplam yağışların model kestirimlerinin 1971-2000 dönemine göre değişimleri, Akdeniz havzası ve Kuzey Atlantik’ten Suriye’ye, Kuzey Afrika’dan güney Avrupa’ya uzanan, Türkiye ve Karadeniz havzasını da içine alan oldukça geniş bir bölge dikkate alınarak incelenmiştir.
+Sonuçlarından yararlandığımız çalışmada, Dünya Đklim Araştırma Programı’nın CMIP3 projesinin çok modelli 14 veri seti (Meehl ve ark., 2007) temel alınmıştır.
+Küresel veri setlerinin çözünürlüğü 0.5°’dir.
+Gözlem verileri 1950-1999 dönemine aittir (Adam ve Lettenmaier, 2003).
+Model çalışmasında, 14 küresel veri seti CRU’nun veri seti ile karşılaştırılarak, CRU’nun gerçek gözlemsel veri seti ile en çok benzeşen iki küresel model veri seti kullanılmıştır.
+Bu iki küresel modelin seçilmesine karar verirken, alan, mevsim ve yıla göre gözlemsel ve model çıktısı sıcaklık ve yağış ortalamaları 1971-2000 dönemi için karşılaştırıldı ve veri setleri arasındaki fark, iki ortalama arasındaki farkın anlamlılığı için Student t sınaması ile 0.05 anlamlılık düzeyinde sınandı.
+Bunun sonucunda, Kanada Đklim Modelleme ve Analiz Merkezinin bir ürünü olan CCCMA- CGCM3.1 ve Fransa Ulusal Meteoroloji Merkezinin geliştirmiş olduğu CNRM-CM3.1 adındaki küresel iklim modeli çıktılarının en iyi sonucu verdiği belirlendi (Altınsoy ve ark., 2011).
+Gelecek iklim kestirimlerinde bu modellerin, IPCC SRES’in (IPCC, 2000) kabaca en kötümser (A2) ve en iyimser (B1)salım senaryosu çıktıları temel alınarak, bu senaryolardaki kabuller altında Akdeniz Havzası’nın gelecek sıcaklık ve yağış değişimlerinin doğası ve büyüklüğü incelendi.
+Yıllar arası sıcaklık ve yağış değişkenliğindeki gelecek değişiklikleri nesnel olarak gösterebilmek amacıyla, çalışmada kullanılan iki küresel iklim modelinin A2 ve B1 senaryolarının çıktılarına göre, 1971-2000 normaline göre 2071-2100 dönemi için öngörülen mevsimsel değişim katsayısı (CV, %) oranlarındaki değişiklikler de incelendi.
+Ancak bu makalede, yalnız A2 senaryosunun çıktıları verildi.
+Türkiye’de Gözlenen ve Öngörülen Đklim Değişikliği, Kuraklık ve Çölleşme
+Şekil 13.
+1971-2000 normaline göre 2071-2100 dönemi (a) kış, (b) ilkbahar, (c) yaz ve (d) sonbahar mevsimleri için öngörülen ortalama sıcaklık (°C) değişiklikleri (küresel iklim modeli SRES A2 salım senaryosu çıktıları) (Altınsoy ve ark.
+(2011)’na göre yeniden düzenlendi).
+Sıcaklık haritalarında kullanılan renk ölçeği, açık maviden kiremit kırmızısına doğru 1971-2000 dönemine göre daha soğuktan daha yükseğe doğru değişen sıcaklık farklarını gösterir.
+Şekil 14.
+1971-2000 normaline göre 2071-2100 dönemi (a) kış, (b) ilkbahar, (c) yaz ve (d) sonbahar mevsimleri için öngörülen günlük toplam yağış (mm/gün) değişiklikleri (küresel iklim modeli SRES A2 salım senaryosu çıktıları) (Altınsoy ve ark.
+(2011)’na göre yeniden düzenlendi).
+Yağış haritalarında kullanılan renk ölçeği, koyu sarıya doğru 1971-2000 dönemine göre daha kurak, koyu maviye doğruysa daha yağışlı (nemli) koşulları gösterir.
+5.1.
+Sıcaklık ve Yağış Klimatolojilerindeki Değişiklikler
+Fransa Ulusal Meteoroloji Merkezinin küresel iklim modeli CNRM-CM3.1’in SRES A2 salım senaryosu çıktılarına göre, 2071-2100 gelecek döneminde 1971-2000 geçmiş dönemine göre kış mevsiminde ortalama hava sıcaklıklarındaki artışlar 2.5-5 °C aralığında değişecektir (Şekil 13a).
+Türkiye’deki sıcaklık artışı 2.5 °C kadar olacaktır.
+Bölgenin geneline baktığımızda, güney yine kuzey
+Murat Türkeş
+bölgelerden yaklaşık 1 °C kadar daha fazla ısınacaktır.
+Đlkbahar ve sonbahar mevsimleri için görece daha yüksek olmakla birlikte, benzer bir artış deseni görülür (Şekil 13b ve 13d).
+Yaz mevsiminde ise, öteki küresel iklim modelinin aynı senaryo çıktılarından farklı olarak, kuzey bölgelerde (güney Avrupa’da) ısınmanın daha kuvvetli olacağı öngörülür (Şekil 13c).
+Bu bölgedeki sıcaklık artışları, 7 °C’ye kadar ulaşır.
+Fransa Ulusal Meteoroloji Merkezi küresel modelinin SRES A2 salım senaryo çıktılarına göre, kışın tüm Akdeniz ve Karadeniz havzalarında ve Türkiye’de daha belirgin olmak üzere, toplam yağış tutarlarında 0.5-2 mm/gün düzeylerinde azalışların olması beklenir (Şekil 14a).
+Đlkbahar, yaz ve sonbahar mevsimlerinde, genel olarak yağış tutarlarında bir azalış olması beklenmekle birlikte, özellikle Türkiye ve kuzey Akdeniz bölgelerinde (güney Avrupa)’da 1.75 mm/gün’e ulaşan düşüşler öngörülür (Şekil 14b, 14c, 14d).
+Toplam yağış tutarındaki düşüş bütün mevsimlerde kendini gösterir; yaz mevsiminde ise şiddetlenerek özellikle Fransa, Đsviçre, Almanya ve Alp Dağları bölgelerinde 2 mm/gün’e kadar ulaşır (Şekil 14c).
+Şekil 15.
+1971-2000 normaline göre 2071-2100 dönemi (a) kış, (b) ilkbahar, (c) yaz ve (d) sonbahar mevsimleri için öngörülen hava sıcaklığı değişim katsayısı (CV, %) oranlarındaki değişiklikler (küresel iklim modeli SRES A2 salım senaryosu çıktıları) (Altınsoy ve ark.
+(2011)’na göre yeniden düzenlendi).
+Haritada kullanılan renk ölçeği, açık maviye doğru 1971-2000 dönemine göre sıcaklık değişkenliğinin daha düşük, koyu kahverengine doğruysa daha yüksek olan koşulları gösterir.
+Türkiye’de Gözlenen ve Öngörülen Đklim Değişikliği, Kuraklık ve Çölleşme
+Şekil 16.
+1971-2000 normaline göre 2071-2100 dönemi kış mevsimi yağış değişim katsayıları (CV, %) için öngörülen değişikliklerin coğrafi dağılış desenleri (küresel iklim modeli SRES A2 salım senaryosu çıktıları) (Altınsoy ve ark.
+(2011)’na göre yeniden düzenlendi).
+Haritada kullanılan renk ölçeği, açık maviye doğru 1971-2000 dönemine göre yağış değişkenliğinin daha düşük, koyu kahverengine doğruysa daha yüksek olduğu koşulları gösterir.
+5.2.
+Sıcaklık ve Yağış Değişkenliklerindeki Değişiklikler
+Beklendiği gibi Fransa Ulusal Meteoroloji Merkezi küresel modelinin SRES A2 (Şekil 15) salım senaryosu çıktılarına göre, gelecekte sıcaklık artışının en fazla beklendiği bölgeler, aynı zamanda gelecekte değişkenliğin de en fazla artması beklenen bölgelere karşılık gelir.
+Bu sonuç, gelecekte hava sıcaklıklarının artmakla kalmayacağını göstermesinin yan sıra, özellikle aşırı yüksek sıcaklıkların (ekstremler) ve sıcak hava dalgalarının sıklıklarının ve etki alanlarının artabileceği gibi önemli klimatolojik ve iklim değişikliği sinyali bilgilerini taşır.
+CNRM-CM3.1 küresel iklim modelinin SRES A2 salım senaryosu kış mevsimi çıktılarını incelediğimizde, yağış değişkenliğinin gelecek 2071-2100 döneminde en fazla Kuzey Afrika ve Orta Doğu bölgesinde değişeceğini görüyoruz (Şekil 16).
+Bu bölgeler, bugünkü iklim koşulları altında da yıllar arası yağış değişkenliğinin çok yüksek olduğu, kuraklık ve çölleşmeye eğilimli kurak ve yarıkurak iklim bölgelerine karşılık gelir (Türkeş ve Tatlı, 2010, 2011ab; Türkeş, 2010, 2012ab).
+Bu bölgelerde hem alansal dağılışlar hem de yıllık ve mevsimlik yağışlar açısından ciddi bir yıllık ve mevsimlik su açığı ve rasgelelik (yağış rejimi düzensiz) egemendir.
+Diğer bölgelerde ise görece daha az olmakla birlikte, değişkenlikte artış görülür.
+Bu sonuçlardan, bu bölgelerde şiddetli kuraklık olaylarının sıklığında gelecekte bir artış olacağı çıkarılabilir.
+6.
+Sonuç ve Tartışma
+Đklim Değişikliği günümüzde üzerinde en çok durulan, en çok bilimsel araştırma yapılan ve hükümetler arası düzeyde en çok tartışılan küresel değişiklik konularının başında gelmektedir.
+Öngörülen iklim değişiklikleri, su kaynakları, tarım, doğal ekosistemler ve insan sağlığı üzerinde hem olumlu hem de olumsuz etkilere sahiptir.
+Đklimdeki değişiklikler büyüdükçe, olumsuz etkilerin egemenliği de artar.
+Sosyoekonomik sektörler (örn.
+tarım, ormancılık, balıkçılık, su kaynakları ve insan yerleşmeleri, vb.
+), kara ve su ekosistemleri ile insanoğlunun gelişimi ve refahı için çok yaşamsal olan insan sağlığı, hava ve iklim ekstremleri ve afetleri ile iklimsel değişkenlikteki değişiklikler kadar, iklim değişikliklerinin büyüklük ve hızlarına karşı da oldukça duyarlıdır.
+Đklim etmenleri ve bitki örtüsü dikkate alındığında, Türkiye’deki çölleşmeye eğilimli kurak araziler, karasal iç ve doğu bölgelerinin önemli bir bölümünü ve Güneydoğu Anadolu Bölgesini içerir.
+Murat Türkeş
+Akdeniz ve Ege bölgelerinin geniş bir bölümü ise, yüksek ve parçalı yeryüzü şekilleri, tarım arazilerinin yaklaşık son 40 yıldaki tarım dışı ve sürdürülebilir olmayan kullanımı, kentsel ve turizm getirisi yüksek olan tarım ve orman arazilerinin tarım ve orman rejimi dışına çıkarılmasına yönelik girişimler ve yasal düzenlemeler, sanayi, turizm ve orman yangınları gibi iyi bilinen öteki doğal ve insan kaynaklı etmenler dikkate alındığında, gelecekte çölleşme süreçlerinden daha fazla etkilenebilecek yarınemli alanlar olarak kabul edilmelidir.
+Uzun süreli ve şiddetli yaz kuraklıklarının ve yüksek hava sıcaklıklarının yanı sıra, yağış ve kuraklık indisi dizilerinde gözlenen kurak koşullara yönelik değişme eğilimlerinin, Akdeniz ve Ege bölgelerinde iklim etmenlerinin çölleştirme kuvvetini arttırmakta oluşu, bu düşünceyi destekler niteliktedir.
+Kuraklık yönetimi ve kuraklığın etkilerini en aza indirme ile çölleşmenin denetimi ve çölleşmeyle savaşım etkinlik ve eylem planlarının uygulanmasında, geleneksel ve kültürel deneyim, alışkanlık ve uygulamaları göz ardı etmeden, ülkelerin ve ya da bölgelerin coğrafi koşulları ve sosyoekonomik gelişmişlik düzeylerine uygun nesnel, sınanabilir ve çok değişkenli çağdaş yaklaşım ve yöntemler da kullanılmalıdır.
+Đklimsel değişkenliğin sonuçlarından birisi olan kuraklık, olağan dışı bir hava ve iklim olayı ya da bir doğal afet olarak kabul edilir.
+Kuraklığın tarım üzerine etkisi çok karmaşık etmenlerin bileşiminden oluştuğu için, bunları birbirinden ayırmak her zaman mümkün olmayabilir.
+Benzer biçimde, başta arazi degradasyonu ve iklim değişikliği gelmek üzere çok karmaşık etmen ve süreçlerin kurak, yarı kurak ve kuru-yarınemli arazilerde bir araya gelmesiyle oluşan çölleşme için de, çölleşmeye neden olan doğal (fiziki coğrafi, hidrolojik, biyolojik, ekolojik ve toprağa ilişkin) ve insan kaynaklı (yanlış arazi kullanımı, arazi kullanımı değişikliği, ormansızlaşma, aşırı tarımsal üretim, otlatma, su kullanımı ve sulama, tarımsal mücadele ilaçları ve gübre kullanımı, vb.)
+etmenlerin çölleşme üzerindeki işlevi, önemi ve önceliğine göre ayrıştırılması ve belirlenmesi gereklidir.
+Bunun için, belirli bir olasılıksal hata ya da risk düzeyi altında, Analitik Hiyerarşik Süreç (AHP), Topsis ve Electre gibi çeşitli “karar verme” yöntemleri uygulanabilir (Saaty, 1980; Hwang ve Yoon, 1995; vb.).
+Ayrıca, Türkiye’nin fiziki coğrafya özellikleri ile iklim değişikliği ve değişkenliği, kuraklık ve çölleşme özellikleri ve onlardan etkilenme eğilimlerine ilişkin bilimsel çalışmaları ve konuyla ilgili model kestirimlerini dikkate alarak, iklim değişikliğine uyum ve karşı önlemler kapsamında Türkiye için aşağıdaki değerlendirmeler ve öneriler yapılabilir (Altan ve ark., 2011; Türkeş, 2011a, 2012ab; Türkeş ve Altan, 2012ab; Türkeş ve Tatlı, 2008, 2009, 2010, 2011a; Türkeş ve ark., 2011):
+(1) Türkiye, sahip olduğu iklim ve özellikle de yağış klimatolojisi özellikleri yüzünden, su kaynakları açısından zengin bir ülke değildir.
+Bu yüzden, 1970’li yılların başından beri orta ve doğu Akdeniz havzasında ve Türkiye’de sürmekte olan kuraklaşma eğiliminin kuvvetlenebileceği olasılığı da dikkate alınarak, gelecekte karşı karşıya kalınabilecek olan ciddi su sıkıntısının önüne geçmek için, yasalarla desteklenen gerçekçi su politikalarının oluşturulması ve ivedilikle hayata geçirilmesi gerekir.
+(2) Tarımda geleneksel sulama yöntemlerinin yerine, sızma ve buharlaşma yoluyla su kaybının en az olduğu basınçlı-kapalı borulu sulama yöntemlerinin (yağmurlama ve damla sulama uygulamalarını içerir) kullanılması özendirilmeli ve bu yöntemleri kullanmak isteyen üreticilere uygun finansman destekleri sağlanmalıdır.
+(3) Đnsan kaynaklı iklim değişikliğinin (kuvvetlenen sera etkisine bağlı küresel iklim değişikliğinin) en önemli sonuçlarından biri, Türkiye’de orman yangınlarının şiddetinde, süresinde ve etki alanında ortaya çıkabilecek olan (belirtileri daha şimdiden subtropikal iklim kuşağının birçok bölgesinde, Akdeniz havzasına batı ve kuzeyden komşu ülkelerde ve Türkiye’de yaşanmaktadır) rtışlardır.
+1970’lerin başından beri yağışlarda gözlenen azalma eğilimleri de dikkate alındığında, Türkiye’de her zaman var olan orman yangını olasılığı ve tehlikesi, birçok bölgede çok sıcak ve kurak geçen 2007 ve 2008 yaz mevsimlerinde yaşandığı gibi, daha büyük bir sorun olarak karşımıza çıkabilecektir.
+(4) Egemen iklim koşullarının ve gözlenen iklimsel değişimlerin yanı sıra, kuvvetlenen sera etkisine ve ormanların yok edilmesi gibi öteki insan etkinliklerine bağlanan küresel iklim
+Türkiye’de Gözlenen ve Öngörülen Đklim Değişikliği, Kuraklık ve Çölleşme
+değişikliğinin, Türkiye’de su kaynakları, kuraklık ve çölleşme üzerindeki olası etkileri, sürekli izlenmeli ve değerlendirilmelidir.
+(5) Đklim değişikliğinin su kaynakları ve çölleşme üzerindeki olası etkilerine ilişkin seçenekler, var olan su ve arazi kaynaklarının daha etkili, akılcı ve ekonomik yönetimini, ormanların korunmasını, toprakta, biyolojik üretkenlik ve çeşitlilikte ve bitki örtüsündeki değişiklikler gibi çölleşmenin başlıca göstergelerinin izlenmesini ve kuraklık öngörü sistemlerini içermelidir.
+(6) Yeraltı su kaynaklarının aşırı kullanım ve yanlış yönetiminden kaynaklanan sorunlar, bilimsel olarak ortaya konmalı, izlenmeli, uygulanabilir ve ciddi yasal düzenlemelerle denetim altına alınarak çözümlenmelidir.
+Bu çerçevede, yeraltı su hazneleri korunarak ‘kötü’ günler için saklanmalı; gelişmiş ülkelerde olduğu gibi, zorunlu kalmadıkça, sulama, enerji ve sanayide yeraltı suları yerine, yağışlardan beslenen yüzey suları (rejimleri düzenli büyük akarsular, yapay gölet ve barajlar, vb.)
+kullanılmalıdır.
+Ayrıca, özellikle kentsel içme suyu temininde, yalnız içme suyu sağlama amacıyla kurulan su yapılarından (gölet, baraj, vb.)
+ve sürdürülebilir ve çevreye duyarlı olmak koşuluyla, doğal kaynak sularından yararlanılmalıdır.
+(7) Gelecekteki daha sıcak ve kurak koşullar dikkate alınarak, daha kurakçıl ve sıcak koşullara uygun tarımsal bitki çeşitleri belirlenmeli; konuyla ilgili özellikle adaptasyon (uyum) konusunda araştırma projeleri geliştirilmeli ve bunlar desteklenmelidir.
+(8) Sürdürülebilir tarım ve ormancılık ilkeleri uygulanmalı; tarım ve orman arazilerinin amaç dışı kullanımı önlenmeli; ormanların birer karbon yutağı olduğu da dikkate alınarak, ormanlaştırma, yeniden ormanlaştırma, erozyon denetimi ve çayır/mera iyileştirmesi için bütçeden yeterli kaynak aktarılmalıdır.
+(9) Türkiye, küresel iklim değişikliği ile ilişkili olsun ya da olmasın, önemli kuraklıklar oluştuğunda çoğu olayda olduğu gibi susuz ve hazırlıksız yakalanmamak için, ulusal, bölgesel ve havza ya da yöresel ölçeklerde ciddi bir biçimde hazırlanacak ve uygulanması yasal olarak desteklenecek olan, bir 'Kuraklık Yönetim Planı'nı (KYP) mutlaka yaşama geçirmeli ve uygulamalıdır.
+KYP, kuraklık (afet) analizi ve izlemesi, kuraklığın (meteorolojik, tarımsal, hidrolojik, sosyoekonomik) etkilerinin değerlendirilmesi, kuraklığın etkilerine açık coğrafi alanların ve sosyoekonomik sektörlerin belirlenmesi gibi konularda çalışan ve bilgi üreten kurum ve üniversiteler ile kuraklığı açıklama ve gerektiğinde kuraklık alarmı da verilebilmesini sağlayacak ilgili ve yetkili kurumları içermelidir.
+(10) Tüm etkilenen ülkeler için geçerli olmak üzere, Türkiye’de Çölleşme ile savaşımı ve kuraklık olaylarının etkilerini azaltmayı hedefleyen etkin, işlevsel ve çok disiplinli/çok sektörlü bir 'Ulusal Eylem Programı’nın aynı zamanda çağdaş bir Kuraklık Yönetim Planı’nı da içermesi gerekir.
+Böyle bir Kuraklık Yönetim Planı’nın en önemli öğelerinden olan kuraklık (afet) analizi ve izlemede çok yaygın olarak kullanılan kuraklık indislerinin çoğu, sektör ve sistem temelli olduğu için, kuraklığı çözümlemek, nitelendirmek ve izlemek için, çok değişkenli ve çok amaçlı indisler kullanılmalıdır.
+Ayrıca, kuraklık indislerinin taşıdığı ve açıkladığı bilgiler, kuraklık olaylarının çeşitli sistemler ve sektörler üzerinde gözlenen etkileri, kuraklık risk düzeyleri, çeşitli coğrafi alan birimleri ve ürün çeşitlerinin kuraklıktan etkilenebilirlik düzeylerine ilişkin çeşitli bilgilerle sınanmalıdır.
+Murat Türkeş
+Kaynaklar
+Adam, J. C. and Lettenmaier, D. P. 2003.
+Altan, G., Türkeş, M. ve Tatlı, H. 2011.
+Çanakkale ve Muğla 2009 yılı orman yangınlarının Keetch-Byram kuraklık indisi ile klimatolojik ve meteorolojik analizi.
+Istanbul Technical University, 27-29 April: Đstanbul.
+Altınsoy, H., Öztürk, T., Türkeş, M. ve Kurnaz, M. L. 2011.
+Küresel iklim modeli kullanılarak Akdeniz Havzası’nın gelecek hava sıcaklığı ve yağış değişikliklerinin kestirilmesi.
+Altınsoy, H., Öztürk, T., Türkeş, M. and Kurnaz M. L. 2012.
+In: C.G.
+Helmis and P. Nastos (eds.
+365-370.
+Springer Atmospheric Sciences, Springer-Verlag: Berlin, Heidelberg.
+Briassoulis, H. 2005.
+Brohan, P., Kennedy, J.J., Harris, I., Tett, S.F.B.
+and Jones, P.D.
+2006.
+Demir, Đ., Kılıç, G. and Coşkun, M. 2008.
+In: Proceedings of the International Fourth Symposium on Atmospheric Sciences, 25–28 March 2008: Đstanbul.
+EMG.
+2011.
+Erinç, S. 1969.
+Klimatoloji ve Metodları.
+Đstanbul Üniversitesi Coğrafya Enstitüsü, Yayın No.
+35, Đstanbul.
+Erlat, E. ve Türkeş, M. 2008.
+Türkiye’de don olaylı gün sayılarındaki değişiklikler ve Arktik Salınım ile bağlantısı.
+Đçinde: IV.
+Atmosfer Bilimleri Sempozyumu Bildiri Kitabı, 426-436, 25-28 Mart 2008: Đstanbul.
+Erlat, E. 2010.
+Đklim Sistemi ve Đklim Değişmeleri.
+Genişletilmiş 2.
+Baskı, Ege Üniversitesi Edebiyat Fakültesi Yayınları No: 155: Đzmir.
+Erlat, E. and Türkeş, M. 2012.
+Erlat, E. and Türkeş, M. 2013.
+Giorgi,F.
+Hwang, C. L. and Yoon K. P. 1995.
+Sage Publications: London.
+2000.
+Special Report on Emissions Scenarios – A Special Report of Working Group III of the Intergovernmental Panel
+on Climate Change (IPCC), (Nakićenović, et al., lead authors), Cambridge University Press: New York.
+2001.
+(eds.)].
+2007.
+(eds.)].
+Jansen, E. et al.
+2007.
+Palaeoclimate.
+(eds.)].
+Jones, P. D., Lister, D. H., Osborn, T. J., Harpham, C., Salmon, M. and Morice, C. P. 2012.
+Türkiye’de Gözlenen ve Öngörülen Đklim Değişikliği, Kuraklık ve Çölleşme
+Kartum, Ş., Koç, T. ve Türkeş, M. 2011.
+Türkiye’de kar yağışlarının başlangıç ve bitiş tarihlerinde gözlenen değişiklikler ve eğilimler.
+Đçinde: V. Atmosfer Bilimleri Sempozyumu Bildiri Kitabı, 195-200, 27-29 April 2011: Đstanbul.
+Keeling, C. D. and Whorf, T.P.
+(2009).
+http://cdiac.ornl.gov/ftp/trends/co2/maunaloa.co2, erişim: 1 Temmuz 2009.
+Kuglitsch, F. G., Toreti, A., Xoplaki, E., Della-Marta, P.M., Zerefos, C. S., Türkeş, M. and Luterbacher, J.
+2010.
+KrichakS.O.,AlpertP.,BassatK.andKuninP.
+Lean, G. 1995.
+Lean, G. 2008.
+Le Treut, H., R. Somerville, U. Cubasch, Y. Ding, C. Mauritzen, A. Mokssit, T. Peterson and M. Prather.
+2007.
+Solomon, et al.).
+MEDACTION.
+2004a.
+No.
+ENVK2-CT-2000-00085.
+MEDACTION.
+2004b.
+No.
+ENVK2-CT-2000-00085.
+Meehl, G.A.
+et al.
+2007.
+In: S. Solomon, et al.
+(eds.
+Noble, L.R.
+and Gitay, H. 1996.
+Ozturk, T., Altınsoy, H., Türkeş, M. and Kurnaz M. L. 2012.
+Ozturk, T., Türkeş, M. and Kurnaz, M. L. 2013.
+Prince, S.D.
+2002.
+Spatial and temporal scales for detection of desertiﬁcation.
+), Dahlem University Press: Berlin.
+2002.
+Vol.
+88, Dahlem University Press: Berlin.
+Saaty, T. L. 1980.
+The Analytic Hierarchy Process.
+Safriel, U. and Adeel, Z.
+(Coor.
+LAs).
+2005.
+Sen, B., Topcu, S., Türkeş, M., Sen, B. and Warner, J. F. 2012.
+Solomon, S. et al.
+2007.
+S. Solomon, et al.
+Tatlı, H. ve Türkeş, M. 2008.
+Türkiye’deki 2006/2007 kuraklığı ile geniş ölçekli atmosferik değişkenler arasındaki bağlantının lojistik regresyonla belirlenmesi.
+Đçinde: IV.
+Atmosfer Bilimleri Sempozyumu Bildiri Kitabı: 516-527.
+Đ.T.Ü.
+Uçak ve Uzay Bilimleri Fakültesi, 25-28 Mart 2008: Đstanbul.
+Tatlı, H. and Türkeş, M. 2011a.
+Istanbul Technical University, 27-29 April 2011,
+Murat Türkeş
+Đstanbul.
+Tatlı, H. and Türkeş, M. 2011b.
+Trenberth, K. E. et al.
+2007.
+S. Solomon, et al.
+Trigo, R. et al.
+2006.
+In: Lionello, P., Malanotte-Rizzoli, P., and Boscolo, R.
+(Eds.
+Türkeş, M. 1996.
+Türkeş, M. 1998a.
+Türkeş, M. 1998b.
+Đklimsel değişebilirlik açısından Türkiye’de çölleşmeye eğilimli alanlar.
+Đçinde: DMĐ/ĐTÜ II.
+Hidrometeoroloji Sempozyumu Bildiri Kitabı: 45-57, Meteoroloji Genel Müdürlüğü: Ankara.
+Türkeş, M. 1999.
+Türkeş, M. 2001.
+Hava, Đklim, Şiddetli Hava Olayları ve Küresel Isınma.
+Đçinde: T.C.
+Başbakanlık Devlet Meteoroloji Đşleri Genel Müdürlüğü 2000 Yılı Seminerleri, Teknik Sunumlar, Seminerler Dizisi 1: 187-205, Meteoroloji Genel Müdürlüğü: Ankara.
+Türkeş, M. 2003a.
+Küresel Đklim Değişikliği ve Gelecekteki Đklimimiz.
+Đçinde: M. Türkeş, (ed.
+), 23 Mart Dünya Meteoroloji Günü Kutlaması Gelecekteki Đklimimiz Paneli, Bildiriler Kitabı: 12-37, Meteoroloji Genel Müdürlüğü: Ankara.
+Türkeş, M. 2003b.
+In: H-J.
+Bolle, (ed.
+Springer Verlag: Heidelberg.
+Türkeş, M. 2008a.
+Küresel iklim değişikliği nedir?
+Temel kavramlar, nedenleri, gözlenen ve öngörülen değişiklikler.
+Đklim Değişikliği ve Çevre, 1: 45-64.
+Türkeş, M. 2008b.
+Đklim değişikliği ve küresel ısınma olgusu: Bilimsel değerlendirme.
+Đçinde: E. Karakaya (ed.
+), Küresel Isınma ve Kyoto Protokolü: Đklim Değişikliğinin Bilimsel, Ekonomik ve Politik Analizi, 21-57, Bağlam Yayınları No.
+308: Đstanbul.
+Türkeş, M. 2008c.
+Gözlenen iklim değişiklikleri ve kuraklık: Nedenleri ve geleceği.
+Toplum ve Hekim, 23: 97-107.
+Türkeş, M. 2010.
+Klimatoloji ve Meteoroloji.
+Birinci Baskı, Kriter Yayınevi - Yayın No.
+63, Fiziki Coğrafya Serisi No.
+1, ISBN: 978-605-4613-26-7, 650 + XXII sayfa, Đstanbul.
+Türkeş, M. 2011a.
+Dünyada ve Türkiye’de iklim değişikliği, kuraklık ve çölleşme.
+Đçinde: II.
+Ulusal Toprak ve Su Kaynakları Kongresi Bildiri Kitabı (EK): 5-19, 22-25 Kasım 2011: Kızılcahamam - Ankara.
+Türkeş, M. 2011b.Akhisar ve Manisa yörelerinin yağış ve kuraklık indisi dizilerindeki değişimlerin hidroklimatolojik ve zaman dizisi çözümlemesi ve sonuçların çölleşme açısından coğrafi bireşimi.
+Coğrafi Bilimler Dergisi, 9 (1): 79-99.
+Türkeş, M. 2012a.
+Küresel Đklim Değişikliği ve Çölleşme.
+Đçinde: Günümüz Dünya Sorunları – Disiplinlerarası Bir Yaklaşım (ed.
+N. Özgen): 1-42.
+Eğiten Kitap: Ankara.
+Türkeş, M. 2012b.
+Kuraklık, çölleşme ve Birleşmiş Milletler Çölleşme ile Savaşım Sözleşmesi’nin ayrıntılı bir çözümlemesi.
+Marmara Avrupa Araştırmaları Dergisi, Çevre Özel Sayısı, 20: 7-56.
+Türkeş, M. 2012c.
+Biyocoğrafyanın Đlkeleri, Ekolojik Bir Yaklaşım - Ders Notları.
+Kriter Yayınevi, Kriter Yayın No: 100, Fiziki Coğrafya Serisi No.
+2, ISBN: 978-605-5863-39-6, 240 + XII sayfa, Đstanbul.
+Türkeş, M. 2013.
+Đklim Değişiklikleri: Kambriyen’den Pleyistosene, Geç Holosen’den 21.
+Yüzyıla.
+Ege Coğrafya Dergisi (Baskıda).
+Türkeş, M. ve Altan, G. 2012a.
+Muğla Orman Bölge Müdürlüğü’ne bağlı orman arazilerinde 2008 yılında çıkan yangınların kuraklık indisleri ile çözümlenmesi.
+Uluslararası Đnsan Bilimleri Dergisi, 9 (1): 912-931.
+Türkeş, M. ve Altan, G. 2012b.
+Çanakkale’nin 2008 yılı büyük orman yangınlarının meteorolojik ve hidroklimatolojik analizi.
+Coğrafi Bilimler Dergisi, 10 (2): 195-218.
+Türkiye’de Gözlenen ve Öngörülen Đklim Değişikliği, Kuraklık ve Çölleşme
+Türkeş, M. and Erlat, E. 2003.
+Türkeş, M. and Erlat, E. 2005.
+Türkeş, M. and Sümer, U.M.
+2004.
+Türkeş, M. ve Tatlı, H. 2008.
+Türkiye’de kuraklık olasılıklarının standartlaştırılmış yağış indisi (SPI) kullanılarak saptanması ve iklimsel değişkenlik açısından değerlendirilmesi.
+Đçinde: Ü. Akkemik (ed), Küresel Đklim Değişimi ve Su Sorunlarının Çözümünde Ormanlar Sempozyumu Bildiriler Kitabı: 55-62: Đstanbul.
+Türkeş, M. and Tatlı, H. 2009.
+Türkeş, M. ve Tatlı, H. 2010.
+Kuraklık ve yağış etkinliği indislerinin çölleşmenin belirlenmesi, nitelenmesi ve izlenmesindeki rolü.
+Đçinde: Çölleşme Đle Mücadele Sempozyumu Tebliğler Kitabı: 245-263.
+T.C.
+Çevre ve Orman Bakanlığı: Çorum.
+Türkeş, M. ve Tatlı, H. 2011a.
+Türkiye yağış bölgelerinin spektral kümeleme tekniğiyle belirlenmesi.
+Türkeş, M. and Tatlı, H. 2011b.
+Türkeş, M., Sümer, U. M. and Kılıç, G. 1996.
+Türkeş, M., Sümer, U. M. and Demir, Đ.
+2002.
+Türkeş, M., Koç, T. and Sarış, F. 2009a.
+Türkeş, M., Akgündüz, A.S. ve Demirörs, Z.
+2009b.
+Palmer Kuraklık Đndisi’ne göre Đç Anadolu Bölgesi’nin Konya Bölümü’ndeki kurak dönemler ve kuraklık şiddeti.
+Coğrafi Bilimler Dergisi, 7 (2): 129-144.
+Türkeş, M., Kurnaz, M. L., Öztürk, T. and Altınsoy, H. 2011.
+CPRS Turkey, 27-28 October 2011: Đstanbul.
+UNCCD.
+1995.
+Wilson, G.A.
+and M. Juntti (Eds).
+2005.
+Yozgatlıgil, C., Asar, Ö., Kartal, E., Batmaz, Đ., Türkeş, M., Tatlı, H. 2010.
